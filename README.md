@@ -105,13 +105,17 @@ Or `json.load` the matching `*_PageDigest.json`.
 
 ## Viewer (Local Top 5 + Coastal Katte)
 
-A React + Tailwind UI under [`viewer/`](viewer/) reads the daily JSON live from `work/`:
+A React + Tailwind UI under [`viewer/`](viewer/) reads the daily JSON live from `work/` in dev:
 
 ```bash
 cd viewer && npm install && npm run dev
 ```
 
-Open the printed localhost URL. Use the date switcher for each day; new editions under `work/<DD-Mon-YYYY>/` show up after **Refresh dates** (or a page reload). See [`viewer/README.md`](viewer/README.md).
+**GitHub Pages:** pushing Top 5 JSON (or viewer changes) to `main` runs [`.github/workflows/deploy-viewer.yml`](.github/workflows/deploy-viewer.yml), which copies digests into a static build and deploys to:
+
+https://Rasheed-Nexhala.github.io/newspaper-page-digest/
+
+Daily flow for a live site: finish `/daily-local-top` and `/coastal-katte-top5`, **commit + push** the new `work/<date>/Daily_top/` and `Coastal_Katte/*.json` — Actions redeploys automatically. See [`viewer/README.md`](viewer/README.md).
 
 ## Requirements
 
