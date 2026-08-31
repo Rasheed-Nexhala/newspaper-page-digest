@@ -1,0 +1,132 @@
+@import 'tailwindcss';
+
+@theme {
+  --font-display: 'Fraunces', ui-serif, Georgia, serif;
+  --font-sans: 'Plus Jakarta Sans', ui-sans-serif, system-ui, sans-serif;
+}
+
+:root {
+  --ink: #0c2a32;
+  --ink-muted: #3d5a63;
+  --ink-soft: #6b858c;
+  --sea: #0f766e;
+  --sea-deep: #115e59;
+  --lagoon: #2dd4bf;
+  --foam: #d5f5f0;
+  --paper: #eef4f3;
+  --paper-deep: #dce8e6;
+  --line: color-mix(in oklab, var(--ink) 12%, transparent);
+  --sunset: #e85d04;
+}
+
+@layer base {
+  html {
+    font-family: var(--font-sans);
+    color: var(--ink);
+    background: var(--paper);
+  }
+
+  body {
+    margin: 0;
+    min-height: 100dvh;
+  }
+
+  #root {
+    min-height: 100dvh;
+  }
+
+  .font-display {
+    font-family: var(--font-display);
+    font-optical-sizing: auto;
+  }
+}
+
+.app-shell {
+  position: relative;
+  overflow-x: clip;
+}
+
+.atmosphere {
+  pointer-events: none;
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  background:
+    radial-gradient(ellipse 90% 55% at 10% -10%, color-mix(in oklab, var(--lagoon) 28%, transparent), transparent 55%),
+    radial-gradient(ellipse 70% 45% at 100% 0%, color-mix(in oklab, var(--sunset) 12%, transparent), transparent 50%),
+    linear-gradient(165deg, #f5faf9 0%, var(--paper) 42%, var(--paper-deep) 100%);
+}
+
+.atmosphere::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  opacity: 0.35;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.45'/%3E%3C/svg%3E");
+  mix-blend-mode: multiply;
+}
+
+.hero-block {
+  animation: rise-in 0.55s ease-out both;
+}
+
+.view-panel {
+  animation: rise-in 0.4s ease-out both;
+}
+
+.story-row {
+  animation: story-in 0.45s ease-out both;
+}
+
+.rank-num {
+  transition: transform 0.25s ease, color 0.25s ease;
+}
+
+.story-row:hover .rank-num {
+  transform: translateY(-2px);
+  color: var(--lagoon);
+}
+
+.scope-pill {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.2rem 0.55rem;
+  background: color-mix(in oklab, var(--foam) 80%, white);
+  color: var(--sea-deep);
+  border-radius: 999px;
+  letter-spacing: 0.06em;
+}
+
+@keyframes rise-in {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes story-in {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hero-block,
+  .view-panel,
+  .story-row {
+    animation: none;
+  }
+
+  .rank-num {
+    transition: none;
+  }
+}

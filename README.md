@@ -103,6 +103,17 @@ python3 ~/.cursor/skills/newspaper-page-digest/scripts/parse_digest.py path/to/d
 
 Or `json.load` the matching `*_PageDigest.json`.
 
+## Viewer (Local Top 5 + Coastal Katte)
+
+A React + Tailwind UI under [`viewer/`](viewer/) reads the daily JSON live from `work/`:
+
+```bash
+cd viewer && npm install && npm run dev
+```
+
+Open the printed localhost URL. Use the date switcher for each day; new editions under `work/<DD-Mon-YYYY>/` show up after **Refresh dates** (or a page reload). See [`viewer/README.md`](viewer/README.md).
+
 ## Requirements
 
 - Python 3 with `pypdf` (installed on first run via `pip install pypdf --break-system-packages`).
+- For the viewer: Node.js + npm (`viewer/` dependencies).
