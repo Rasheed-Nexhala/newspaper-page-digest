@@ -18,12 +18,12 @@
   --line: color-mix(in oklab, var(--ink) 12%, transparent);
   --sunset: #e85d04;
 
-  --glass-bg: color-mix(in oklab, white 58%, transparent);
-  --glass-bg-strong: color-mix(in oklab, white 72%, color-mix(in oklab, var(--foam) 40%, transparent));
-  --glass-border: color-mix(in oklab, white 70%, color-mix(in oklab, var(--lagoon) 18%, transparent));
-  --glass-blur: 18px;
-  --glass-shadow: 0 8px 32px color-mix(in oklab, var(--ink) 6%, transparent);
-  --glass-inset: inset 0 1px 0 color-mix(in oklab, white 75%, transparent);
+  --glass-bg: color-mix(in oklab, white 42%, transparent);
+  --glass-bg-strong: color-mix(in oklab, white 52%, color-mix(in oklab, var(--foam) 22%, transparent));
+  --glass-border: color-mix(in oklab, white 65%, color-mix(in oklab, var(--lagoon) 22%, transparent));
+  --glass-blur: 22px;
+  --glass-shadow: 0 8px 32px color-mix(in oklab, var(--ink) 7%, transparent);
+  --glass-inset: inset 0 1px 0 color-mix(in oklab, white 80%, transparent);
   --glass-radius: 1rem;
   --glass-radius-sm: 0.65rem;
 }
@@ -120,7 +120,7 @@
   display: flex;
   gap: 0.25rem;
   padding: 0.3rem;
-  background: color-mix(in oklab, white 48%, transparent);
+  background: color-mix(in oklab, white 36%, transparent);
   border: 1px solid var(--glass-border);
   border-radius: var(--glass-radius);
   box-shadow: var(--glass-shadow), var(--glass-inset);
