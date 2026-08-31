@@ -26,21 +26,21 @@ export function StoryItemRow({ item, index, showWhy = false }: StoryItemProps) {
 
   return (
     <article
-      className="story-row group border-b border-[var(--line)] py-7 last:border-b-0"
+      className="story-row group border-b border-[var(--line)] py-5 last:border-b-0 sm:py-7"
       style={{ animationDelay: `${index * 55}ms` }}
     >
-      <div className="grid grid-cols-[auto_1fr] gap-x-5 gap-y-2 sm:gap-x-7">
-        <div className="rank-num font-display text-4xl leading-none text-[var(--sea)] sm:text-5xl">
+      <div className="grid grid-cols-[auto_1fr] gap-x-4 gap-y-2 sm:gap-x-7">
+        <div className="rank-num font-display text-3xl leading-none text-[var(--sea)] sm:text-4xl md:text-5xl">
           {String(item.rank).padStart(2, '0')}
         </div>
         <div className="min-w-0">
-          <h3 className="font-display text-xl leading-snug text-[var(--ink)] sm:text-2xl">
+          <h3 className="font-display text-lg leading-snug break-words text-[var(--ink)] sm:text-xl md:text-2xl">
             {item.headline}
           </h3>
-          <p className="mt-3 max-w-prose text-[0.975rem] leading-relaxed text-[var(--ink-muted)]">
+          <p className="mt-2.5 max-w-prose text-[0.925rem] leading-relaxed text-[var(--ink-muted)] sm:mt-3 sm:text-[0.975rem]">
             {item.blurb}
           </p>
-          <div className="mt-4 flex flex-wrap items-center gap-x-3 gap-y-2 text-xs tracking-wide text-[var(--ink-soft)] uppercase">
+          <div className="mt-3.5 flex flex-wrap items-center gap-x-3 gap-y-2 text-xs tracking-wide text-[var(--ink-soft)] uppercase sm:mt-4">
             <span className="scope-pill">{scopeLabel(item.scope)}</span>
             {sourceBucket && (
               <span className="opacity-80">
@@ -48,12 +48,12 @@ export function StoryItemRow({ item, index, showWhy = false }: StoryItemProps) {
                 {localRank != null ? ` #${localRank}` : ''}
               </span>
             )}
-            <span className="opacity-70 normal-case tracking-normal">
+            <span className="opacity-70 normal-case tracking-normal break-words">
               {formatSources(item.sources)}
             </span>
           </div>
           {showWhy && why && (
-            <p className="why-line mt-4 max-w-prose border-l-2 border-[var(--lagoon)] pl-3 text-sm leading-relaxed text-[var(--sea-deep)]">
+            <p className="why-line why-glass mt-4 max-w-prose px-3 py-2.5 text-sm leading-relaxed text-[var(--sea-deep)]">
               <span className="font-medium text-[var(--sea)]">Why Coastal Katte — </span>
               {why}
             </p>

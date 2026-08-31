@@ -19,14 +19,14 @@ export function LocalTop5View({ data }: LocalTop5ViewProps) {
 
   return (
     <div className="view-panel" key={data.date_slug}>
-      <header className="mb-8">
+      <header className="mb-6 sm:mb-8">
         <p className="text-[0.7rem] font-medium tracking-[0.2em] text-[var(--sea)] uppercase">
           Local Top 5
         </p>
-        <h2 className="mt-2 font-display text-3xl text-[var(--ink)] sm:text-4xl">
+        <h2 className="mt-2 font-display text-2xl text-[var(--ink)] sm:text-3xl md:text-4xl">
           {data.date}
         </h2>
-        <p className="mt-3 text-sm text-[var(--ink-muted)]">
+        <p className="mt-3 text-sm leading-relaxed text-[var(--ink-muted)]">
           Papers scanned:{' '}
           {data.papers_scanned
             .map((p) =>
@@ -39,7 +39,7 @@ export function LocalTop5View({ data }: LocalTop5ViewProps) {
       </header>
 
       <div
-        className="mb-6 flex flex-wrap gap-2 border-b border-[var(--line)] pb-1"
+        className="glass-nav bucket-scroll mb-5 sm:mb-6"
         role="tablist"
         aria-label="Local Top 5 buckets"
       >
@@ -52,9 +52,10 @@ export function LocalTop5View({ data }: LocalTop5ViewProps) {
               type="button"
               role="tab"
               aria-selected={active}
-              className={`bucket-tab relative px-3 py-2.5 text-sm transition-colors ${
+              data-active={active ? 'true' : 'false'}
+              className={`glass-tab px-3.5 py-2.5 text-sm transition-colors ${
                 active
-                  ? 'font-medium text-[var(--ink)]'
+                  ? 'text-[var(--ink)]'
                   : 'text-[var(--ink-soft)] hover:text-[var(--ink)]'
               }`}
               onClick={() => setBucket(key)}
@@ -62,7 +63,7 @@ export function LocalTop5View({ data }: LocalTop5ViewProps) {
               {short}
               <span className="ml-1.5 text-xs opacity-60">({count})</span>
               {active && (
-                <span className="absolute inset-x-2 -bottom-px h-0.5 bg-[var(--sea)]" />
+                <span className="absolute inset-x-2.5 bottom-1.5 h-0.5 rounded-full bg-[var(--sea)]" />
               )}
             </button>
           )
@@ -75,7 +76,7 @@ export function LocalTop5View({ data }: LocalTop5ViewProps) {
           {current?.selected_count ?? 0} selected
         </p>
         {items.length === 0 ? (
-          <p className="py-12 text-[var(--ink-muted)] italic">
+          <p className="py-10 text-[var(--ink-muted)] italic sm:py-12">
             No local stories in today&apos;s digests for this bucket.
           </p>
         ) : (

@@ -68,7 +68,7 @@ export function DatePicker({ dates, value, onChange, loading }: DatePickerProps)
   }
 
   return (
-    <div className="date-picker flex min-w-0 flex-col gap-2">
+    <div className="date-picker flex min-w-0 flex-1 flex-col gap-2">
       <span className="text-[0.65rem] font-medium tracking-[0.18em] text-[var(--ink-soft)] uppercase">
         Edition date
       </span>
@@ -76,7 +76,7 @@ export function DatePicker({ dates, value, onChange, loading }: DatePickerProps)
       <div className="flex min-w-0 items-stretch gap-2">
         <button
           type="button"
-          className="nav-day-btn inline-flex shrink-0 items-center justify-center border border-[var(--line)] px-2.5 text-[var(--sea)] transition-colors hover:border-[var(--sea)] hover:bg-[color-mix(in_oklab,var(--foam)_70%,white)] disabled:cursor-not-allowed disabled:opacity-35 disabled:hover:border-[var(--line)] disabled:hover:bg-transparent"
+          className="nav-day-btn glass-chip inline-flex shrink-0 items-center justify-center px-2.5 text-[var(--sea)] transition-colors hover:border-[var(--sea)] hover:bg-[color-mix(in_oklab,white_70%,var(--foam))] disabled:cursor-not-allowed disabled:opacity-35 disabled:hover:border-[var(--glass-border)] disabled:hover:bg-[color-mix(in_oklab,white_50%,transparent)]"
           aria-label="Older edition"
           title="Older"
           disabled={disabled || !canOlder}
@@ -89,7 +89,7 @@ export function DatePicker({ dates, value, onChange, loading }: DatePickerProps)
         <label className="min-w-0 flex-1">
           <span className="sr-only">Select edition date</span>
           <select
-            className="w-full cursor-pointer appearance-none rounded-none border-0 border-b-2 border-[var(--sea)] bg-transparent py-2 pr-8 font-display text-lg text-[var(--ink)] outline-none transition-[border-color] focus:border-[var(--lagoon)] disabled:opacity-50"
+            className="glass-field w-full min-w-0 cursor-pointer appearance-none py-2.5 pr-8 pl-3 font-display text-base text-[var(--ink)] outline-none transition-[border-color,box-shadow] focus:border-[var(--lagoon)] focus:shadow-[0_0_0_2px_color-mix(in_oklab,var(--lagoon)_35%,transparent)] disabled:opacity-50 sm:text-lg"
             value={value}
             disabled={disabled}
             onChange={(e) => onChange(e.target.value)}
@@ -111,7 +111,7 @@ export function DatePicker({ dates, value, onChange, loading }: DatePickerProps)
 
         <button
           type="button"
-          className="nav-day-btn inline-flex shrink-0 items-center justify-center border border-[var(--line)] px-2.5 text-[var(--sea)] transition-colors hover:border-[var(--sea)] hover:bg-[color-mix(in_oklab,var(--foam)_70%,white)] disabled:cursor-not-allowed disabled:opacity-35 disabled:hover:border-[var(--line)] disabled:hover:bg-transparent"
+          className="nav-day-btn glass-chip inline-flex shrink-0 items-center justify-center px-2.5 text-[var(--sea)] transition-colors hover:border-[var(--sea)] hover:bg-[color-mix(in_oklab,white_70%,var(--foam))] disabled:cursor-not-allowed disabled:opacity-35 disabled:hover:border-[var(--glass-border)] disabled:hover:bg-[color-mix(in_oklab,white_50%,transparent)]"
           aria-label="Newer edition"
           title="Newer"
           disabled={disabled || !canNewer}

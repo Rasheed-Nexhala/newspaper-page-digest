@@ -166,45 +166,44 @@ export default function App() {
   return (
     <div className="app-shell min-h-dvh">
       <div className="atmosphere" aria-hidden="true" />
-      <div className="relative mx-auto max-w-3xl px-5 pb-20 pt-10 sm:px-8 sm:pt-14">
-        <header className="hero-block mb-12">
-          <p className="font-display text-5xl leading-none tracking-tight text-[var(--ink)] sm:text-6xl">
+      <div className="relative mx-auto max-w-3xl px-4 pb-[max(5rem,env(safe-area-inset-bottom))] pt-8 sm:px-8 sm:pt-14">
+        <header className="hero-block mb-8 sm:mb-12">
+          <p className="font-display text-4xl leading-[1.05] tracking-tight text-[var(--ink)] sm:text-5xl md:text-6xl">
             Local Top
             <span className="text-[var(--sea)]"> / </span>
             Coastal Katte
           </p>
-          <p className="mt-4 max-w-md text-base leading-relaxed text-[var(--ink-muted)]">
+          <p className="mt-3 max-w-md text-[0.95rem] leading-relaxed text-[var(--ink-muted)] sm:mt-4 sm:text-base">
             Daily Top 5 digests from Mangaluru and coastal Karnataka — pick a
             date or step Older / Newer, then read Local or channel picks.
           </p>
 
-          <div className="mt-8 flex flex-col gap-6 sm:flex-row sm:items-end sm:justify-between">
-            <DatePicker
-              dates={dates}
-              value={dateSlug}
-              onChange={selectDate}
-              loading={datesLoading}
-            />
-            <button
-              type="button"
-              className="self-start text-xs tracking-[0.14em] text-[var(--sea)] uppercase underline-offset-4 hover:underline sm:self-end"
-              onClick={refreshDates}
-            >
-              Refresh dates
-            </button>
-          </div>
+          <div className="glass-panel mt-6 p-4 sm:mt-8 sm:p-5">
+            <div className="flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between sm:gap-6">
+              <DatePicker
+                dates={dates}
+                value={dateSlug}
+                onChange={selectDate}
+                loading={datesLoading}
+              />
+              <button
+                type="button"
+                className="glass-chip self-start px-3.5 py-2.5 text-xs tracking-[0.14em] text-[var(--sea)] uppercase transition-colors hover:bg-[color-mix(in_oklab,white_70%,var(--foam))] sm:self-end"
+                onClick={refreshDates}
+              >
+                Refresh dates
+              </button>
+            </div>
 
-          {datesError && (
-            <p className="mt-4 text-sm text-[var(--sunset)]" role="alert">
-              {datesError}
-            </p>
-          )}
+            {datesError && (
+              <p className="mt-4 text-sm text-[var(--sunset)]" role="alert">
+                {datesError}
+              </p>
+            )}
+          </div>
         </header>
 
-        <nav
-          className="mb-10 flex gap-1 border-b border-[var(--line)]"
-          aria-label="Feed"
-        >
+        <nav className="glass-nav mb-6 sm:mb-8" aria-label="Feed">
           {(
             [
               {
@@ -225,9 +224,11 @@ export default function App() {
                 key={tab.id}
                 type="button"
                 disabled={!tab.enabled && !!selected}
-                className={`relative px-4 py-3 text-sm transition-colors disabled:cursor-not-allowed disabled:opacity-40 ${
+                data-active={active ? 'true' : 'false'}
+                aria-current={active ? 'page' : undefined}
+                className={`glass-tab px-3 py-2.5 text-sm transition-colors disabled:cursor-not-allowed disabled:opacity-40 ${
                   active
-                    ? 'font-medium text-[var(--ink)]'
+                    ? 'text-[var(--ink)]'
                     : 'text-[var(--ink-soft)] hover:text-[var(--ink)]'
                 }`}
                 onClick={() => setView(tab.id)}
@@ -235,7 +236,7 @@ export default function App() {
                 {tab.label}
                 {active && (
                   <span
-                    className={`absolute inset-x-3 -bottom-px h-0.5 ${
+                    className={`absolute inset-x-3 bottom-1.5 h-0.5 rounded-full ${
                       tab.id === 'coastal'
                         ? 'bg-[var(--sunset)]'
                         : 'bg-[var(--sea)]'
@@ -247,15 +248,15 @@ export default function App() {
           })}
         </nav>
 
-        <main>
+        <main className="glass-panel-strong px-4 py-5 sm:px-6 sm:py-7">
           {datesLoading && dates.length === 0 && (
-            <p className="py-16 text-center text-[var(--ink-muted)]">
+            <p className="py-12 text-center text-[var(--ink-muted)] sm:py-16">
               Looking for editions in work/…
             </p>
           )}
 
           {!datesLoading && dates.length === 0 && !datesError && (
-            <p className="py-16 text-center text-[var(--ink-muted)]">
+            <p className="py-12 text-center text-[var(--ink-muted)] sm:py-16">
               No Top 5 JSON found yet. Run{' '}
               <code className="text-[var(--sea)]">/daily-local-top</code> or{' '}
               <code className="text-[var(--sea)]">/coastal-katte-top5</code>, then
@@ -274,7 +275,7 @@ export default function App() {
           )}
 
           {!contentLoading && missingForView && (
-            <p className="py-12 text-[var(--ink-muted)] italic">
+            <p className="py-10 text-[var(--ink-muted)] italic sm:py-12">
               {showLocal
                 ? 'Local Top 5 is not available for this date.'
                 : 'Coastal Katte Top 5 is not available for this date.'}
