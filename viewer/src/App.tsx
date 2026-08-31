@@ -22,9 +22,32 @@ function resolveView(
   return requested
 }
 
+function readDateFromUrl(): string {
+  try {
+    return new URLSearchParams(window.location.search).get('date') ?? ''
+  } catch {
+    return ''
+  }
+}
+
+function writeDateToUrl(slug: string) {
+  const url = new URL(window.location.href)
+  if (slug) {
+    url.searchParams.set('date', slug)
+  } else {
+    url.searchParams.delete('date')
+  }
+  window.history.replaceState({}, '', `${url.pathname}${url.search}${url.hash}`)
+}
+
+function pickInitialSlug(list: DateEntry[], preferred: string): string {
+  if (preferred && list.some((d) => d.date_slug === preferred)) return preferred
+  return list[0]?.date_slug ?? ''
+}
+
 export default function App() {
   const [dates, setDates] = useState<DateEntry[]>([])
-  const [dateSlug, setDateSlug] = useState('')
+  const [dateSlug, setDateSlug] = useState(() => readDateFromUrl())
   const [view, setView] = useState<PrimaryView>('local')
   const [datesLoading, setDatesLoading] = useState(true)
   const [datesError, setDatesError] = useState<string | null>(null)
@@ -36,6 +59,11 @@ export default function App() {
   const selected = dates.find((d) => d.date_slug === dateSlug)
   const activeView = resolveView(view, selected)
 
+  function selectDate(slug: string) {
+    setDateSlug(slug)
+    writeDateToUrl(slug)
+  }
+
   useEffect(() => {
     let cancelled = false
     setDatesLoading(true)
@@ -44,9 +72,11 @@ export default function App() {
       .then((list) => {
         if (cancelled) return
         setDates(list)
+        const fromUrl = readDateFromUrl()
         setDateSlug((prev) => {
-          if (prev && list.some((d) => d.date_slug === prev)) return prev
-          return list[0]?.date_slug ?? ''
+          const next = pickInitialSlug(list, fromUrl || prev)
+          writeDateToUrl(next)
+          return next
         })
       })
       .catch((err: unknown) => {
@@ -116,8 +146,9 @@ export default function App() {
       .then((list) => {
         setDates(list)
         setDateSlug((prev) => {
-          if (prev && list.some((d) => d.date_slug === prev)) return prev
-          return list[0]?.date_slug ?? ''
+          const next = pickInitialSlug(list, prev)
+          writeDateToUrl(next)
+          return next
         })
       })
       .catch((err: unknown) => {
@@ -144,14 +175,14 @@ export default function App() {
           </p>
           <p className="mt-4 max-w-md text-base leading-relaxed text-[var(--ink-muted)]">
             Daily Top 5 digests from Mangaluru and coastal Karnataka — pick a
-            date, read Local or channel picks.
+            date or step Older / Newer, then read Local or channel picks.
           </p>
 
           <div className="mt-8 flex flex-col gap-6 sm:flex-row sm:items-end sm:justify-between">
             <DatePicker
               dates={dates}
               value={dateSlug}
-              onChange={setDateSlug}
+              onChange={selectDate}
               loading={datesLoading}
             />
             <button
