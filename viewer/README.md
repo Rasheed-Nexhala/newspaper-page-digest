@@ -12,7 +12,7 @@ npm install
 npm run dev
 ```
 
-Open the URL Vite prints (usually `http://localhost:5173`). Use the edition **dropdown** or **Older / Newer**. The selected day is kept in the URL as `?date=30-Aug-2026`.
+Open the URL Vite prints (usually `http://localhost:5173`). With no `?date=` in the URL, the viewer opens **today’s** edition when available, otherwise the newest edition. Use the **dropdown** or **Older / Newer** to switch days; the selected day is kept in the URL as `?date=30-Aug-2026`.
 
 ## Production / GitHub Pages
 

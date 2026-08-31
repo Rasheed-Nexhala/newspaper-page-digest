@@ -22,6 +22,28 @@ function resolveView(
   return requested
 }
 
+const MONTH_ABBR = [
+  'Jan',
+  'Feb',
+  'Mar',
+  'Apr',
+  'May',
+  'Jun',
+  'Jul',
+  'Aug',
+  'Sep',
+  'Oct',
+  'Nov',
+  'Dec',
+] as const
+
+function todayDateSlug(now = new Date()): string {
+  const day = now.getDate()
+  const month = MONTH_ABBR[now.getMonth()]
+  const year = now.getFullYear()
+  return `${day}-${month}-${year}`
+}
+
 function readDateFromUrl(): string {
   try {
     return new URLSearchParams(window.location.search).get('date') ?? ''
@@ -42,6 +64,11 @@ function writeDateToUrl(slug: string) {
 
 function pickInitialSlug(list: DateEntry[], preferred: string): string {
   if (preferred && list.some((d) => d.date_slug === preferred)) return preferred
+
+  const today = todayDateSlug()
+  if (list.some((d) => d.date_slug === today)) return today
+
+  // dates.json is newest-first — fall back to the latest available edition
   return list[0]?.date_slug ?? ''
 }
 
