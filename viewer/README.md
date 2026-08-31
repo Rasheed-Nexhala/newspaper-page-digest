@@ -4,6 +4,8 @@ React + Tailwind UI for reading daily **Local Top 5** and **Coastal Katte Top 5*
 
 The Vite dev server scans `../work/<DD-Mon-YYYY>/` on each request, so new days appear after you click **Refresh dates** (or reload) — no copy step.
 
+Use the edition **dropdown** to jump to any day, or **Older / Newer** to step through discovered editions. The selected day is kept in the URL as `?date=30-Aug-2026`.
+
 ## Run
 
 ```bash
