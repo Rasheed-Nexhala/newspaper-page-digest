@@ -1,11 +1,23 @@
-import type { CoastalKatteTop5 } from '../types'
+import type { CoastalKatteItem, CoastalKatteTop5 } from '../types'
 import { StoryItemRow } from './StoryItem'
 
 type CoastalKatteViewProps = {
   data: CoastalKatteTop5
+  isSaved: (item: CoastalKatteItem) => boolean
+  canMutate: boolean
+  mutatingId: string | null
+  onToggleSave: (item: CoastalKatteItem) => void
+  savedIdFor: (item: CoastalKatteItem) => string
 }
 
-export function CoastalKatteView({ data }: CoastalKatteViewProps) {
+export function CoastalKatteView({
+  data,
+  isSaved,
+  canMutate,
+  mutatingId,
+  onToggleSave,
+  savedIdFor,
+}: CoastalKatteViewProps) {
   return (
     <div className="view-panel" key={data.date_slug}>
       <header className="mb-6 sm:mb-8">
@@ -27,14 +39,20 @@ export function CoastalKatteView({ data }: CoastalKatteViewProps) {
         </p>
       ) : (
         <div>
-          {data.items.map((item, i) => (
-            <StoryItemRow
-              key={item.rank}
-              item={item}
-              index={i}
-              showWhy
-            />
-          ))}
+          {data.items.map((item, i) => {
+            const id = savedIdFor(item)
+            return (
+              <StoryItemRow
+                key={item.rank}
+                item={item}
+                index={i}
+                showWhy
+                saved={isSaved(item)}
+                saveDisabled={!canMutate || mutatingId === id}
+                onToggleSave={() => onToggleSave(item)}
+              />
+            )
+          })}
         </div>
       )}
     </div>

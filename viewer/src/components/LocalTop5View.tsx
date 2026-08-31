@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import type { LocalBucketKey, LocalTop5 } from '../types'
+import type { LocalBucketKey, LocalTop5, StoryItem } from '../types'
 import { StoryItemRow } from './StoryItem'
 
 const BUCKETS: { key: LocalBucketKey; short: string }[] = [
@@ -13,9 +13,21 @@ const BUCKETS: { key: LocalBucketKey; short: string }[] = [
 
 type LocalTop5ViewProps = {
   data: LocalTop5
+  isSaved: (item: StoryItem, bucket: LocalBucketKey) => boolean
+  canMutate: boolean
+  mutatingId: string | null
+  onToggleSave: (item: StoryItem, bucket: LocalBucketKey) => void
+  savedIdFor: (item: StoryItem, bucket: LocalBucketKey) => string
 }
 
-export function LocalTop5View({ data }: LocalTop5ViewProps) {
+export function LocalTop5View({
+  data,
+  isSaved,
+  canMutate,
+  mutatingId,
+  onToggleSave,
+  savedIdFor,
+}: LocalTop5ViewProps) {
   const [bucket, setBucket] = useState<LocalBucketKey>('mangaluru')
   const current = data.buckets[bucket]
   const items = current?.items ?? []
@@ -84,9 +96,19 @@ export function LocalTop5View({ data }: LocalTop5ViewProps) {
           </p>
         ) : (
           <div key={bucket}>
-            {items.map((item, i) => (
-              <StoryItemRow key={`${bucket}-${item.rank}`} item={item} index={i} />
-            ))}
+            {items.map((item, i) => {
+              const id = savedIdFor(item, bucket)
+              return (
+                <StoryItemRow
+                  key={`${bucket}-${item.rank}`}
+                  item={item}
+                  index={i}
+                  saved={isSaved(item, bucket)}
+                  saveDisabled={!canMutate || mutatingId === id}
+                  onToggleSave={() => onToggleSave(item, bucket)}
+                />
+              )
+            })}
           </div>
         )}
       </div>

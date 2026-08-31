@@ -15,9 +15,21 @@ type StoryItemProps = {
   item: StoryItem | CoastalKatteItem
   index: number
   showWhy?: boolean
+  saved?: boolean
+  saveDisabled?: boolean
+  onToggleSave?: () => void
+  metaLine?: string
 }
 
-export function StoryItemRow({ item, index, showWhy = false }: StoryItemProps) {
+export function StoryItemRow({
+  item,
+  index,
+  showWhy = false,
+  saved = false,
+  saveDisabled = false,
+  onToggleSave,
+  metaLine,
+}: StoryItemProps) {
   const why = 'why_channel' in item ? item.why_channel : undefined
   const sourceBucket =
     'source_bucket' in item ? item.source_bucket : undefined
@@ -34,9 +46,38 @@ export function StoryItemRow({ item, index, showWhy = false }: StoryItemProps) {
           {String(item.rank).padStart(2, '0')}
         </div>
         <div className="min-w-0">
-          <h3 className="font-display text-lg leading-snug break-words text-[var(--ink)] sm:text-xl md:text-2xl">
-            {item.headline}
-          </h3>
+          <div className="flex items-start justify-between gap-3">
+            <h3 className="font-display text-lg leading-snug break-words text-[var(--ink)] sm:text-xl md:text-2xl">
+              {item.headline}
+            </h3>
+            {onToggleSave && (
+              <button
+                type="button"
+                className={`glass-chip shrink-0 px-2.5 py-1.5 text-[0.65rem] tracking-[0.12em] uppercase transition-colors ${
+                  saved
+                    ? 'text-[var(--sunset)]'
+                    : 'text-[var(--sea)] hover:bg-[color-mix(in_oklab,white_70%,var(--foam))]'
+                } disabled:cursor-not-allowed disabled:opacity-45`}
+                aria-pressed={saved}
+                disabled={saveDisabled}
+                title={
+                  saveDisabled
+                    ? 'Saving writes work/Saved in local npm run dev'
+                    : saved
+                      ? 'Remove from saved'
+                      : 'Save to repo file'
+                }
+                onClick={onToggleSave}
+              >
+                {saved ? 'Saved' : 'Save'}
+              </button>
+            )}
+          </div>
+          {metaLine && (
+            <p className="mt-1.5 text-xs tracking-wide text-[var(--ink-soft)] uppercase">
+              {metaLine}
+            </p>
+          )}
           <p className="mt-2.5 max-w-prose text-[0.925rem] leading-relaxed text-[var(--ink-muted)] sm:mt-3 sm:text-[0.975rem]">
             {item.blurb}
           </p>

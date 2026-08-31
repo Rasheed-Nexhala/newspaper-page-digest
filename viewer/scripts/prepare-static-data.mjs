@@ -6,6 +6,7 @@
  *
  * Layout:
  *   public/data/dates.json
+ *   public/data/saved.json
  *   public/data/<DD-Mon-YYYY>/local-top5.json
  *   public/data/<DD-Mon-YYYY>/coastal-katte.json
  */
@@ -122,6 +123,17 @@ entries.sort((a, b) => parseDateSlug(b.date_slug) - parseDateSlug(a.date_slug))
 
 fs.writeFileSync(path.join(outRoot, 'dates.json'), `${JSON.stringify(entries, null, 2)}\n`)
 
+const savedSrc = path.join(workRoot, 'Saved', 'saved-articles.json')
+const savedDest = path.join(outRoot, 'saved.json')
+if (fs.existsSync(savedSrc)) {
+  copyJson(savedSrc, savedDest)
+} else {
+  fs.writeFileSync(
+    savedDest,
+    `${JSON.stringify({ updated: null, items: [] }, null, 2)}\n`,
+  )
+}
+
 console.log(
   `Prepared ${entries.length} edition(s) → ${path.relative(viewerRoot, outRoot)}/`,
 )
@@ -131,4 +143,13 @@ for (const e of entries) {
     e.has_coastal_katte ? 'coastal' : null,
   ].filter(Boolean)
   console.log(`  ${e.date_slug} (${bits.join(', ')})`)
+}
+if (fs.existsSync(savedDest)) {
+  try {
+    const saved = JSON.parse(fs.readFileSync(savedDest, 'utf8'))
+    const n = Array.isArray(saved.items) ? saved.items.length : 0
+    console.log(`  saved.json (${n} article${n === 1 ? '' : 's'})`)
+  } catch {
+    console.log('  saved.json')
+  }
 }

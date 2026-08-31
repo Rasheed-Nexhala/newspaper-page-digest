@@ -1,19 +1,34 @@
 import { useEffect, useState } from 'react'
-import { fetchCoastalKatte, fetchDates, fetchLocalTop5 } from './api'
+import {
+  addSavedStory,
+  canMutateSaved,
+  fetchCoastalKatte,
+  fetchDates,
+  fetchLocalTop5,
+  fetchSaved,
+  removeSavedStory,
+} from './api'
 import { CoastalKatteView } from './components/CoastalKatteView'
 import { DatePicker } from './components/DatePicker'
 import { LocalTop5View } from './components/LocalTop5View'
+import { SavedView } from './components/SavedView'
+import { buildSavedId } from './lib/savedId'
 import type {
+  CoastalKatteItem,
   CoastalKatteTop5,
   DateEntry,
+  LocalBucketKey,
   LocalTop5,
   PrimaryView,
+  SavedStory,
+  StoryItem,
 } from './types'
 
 function resolveView(
   requested: PrimaryView,
   entry: DateEntry | undefined,
 ): PrimaryView {
+  if (requested === 'saved') return 'saved'
   if (!entry) return requested
   if (requested === 'coastal' && entry.has_coastal_katte) return 'coastal'
   if (requested === 'local' && entry.has_local_top5) return 'local'
@@ -82,13 +97,39 @@ export default function App() {
   const [coastalData, setCoastalData] = useState<CoastalKatteTop5 | null>(null)
   const [contentLoading, setContentLoading] = useState(false)
   const [contentError, setContentError] = useState<string | null>(null)
+  const [savedItems, setSavedItems] = useState<SavedStory[]>([])
+  const [savedLoading, setSavedLoading] = useState(true)
+  const [savedError, setSavedError] = useState<string | null>(null)
+  const [mutatingId, setMutatingId] = useState<string | null>(null)
 
   const selected = dates.find((d) => d.date_slug === dateSlug)
   const activeView = resolveView(view, selected)
+  const savedIdSet = new Set(savedItems.map((s) => s.id))
 
   function selectDate(slug: string) {
     setDateSlug(slug)
     writeDateToUrl(slug)
+  }
+
+  function localSavedId(item: StoryItem, bucket: LocalBucketKey): string {
+    return buildSavedId({
+      dateSlug,
+      list: 'local',
+      bucket,
+      rank: item.rank,
+      headline: item.headline,
+      sources: item.sources,
+    })
+  }
+
+  function coastalSavedId(item: CoastalKatteItem): string {
+    return buildSavedId({
+      dateSlug,
+      list: 'coastal',
+      rank: item.rank,
+      headline: item.headline,
+      sources: item.sources,
+    })
   }
 
   useEffect(() => {
@@ -119,6 +160,28 @@ export default function App() {
   }, [])
 
   useEffect(() => {
+    let cancelled = false
+    setSavedLoading(true)
+    setSavedError(null)
+    fetchSaved()
+      .then((file) => {
+        if (!cancelled) setSavedItems(file.items)
+      })
+      .catch((err: unknown) => {
+        if (cancelled) return
+        setSavedError(err instanceof Error ? err.message : String(err))
+      })
+      .finally(() => {
+        if (!cancelled) setSavedLoading(false)
+      })
+    return () => {
+      cancelled = true
+    }
+  }, [])
+
+  useEffect(() => {
+    if (activeView === 'saved') return
+
     if (!dateSlug || !selected) {
       setLocalData(null)
       setCoastalData(null)
@@ -164,7 +227,7 @@ export default function App() {
     return () => {
       cancelled = true
     }
-  }, [dateSlug, selected])
+  }, [dateSlug, selected, activeView])
 
   function refreshDates() {
     setDatesLoading(true)
@@ -184,9 +247,95 @@ export default function App() {
       .finally(() => setDatesLoading(false))
   }
 
+  async function toggleLocalSave(item: StoryItem, bucket: LocalBucketKey) {
+    if (!canMutateSaved || !localData) return
+    const id = localSavedId(item, bucket)
+    setMutatingId(id)
+    setSavedError(null)
+    try {
+      if (savedIdSet.has(id)) {
+        const file = await removeSavedStory(id)
+        setSavedItems(file.items)
+      } else {
+        const story: SavedStory = {
+          id,
+          savedAt: new Date().toISOString(),
+          date_slug: localData.date_slug,
+          date: localData.date,
+          list: 'local',
+          bucket,
+          rank: item.rank,
+          headline: item.headline,
+          blurb: item.blurb,
+          kind: item.kind,
+          scope: item.scope,
+          sources: item.sources,
+        }
+        const file = await addSavedStory(story)
+        setSavedItems(file.items)
+      }
+    } catch (err: unknown) {
+      setSavedError(err instanceof Error ? err.message : String(err))
+    } finally {
+      setMutatingId(null)
+    }
+  }
+
+  async function toggleCoastalSave(item: CoastalKatteItem) {
+    if (!canMutateSaved || !coastalData) return
+    const id = coastalSavedId(item)
+    setMutatingId(id)
+    setSavedError(null)
+    try {
+      if (savedIdSet.has(id)) {
+        const file = await removeSavedStory(id)
+        setSavedItems(file.items)
+      } else {
+        const story: SavedStory = {
+          id,
+          savedAt: new Date().toISOString(),
+          date_slug: coastalData.date_slug,
+          date: coastalData.date,
+          list: 'coastal',
+          rank: item.rank,
+          headline: item.headline,
+          blurb: item.blurb,
+          kind: item.kind,
+          scope: item.scope,
+          sources: item.sources,
+          source_bucket: item.source_bucket,
+          local_top_rank: item.local_top_rank,
+          why_channel: item.why_channel,
+        }
+        const file = await addSavedStory(story)
+        setSavedItems(file.items)
+      }
+    } catch (err: unknown) {
+      setSavedError(err instanceof Error ? err.message : String(err))
+    } finally {
+      setMutatingId(null)
+    }
+  }
+
+  async function unsaveById(id: string) {
+    if (!canMutateSaved) return
+    setMutatingId(id)
+    setSavedError(null)
+    try {
+      const file = await removeSavedStory(id)
+      setSavedItems(file.items)
+    } catch (err: unknown) {
+      setSavedError(err instanceof Error ? err.message : String(err))
+    } finally {
+      setMutatingId(null)
+    }
+  }
+
+  const showSaved = activeView === 'saved'
   const showLocal = activeView === 'local'
   const missingForView =
     selected &&
+    !showSaved &&
     ((showLocal && !selected.has_local_top5) ||
       (!showLocal && !selected.has_coastal_katte))
 
@@ -243,6 +392,11 @@ export default function App() {
                 label: 'Coastal Katte',
                 enabled: selected?.has_coastal_katte ?? false,
               },
+              {
+                id: 'saved' as const,
+                label: `Saved${savedItems.length ? ` (${savedItems.length})` : ''}`,
+                enabled: true,
+              },
             ] as const
           ).map((tab) => {
             const active = activeView === tab.id
@@ -250,7 +404,7 @@ export default function App() {
               <button
                 key={tab.id}
                 type="button"
-                disabled={!tab.enabled && !!selected}
+                disabled={!tab.enabled}
                 data-active={active ? 'true' : 'false'}
                 aria-current={active ? 'page' : undefined}
                 className={`glass-tab px-3 py-2.5 text-sm transition-colors disabled:cursor-not-allowed disabled:opacity-40 ${
@@ -266,7 +420,9 @@ export default function App() {
                     className={`absolute inset-x-3 bottom-1.5 h-0.5 rounded-full ${
                       tab.id === 'coastal'
                         ? 'bg-[var(--sunset)]'
-                        : 'bg-[var(--sea)]'
+                        : tab.id === 'saved'
+                          ? 'bg-[var(--ink-muted)]'
+                          : 'bg-[var(--sea)]'
                     }`}
                   />
                 )}
@@ -276,13 +432,13 @@ export default function App() {
         </nav>
 
         <main className="glass-panel-strong px-4 py-5 sm:px-6 sm:py-7">
-          {datesLoading && dates.length === 0 && (
+          {datesLoading && dates.length === 0 && !showSaved && (
             <p className="py-12 text-center text-[var(--ink-muted)] sm:py-16">
               Looking for editions in work/…
             </p>
           )}
 
-          {!datesLoading && dates.length === 0 && !datesError && (
+          {!datesLoading && dates.length === 0 && !datesError && !showSaved && (
             <p className="py-12 text-center text-[var(--ink-muted)] sm:py-16">
               No Top 5 JSON found yet. Run{' '}
               <code className="text-[var(--sea)]">/daily-local-top</code> or{' '}
@@ -291,17 +447,37 @@ export default function App() {
             </p>
           )}
 
-          {contentLoading && (
+          {showSaved && savedLoading && (
+            <p className="py-8 text-[var(--ink-muted)]">Loading saved…</p>
+          )}
+
+          {showSaved && !savedLoading && (
+            <SavedView
+              items={savedItems}
+              canMutate={canMutateSaved}
+              onUnsave={unsaveById}
+              mutatingId={mutatingId}
+              error={savedError}
+            />
+          )}
+
+          {!showSaved && contentLoading && (
             <p className="py-8 text-[var(--ink-muted)]">Loading edition…</p>
           )}
 
-          {contentError && (
+          {!showSaved && contentError && (
             <p className="py-4 text-sm text-[var(--sunset)]" role="alert">
               {contentError}
             </p>
           )}
 
-          {!contentLoading && missingForView && (
+          {!showSaved && savedError && (
+            <p className="py-2 text-sm text-[var(--sunset)]" role="alert">
+              {savedError}
+            </p>
+          )}
+
+          {!showSaved && !contentLoading && missingForView && (
             <p className="py-10 text-[var(--ink-muted)] italic sm:py-12">
               {showLocal
                 ? 'Daily Top 5 is not available for this date.'
@@ -309,13 +485,31 @@ export default function App() {
             </p>
           )}
 
-          {!contentLoading && !contentError && showLocal && localData && (
-            <LocalTop5View data={localData} />
+          {!showSaved && !contentLoading && !contentError && showLocal && localData && (
+            <LocalTop5View
+              data={localData}
+              canMutate={canMutateSaved}
+              mutatingId={mutatingId}
+              isSaved={(item, bucket) => savedIdSet.has(localSavedId(item, bucket))}
+              savedIdFor={localSavedId}
+              onToggleSave={toggleLocalSave}
+            />
           )}
 
-          {!contentLoading && !contentError && !showLocal && coastalData && (
-            <CoastalKatteView data={coastalData} />
-          )}
+          {!showSaved &&
+            !contentLoading &&
+            !contentError &&
+            !showLocal &&
+            coastalData && (
+              <CoastalKatteView
+                data={coastalData}
+                canMutate={canMutateSaved}
+                mutatingId={mutatingId}
+                isSaved={(item) => savedIdSet.has(coastalSavedId(item))}
+                savedIdFor={coastalSavedId}
+                onToggleSave={toggleCoastalSave}
+              />
+            )}
         </main>
       </div>
     </div>
