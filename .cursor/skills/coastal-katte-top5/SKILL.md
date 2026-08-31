@@ -11,7 +11,7 @@ description: >-
 
 # Coastal Katte Top 5
 
-Turn the day's `LocalTop5_*.json` (15 candidates across three buckets) into **one focused Top 5** for posting on **Coastal Katte** (@coastal_katte).
+Turn the day's `LocalTop5_*.json` local buckets (up to 15 candidates from Mangaluru / Coastal Karnataka / Karnataka — ignore India / International / Sports) into **one focused Top 5** for posting on **Coastal Katte** (@coastal_katte).
 
 Read `references/output-spec.md` (frozen JSON) and `references/channel-strategy.md` (ranking rules from the channel audit) before writing.
 

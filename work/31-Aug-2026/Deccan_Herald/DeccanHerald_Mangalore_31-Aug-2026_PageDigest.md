@@ -1,0 +1,999 @@
+# Deccan Herald — Mangalore — Page-by-Page Digest
+**Date:** Monday, 31 August 2026  |  **Total pages:** 14  |  **Total articles:** 122
+
+---
+
+## Page 1
+<!-- npd:article page="1" index="1" kind="news" scope="mangaluru" -->
+### Govt planning senior citizens' association in every locality: Khader
+
+The state government is considering setting up senior citizens' associations in every locality, on the lines of the Bharat Jodo Yuva Sangh initiative, said Dakshina Kannada District In-charge Minister U T Khader at the 'Dhanyata' Senior Citizens' Day programme at Prerana Hall, Red Cross Centenary Building on Sunday. Khader said the government would explore launching the initiative on a pilot basis in Mangaluru, and senior citizens who made notable contributions were felicitated, including Vajra Rao, Col Nitteguttu Sharath Bhandary, Radhakrishna, T G Shenoy, Robert Franklin Rego, Katta Bhaskara Rai, Sumangala Prabhakar, Pakruddin Kunil, Aruva Koragappa Shetty, Usha Vishwanath and Satish Rao Idya.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="1" index="2" kind="news" scope="mangaluru" -->
+### Only 97 accident victims obtain benefits under PM-RAHAT scheme in DK district
+
+Only 97 road accident victims in Dakshina Kannada have availed treatment under the Centre's PM-RAHAT scheme since its launch in February this year, with officials attributing the low uptake to lack of public awareness and reluctance among some hospitals. The scheme provides cashless treatment of up to Rs 1.5 lakh for up to seven days from the date of a road accident for all victims injured in motor vehicle accidents, irrespective of APL or BPL status; District Health Officer Dr HR Thimmaiah said notices would be issued to reluctant hospitals, and Dakshina Kannada MP Capt Brijesh Chowta directed effective implementation at a DISHA meeting.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="1" index="3" kind="news" scope="coastal_karnataka" -->
+### DC asks officials to ensure smooth conduct of Prajaseva Andolana meetings from Sept 5
+
+Deputy Commissioner Swaroopa T K said Prajaseva Andolana meetings would be organised at taluk and hobli levels across Udupi district from September 5 to hear public grievances and facilitate local resolution. Meetings will be held at taluk level on the first and third Saturdays under the district in-charge minister, with hobli and gram panchayat meetings on the second and fourth Saturdays under local MLAs; field officials must visit households 15 days before each meeting to distribute pre-printed grievance application forms.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="1" index="4" kind="news" scope="karnataka" -->
+### MLA urges CM to declare Tulu as official language during Cabinet meeting in M'luru
+
+Puttur MLA Ashok Kumar Rai has urged Chief Minister D K Shivakumar to declare Tulu as Karnataka's second additional official language during the Cabinet meeting scheduled in Mangaluru. Rai submitted a memorandum noting that a state committee had studied criteria in Andhra Pradesh and submitted a report, and said granting Tulu official status would not impose a significant financial burden on the State government.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="1" index="5" kind="news" scope="mangaluru" -->
+### Mescom recruits 395 powermen to ease shortage of field staff
+
+Mangalore Electricity Supply Company (MESCOM) has recruited 395 powermen, with 165 more to be recruited through KPTCL shortly, said Mescom Chairman K Harish Kumar; of the 395 recruited recently, only five are from Dakshina Kannada district and fewer than 50 are from areas under Mescom jurisdiction. Mescom will convert power lines in elephant corridors and forest areas into covered conductor systems in Puttur, Shivamogga, Sagar, Chikkamagaluru-1 and Chikkamagaluru-2, Koppa and Kundapura divisions, procure 705 non-contact voltage detectors, lay underground cables in Ullal, Mannagudda and Kavoor sub-divisions, and reported a Rs 25.77 crore loss from April 1 to August 26 after 17,770 electricity poles and 496.37 km of power lines were damaged.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="1" index="6" kind="news" scope="coastal_karnataka" -->
+### Puttur Chalo today; police step up security measures
+
+Police have stepped up security in Puttur ahead of the 'Puttur Chalo' by various Hindu organisations on August 31 in connection with the document damage incident at Darbe, granting permission subject to conditions. A total of 167 police personnel plus five KSRP platoons, two Special Action Force teams and seven District Armed Reserve platoons have been deployed, and a police route march was conducted on Sunday within Puttur Town Police Station limits.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="1" index="7" kind="news" scope="coastal_karnataka" -->
+### Trainee pilot laid to rest
+
+The mortal remains of 22-year-old trainee pilot Abhishek Poojary, killed in a trainee aircraft crash during a training session in Kanpur, Uttar Pradesh, were brought to his native place in Udupi district on Sunday and last rites were performed at Kadeberke in Kanajaru village of Hiriyadka. Abhishek's body arrived at Mangaluru International Airport in Bajpe at around 11 am; he had been undergoing training with a private aviation company in Kanpur for nearly two-and-a-half years.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="1" index="8" kind="news" scope="mangaluru" -->
+### Special SIR campaign in DK on Sept 19, 20
+
+As part of the ongoing Special Intensive Revision (SIR) in Dakshina Kannada district, notices seeking voter verification have begun to be generated, with a total of 1,50,144 notices planned across the district; 25,389 have been generated so far, 1,24,532 are pending, and 16 have been delivered. A total of 154 Additional Assistant Electoral Registration Officers have been appointed, and a special campaign for voter registration will be conducted on September 19 and 20.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="1" index="9" kind="news" scope="coastal_karnataka" -->
+### Traffic signal equipment worth Rs 8 lakh stolen
+
+Udupi Town Police have registered a case after parts of traffic signal equipment worth around Rs 8 lakh were stolen near Kalyan Jewellers Junction. Srinivasa Yeluri of ACS Technology Limited, Hyderabad, had stored components for installation on July 18, 2023, but the project was delayed after Udupi City Municipal Council raised objections, and the parts were later found missing from the site.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="1" index="10" kind="news" scope="coastal_karnataka" -->
+### Ravi Katapady to don 'Matsya Purusha' costume this Janmashtami
+
+Social worker Ravi Katapady has announced he will don the 'Matsya Purusha' costume during this year's Janmashtami celebrations to raise funds for children suffering from cancer and heart-related ailments, aiming to collect Rs 15 lakh in two days. The costume will be presented at Katapady, Udupi and Brahmavar on September 4 and 5; Ravi said he skipped the costume last year due to health problems from gum and chemical-based paints used in the process.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="1" index="11" kind="news" scope="coastal_karnataka" -->
+### Brahmashree Narayana Guru Circle inaugurated at B C Road
+
+The Brahmashree Narayana Guru Circle at B C Road, constructed at a cost of Rs 40 lakh by the National Highways Authority of India, was inaugurated by Dakshina Kannada MP Capt Brijesh Chowta on Sunday, with former union minister Janardhan Poojary, MLA Rajesh Naik and others present.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="1" index="12" kind="news" scope="mangaluru" -->
+### DC office illuminated to mark three years of Gruha Lakshmi scheme
+
+The deputy commissioner's office building in Mangaluru was illuminated in pink lights on Sunday night to commemorate three years of the state government's Gruha Lakshmi scheme.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="1" index="13" kind="news" scope="mangaluru" -->
+### Santhosh Kumar Shetty appointed MUDA chairman
+
+Santhosh Kumar Shetty has been appointed MUDA chairman by the government; the tenure of previous chairman Sadashiva Ullal had ended in February and was later extended by six months.
+<!-- /npd:article -->
+
+---
+
+## Page 2
+<!-- npd:article page="2" index="1" kind="news" scope="karnataka" -->
+### Citizen-led march in Lalbagh marks return of B'luru's civic movements
+
+Sunday's massive demonstration at Lalbagh against the state government's move to sell or lease 5% of park space for infrastructure marked the return of large-scale citizen-led protests in Bengaluru after nearly a decade, since the 2016 steel flyover mobilisation. Protesters opposed the Karnataka Government Parks (Preservation) (Amendment) Bill, 2026 and the North-South tunnel road proposed between Hebbal and Silk Board through Lalbagh; Bangalore South MP L S Tejasvi Surya said the fight would continue until Chief Minister D K Shivakumar scrapped both proposals.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="2" index="2" kind="news" scope="karnataka" -->
+### All four BJP MPs from B'luru join Lalbagh march
+
+All four BJP MPs from Bengaluru — union minister Shobha Karandlaje, L S Tejasvi Surya, P C Mohan and CN Manjunath — joined Sunday's citizen march at Lalbagh against the parks amendment allowing the government to sell or lease 5% of park space. Karandlaje and Surya had earlier urged Governor Thaawarchand Gehlot to return the bill; Leader of the Opposition R Ashoka and former deputy CM C N Ashwath Narayan were absent.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="2" index="3" kind="news" scope="karnataka" -->
+### NEET protest: Youth Cong members detained
+
+Several Youth Congress leaders were detained on Sunday after staging a protest and attempting to storm the state BJP office in Malleswaram, condemning alleged NEET irregularities and suicides and demanding Union Home Minister Amit Shah's resignation. Police forcibly removed the protesters, including national secretary Tarique Bagwan, into preventive custody; they were released later.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="2" index="4" kind="news" scope="karnataka" -->
+### First generation tuition waiver pushes up enrolment in tech edu in TN: IIMB Study
+
+An IIM Bangalore study found Tamil Nadu's First-Generation Graduate Scholarship, introduced in 2010-2011, increased technical course enrolment among eligible first-generation students by about 3.7 percentage points and raised the likelihood of choosing a technical stream by around eight points. Researchers Soham Sahoo and Gopinath Annadurai noted Karnataka was used as a control state alongside Kerala, and said a similar waiver could complement reservation policies though Karnataka would need its own design.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="2" index="5" kind="news" scope="karnataka" -->
+### Trekking: Forest dept rolls out stricter SOP
+
+The Forest Department introduced a comprehensive SOP to regulate trekking across Karnataka's nearly 39 designated routes, mandating route-wise safety assessments, carrying capacity limits, trained local guides and GPS tracking in areas with poor connectivity. Trekking may be suspended where tigers, leopards, elephants or bears are active, following 2026 incidents including a fatal leopard attack at MM Hills and a missing trekker search at Tadiandamol in Kodagu.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="2" index="6" kind="news" scope="karnataka" -->
+### 'Save Lalbagh' cry grows louder with massive rally
+
+Continuing coverage of Sunday's Lalbagh protest, four BJP MPs including Union minister Shobha Karandlaje and three MLAs joined demonstrators, among them senior citizens who came in wheelchairs. Jayanagar resident Aji G R Murthy said alternatives must be found rather than taking park land for infrastructure, and cyclists from the Go Green Cycling Forum warned that sacrificing green spaces for vehicular projects would undermine their environmental transport campaign.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="2" index="7" kind="news" scope="karnataka" -->
+### 40 water tanker drivers booked for drunk driving
+
+Bengaluru Traffic Police booked 40 water tanker drivers for allegedly driving under the influence during a special enforcement drive on Friday between 6 am and 9 am, inspecting 1,476 tankers. The accused drivers' licences will be forwarded to respective RTOs for suspension, and police said similar drives would continue.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="2" index="8" kind="news" scope="karnataka" -->
+### Citizens' group seeks probe of Justice Hegde for 'anti-quota' views
+
+Jagrutha Karnataka urged President Droupadi Murmu in an August 28 letter to order a high-level inquiry into Justice Santosh Hegde's appointment as Supreme Court judge over his "anti-reservation" statements and remarks on secularism. The collective also sought a review of his judgments, termed him "constitutionally and morally unfit" for pension, and asked that his pension be withdrawn unless he stops anti-constitution statements and apologises.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="2" index="9" kind="news" scope="karnataka" -->
+### Bhagwat's remarks in US: Priyank accuses RSS chief of doublespeak
+
+Home Minister Priyank Kharge accused RSS chief Mohan Bhagawat of doublespeak after Bhagawat said on August 29 in New York that anyone thinking there should be no Muslims in India is not a Hindu. Priyank said the RSS propagates "Hindu Rashtra" in India but speaks of harmony abroad, reiterated that the unregistered RSS must register, and questioned links between event organiser AHEAD and the RSS ecosystem.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="2" index="10" kind="news" scope="karnataka" -->
+### Symposium focuses on developments in electrochemistry
+
+More than 350 participants attended the 33rd National Symposium on Electrochemical Science and Technology (NSEST-2026) at IISc over the weekend, organised by ECSI with sessions on battery technology, green hydrogen, fuel cells, sensors and carbon dioxide conversion. The symposium included more than 130 poster presentations and ECSI awards for contributions to electrochemical science.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="2" index="11" kind="news" scope="karnataka" -->
+### Contractual posts under Mission Shakti
+
+The Department of Women and Child Development invited applications for temporary contractual appointments under Mission Shakti, with forms available at its Dr MH Marigowda Road complex in Bengaluru and submissions due by September 2; inquiries can be made at 080-29578688 or dwcd.dd@gmail.com.
+<!-- /npd:article -->
+
+---
+
+## Page 3
+<!-- npd:article page="3" index="1" kind="news" scope="karnataka" -->
+### Govt to build 1,500 footbridges in coastal and Malnad regions
+
+Public Works Minister Satish Jarkiholi said the department will build 1,500 Kalu Sanka footbridges across rivers and rivulets in coastal and Malnad regions, with 700 already built at Rs 200 crore and 300 more planned while the rest follow in two years. He also said 750 new bridges costing Rs 4,000 crore were taken up in three years, and that CM D K Shivakumar will perform bhoomi puja in November for 'Krishna Bhavan' in Delhi for Karnataka UPSC aspirants.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="3" index="2" kind="news" scope="karnataka" -->
+### 6 booked for creating ruckus at school over Eid celebrations
+
+Police registered an FIR against six Hindu organisation activists — Kote Prasad, Benne Krishna, Shivanna, Dileep Shetty, Sunil and Rajegowda — for allegedly creating a ruckus at a Chikkamagaluru school on Saturday over Eid Milad celebrations. Principal Akshatha complained that activists entered abruptly, disturbed the school and abused staff, while students had worn colourful clothes as per school rules.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="3" index="3" kind="news" scope="karnataka" -->
+### Woman dies after saree gets stuck in machine at flour mill
+
+Renuka Siddappa Kurlachchi, 48, died on Sunday after her saree entangled in a machine at a flour mill in Chikkapadasalagi village, Jamkhandi taluk, Bagalkot district, and she sustained grievous injuries while being shifted to hospital. Savalagi police registered a case.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="3" index="4" kind="news" scope="karnataka" -->
+### PDO caught taking Rs 12,000 bribe via UPI
+
+Kalaburagi Lokayukta arrested Beeral (B) gram panchayat PDO Mehboob Patel for allegedly accepting the first Rs 12,000 installment of an Rs 18,000 bribe via PhonePe to mutate a 60X40 sqft government-land plot at Malla (B) village in Mareppa Talwar's name. Inspector Arun's team conducted the operation under SP Siddaraju C.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="3" index="5" kind="news" scope="india" -->
+### TN files fresh plea in SC, says K'taka not following CWMA orders
+
+Tamil Nadu filed a fresh Supreme Court plea seeking directions for Karnataka to release the balance 17.604 tmcft of Cauvery water on a pro-rata basis as on August 27, 2026, and 9,000 cusec as directed by CWMA from August 26 to September 8. Tamil Nadu contended Karnataka reduced releases after the August 25 CWMA order, severely affecting Cauvery Delta farmers; the court had fixed the matter for Monday, August 31, 2026.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="3" index="6" kind="news" scope="karnataka" -->
+### Neelakurinji look-alike bloom adds blue-violet charm to Kudremukh hills
+
+Blue-violet flowers resembling Neelakurinji have bloomed in smaller numbers this year on Kudremukh hills in Chikkamagaluru district, drawing trekkers and nature enthusiasts. Tourism Minister K J George and department officials urged visitors not to pluck flowers or litter, and said measures would promote responsible tourism while protecting the habitat.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="3" index="7" kind="news" scope="karnataka" -->
+### Hindu activists detained for bid to gherao Prakash Raj in Dharwad
+
+BJP and Hindu activists attempted to gherao actor Prakash Raj outside Karnataka Vidyavardhaka Sangha in Dharwad on Sunday, accusing him of being "anti-Hindu" and "anti-Dharmasthala"; police dispersed protesters and took some into preventive custody. About 20 ABVP and RSS activists were later detained after ink was smeared on Raj's photograph; MLA Aravind Bellad questioned why only anti-Raj protesters were arrested.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="3" index="8" kind="news" scope="karnataka" -->
+### Mahatma Gandhi Seva Award
+
+The DIPR invited applications for the Mahatma Gandhi Seva Award–Karnataka 2026 for individuals aged 60-plus or organisations with 25 years' service in Gandhi-inspired fields, carrying a Rs 5 lakh cash prize. Applications are due by September 3, 2026, to the Commissioner, DIPR, Infantry Road, Bengaluru, or informationdiprawards@gmail.com.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="3" index="9" kind="news" scope="karnataka" -->
+### HC: Criminal process not a weapon for disgruntled litigant to settle civil dispute
+
+The high court quashed criminal proceedings including under the Atrocities Act arising from a civil land dispute in Jigani, Anekal taluk, holding that a dispute pending in civil court cannot be converted into criminality. Justice M Nagaprasanna said criminal law cannot pronounce on title before the civil court and that investigation tainted by vengeance would make the process itself punishment.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="3" index="10" kind="news" scope="karnataka" -->
+### 'HIV patients face higher risk of heart diseases'
+
+At a Jayadeva hospital symposium, institute director Dinesha B said HIV patients face higher coronary artery disease risk and that about 25% of rural patients skip ART, while KSAPS programme director Padma Basavanthappa said roughly 55,000 people in Karnataka may not know their HIV status and 3,700 may not be on ART. Dr Devi Prasad Shetty said cardiovascular disease is an important part of the long-term health journey for people living with HIV.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="3" index="11" kind="news" scope="coastal_karnataka" -->
+### 24 fishermen rescued from sinking boat in Karwar
+
+All 24 fishermen aboard the 'Shree Mata' vessel were rescued on Sunday after the boat overturned a few nautical miles off Anjadeev Island near Karwar; a hole at the bottom may have caused flooding. The boat belonging to Neelakanta Karvy of Ankola sank despite rescue efforts by nearby fishing crews, fisheries officials said.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="3" index="12" kind="news" scope="karnataka" -->
+### Islam is 'greater' than other religions: Rayareddi
+
+Higher Education Minister Basavaraj Rayareddi said at a Muslim community mass marriage in Kuknoor, Koppal, that Islam is "greater" than other religions and that he wished to visit Mecca but cannot as a non-Muslim. BJP leader R Ashoka said the remarks portrayed Sanatana Dharma in an inferior light.
+<!-- /npd:article -->
+
+---
+
+## Page 4
+<!-- npd:article page="4" index="1" kind="news" scope="international" -->
+### NEPAL DISASTER: Families await news of men working at hydropower projects in Rasuwa
+
+Four Kushinagar men working at Nepal's Rasuwa district power projects — Karan Sharma, Arun Kumar Singh, Ravindra Singh and Sunil — have been untraceable since the August 26 flash floods, their families said Sunday. Eleven-year-old Dharm Kumar from Bihar's Motihari is searching the Gandak riverbanks for his father Nandlal Sahni, and the Independent Power Producers' Association said 76 Andritz Hydro employees on Upper Trishuli-1 were reportedly missing.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="4" index="2" kind="news" scope="india" -->
+### No trace of 61 pilgrims from Maharashtra
+
+There was no news till Sunday of 61 Mumbai pilgrims, including Dr Jay Kotecha, missing since August 26 Nepal flash floods during a Hills and Trials/Richa Tours Kailash Mansarovar trip that left Mumbai on August 23 and was due back September 6. Families contacted the Centre and Maharashtra government as relatives sought army-led evacuation after pilgrims were last reachable near the Gyirong border immigration complex.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="4" index="3" kind="news" scope="india" -->
+### Alarmed by Nepal disaster, experts plan Arunachal glacier survey to find ways to reduce GLOF impact
+
+After Nepal's glacier-linked devastation, experts from IIT-Roorkee, IIT-Mandi, NCPOR and CESHS Arunachal Pradesh plan a September bathymetric survey of the Khangri Glacier in Tawang to assess glacial lakes and reduce GLOF/LLOF risk. CESHS director Tana Tage said the Eastern Himalayas' retreating glaciers and expanding lakes pose major downstream water-security and disaster risks for the Brahmaputra basin.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="4" index="4" kind="news" scope="india" -->
+### Bengal couple recounts narrow escape
+
+Retired teachers Anukul Poddar and Reba Roy Poddar of Basirhat, West Bengal, returned home Sunday after their Mansarovar Yatra group reversed course about one-and-a-half hours from flood-hit Rasuwa on August 26 when a bridge to the immigration office was washed away. They reached Birgunj on Friday and returned by train instead of flying from Patna as advised.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="4" index="5" kind="news" scope="india" -->
+### NRI missing: All blank after last word before crossing border
+
+Kandimalla Suhasini Reddy, a New Zealand citizen working in Australia, has been missing in Nepal since checking out of a hotel near the immigration centre before crossing for Kailash Mansarovar, her brother Lohith Reddy said. She last updated the family WhatsApp group after a Pashupatinath Temple bhajan session and spoke to her husband before the August 26 floods.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="4" index="6" kind="news" scope="india" -->
+### 'Punishing students for asking questions unconstitutional'
+
+Justice Bhuyan said in a convocation address that threatening students with punitive action for asking questions is unconstitutional and a misuse of power, and that universities must allow reasoned disagreement. He called tolerance a constitutional value and said democracy requires different voices to co-exist and be heard with dignity.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="4" index="7" kind="news" scope="karnataka" -->
+### KPSC 'scam': Arrested IAS officer Gangwar sent to jail
+
+IAS officer Gangwar, presumed untraceable last weekend before Home Minister Priyank Kharge said he was on family-emergency leave, was sent to jail amid KPSC scrutiny over Veterinary Officers' Recruitment Exam irregularities including alleged resort question-paper leaks for 400 Animal Husbandry posts. The ED raided his Bengaluru and Bareilly premises and issued questioning notices he has not answered; the CID took over investigation on July 28.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="4" index="8" kind="news" scope="india" -->
+### Terror shifts strategy with porn sites in J&K
+
+Security officials said terror handlers in Jammu and Kashmir are shifting from WhatsApp, Facebook Messenger and Signal to anonymous channels including the Tor network and apps usable on 2G without phone registration. The trend follows earlier Pulwama probe findings that more than 40 virtual SIM cards were used in the February 2019 attack that killed 40 CRPF personnel.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="4" index="9" kind="news" scope="india" -->
+### India close to long-term uranium import deal with Uzbekistan
+
+Modi and Uzbek President Mirziyoyev agreed to explore uranium and critical-minerals cooperation, potentially beyond buyer-seller ties as India seeks overseas fuel for nuclear expansion. Cameco will supply nearly 22 million pounds of uranium concentrate between 2027 and 2035, Australia arrangements were finalised in July, and bilateral trade targets were set at $5 billion by 2030 from over $1 billion now.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="4" index="10" kind="news" scope="karnataka" -->
+### KPSC 'lapses': HDK says govt didn't file objections in High Court
+
+Union Minister H D Kumaraswamy accused the state government of ignoring KPSC irregularities in Assistant Executive Engineer Grade-1 recruitment, including alleged OMR tampering and CCTV data destruction, and of failing to file High Court objections despite a KPSC secretary letter to stay RDPR grade-one recruitment when Priyank Kharge held that portfolio. Priyank hit back on X citing Deve Gowda's 2021 letter to Basavaraj Bommai on gazetted probationer recruitment and Kumaraswamy's jail visit to a former KPSC chairman.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="4" index="11" kind="news" scope="karnataka" -->
+### CM reviews rescue of tourists stranded in Nepal
+
+Chief Minister D K Shivakumar, visiting New Delhi, reviewed rescue operations for Kannadigas stranded in Nepal and directed Resident Commissioner Sameer Shukla to ensure safe return and travel arrangements home. Fifty-four people from Karnataka have already returned safely while efforts continue for others still stuck, a statement said.
+<!-- /npd:article -->
+
+---
+
+## Page 5
+<!-- npd:article page="5" index="1" kind="opinion" scope="india" -->
+### From adarsh naari to autonomy (Opinion)
+
+Congress leader Rahul Gandhi told women at the Chhatron ki Goonj event in Pune that they belong to no one but themselves, in a direct attack on the patriarchal status quo that mainstream parties reaffirm through policy and speech. Rahul used Manusmriti as shorthand for pervasive patriarchy; young women at the event narrated how phrases such as adarsh naari and ab shaadi ki umar ho gayi hai control their lives. The writer, a Mangalore University English professor, argues Gandhi must now ensure his party and any government it leads incorporate women's skills and needs into policy, or the assurances will remain empty.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="5" index="2" kind="news" scope="india" -->
+### Heed the warnings
+
+V Padmanabhan of Bengaluru writes that Nepal's recent floods should warn India against pushing massive dams, roads and hydroelectric projects in disaster-prone Himalayan areas despite repeated warnings. Ignoring such risks, he argues, invites destruction of public and private property and further calamities, and the fragile Himalayan ecology demands caution, environmental assessment and respect for nature rather than development at any cost.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="5" index="3" kind="news" scope="lifestyle" -->
+### Bratman's kitchen symphony
+
+Every weekday from about 9 am, the writer's 30-month-old grandson Bratman arrives for the day and turns the modular kitchen into a playground of drawers, utensils and improvised drums, following his grandmother like an assistant chef and scattering bowls and ladles across the house. Preparing even a second cup of coffee becomes a multi-tasking ordeal amid clangs and missing spoons, followed by an hour-long evening cleanup when Bratman leaves; on weekends the tidy kitchen feels strangely quiet and the grandparents miss the chaos.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="5" index="4" kind="news" scope="karnataka" -->
+### Quackery thrives as healthcare fails
+
+N Sadhasiva Reddy of Bengaluru, responding to an August 30 report that over 500 fake doctors were identified in Karnataka in two years, warns quackery now flourishes in Bengaluru, Mysuru and other cities where unqualified practitioners prescribe antibiotics, steroids and even perform procedures. He argues quacks thrive because understaffed primary health centres, absent doctors, scarce medicines and long waits have eroded public healthcare, and Karnataka must both crack down transparently on fake practitioners and rebuild trust in public health.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="5" index="5" kind="opinion" scope="karnataka" -->
+### Elephants and the rise of curated narratives (Opinion)
+
+Conservationist Ananthapadmanabhan contrasts three August 12 communications about elephants in the Kodagu-Hassan-Chikkamagaluru landscape — an English civil-society repost citing ~500 elephants, a local video of a farmer demanding removal of "your elephants," and a legislator's call for an expert committee on human-elephant conflict in Hassan — to argue well-resourced NGOs often market conservation in English to urban and international audiences while habitat loss, electrocutions, encroachments and conflict spreading into Hassan, Dakshina Kannada and Chikkamagaluru go unaddressed. He urges judging organisations by whether habitats are protected and communities coexist with elephants, not by optics, conferences or social-media visibility.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="5" index="6" kind="opinion" scope="international" -->
+### Meta ruling a fillip for tech accountability (Opinion)
+
+Meta's agreement to pay up to $18 billion to settle US claims over harm to children on Facebook and Instagram acknowledges addictive features damaged teenagers' mental health and will fund youth mental-health and online-safety programmes in the US. Under the deal Meta must add a two-hour daily limit, nighttime and school-hour blocks, hidden likes, age-assurance and parental controls, though parents cannot see children's content; Mark Zuckerberg wants YouTube and TikTok held to the same rules. The editorial says regulators outside the US, including in India, must press Meta to extend similar safeguards because the settlement applies only in America.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="5" index="7" kind="opinion" scope="karnataka" -->
+### A sword of Damocles over GBA elections? (Opinion)
+
+Bengaluru's civic polls remain stalled nearly six years after the BBMP council's September 2020 term ended, and the Special Intensive Revision of electoral rolls now lists only 56.99 lakh of about 1.03 crore earlier voters, with 46.88 lakh in ASDDO categories and 24 lakh flagged for claims and objections. The editorial warns that cutting the electorate nearly in half before Greater Bengaluru Authority elections across 369 wards in five corporations could skew ward sizes, invite legal challenges and become a pretext for further delay, and urges the state and Election Commission to complete SIR, ward preparation and polls with urgency so Bengaluru regains elected accountability.
+<!-- /npd:article -->
+
+---
+
+## Page 6
+<!-- npd:article page="6" index="1" kind="news" scope="international" -->
+### Tensions spike between Türkiye and Israel
+
+Turkish President Recep Tayyip Erdogan has called Israel a "terror state," compared Benjamin Netanyahu to Hitler and floated Turkish military intervention, while Netanyahu has branded Erdogan an "antisemitic dictator" and accused Türkiye of acting like an enemy state, fuelling a rivalry analysts say could destabilise West Asia. On August 18 Israel bombed a defunct Syrian air base at Abu al-Duhur to pre-empt what it said was imminent Turkish deployment; Türkiye later sought Netanyahu's Interpol arrest on genocide and torture charges, and disputes also run through Somalia/Somaliland recognition, Eastern Mediterranean energy ties and a Türkiye-Saudi-Pakistan defence pact. The NYT reports US envoy Tom Barrack called the strike an "unnecessary escalation" as both NATO ally Türkiye and US-backed Israel pursue clashing visions for Syria after Gaza and Assad's 2024 ouster.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="6" index="2" kind="news" scope="lifestyle" -->
+### Faith and the freedom to choose
+
+Rohini S Murthy recounts how her childhood friend Anita, raised by atheist parents in the 1980s, felt something was missing without a pooja room until she pleaded for a Shiva picture because that image came to her whenever she closed her eyes; her father eventually bought one. Over four decades Anita has found peace through pilgrimages and fasting, and the family maintained mutual respect without conversion attempts — a lesson, the writer says via Sri Chinmoy, that inner compassion and outer tolerance around faith could make society happier.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="6" index="3" kind="news" scope="karnataka" -->
+### First cybercrime police station opened
+
+On August 30, 1976, Home Minister Mallikarjuna Kharge inaugurated India's first exclusive cyber crime police station in Bangalore, with statewide jurisdiction to investigate software piracy, hacking, computer-time theft, IP violations, vandalism, financial frauds, system break-ins and virus creation.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="6" index="4" kind="news" scope="india" -->
+### Six-year term for Lok Sabha, State Assemblies
+
+On August 30, 2001, the government finalised a draft Bill to amend Articles 83 and 172 so Lok Sabha and state assemblies would serve six-year terms instead of five, incorporating main Swaran Singh Committee recommendations and expected to be introduced in Parliament the next day.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="6" index="5" kind="opinion" scope="india" -->
+### A lesson before the next disaster (Opinion)
+
+Entrepreneur P S Parameswaran links forgotten Indian industrial tragedies from Bhopal and the 1944 Bombay Docks explosion to the 2020 Visakhapatnam LG Polymers leak with the Strait of Hormuz crisis, where over 500 Indian sailors remain stranded amid Iran-US-Israel conflict and July cruise-missile hits on UAE tankers killed one Indian seafarer. He argues frontline workers and captains often see danger before officials act, and that warnings ignored in factories, mines or war zones become catastrophes when responsibility and timely evacuation fail — urging India not to forget Hormuz seafarers once headlines fade.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="6" index="6" kind="opinion" scope="karnataka" -->
+### Priyank Kharge asks the necessary questions about the RSS (Opinion)
+
+Journalist Jagdish Rattanani examines Karnataka Home Minister Priyank Kharge's demand that the RSS — which PM Modi on August 15, 2025 called the "world's biggest NGO" — register, publish accounts and explain how it uses public spaces, permissions and Z+ security while claiming tax-exempt mutuality on gurudakshina assessed at Rs 15,000–71,000 annually in 1967–76 Patna High Court records. Kharge's open letter cites questions on funding, public order and constitutional compliance; the RSS cites Article 19(1)(c) freedom of association and equates scrutiny with attacks on Hindu faith. Rattanani argues India's largest voluntary body should not operate outside governance norms binding citizens and trusts, especially as its BJP alliance expands influence while democratic institutions decline.
+<!-- /npd:article -->
+
+---
+
+## Page 7
+<!-- npd:article page="7" index="1" kind="news" scope="india" -->
+### Punjab polls: The Haldwani factor in Hoshiarpur hustings
+
+Former Punjab CM Charanjit Singh Channi, absent from recent Congress programmes including a Delhi CWC he skipped citing exams, seized Rahul Gandhi's Saturday demand for an FIR over a post-Kharge-rally "purification ritual" in Haldwani as BJP attempt to revive untouchability. With Dalits forming nearly 32% of Punjab — India's highest share — and the "Save Constitution" narrative delivering Congress seven of 13 Lok Sabha seats in 2024, including Channi's Jalandhar win by 1.75 lakh votes despite losing two assembly seats, both Congress and BJP are courting Ravidas and Ramdasia communities ahead of Rahul's planned Chandigarh student outreach and statewide bus tour; the open question is whether Channi joins that bus.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="7" index="2" kind="news" scope="india" -->
+### RSS chief's diversity talk in US draws Oppn fire
+
+RSS chief Mohan Bhagwat told US audiences unity in diversity is India's DNA and that a Hindu who wants no Muslims in Bharat "will not remain a Hindu," prompting Congress, TMC, AAP, AIMIM and Shiv Sena (UBT) to accuse doublespeak and demand he convey the message to BJP outfits that "spread hatred," while BJP leaders including Maharashtra CM Devendra Fadnavis praised Hindu tolerance as core Hindutva. Congress's Shama Mohamed alleged RSS DNA holds "hatred and communalism"; Kapil Sibal asked why diversity is accepted abroad but not at home; Owaisi said RSS treats Indian Muslims and Christians as internal threats one and two.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="7" index="3" kind="news" scope="india" -->
+### Haldwani row: Cong workers burn Manusmriti near RSS office
+
+Youth Congress president Uday Bhanu Chib led workers to RSS headquarters at Jhandewalan on Sunday, burning Manusmriti copies and carrying Constitution preambles to protest the shudhikaran after Mallikarjun Kharge's Haldwani rally, a day after Rahul Gandhi called the Ramlila Maidan purification a "crime" and demanded an FIR. Chib said RSS-BJP ideology is anti-Dalit and framed a battle between Constitution and Manusmriti governance; police detained him and other protesters.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="7" index="4" kind="news" scope="india" -->
+### AAP leader shot dead in Punjab town
+
+Four armed assailants in a car shot dead 45-year-old AAP leader Gurpreet Singh alias Gopi and injured 22-year-old Harpreet alias Happy on a motorcycle in Mamdot's main bazaar on Saturday evening; Gopi died at Civil Hospital while Harpreet was referred to Ludhiana. Ferozepur SSP Bhupinder Singh said the killing was election-related, accused have been identified and teams were dispatched to arrest them.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="7" index="5" kind="news" scope="india" -->
+### Cong war rooms to transform into connect centres
+
+Congress is converting election-only war rooms into year-round "connect centres" staffed by leaders and professionals, chaired in review by general secretary (organisation) KC Venugopal, to monitor grassroots tasks, disseminate leadership messages to mandal level within an hour, track performance under Sangathan Srijan Abhiyan and collect programme records, scaling up to war-room strength during polls. Sources said centres will roll out in all states by year-end; Odisha's unit was to issue letters to non-performing district presidents, and 6.44 lakh booth-level agents cover about 57% of booths with full coverage targeted by year-end.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="7" index="6" kind="news" scope="india" -->
+### BJP thinks it is bigger than RSS; should listen to Bhagwat: Dipke
+
+Cockroach Janta Party leader Abhijeet Dipke said the BJP after 12 years in power believes it has outgrown the RSS and should heed Mohan Bhagwat's New York remark that Hindus who want no Muslims in Bharat cease to be Hindu, noting Bhagwat also said Gen Z protesters should not be called anti-nationals while PM Modi coined "Dimagi Naxal." Dipke rejected distortion of activist Sonam Wangchuk's claim that CJP leaders harbour political ambition.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="7" index="7" kind="news" scope="india" -->
+### Justice Bhuyan bats for 'distinguished jurists' in SC
+
+Supreme Court judge Ujjal Bhuyan at NLU Delhi's 13th PG convocation urged use of Article 124(3)(c) to appoint distinguished jurists, noting none besides HC judges or practising lawyers has reached the apex court in 76 years and calling the "lack of practical experience" objection shallow when academics sit on constitutional courts in the US and Britain. He said either the Centre and Collegium doubt Indian academia's depth or have not seriously explored the provision.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="7" index="8" kind="news" scope="india" -->
+### One nation, one time: IST to become India's only official time
+
+The Consumer Affairs Ministry notified Legal Metrology (Indian Standard Time) Rules, 2026 on August 27 under the 2009 Act, making IST the compulsory time reference for legal, commercial, digital and administrative use from about March 2027 after 180 days, part of "One Nation, One Time." CSIR-NPL will maintain UTC (NPLI) for IST (UTC+5:30), disseminated via regional labs, NavIC and NIC; telecom, finance, energy and data centres must sync to authorised sources with anti-jamming and anti-spoofing protections, and violations face Legal Metrology penalties.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="7" index="9" kind="news" scope="india" -->
+### Sugar retail prices stay above Rs 60/kg despite govt measures
+
+All-India average retail sugar was Rs 64.24/kg on Sunday, up 1.77% week-on-week, 30% over a month ago and 38.63% year-on-year, with MRP ranging Rs 40–74 and city rates including Rs 62 Delhi, Rs 66 Mumbai, Rs 63 Chennai and Rs 68 Ranchi, despite duty-free import of 10 lakh tonnes raw sugar, export ban, tighter stock norms and a near-20% ex-mill drop. Wholesale held at Rs 59.73/kg; 2025-26 production is estimated at 306 lakh tonnes against 280-285 lakh tonnes demand, below earlier 343 lakh tonne projections, while government blames mills for "jacking up" prices.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="7" index="10" kind="news" scope="india" -->
+### Statutory bodies not 'state', can't invoke Article 131: Apex court sets aside HC order
+
+A Supreme Court bench of Justices Dipankar Datta and Sheel Nagu set aside the Allahabad High Court's 2023 direction that Lucknow Development Authority use Article 131 original jurisdiction in a land dispute with Union defence establishments, ruling a statutory body under Article 12 is not a "state" for Article 131 Centre-state disputes. The LDA, a body corporate under the 1973 Act, had developed a colony whose allottees faced defence claims; the SC remitted the writ petition for fresh merits hearing, calling the HC approach a gross error.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="7" index="11" kind="news" scope="india" -->
+### Six-year-old Bihar boy stages dharna over 'police excesses' against parents
+
+Six-year-old Aditya, who joined BPSC aspirants' August 25 protest in Patna, began a Gardanibagh sit-in Sunday alleging police beat his parents while keeping him in custody eight hours during the gherao attempt on CM Samrat Chaudhury's residence; police said they held him for his safety and returned him to his house-help mother. Aditya vowed not to leave unless PM Narendra Modi meets him to address the grievance.
+<!-- /npd:article -->
+
+---
+
+## Page 8
+<!-- npd:article page="8" index="1" kind="news" scope="india" -->
+### SC to hear plea on cash donations to parties today
+
+The Supreme Court is scheduled to hear on Monday a plea challenging the validity of an Income Tax Act provision allowing political parties to receive "anonymous" cash donations below Rs 2,000. Petitioner Khem Singh Bhati argues the lack of transparency undermines election purity by depriving voters of knowledge about political funding sources, and has also sought directions requiring the Election Commission to prescribe that no political party registered for an election symbol may receive cash donations. A bench of Justices Vikram Nath and Sandeep Mehta is listed to hear the matter.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="8" index="2" kind="news" scope="india" -->
+### Four armed men killed in Meghalaya encounter
+
+Four armed men were killed in an exchange of fire with a joint Meghalaya Police and Anti-Terrorism Squad team in East Garo Hills district in the early hours of Sunday. The gunfight occurred around 4 am at a checkpoint on the road from Songsak towards Kagal after occupants of a suspected vehicle allegedly opened fire when signalled to stop; the four men were declared brought dead at hospital. East Garo Hills SP Pawar S Vasantrao said their identities are yet to be established and their possible involvement in the recent kidnapping and killing of a businessman is being examined.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="8" index="3" kind="news" scope="india" -->
+### Wandhama massacre: After 28 yrs, investigators go back to beginning
+
+The Jammu and Kashmir State Investigation Agency has reopened the investigation into the January 25-26, 1998 Wandhama massacre in Ganderbal district, in which militants killed 23 people including four children and nine women at households of four Kashmiri Pandit families who had remained in the village. Nearly three decades later, four rundown Pandit houses still stand as reminders of the attack, which police had blamed on Pakistan-based Lashkar-e-Taiba. The SIA, revisiting several unsolved insurgency-era killings involving Kashmiri Pandits, says it will examine the earlier probe and seek credible evidence and witness testimony to identify perpetrators and those who assisted them despite the passage of time.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="8" index="4" kind="news" scope="india" -->
+### PM calls for drug-free India, hails girls' space mission
+
+Prime Minister Narendra Modi, in the 137th episode of "Mann Ki Baat" on Sunday, urged youth, musicians, students, theatre groups and content creators to build awareness against drug addiction through the "Nasha-mukt Yuva for Viksit Bharat" campaign, inviting creative work shared with #NashaMuktYuva. He also highlighted "Mission ShaktiSAT", bringing together 12,000 girl students from 108 countries to learn satellite technology, with the second phase launched at Gautam Buddha University on National Space Day and preparations underway to launch a satellite developed through the girls' participation into lunar orbit. Modi also praised grassroots cleanliness efforts in Uttar Pradesh's Patwai village and during the recent Amarnath Yatra.
+<!-- /npd:article -->
+
+---
+
+## Page 9
+<!-- npd:article page="9" index="1" kind="news" scope="india" -->
+### GCCs fuel India's co-working boom
+
+India's flexible workspace inventory has crossed 110 million sq ft, more than tripling between 2020 and 2025 and accounting for 10-12% of Grade A office stock, as large enterprises and global capability centres increasingly adopt coworking and managed offices. India now has 2,117 GCCs employing over 2.36 million professionals and generating an estimated $98.4 billion in FY26 revenue; GCCs accounted for 44% of India's record 20.7 million sq ft office leasing in Q1 2026. WeWork India plans 36% capacity growth for FY27, while ANAROCK's Anuj Puri projects Grade A flex stock in top-7 cities to reach 100 million sq ft by 2027, with Bengaluru leading at over 22 million sq ft and a WeWork-Redseer study estimating AI could generate nearly 79 million sq ft of incremental office demand by 2030.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="9" index="2" kind="news" scope="india" -->
+### HDFC Bank CEO search tests investor confidence, governance
+
+HDFC Bank's search for a new chief executive after Sashidhar Jagdishan's surprise decision not to seek reappointment — his final day is October 26 — will test whether India's largest private-sector lender can restore investor confidence amid governance scrutiny. Jagdishan, who took charge in 2020 and oversaw the merger with HDFC Ltd in 2023, steps down after the part-time chairman's acrimonious exit and fallout from Credit Suisse AT-1 bonds; the bank's shares have fallen 27% this year against a 3.5% decline in the Nifty Bank Index. IIFL Capital's Rikin Shah said the move removes RBI tail-risk of a truncated tenure, while the board must seek regulator approval for an internal or external successor; HDFC Bank and the RBI have denied governance issues despite Dubai branch onboarding restrictions and Chairman Atanu Chakraborty's March resignation citing ethical differences.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="9" index="3" kind="news" scope="karnataka" -->
+### How Murf AI is building for real-time conversational AI
+
+Bengaluru-based Murf AI, founded in 2020 by IIT Kharagpur alumni Ankur Edkie, Sneha Roy and Divyanshu Pandey, has built Falcon and Falcon 2 — proprietary voice foundation models for real-time conversational AI after its earlier Gen 1 and Gen 2 models proved unsuitable for low-latency voice agents. The startup, which has raised $11.5 million and reports Rs 75-90 crore ARR, is growing more than 2.5x month-on-month in conversational AI adoption and about 7x overall over four years, targeting multilingual and code-mixed Indian speech where open-source training data is scarce. Murf, with 85+ employees across India and the US, is piloting a full-stack voice agent platform in beta and building its own speech-to-text model alongside Falcon 2's text-to-speech layer.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="9" index="4" kind="news" scope="karnataka" -->
+### Ather Energy launches e-scooter Konarc
+
+Ather Energy said it has invested Rs 400-500 crore to develop its EL platform and first mass-market e-scooter Konarc, launched at a starting price of Rs 99,999 (ex-showroom Bengaluru) in S100, S125 and S160 variants with deliveries from September. Co-founder and CEO Tarun Mehta called it the company's largest investment on a new product to date; the EL platform adds onboard charging, AeBS and 10,000 km service intervals, and Ather also said a 200 km version of Ather S and a feature-loaded Z version with 125 km IDC range are in the pipeline.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="9" index="5" kind="news" scope="india" -->
+### Expect demand for electric CVs to remain strong: Tata Motors MD & CEO Wagh
+
+Tata Motors MD and CEO Girish Wagh expects demand for electric commercial vehicles to remain strong with a robust order book, reporting over 3,400 electric CV orders in Q1 FY26 across segments. He said supply-chain bottlenecks on cells imported from China affecting the Intra EV should be resolved completely by end of the ongoing quarter, flagged upcoming PM-eBus Sewa tenders as positive, and noted the electric small commercial vehicle pickup in the retail market is doing very well.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="9" index="6" kind="news" scope="india" -->
+### HDFC Bank weighing Bharucha, outsider for post: Sources
+
+HDFC Bank is likely to name Deputy Managing Director Kaizad Bharucha as one of two CEO options after Sashidhar Jagdishan retires in October, while also searching for an external candidate as required by RBI rules for banking appointments, two people familiar with the matter told Reuters. Bharucha, overseeing retail and wholesale businesses, is among leading internal candidates and is not due to retire until 2029; the CEO search follows about six months of leadership upheaval after Jagdishan decided not to seek reappointment. Neither HDFC Bank nor Bharucha responded to Reuters requests for comment.
+<!-- /npd:article -->
+
+---
+
+## Page 10
+<!-- npd:article page="10" index="1" kind="news" scope="india" -->
+### Healthcare hiring a bright spot as India's job market rebounds
+
+India's formal job postings rose 1.2% in July 2026, ending three months of decline, standing 8.3% higher year-on-year and 84% above pre-pandemic levels, with healthcare and care-economy roles leading gains while tech hiring softens, according to Indeed APAC economist Callam Pickering. Medical technician postings rose 30%, childcare 26%, physicians and surgeons 26%, and therapy 25%, even as IT infrastructure, software development and analytics roles fell double digits; CIELHR data show healthcare job postings nearly doubled from about 41,300 in 2024 to 81,500 in 2025. Recruiters including ManpowerGroup, Adecco India and CIELHR cite ageing populations, workforce shortages, chronic-disease care and AI-enabled health roles, with nearly 30% of healthcare openings now requiring combined domain and digital skills and the sector expected to create 2-2.5 million new jobs by 2030.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="10" index="2" kind="opinion" scope="india" -->
+### India is growing. But who benefits? (Opinion)
+
+Anubhav Srivastava of Aryzen Capital Advisors argues that India's aggregate growth masks uneven transmission of prosperity, noting SUVs rose from roughly a fifth of car sales in 2015 to more than half by 2025 while entry-level hatchbacks halved, premium consumption outpaced the mass market, and RBI data show net household financial savings recovering to about 7% of gross national disposable income in FY25 — still modest against corporate profits at seventeen-year Nifty-500 highs and rising government capex. Drawing on Anirudh Krishna's "dollar economy" versus "rupee economy" framing, he contends manufacturing's ~13% GDP share has barely shifted for decades, graduate unemployment runs more than three times the national rate, and durable growth requires broadening rising incomes beyond affluent consumption and public investment into stronger small businesses, higher savings and revived private investment.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="10" index="3" kind="news" scope="india" -->
+### Equity markets may remain range-bound
+
+Indian equity markets are likely to stay range-bound in the week ahead with a marginal recovery possible after three weeks of weakness, supported by Brent crude easing to around $88/bbl and FII buying of Rs 3,276 crore last week, though Iran and Strait of Hormuz risks remain key monitorables, writes Motilal Oswal's Siddhartha Khemka. Nifty 50 fell about 0.5% week-on-week while mid- and small-cap indices gained; Q1 FY27 GDP data due August 31 is expected around 7-7.3%, NBFC profits are projected to grow 24% in FY27, textiles reported ~18% Q1 revenue growth, and the government has proposed Rs 13,000 crore in advanced battery component incentives and a Rs 62,500 crore mobile phone manufacturing scheme for FY27-FY31.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="10" index="4" kind="news" scope="lifestyle" -->
+### 'Online offers convenience, but malls deliver experiences that digital platforms can't'
+
+Nexus Malls Chief Marketing Officer Nishank Joshi told Deccan Herald that India's malls are evolving into lifestyle destinations through thematic events, concerts, stand-up comedy, sneaker culture IPs and immersive retail, while quick commerce has shrunk in-mall grocery formats. He said Tier-2 cities such as Mangaluru, Mysuru, Bhubaneswar, Amritsar and Udaipur draw city-wide catchments when organised retail arrives, unlike metros where traffic limits visitors to 3-5 km, and that touch-and-feel shopping plus experiences from Van Gogh exhibitions to AR/VR and sneaker festivals give malls an edge digital platforms cannot replicate; D2C brands, jewellery, F&B and revived regional cinema are strengthening the retail mix.
+<!-- /npd:article -->
+
+---
+
+## Page 11
+<!-- npd:article page="11" index="1" kind="news" scope="international" -->
+### Nepal begins mass burials of unidentified victims
+
+Nepal's Chitwan district has become the site of mass burials for hundreds of unidentified flood victims, with authorities digging hundreds of graves in Devghat forest nearly 200 km from the Rasuwa valleys where the disaster struck on Wednesday. Chief district officer Ganesh Aryal of Baratpur said bodies were too badly decomposed to identify and burial was needed to protect public health. Authorities buried 96 unidentified bodies on Saturday and planned more than 100 on Sunday; about 750 people have been killed and more than 3,000 reported missing after a glacial-collapse flash flood along Nepal's border with China. DNA samples were collected from the dead, burial sites were recorded with markers above and below ground, and at Bharatpur Hospital about 125 decomposing bodies overwhelmed a mortuary built for 50, while the Chitwan Expo Centre became a focal point for families searching for missing relatives.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="11" index="2" kind="news" scope="india" -->
+### India provides 68.5 tonnes of relief, tunnel expertise
+
+India has provided 68.5 tonnes of relief materials to flood-hit Nepal and sent technical teams, forensic experts and equipment for search and rescue, the Indian embassy said. A specialised contingent including tunnel experts was deployed to hydropower tunnels where workers are believed trapped after Wednesday's flash floods, and a fourth flight carrying 11 tonnes of relief landed on Sunday, the Ministry of External Affairs said. India has also sent a forensic team to work with Nepali counterparts on DNA sample analysis; Nepal is also liaising with a team from China.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="11" index="3" kind="news" scope="international" -->
+### Authorities step up efforts to rescue hundreds trapped in tunnels
+
+Nepal's military airlifted heavy machinery by helicopter on Sunday to an under-construction dam as rescuers battled rising waters to reach workers trapped in a tunnel four days after floods. The China-Nepal border disaster killed more than 780 people, left more than 3,000 missing, knocked out about 10% of Nepal's power generation and inundated several hydropower projects. Rescue operations are underway at five hydroelectric projects including the Upper Trishuli complex, where authorities said around 350 people could be trapped; about 10,000 Nepali troops are deployed alongside specialists from China and India. Dharam Raj Uprety, chief of Nepal's national disaster management authority, said debris makes it very tough to blast a way through.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="11" index="4" kind="news" scope="international" -->
+### Iran's supreme leader calls for Muslim unity against US, Israel
+
+Iran's supreme leader Mojtaba Khamenei on Sunday called on Muslim countries to unite against the United States and Israel in a written message six months after the start of the Middle East war. Khamenei, in power since shortly after his father Ali Khamenei was killed on February 28, has not been seen in public since his appointment. He urged regional rulers to "recognise your real enemy, understand its plan, and confront it," and warned that actions causing division among Muslims serve Islam's enemies. He also called on Iranians to set aside differences against Israel and the US, and on Friday advocated gradual de-dollarisation and boosting economic production amid a US naval blockade and crippling sanctions.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="11" index="5" kind="news" scope="international" -->
+### Turkey, Saudi, Pak to hold first defence pact meeting
+
+Turkey will host Saudi Arabia and Pakistan on Monday for the first ministerial meeting of their new Mecca Joint Defence Agreement, which commits the three countries to mutual defence if any is attacked. The Istanbul meeting will set up a political and defence strategic committee of foreign and defence ministers and military chiefs. Pakistan is sending Deputy PM and Foreign Minister Ishaq Dar with defence officials; Saudi Arabia is sending its foreign and defence ministers and chief of general staff. The pact unites NATO's second-largest army with the Islamic world's only nuclear-armed state and a leading Gulf power, and participants plan to address defence capabilities, force interoperability and defence industry cooperation.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="11" index="6" kind="news" scope="international" -->
+### Iceland votes 'No' to resuming EU negotiations
+
+Iceland voted 'No' to resuming EU membership negotiations, with almost 53% rejecting talks suspended 13 years ago and about 47% in favour in Saturday's referendum. Prime Minister Kristrun Frostadottir, who favoured a 'Yes,' called it a victory for democracy with over 80% turnout and said her government will not pursue accession talks this term, freezing discussions at least until 2028. EU chief Antonio Costa told Frostadottir the bloc fully respects Icelanders' democratic choice and that Iceland remains one of the EU's closest partners.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="11" index="7" kind="news" scope="international" -->
+### Human rights panel faults Pak's response to PoK unrest
+
+Pakistan's Human Rights Commission (HRCP) said the state used "disproportionate use of force" against protesters in Pakistan-occupied Kashmir and raised serious questions about elections marred by violence and rigging allegations. The HRCP attributed unrest to longstanding grievances, institutional distrust and governance deficits. Polls to 45 seats in the PoK assembly were held in three phases from July 27 to August 10; the banned Joint Awami Action Committee alleges the establishment manipulates 12 refugee seats to install a preferred prime minister. The JAAC claims over 40 were killed in the first poll phase on July 27 and some 400 protesters since early June, which the federal government refutes; the Kashmir police chief reported around 38 security personnel killed since June. The HRCP could not independently establish the full scale of civilian casualties because its team could not access Rawalakot.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="11" index="8" kind="news" scope="international" -->
+### Death toll rises to 38 from Russia's attack on Ukraine
+
+The death toll from a Russian strike on a warehouse west of Kyiv rose to 38 with four still missing, President Zelenskyy said Sunday — the war's deadliest attack so far this year. Friday night's strike on what Ukrainian officials called an ammunition storage facility in Myla sparked massive explosions and fires through nearby homes; 20 were injured including two children. Russia's Defence Ministry said Sunday it is preparing "massive strikes" against Ukraine's energy infrastructure in response to Kyiv's attacks on Russia's civilian infrastructure and fuel and energy sector.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="11" index="9" kind="news" scope="india" -->
+### Unity in diversity is in Bharat's DNA, must be celebrated, says RSS chief
+
+RSS chief Mohan Bhagwat told over 6,000 Indian-American community members and interfaith leaders at Madison Square Garden's Infosys Theatre on Saturday that unity in diversity is in Bharat's DNA and must be "celebrated, respected and accepted." At the 'Universal Oneness Celebration' organised by American Hindus For Engagement and Dialogue, he contrasted America's pluralism with Bharat's unity in diversity, citing Swami Vivekananda to say Bharat's destiny is to help the world realise that oneness is decorated by diversity.
+<!-- /npd:article -->
+
+---
+
+## Page 12
+<!-- npd:article page="12" index="1" kind="news" scope="india" -->
+### India collapse after Shafali blitz
+
+Shafali Verma's 36-ball 64 propelled India to 100 in 10 overs before Thailand spinners led by Suleeporn Laomi (3/26) restricted seven-time champions India to 159/9 in their Women's Asia Cup opener in Dubai on Sunday. Laomi took two wickets in two balls to remove Shafali and Richa Ghosh after India lost four wickets for 21 runs; Sunida Chaturongrattana claimed 2/31. Smriti Mandhana fell for 19 to a direct hit, Harmanpreet Kaur made five, and Deepti Sharma was run out for five in her 150th T20I. Kranti Gaud's unbeaten 15 off eight balls dragged India past 150. Brief scores: India 159/9 in 20 overs (Shafali Verma 64, Suleeporn Laomi 3-26) vs Thailand.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="12" index="2" kind="news" scope="international" -->
+### Djokovic set to complete score at Flushing Meadows as record bid beckons
+
+Novak Djokovic opens his bid for a record 25th Grand Slam at the US Open on Monday against 48th-ranked Mariano Navone, marking his 20th appearance at Flushing Meadows — a feat only Jimmy Connors, Andre Agassi and Feliciano Lopez have matched. The 39-year-old fourth seed said he used two weeks after an early Cincinnati exit to prepare, and could benefit from Jannik Sinner's knee injury and Carlos Alcaraz's return from a four-month absence. Djokovic has had 11 chances to break Margaret Court's record since tying her 24th title in 2023, and seeks to become the oldest men's Grand Slam winner, surpassing Ken Rosewall's mark set at age 37 in 1972.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="12" index="3" kind="news" scope="international" -->
+### Chelsea survive in seven-goal thriller
+
+Chelsea beat Brighton 4-3 at Stamford Bridge on Sunday as Joao Pedro, Morgan Rogers and Cole Palmer starred in Xabi Alonso's home reign; Pedro Neto also scored. Emi Martinez made his Chelsea debut in goal hours after signing from Aston Villa. Results: Chelsea 4 (Romeo Lavia 4th, Pedro Neto 14th, Joao Pedro 32nd, Cole Palmer 74th) bt Brighton 3 (Malick Yalcouye 35th, Joao Pedro 65th OG, Pasco Gros 90+6th); Sunderland 1 (Wilson Isidor 75th) bt Fulham 0; Leeds 1 (Dominic Calvert-Lewin 79th) drew Brentford 1 (Kevin Schade 41st).
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="12" index="4" kind="news" scope="international" -->
+### Atletico down Sevilla 3-1 to go top
+
+Atletico Madrid beat Sevilla 3-1 on Saturday to move top of the early La Liga table, with Lee Kang-in setting up Alex Baena for a fourth-minute opener and Ademola Lookman doubling the lead in the 26th minute. Earlier, Real Betis lost their perfect start as Roger Brugue helped Levante to a 5-2 victory.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="12" index="5" kind="news" scope="international" -->
+### Federer inducted into Hall of Fame
+
+Roger Federer was inducted into the International Tennis Hall of Fame in Newport, Rhode Island on Saturday, calling it one of the "greatest honours of my life." The 45-year-old 20-time Grand Slam champion, who retired in 2022, paid tribute to opponents, officials, fans, family and friends in an emotional address, and joked that he wore more than 5,000 headbands and over 7,000 pairs of socks during his career.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="12" index="6" kind="news" scope="india" -->
+### Moonveil bags Deccan Fillies Championship
+
+S S Attaollahi-trained Moonveil, ridden by P Trevor, won the Coromandel Gromor Deccan Fillies Championship (Grade 3, 1600M), the main event of Hyderabad races on Sunday. Moonveil beat Madante, Vortex and Moon Oracle; other winners included Theos in the Carter Princess Plate and Stars Envied in the Director General Of Police Trophy (Div I).
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="12" index="7" kind="news" scope="india" -->
+### Daring Spirit for feature
+
+A Imran Khan-schooled Daring Spirit, to be ridden by Akshay Kumar, is fancied to win the A Krishnaswamy Memorial Trophy (Division I), the feature of Monday's Hyderabad card starting at 1.00 pm. Day's best selection is Perfect Attitude in the Div-II Krishnaswamy Memorial Trophy.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="12" index="8" kind="news" scope="india" -->
+### Dev, Ishita clinch titles at India Jr GP
+
+Dev Ruparelia and Ishita Negi won the boys' and girls' singles titles at the India Junior International Badminton Grand Prix in Pune on Sunday; Pavan and Punith Suresh took the boys' doubles crown. Top-seeded Mumbai's Ruparelia beat Uttarakhand's Nishchal Chand 21-16, 21-16, Delhi's Ishita defeated Maharashtra's Gatha Suryawanshi 21-19, 21-18, and Pavan and Punith beat an Indonesian pair 25-23, 21-19. Thailand's Chantharat Marndakul and Pearploy Suttiwarayanon upset India's Diya Bheemiah and Keerthy Manchala 21-15, 21-11 in the girls' doubles.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="12" index="9" kind="news" scope="international" -->
+### Messi slams four in Miami romp
+
+Lionel Messi scored four goals as Inter Miami ended a five-game winless streak with a 7-1 MLS win over struggling Montreal on Saturday. Casemiro scored his first goal for the champions with a 20th-minute header before Montreal's Fabian Herbers replied in the 37th minute.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="12" index="10" kind="news" scope="international" -->
+### Robinson fires England towards series victory
+
+Ollie Robinson took 4-24 as Pakistan were 140-5 at tea on day four at Lord's, still needing 249 to chase 389 in the second Test. Saud Shakeel was unbeaten on 78 and shared a 97-run fourth-wicket stand with Shan Masood after Pakistan slumped to 14-3. Robinson had Masood lbw for 26 after a review overturned the not-out call. Brief scores: England 290 & 208 all out vs Pakistan 110 & 140/5 (Saud Shakeel 78 n.o.; Ollie Robinson 4-24).
+<!-- /npd:article -->
+
+---
+
+## Page 13
+<!-- npd:article page="13" index="1" kind="news" scope="karnataka" -->
+### Vidwath leaves NZ in wreck
+
+Karnataka pacer Vidwath Kaverappa took 4/66 in his second spell as South Zone bowled out North for 195 in 59.1 overs on day one of the Duleep Trophy semifinal at the BCCI Centre of Excellence in Bengaluru on Sunday. Smaran R's slip catch off Shreyas Gopal dismissed Abdul Samad, while Tanay Thyagarajan (2/31) and M D Nidheesh (2/36) shared wickets; Qamran Iqbal top-scored with 76 and Kanhaiya Wadhawan made 35. South replied 40/2 with Narayan Jagadeesan 34 not out when stumps were called at 5.00 pm. In the other semifinal, East Zone reduced Central to 266 with Mukesh Kumar taking 3/56.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="13" index="2" kind="news" scope="karnataka" -->
+### Fit and firing Vidwath 'taking one game at a time'
+
+Karnataka quick Vidwath Kaverappa, 27, said he is "taking one game at a time" after returning 4/66 in 15 overs to help South Zone dismiss North for 195 in the Duleep Trophy semifinal at Bengaluru's CoE. Vidwath, who featured in only eight red-ball matches over the last two seasons and was not first-choice in last year's Ranji knockout, credited small action corrections and added strength during injury layoffs; he took four wickets for 14 runs in five overs in his second spell after going wicketless in his first. He said his focus is performing in the Ranji Trophy to help Karnataka win, with selection decisions left to selectors.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="13" index="3" kind="news" scope="india" -->
+### WADA's AIU catches Asiad camp in Bhubaneswar off guard
+
+WADA's Athletics Integrity Unit conducted surprise out-of-competition testing at India's Asian Games athletics camp in Bhubaneswar around 5.00 am on Sunday, collecting dry blood, wet blood and urine samples from an estimated 70-80% of the 45 athletes training there. Sprinters were specifically on the undisclosed testing list; samples are expected to be analysed overseas rather than at India's NDTL. The move comes after the AIU moved the Athletics Federation of India to Category A, its highest-risk bracket, citing India's 'extremely high' doping risk and ranking India among the top two countries for athletics anti-doping violations from 2022 to 2025.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="13" index="4" kind="news" scope="karnataka" -->
+### AIFF's TW3 test call hits the post
+
+The AIFF's August 20 circular enforcing a 16.2 TW3 skeletal-maturity cut-off for the B C Roy Trophy Junior Boys National Football Championship in Bengaluru and Narainpur became a non-starter after states that had already picked squads protested, and the federation clarified the test would not be mandatory. The directive had asked states to exclude players whose Tanner-Whitehouse 3 rating exceeded 16.2 if tested in earlier sub-junior nationals or AIFF Youth Leagues. A state federation official said the measure against age fraud was welcome but should have been communicated much earlier to avoid last-minute logistical and financial disruption.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="13" index="5" kind="news" scope="india" -->
+### Pranavi slips to T15 at Irish Open; Gill rises to T19
+
+Mysuru's Pranavi Urs shot 2-under 70 in the third round but slipped to tied-15th at the Women's Irish Open, standing 7-under through 54 holes as the only Indian to make the cut. Pukhraj Singh Gill finished tied-19th at the Ciputra Golfpreneur ADT event in Jakarta and is ninth in the ADT Order of Merit with one event left in November; the top 10 earn 2027 Asian Tour cards.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="13" index="6" kind="news" scope="karnataka" -->
+### Strong state presence in J30 Bengaluru event
+
+The KSLTA World Tennis Junior J30 Bengaluru main draw begins Monday at SM Krishna Tennis Stadium with Karnataka's Tejas Ravi as boys' top seed and a strong home contingent including Shreyanth Mahanthesha, Yash Kumar, Ishaan Badagi and Asia No. 1 U-14 Puneeth Manohar. Girls' seeds include Karthika Padmakumar (2), Disha Kumar (3), Shreeniti Chowdhury (4) and Aahida Singh (5). Arjun Manikandan, Krishika Gautam and Pooja Nagaraj advanced through qualifying, with Krishika upsetting No. 3 seed Nalyaazhini Krishnaprabhu 7-6(4), 6-3.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="13" index="7" kind="news" scope="international" -->
+### Dutch federation calls for summit without Infantino
+
+The Dutch football federation (KNVB) said Sunday that "FIFA needs new leadership" and proposed hosting a summit on FIFA's future without president Gianni Infantino, after losing confidence over his shelved FIFA Forward Enterprise private-investment plan. The KNVB told UEFA president Aleksander Ceferin it wants new leadership from 2027 and broader governance change across FIFA's 211 member associations, joining the Norwegian FA among critics after Infantino's botched proposal eroded support ahead of his expected March re-election bid.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="13" index="8" kind="news" scope="karnataka" -->
+### UP edge Odisha to march into semifinals
+
+Uttar Pradesh beat Odisha 1-0 through Md Adil's 70th-minute goal to reach the Dr BC Roy Trophy semifinals at Bengaluru's Bangalore Football Stadium, where they will face West Bengal. Goa beat Delhi 1-0 via Piyush Pratap Sawant's 55th-minute strike in the day's other quarterfinal.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="13" index="9" kind="news" scope="india" -->
+### India colts eye maiden win over Syria in Asian Cup opener
+
+India's under-20 team opens AFC Asian Cup China 2027 qualifying against Syria at Tashkent's Do'stlik Stadium on Monday seeking a first win over Syria after 0-1 (1996) and 1-2 (2004) losses at U19 level. Coach Mahesh Gawali said India must stay organised without the ball in a Group B also featuring hosts Uzbekistan and Bangladesh, as the Blue Colts aim to return to the U20 Asian Cup for the first time since 2006. Syria won the AFC U-19 Championship in 1994 and qualified for the last two U-20 Asian Cups.
+<!-- /npd:article -->
+
+---
+
+## Page 14
+<!-- npd:article page="14" index="1" kind="news" scope="karnataka" -->
+### B'luru police announce restrictions on flyovers
+
+Bengaluru Traffic Police announced restrictions on certain vehicle categories on five flyovers and elevated corridors citing road safety and smoother traffic flow. The affected stretches are the BGS (Sirsi Circle) flyover on Mysuru Road, Peenya flyover, Electronics City elevated expressway, the metro double-decker flyover between Silk Board and Ragigudda, and the Ballari Road (airport road) flyover between Sanjeevnagar Cross and Vidyashilp Junction.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="14" index="2" kind="news" scope="india" -->
+### Terror shifts strategy with porn sites in J&K
+
+Security officials said terror outfits and Pakistan-based handlers are using pornography websites with live-chat features and niche encrypted apps to communicate with recruits in Jammu and Kashmir while evading surveillance on conventional social media. Agencies are also scrutinising Tor-based messengers such as Coatex and Conion, a France-based app requiring no SIM or phone number, Vietnam-based applications and Moonchat, including PGP-encrypted variants suspected of Chinese origins. Several banned pornography apps are allegedly accessed via VPNs; experts said Tor relay networks further obscure traffic for investigators.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="14" index="3" kind="news" scope="india" -->
+### 'Punishing students for asking questions unconstitutional'
+
+Supreme Court judge Ujjal Bhuyan said at NLU Delhi's 13th postgraduate convocation on Sunday that threatening students with punitive action for expressing different views or asking questions is unconstitutional and a misuse of power. He said universities must allow established positions to be examined and questioned without hostility, and that the right to question is not defiance but essential to constitutional spirit.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="14" index="4" kind="news" scope="karnataka" -->
+### Panel to review cases for withdrawal
+
+The Karnataka government formed a six-member Cabinet sub-committee headed by Home Minister Priyank Kharge to review pending criminal cases before courts and recommend suitable withdrawals. Other members are ministers KH Muniyappa, U T Khader, Krishna Byre Gowda and HC Balakrishna; the Home Department will assist the panel.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="14" index="5" kind="news" scope="international" -->
+### Nepal warns of rising river level as toll nears 800
+
+Nepal authorities warned that Bhote Koshi River water levels rose again on Sunday, urging caution in flood-hit districts as the death toll from the August 26 flash floods reached 781 with more than 2,500 still missing; China reported 546 missing and 16 killed, including 261 foreign nationals among the missing. Only 17 bodies have been identified in hospitals as most remains are dilapidated or amputated, Bagmati Province police said. India's Ministry of External Affairs said more than 275 Indians and 128 persons of Indian origin remain missing or non-contactable.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="14" index="6" kind="news" scope="karnataka" -->
+### KPSC 'scam': Arrested IAS officer Gangwar sent to jail
+
+The CID arrested 2016-batch IAS officer Gyanendra Kumar Gangwar on Sunday for alleged KPSC irregularities after he was "evasive" during questioning on August 28-29, and sent him to judicial custody following a medical examination. Gangwar served as KPSC Controller of Examination from February 2024 to March 2026 before transfer as MSME Director in June; the CID had searched premises linked to him on August 25.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="14" index="7" kind="news" scope="india" -->
+### India looks to seal long-term uranium deal with Uzbekistan
+
+India is close to a long-term uranium import arrangement with Uzbekistan after PM Narendra Modi met President Shavkat Mirziyoyev in Tashkent on Sunday, as New Delhi pursues 100 GW nuclear capacity by 2047 following deals with Canada and Australia. The leaders signed an MoU on geology and mineral resources; Secretary (West) Sibi George said an agreement is close. Uzbekistan produced about 4,000 tonnes (6.6%) of global uranium in 2024 and was India's sole recorded natural uranium ore supplier in 2024 under UN Comtrade, with 250 tonnes worth $46.77 million.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="14" index="8" kind="news" scope="karnataka" -->
+### 'Save Lalbagh' cry grows louder with massive rally
+
+Thousands gathered at Lalbagh Botanical Garden on Sunday demanding withdrawal of the Karnataka Government Parks (Preservation) (Amendment) Bill, 2026, which allows up to 5% of park land statewide for public infrastructure. Protesters at the 'Walk for Lalbagh' campaign raised 'Save Lalbagh' slogans and warned that a planned tunnel road passing under Lalbagh threatens the park's geology and ecosystem. Environmentalist A N Yellappa Reddy launched a signature campaign, comparing park destruction to harming Bengaluru's vital organs.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="14" index="9" kind="news" scope="international" -->
+### Nancy Grace Roman Telescope flies aboard SpaceX Falcon Heavy rocket
+
+NASA's Nancy Grace Roman Space Telescope launched aboard a SpaceX Falcon Heavy after more than a decade of development, heading to a vantage point 1.6 million km away on a $4 billion mission to map the universe with a field of view 100 times larger than Hubble's. Outfitted with a coronagraph to observe exoplanets, it could raise known exoplanet counts from about 6,000 to 1,00,000, detect ancient infrared light, and study dark matter and dark energy while generating about 1.3 TB of data daily over a main survey of at least one year.
+<!-- /npd:article -->
+
+---
+
+## Summary
+- Pages processed: 14
+- Articles extracted: 122
+- Pages with no reportable articles (full-page ads, notices only): none

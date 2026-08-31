@@ -208,7 +208,7 @@ export default function App() {
             [
               {
                 id: 'local' as const,
-                label: 'Local Top 5',
+                label: 'Daily Top 5',
                 enabled: selected?.has_local_top5 ?? false,
               },
               {
@@ -277,7 +277,7 @@ export default function App() {
           {!contentLoading && missingForView && (
             <p className="py-10 text-[var(--ink-muted)] italic sm:py-12">
               {showLocal
-                ? 'Local Top 5 is not available for this date.'
+                ? 'Daily Top 5 is not available for this date.'
                 : 'Coastal Katte Top 5 is not available for this date.'}
             </p>
           )}

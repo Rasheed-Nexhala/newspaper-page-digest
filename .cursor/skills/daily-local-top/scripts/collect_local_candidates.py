@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
-"""Collect mangaluru / coastal_karnataka / karnataka articles from day's digests.
+"""Collect Top-5 bucket articles from day's digests.
+
+Scopes: mangaluru, coastal_karnataka, karnataka, india, international, sports.
 
 Usage:
   python3 collect_local_candidates.py --work <workspace>/work --date 30-Aug-2026 \\
-    --out work/daily/30-Aug-2026/candidates.json
+    --out work/30-Aug-2026/Daily_top/candidates.json
 """
 from __future__ import annotations
 
@@ -13,7 +15,14 @@ import re
 from datetime import datetime
 from pathlib import Path
 
-SCOPES = ("mangaluru", "coastal_karnataka", "karnataka")
+SCOPES = (
+    "mangaluru",
+    "coastal_karnataka",
+    "karnataka",
+    "india",
+    "international",
+    "sports",
+)
 
 MONTHS = {
     "jan": 1,

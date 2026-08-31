@@ -6,6 +6,9 @@ const BUCKETS: { key: LocalBucketKey; short: string }[] = [
   { key: 'mangaluru', short: 'Mangaluru' },
   { key: 'coastal_karnataka', short: 'Coastal Karnataka' },
   { key: 'karnataka', short: 'Karnataka' },
+  { key: 'india', short: 'India' },
+  { key: 'international', short: 'International' },
+  { key: 'sports', short: 'Sports' },
 ]
 
 type LocalTop5ViewProps = {
@@ -21,7 +24,7 @@ export function LocalTop5View({ data }: LocalTop5ViewProps) {
     <div className="view-panel" key={data.date_slug}>
       <header className="mb-6 sm:mb-8">
         <p className="text-[0.7rem] font-medium tracking-[0.2em] text-[var(--sea)] uppercase">
-          Local Top 5
+          Daily Top 5
         </p>
         <h2 className="mt-2 font-display text-2xl text-[var(--ink)] sm:text-3xl md:text-4xl">
           {data.date}
@@ -41,7 +44,7 @@ export function LocalTop5View({ data }: LocalTop5ViewProps) {
       <div
         className="glass-nav bucket-scroll mb-5 sm:mb-6"
         role="tablist"
-        aria-label="Local Top 5 buckets"
+        aria-label="Daily Top 5 buckets"
       >
         {BUCKETS.map(({ key, short }) => {
           const count = data.buckets[key]?.selected_count ?? 0
@@ -77,7 +80,7 @@ export function LocalTop5View({ data }: LocalTop5ViewProps) {
         </p>
         {items.length === 0 ? (
           <p className="py-10 text-[var(--ink-muted)] italic sm:py-12">
-            No local stories in today&apos;s digests for this bucket.
+            No stories in today&apos;s digests for this bucket.
           </p>
         ) : (
           <div key={bucket}>

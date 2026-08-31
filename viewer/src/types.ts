@@ -14,7 +14,13 @@ export type StoryItem = {
   sources: SourceRef[]
 }
 
-export type LocalBucketKey = 'mangaluru' | 'coastal_karnataka' | 'karnataka'
+export type LocalBucketKey =
+  | 'mangaluru'
+  | 'coastal_karnataka'
+  | 'karnataka'
+  | 'india'
+  | 'international'
+  | 'sports'
 
 export type LocalBucket = {
   label: string
@@ -32,7 +38,7 @@ export type LocalTop5 = {
     path: string
     total_articles?: number
   }>
-  buckets: Record<LocalBucketKey, LocalBucket>
+  buckets: Partial<Record<LocalBucketKey, LocalBucket>>
 }
 
 export type CoastalKatteItem = StoryItem & {

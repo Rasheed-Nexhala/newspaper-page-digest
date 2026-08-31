@@ -20,3 +20,5 @@
 ## Schema
 
 `LocalTop5_*.json` and upstream `*_PageDigest.json` schemas are frozen. See both skills' `references/output-spec.md`.
+
+**v1.1 (Aug 2026):** Added `india`, `international`, `sports` buckets alongside the three local ones. Always emit all six `buckets` keys. Filename stays `LocalTop5_*` for downstream compatibility; Coastal Katte still reads only the local three.

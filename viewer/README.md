@@ -1,6 +1,6 @@
 # Top 5 Viewer
 
-React + Tailwind UI for reading daily **Local Top 5** and **Coastal Katte Top 5** JSON from `work/`.
+React + Tailwind UI for reading daily **Daily Top 5** (Mangaluru, Coastal Karnataka, Karnataka, India, International, Sports) and **Coastal Katte Top 5** JSON from `work/`.
 
 ## Local dev
 

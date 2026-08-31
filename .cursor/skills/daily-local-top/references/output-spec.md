@@ -21,6 +21,9 @@ Per-paper digests stay in sibling folders (`The_Hindu/`, `News_Trail/`, …). Th
 1. `mangaluru` — Top 5 Mangaluru
 2. `coastal_karnataka` — Top 5 Coastal Karnataka
 3. `karnataka` — Top 5 Karnataka
+4. `india` — Top 5 India
+5. `international` — Top 5 International
+6. `sports` — Top 5 Sports
 
 ## Markdown template
 
@@ -52,14 +55,35 @@ _Sources: The Hindu Mangaluru p.5; News Trail Mangaluru p.3_
 
 ---
 
+## Top 5 — India
+
+### 1. …
+
+---
+
+## Top 5 — International
+
+### 1. …
+
+---
+
+## Top 5 — Sports
+
+### 1. …
+
+---
+
 ## Summary
 - Papers scanned: …
 - Mangaluru candidates → selected: N → M
 - Coastal Karnataka candidates → selected: N → M
 - Karnataka candidates → selected: N → M
+- India candidates → selected: N → M
+- International candidates → selected: N → M
+- Sports candidates → selected: N → M
 ```
 
-If a bucket has zero candidates: under that heading write `*(no local stories in today's digests)*`.
+If a bucket has zero candidates: under that heading write `*(no stories in today's digests)*`.
 
 ## JSON shape (**schema frozen** — do not change keys)
 
@@ -69,7 +93,7 @@ UTF-8, 2-space indent. Always emit these exact keys so parsers stay compatible a
 
 **Required `papers_scanned[]`:** `paper`, `edition`, `path` (optional but preferred: `total_articles`).
 
-**Required `buckets` keys (always all three):** `mangaluru`, `coastal_karnataka`, `karnataka`.
+**Required `buckets` keys (always all six, this order):** `mangaluru`, `coastal_karnataka`, `karnataka`, `india`, `international`, `sports`.
 
 **Required per bucket:** `label`, `candidate_count`, `selected_count`, `items`.
 
@@ -115,6 +139,24 @@ Do not rename, nest differently, or omit empty buckets — use `"items": []` whe
       "candidate_count": 0,
       "selected_count": 0,
       "items": []
+    },
+    "india": {
+      "label": "Top 5 — India",
+      "candidate_count": 0,
+      "selected_count": 0,
+      "items": []
+    },
+    "international": {
+      "label": "Top 5 — International",
+      "candidate_count": 0,
+      "selected_count": 0,
+      "items": []
+    },
+    "sports": {
+      "label": "Top 5 — Sports",
+      "candidate_count": 0,
+      "selected_count": 0,
+      "items": []
     }
   }
 }
@@ -123,3 +165,4 @@ Do not rename, nest differently, or omit empty buckets — use `"items": []` whe
 - `items` ordered by `rank` ascending (1 = top).
 - `selected_count` equals `len(items)` and is at most 5.
 - MD and JSON must match for the same `rank` + bucket.
+- Downstream **Coastal Katte** skills still consume only the three local buckets (`mangaluru`, `coastal_karnataka`, `karnataka`); the new buckets are for the daily brief.
