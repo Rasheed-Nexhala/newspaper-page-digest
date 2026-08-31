@@ -5,3 +5,5 @@
 __pycache__/
 .venv/
 venv/
+viewer/node_modules/
+viewer/dist/
