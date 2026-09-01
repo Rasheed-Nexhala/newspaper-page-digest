@@ -1,0 +1,753 @@
+# News Trail — Mangaluru — Page-by-Page Digest
+**Date:** Tuesday, 01 September 2026  |  **Total pages:** 12  |  **Total articles:** 90
+
+---
+
+## Page 1
+
+<!-- npd:article page="1" index="1" kind="news" scope="india" -->
+### 14 years on... still failing our daughters
+
+A 16-year-old from Mainpuri in Uttar Pradesh who boarded a bus in Greater Noida on the rainy night of August 4 was allegedly gang-raped by the conductor and driver and abandoned at Kashmere Gate, more than 40 km away, police said. The Class 11 student had mistakenly got off at Pari Chowk around 9 pm while heading to her cousin's home in Noida Sector 63; bus driver Kuldeep (39) and conductor Sandeep (26) have been arrested from a parking lot.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="1" index="2" kind="news" scope="karnataka" -->
+### K'taka extends Gruha Jyothi survey to Sept 30
+
+The Karnataka government has extended until September 30 the deadline for the ongoing door-to-door survey of beneficiaries under the Gruha Jyothi scheme, officials said on Monday. One of the five guarantee schemes of the Congress government, Gruha Jyothi provides up to 200 units of free electricity to households.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="1" index="3" kind="news" scope="international" -->
+### Nepal flood toll 900; over 4,200 still missing
+
+The toll in devastating flash floods and mudslides caused by a glacial collapse in Nepal has gone over 900, with more than 4,200 people reported missing, including 590 foreign nationals and 99 security personnel. Triggered by a wave of ice, rocks, and debris along the Bhote Koshi River, the disaster has affected central and northern regions, leaving at least 933 workers trapped across six hydropower projects; Prime Minister Balendra Shah called it an "unimaginable and heartbreaking" calamity.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="1" index="4" kind="news" scope="india" -->
+### Sonia Gandhi memoir: Penguin cites 'particular issue'
+
+Penguin Random House India said on Monday there was no external pressure behind its decision not to publish Sonia Gandhi's memoir, citing an impasse over "a particular issue" during discussions on "Belonging: A Journey of Love" without disclosing the contentious matter. The clarification comes amid controversy after US-based Alfred A Knopf announced a November 10 release, while Congress leaders including Ashok Gehlot have alleged governmental pressure, with Gehlot claiming sections relating to Prime Minister Narendra Modi were targeted for removal.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="1" index="5" kind="news" scope="karnataka" -->
+### Why your onion bhajjis might get costlier
+
+Onion prices have surged in Bengaluru amid a rainfall deficit in Karnataka, with retail prices rising from around Rs 15–20 per kg to Rs 40–50 per kg. With festivals around the corner, vendors expect prices to rise further, and one vendor told News Trail that the price of half a quintal (50 kg) had increased significantly.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="1" index="6" kind="news" scope="india" -->
+### India fastest growing economy with 7.8 pc in Q1
+
+India's economy grew at a faster-than-expected 7.8 per cent in the April–June quarter, slowing from 8.6 per cent in the previous quarter but remaining well above expectations and exceeding the Reserve Bank of India's forecast of 7 per cent. The growth showed resilience despite concerns that the war in Iran and global economic uncertainty could weigh on expansion and disrupt energy markets.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="1" index="7" kind="news" scope="india" -->
+### 3-yr-old nursery student abused; school bus driver held
+
+A school bus driver has been arrested for allegedly sexually abusing a three-year-old nursery student of a private school in Delhi's Bawana area, police said. The incident came to light on August 19 after the child's family noticed injuries; on August 24 she identified the accused from photographs and CCTV footage, and an FIR was registered under the POCSO Act.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="1" index="8" kind="news" scope="karnataka" -->
+### 13 from K'taka still untraced after floods: CM
+
+Karnataka Chief Minister D K Shivakumar said on Monday that about 13 people from the state were yet to be traced following flash floods along the Nepal-Tibet border and adjoining areas last week. The state government is in contact with the Ministry of External Affairs and the central government, with representatives sent to establish contact; Shivakumar said one group has not been traced while the rest have been found.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="1" index="9" kind="news" scope="sports" -->
+### Heartbreak! Messi retires from int'l football
+
+Football icon Lionel Messi announced through his official Instagram profile that he has retired from international football and will no longer wear the Argentina jersey, saying he made the decision two days after the World Cup final loss to Spain. Messi said it was a decision that still hurts deeply but that he always gave everything for the shirt.
+<!-- /npd:article -->
+
+---
+
+## Page 2
+
+<!-- npd:article page="2" index="1" kind="news" scope="karnataka" -->
+### Shikshagraha partners with Teach for India
+
+Shikshagraha on Monday announced a partnership with Teach For India, combining the latter's 17 years of experience in nurturing teachers, young leaders and alumni with a movement that has already mobilised more than 3.9 lakh leaders across 2.1 lakh public schools. Shikshagraha, a people's movement working to strengthen one million public schools across India, said Teach For India brings classroom leadership experience while Shikshagraha contributes a network of more than 40 civil society organisations; it cited more than 15.6 lakh micro-improvements across public schools led by over 3.9 lakh leaders reaching more than 2.1 lakh schools.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="2" index="2" kind="news" scope="karnataka" -->
+### Nepal floods: 2 from Tumakuru go missing
+
+Two US citizens originally from Tumakuru—Rangusudheer, 53, and Keerthi Acharya, 50, residents of Nrupatunga Layout—are among those reported missing after devastating floods in Nepal, leaving family members in Karnataka deeply worried. Both software engineers had travelled to Nepal from the US on August 22 as part of a 10-member group; Rangusudheer last spoke to a relative at around 8.29am on August 26, after which the family lost contact with both. The Indian Embassy shared photographs of bodies recovered in the floods for identification as the family seeks information on search and rescue efforts.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="2" index="3" kind="news" scope="karnataka" -->
+### KPSC scam: CID arrests middleman who made crores
+
+The Criminal Investigation Department has arrested Basavaraj Kannale, a Bhalki-based alleged middleman, in connection with the KPSC veterinary officers recruitment scam, opening a new line of investigation into the suspected network behind alleged recruitment irregularities. Investigators are examining allegations that he used purported political contacts and photographs with leaders of both the BJP and Congress to convince aspirants he had influence over recruitment, and are probing his financial dealings, communications and links with officials including an alleged connection with IAS officer Gyanendra Kumar. He is allegedly the owner of property in Bengaluru and Bhalki and is also alleged to have purchased land worth crores of rupees in his native village.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="2" index="4" kind="news" scope="karnataka" -->
+### Gruha Jyothi beneficiary survey deadline extended
+
+The Karnataka government has extended until September 30 the deadline for the ongoing door-to-door survey of beneficiaries under the Gruha Jyothi scheme, which provides up to 200 units of free electricity to households as one of the Congress government's five guarantee schemes. The verification survey, launched in July 2023, began on July 1 with an initial completion deadline of August 31; BESCOM said 46,70,588 of 68,86,860 beneficiaries across eight districts under its jurisdiction, nearly 68 per cent, had been covered as of August 31. Managing Director N Shivashankara appealed to remaining beneficiaries to cooperate with meter readers and provide necessary documents when staff visit from September 1.
+<!-- /npd:article -->
+
+---
+
+## Page 3
+
+<!-- npd:article page="3" index="1" kind="news" scope="coastal_karnataka" -->
+### Bhatkal hospital to get mother & child care block
+
+Karnataka Health and Family Welfare, Minority Welfare, Haj and Wakf Minister U.T. Khader said a dedicated Mother and Child Care block is proposed at Bhatkal Taluk Hospital to improve healthcare and ease pressure on the existing facility, which has a sanctioned capacity of 100 beds but often admits more than 130 patients. Khader said steps would be taken to establish a separate MCC unit if the hospital records more than 100 deliveries a month, and that a meeting with MLA Mankal Vaidya and senior officials would be held soon to finalise plans; he also said the foundation stone for a Haj Bhavan in Mangaluru would be laid soon.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="3" index="2" kind="news" scope="mangaluru" -->
+### MCC body makes 4-way waste segregation a must
+
+The Mangaluru City Corporation has made segregation of waste into wet, dry, sanitary and special-care categories mandatory at source for residents and all bulk waste generators, giving citizens one month to comply before collection staff refuse improperly segregated waste. Wet and sanitary waste will be collected daily, dry and special-care waste on Fridays, and violations will attract penalties under the MCC Solid Waste Management Bye-laws, 2019.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="3" index="3" kind="news" scope="coastal_karnataka" -->
+### Puttur temple devotees seek probe into alleged irregularities
+
+Devotees and citizens of Puttur have petitioned the Karnataka Department of Religious Endowments seeking an inquiry into alleged administrative irregularities, rule violations and controversial developmental works at Sri Mahalingeshwara Temple, including demolition of the Naga Sannidhi, Ayyappa Swamy and Navagraha shrines without prior approval. The complaint also questions the dismantling of a Nataraja platform and a 3,000 sq ft building, the cutting of more than 15 coconut trees, filling of at least seven open wells, and a proposed 30-foot road along the northern side that complainants say could use around four acres of temple property.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="3" index="4" kind="news" scope="mangaluru" -->
+### MLA: 7% 'cut' sought from KRIDL contractors
+
+Puttur Congress MLA Ashok Kumar Rai has written to Chief Minister D K Shivakumar alleging corruption in the Mangaluru division of KRIDL, including a demand for a 7 per cent "cut" from contractors executing government projects, and urged immediate investigation and strict disciplinary action. Rai alleged that KRIDL executive and junior engineers collected monthly payments from contractors in the names of department and district ministers and threatened those who resisted; Leader of Opposition R Ashoka demanded suspension of officials involved and a high-level probe into whether money was collected in ministers' names.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="3" index="5" kind="news" scope="karnataka" -->
+### AIET final-yr student lands visa software engineer role
+
+Srushti Manjunath Ullagaddi, a final-year Information Science Engineering student at Alva's Institute of Engineering and Technology in Moodbidri, has been selected as a Software Engineer by Visa with annual compensation of ₹35.58 lakh plus benefits totalling ₹46.33 lakh for the year. The Haveri district native secured a 10-week Visa internship with a ₹90,000 stipend before receiving the full-time offer.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="3" index="6" kind="news" scope="coastal_karnataka" -->
+### Karkala student takes first MBBS seat at newly set up Alva's Medical College
+
+Sneha of Kuntalpady in Karkala has secured the first admission to the newly established Alva's Institute of Medical Sciences and Research Centre at Moodbidri under the Government quota after scoring 506 out of 720 in NEET through Alva's Merit Adoption Scheme. Her father has worked as a driver at Srinivas University, Mangaluru, for 12 years; she intends to specialise in cardiology and treat patients who cannot afford good healthcare.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="3" index="7" kind="news" scope="mangaluru" -->
+### Cabinet meet planned for Mangaluru on Sept 18
+
+The state cabinet meeting is intended to take place in Mangaluru on September 18, Chief Secretary Dr Shalini Rajneesh said in an official letter released on August 31, with the coastal city chosen as part of a tour of coastal districts. Major problems of the coastal districts may come up during the sitting away from the usual seat of government.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="3" index="8" kind="news" scope="mangaluru" -->
+### NITK's Dr Shashi Bhushan Arya wins Seshadri Mascot Award
+
+Dr Shashi Bhushan Arya, Associate Professor in Metallurgical and Materials Engineering at NITK Surathkal, has been awarded the Shri S.K. Seshadri Memorial Mascot National Award–2026 by the Electrochemical Society of India for work in industrial corrosion science, corrosion prevention, pipeline integrity and sustainable surface engineering. The presentation took place on 28–29 August 2026 at the 33rd National Symposium on Electrochemical Science and Technology in Bengaluru.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="3" index="9" kind="news" scope="coastal_karnataka" -->
+### Minister flags off Narayana Guru message march and oratory contest
+
+Health Minister U.T. Khader inaugurated the Guru Sandesha-Jatha and a state-level speech competition in Udupi organised by Udupi District Billava Yuva Vedike on the 172nd birth anniversary of Brahmasri Narayana Guru, recalling the teaching "One caste, one religion, one God for man." Khader said the Guru's ideals had promoted equality, brotherhood, education and humanity across caste and religion, and appealed to youth to understand and live by those ideals.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="3" index="10" kind="news" scope="coastal_karnataka" -->
+### IPS officer Ranu Gupta is ASP of Bhatkal sub-division
+
+The Karnataka government has appointed 2024-batch IPS officer Ranu Gupta, previously a District Probationary Training officer in Tumakuru, as Assistant Superintendent of Police of Bhatkal Sub-Division; she has assumed charge in Bhatkal following the government order.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="3" index="11" kind="news" scope="mangaluru" -->
+### Woman hurt in bus mishap while crossing M'luru road
+
+A lady pedestrian near Urwa market junction was grievously injured shortly after 8.30 am when the right front wheel of KA 19 D 3657 bus no. 31 travelled over her leg as she stepped onto the roadway; the victim was shifted to AJ Hospital and a case is being registered.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="3" index="12" kind="news" scope="mangaluru" -->
+### Entrepreneurs workshop ends after 10 days of rich sessions
+
+A ten-day entrepreneurship development course organised by CEDOK, Mangaluru's Scheduled Castes and Scheduled Tribes Study and Development Trust and MRPL concluded with a valedictory gathering at the trust's city office, with certificates presented by MSSEWA president Yuvaraj M.K. Community youth and entrepreneurs attended to explore openings in entrepreneurship, self-employment and business.
+<!-- /npd:article -->
+
+---
+
+## Page 4
+
+<!-- npd:article page="4" index="1" kind="news" scope="india" -->
+### AIMIM worker stabbed to death by gang in Hyderabad
+
+An AIMIM worker, Mahboob Ali (in his mid-50s), was stabbed to death by a gang of five people near his residence at Vattepally in Hyderabad on Sunday night and died in hospital; police said the assailants were engaged by a relative of the deceased. AIMIM MLA Mohammed Mubeen visited the bereaved family and Falaknuma Police Station, urging strict action; a murder case was registered based on a complaint by the deceased's son and further investigation is underway.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="4" index="2" kind="news" scope="india" -->
+### Adopt 'guerrilla strategy', Jarange urges Marathas
+
+Maratha reservation activist Manoj Jarange on Monday urged community members to adopt a "guerrilla strategy," quietly move towards Mumbai and prepare for a major agitation if the government fails to implement demands by September 12, as his indefinite hunger strike at Antarwali Sarati in Jalna entered its third day. Jarange refused IV fluids on Sunday despite low blood sugar, claimed 58 lakh Kunbi genealogical records were found for Marathas, and said even if he died his body should be taken to Mumbai for the agitation.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="4" index="3" kind="news" scope="india" -->
+### AP CM inaugurates Veligonda irrigation project Phase-1
+
+Andhra Pradesh Chief Minister N Chandrababu Naidu on Monday inaugurated Phase-1 of the Veligonda irrigation project, releasing Krishna water into Nallamala Sagar to provide irrigation to 1.19 lakh acres and drinking water to four lakh people with 10.70 TMC entering the reservoir. The NDA government has spent more than Rs 2,400 crore on Veligonda in two years, disbursed Rs 768 crore to displaced families within 48 days, and the fully operational project is expected to irrigate 4.47 lakh acres across 30 mandals and benefit around 23 lakh people.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="4" index="4" kind="news" scope="india" -->
+### Fadnavis dubs CJP 'Congress Jitao Programme'
+
+Maharashtra Chief Minister Devendra Fadnavis on Monday dubbed the Cockroach Janta Party as "Congress Jitao Programme" and accused the Opposition of forcing political contests over isolated issues after failing to defeat the BJP ideologically, also terming Rahul Gandhi's "Chhatron Ki Goonj" outreach as "Jhooth Ki Goonj." Addressing the BJP's state-level convention in Pune, Fadnavis said the Opposition had taken up issues including Ayodhya Ram Temple donation theft and Zilla Parishad school conditions, and commented on the Pune debate over loudspeakers during Ganeshotsav.
+<!-- /npd:article -->
+
+---
+
+## Page 5
+
+<!-- npd:article page="5" index="1" kind="news" scope="karnataka" -->
+### CM says K'swamy targeting BJP, not Cong on KPSC scam
+
+Karnataka Chief Minister D K Shivakumar said JD(S) leader H D Kumaraswamy was targeting the BJP, not the Congress, over the alleged KPSC scam and was free to make whatever allegations he wanted. Shivakumar said he would not interfere in the investigation including arrests of an IAS officer, that the BJP was free to undertake its padayatra from Lingasugur to Ballari from Tuesday, and that a proposed land guarantee initiative would benefit all whose property is acquired for government purposes across the state, not only Bengaluru.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="5" index="2" kind="news" scope="karnataka" -->
+### Released excess water to TN, K'taka tells SC
+
+The Karnataka government told the Supreme Court on Monday that it has released excess water to Tamil Nadu and is complying with the Cauvery Water Management Authority direction to ensure a flow of 9,000 cusecs, releasing 10,727 cusecs on the first day, 9,888 cusecs on August 30 and 11,547 cusecs as of 8 am on Monday. Senior advocate Shyam Divan said Karnataka had declared severe drought in some Cauvery basin districts; the bench posted the Tamil Nadu plea for September 15.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="5" index="3" kind="news" scope="karnataka" -->
+### KRIDL 'cut' charge: Ashoka demands probe into '7% collection'
+
+Assembly Opposition Leader R Ashoka stepped up his attack after Puttur Congress MLA Ashok Kumar Rai wrote to Chief Minister D K Shivakumar alleging that Mangaluru KRIDL engineers were demanding a seven per cent commission from contractors in ministers' names. Ashoka demanded immediate investigation and a high-level impartial probe, saying the allegation was serious because it came from a ruling Congress MLA, and that criminal cases should be registered if established.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="5" index="4" kind="news" scope="karnataka" -->
+### BJP demands action against Rayareddy for Islam remarks
+
+The BJP condemned Higher Education Minister Basavaraj Rayareddy's remarks praising Islam as superior to other religions at a mass marriage programme in Kukanur, Koppal district, and demanded that Chief Minister D K Shivakumar take action or that Rayareddy apologise or be dropped from the cabinet. Leader of Opposition R Ashoka said a minister should exercise restraint publicly and alleged Congress appeasement politics.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="5" index="5" kind="news" scope="karnataka" -->
+### Shopkeeper held for 'assaulting' two boys
+
+A shopkeeper, Ashok Manohar Pattar, was arrested in Malaghan village, Almela taluk, Vijayapura district, for allegedly assaulting two minor boys with a pipe after a dispute over payment for snacks on August 28; a video of the incident went viral. The boys, aged 11 and 14, were treated at Government Hospital in Sindagi on August 30 after injuries persisted.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="5" index="6" kind="news" scope="karnataka" -->
+### Foresters capture tiger in HD Kote
+
+A five to six-year-old male tiger was captured in a trap placed at Hosaholalu village in HD Kote taluk under Nagarahole tiger reserve around 6 am on Monday following complaints from adjoining villagers; Deputy Conservator of Forests Seema said the hale and healthy tiger was released into the forest after all procedures.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="5" index="7" kind="news" scope="karnataka" -->
+### Rooftop solarisation of govt buildings to be accelerated
+
+The Karnataka government will accelerate rooftop solar installations on government buildings under the PM Surya Ghar Muft Bijli Yojana, Additional Chief Secretary Gaurav Gupta said after reviewing progress with BESCOM officials on Monday. PWD will survey buildings, KREDL will implement projects through PPP mode, and Gupta explained RESCO and CAPEX models under which departments can reduce electricity expenditure and generate revenue from surplus power.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="5" index="8" kind="news" scope="karnataka" -->
+### BJP plans 10-day padayatra to Ballari over govt's 'failures'
+
+The Karnataka BJP will launch a 10-day 'Ballari Chalo' foot march from Lingasugur in Raichur to Ballari on Tuesday to protest alleged failures, anti-people policies and corruption of the Congress government, covering approximately 185 km through multiple constituencies. Key reasons include demands over Minister B Nagendra, who resigned on Friday amid Valmiki corporation embezzlement allegations, though differences have emerged between BJP and JD(S) alliance partners over holding the march after his resignation.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="5" index="9" kind="news" scope="karnataka" -->
+### Rayareddy visits temple amid row, says ready for debate
+
+Higher Education Minister Basavaraj Rayareddy visited the Anjaneya temple in Yelburga and Maddaneshwara Mutt in Bodur village on Monday after his remarks on Islam triggered controversy, offering prayers and challenging critics to debate who founded Hinduism. Rayareddy maintained he respected all religions, said he wished to visit Mecca but would not convert, and defended his earlier statements.
+<!-- /npd:article -->
+
+---
+
+## Page 6
+
+<!-- npd:article page="6" index="1" kind="news" scope="india" -->
+### The cost of parliamentary silence
+
+Parliament has again been adjourned sine die without prorogation 17 days after the Monsoon Session ended, amid speculation the government could call a special sitting to revive the delimitation Bill defeated in April's Budget Session; repeated disruptions consumed time meant for debate, legislation and scrutiny. Joseph T R of Bengaluru writes that while a frequently cited PRS estimate puts the cost of running Parliament at ₹2.5 lakh per minute, that 2012 figure is outdated and the financial loss is only part of the story.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="6" index="2" kind="news" scope="karnataka" -->
+### Enhancing safety in wilderness
+
+Rajeshwari Gopal of Mangaluru writes that the Karnataka Forest Department's decision to make GPS tracking devices compulsory for all trekkers across the state's forest routes is a step in the right direction, as eco-tourism grows on Western Ghats trails such as Kudremukh and Kodachadri where lost hikers and delayed search operations have become recurring concerns. She argues that satellite-enabled tracking ensures real-time monitoring and swift emergency response, though technology alone cannot replace ecological discipline.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="6" index="3" kind="opinion" scope="india" -->
+### Rahul's take on Manusmriti resonates Gandhi, Ambedkar (Opinion)
+
+S N Sahu writes that Rahul Gandhi's locating of Manusmriti as the main source of retardation of women's agency at the Pune edition of Chhatron ki Goonj captures a common vision of Mahatma Gandhi and B.R. Ambedkar, echoing Gandhi's 1918 Bhagini Samaj speech and his 1934 rejection of Manu's dictum that women can have no freedom. Sahu, who served as Officer on Special Duty to President K.R. Narayanan, argues Gandhi's critical stand on Smritis and Ambedkar's 1950 article on the rise and fall of the Hindu woman find reflection in Rahul Gandhi's 2026 Pune speech.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="6" index="4" kind="opinion" scope="india" -->
+### A Welcome Change (Opinion)
+
+Richard Lloyd writes that the RSS chief Mohan Bhagwat's call for oneness during his US tour should be welcomed if it represents a real change of heart for an organisation known for ideology propounding exclusion of religious minorities, citing Bhagwat's New York declaration that "if a Hindu thinks that there should be no Muslims in Bharat, he will not remain a Hindu." Lloyd argues critics would be justified in terming it hypocrisy if meant only for US audiences, noting Muslims and Christians have found public space shrinking since 2019, while Pakistan's coalition government has taken small steps toward reconciliation by restoring Hindu names in Lahore.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="6" index="5" kind="opinion" scope="india" -->
+### Modi in quest for an Eurasian highway (Opinion)
+
+Meenakashi Lekhi writes that Prime Minister Narendra Modi's four-day Central Asia visit—including bilateral talks in Uzbekistan and the 26th SCO summit in Bishkek—is important because Central Asia is a gateway to Europe and India needs resilient multi-modal connectivity after geopolitical disruptions in Hormuz and Chabahar compromised traditional Middle East routes. She argues India must build genuine strategic interdependence through trade, technology, healthcare, critical minerals and digital infrastructure, and that Modi's SCO participation aims to create connectivity that cannot be held hostage to another country's geopolitical crisis.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="6" index="6" kind="news" scope="india" -->
+### Bangladesh crime video falsely linked to WB, BJP workers
+
+A disturbing video showing recovery of a rape and murder victim's body in Bangladesh is being falsely shared on social media as an incident from West Bengal involving BJP workers, Boom established through reverse image search. The video was recorded in Shibchar, Madaripur district, Bangladesh, showing recovery of 28-year-old Shampa Khatun's body on August 19; Faruk Mollah was arrested on August 21, and the false claim comes amid clashes between ABVP and Left-backed student groups at Jadavpur University on August 20.
+<!-- /npd:article -->
+
+---
+
+## Page 7
+
+<!-- npd:article page="7" index="1" kind="news" scope="india" -->
+### TN govt increases milk procurement prices
+
+Tamil Nadu Chief Minister C Joseph Vijay announced in the Assembly on Monday a further hike in Aavin milk procurement prices from Rs 41 to Rs 44 per litre, entailing an additional Rs 60 crore monthly or Rs 720 crore annual outlay, following an earlier hike from Rs 38 to Rs 41 on August 19. Vijay also unveiled major infrastructure investments including Rs 33,066 crore for the Tamil Nadu Transmission Improvement Scheme, a Rs 20,800 crore 1,600 MW super critical thermal plant in Tuticorin, a Rs 175 crore semiconductor park at Maduramangalam, a Rs 400 crore FinTech Hub in Coimbatore and a multi-modal logistics hub in Tiruchirapalli.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="7" index="2" kind="news" scope="india" -->
+### This professor runs a public library from her home
+
+Prof Madhu Khanna, an Oxford doctorate holder in Indology and former director at Jamia Millia Islamia, maintains the Tantra Foundation Library at Hari Bhari Farm in Chhattarpur, Delhi, actively inviting researchers in art, archaeology, Indology and religion unlike many private academic collections that remain locked. The 1970s modernist residence housing the library reflects early Chhattarpur farmhouse architecture and offers scholars access to her seminal work on Tantra and goddess-centred Shakta traditions.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="7" index="3" kind="news" scope="india" -->
+### Dispute over buffalo passage turns violent; one killed
+
+A dispute between two groups over taking a buffalo through a plot turned violent in Milawali village, Etah district, Uttar Pradesh, on Sunday evening, leaving eight people injured and Shyampal, 36, dead while being taken to a higher medical centre around 3 am on Monday. Police said Mukesh was returning from fields with his buffalo through Shyampal's plot when an objection led to a clash involving sticks, batons and an axe; four people from each side were injured.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="7" index="4" kind="news" scope="india" -->
+### Sonia's book: Penguin denies external pressure
+
+Penguin Random House India said on Monday there was no external pressure behind its decision not to publish Sonia Gandhi's memoir "Belonging: A Journey of Love," citing an impasse over "a particular issue" without disclosing the contentious matter. Spokesperson Pallavi Narayan told PTI that since the content is confidential and under embargo there was no external pressure, though an understanding could not be reached on one issue; Alfred A Knopf has announced a November 10 worldwide release.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="7" index="5" kind="news" scope="india" -->
+### 3 killed in gun attack in Manipur
+
+Three civilians, including two women, were killed and four others injured when suspected militants armed with sophisticated weapons attacked N Teikhang village in Manipur's Kangpokpi district around 9.30 am on Monday, also allegedly burning several houses. The Kangpokpi-based Committee on Tribal Unity announced a 24-hour total shutdown along NH-2 from 5 am on September 1.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="7" index="6" kind="news" scope="india" -->
+### Attempt to suppress voices, says Cong on FIR
+
+The Congress lashed out at the BJP after an FIR was filed in Uttarakhand against Rahul Gandhi over his remarks on a 'shuddhikaran ceremony' at the venue where party chief Mallikarjun Kharge addressed a rally, calling it an attempt to divert attention and suppress voices. Jairam Ramesh and K C Venugopal said Gandhi had demanded action against BJP workers involved in purification after Kharge's rally, but an FIR was filed against Gandhi the next day instead of against the accused.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="7" index="7" kind="news" scope="india" -->
+### 5 killed in firecracker factory blast
+
+Five people died during treatment after a massive explosion at a firecracker factory in Manori village, Kaushambi district, Uttar Pradesh, on Monday afternoon, with more than 18 people suspected injured and rescue operations continuing. Train operations on the Delhi-Howrah line were suspended for about an hour, five to six adjacent houses collapsed, and NDRF, SDRF, police and more than 50 Air Force personnel joined rescue efforts.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="7" index="8" kind="news" scope="india" -->
+### 'Smash the patriarchy': Minister responds to remarks on confining women to homes
+
+Kerala Higher Education Minister Roji M John hit out at remarks seeking to confine women to their homes, ending a Facebook post with "SMASH THE PATRIARCHY," two days after Rahul Gandhi lashed out at the Manusmriti mindset. Though he did not name anyone, the post came a day after Islamic scholar Kanthapuram A P Aboobacker Musliyar said at a Kochi conference that bringing women onto public platforms causes "great destruction" and that Islam mandated purdah; Roji recalled Kerala's history of women's struggles including the Guruvayur Satyagraha and leaders such as Dakshayani Velayudhan and Accamma Cherian.
+<!-- /npd:article -->
+
+---
+
+## Page 8
+
+<!-- npd:article page="8" index="1" kind="news" scope="lifestyle" -->
+### Nutrition guide for healthy hair and regrowth
+
+Hair is primarily composed of keratin and requires adequate protein, iron, omega-3 fatty acids, B-vitamins, zinc, selenium and vitamins C and E for follicular health; deficiency can cause premature resting phase and increased shedding. The article recommends eggs, berries, spinach, fatty fish, nuts and sweet potatoes while advising against refined sugars, crash dieting and excessive alcohol or caffeine, noting consistent nutritional changes generally take 3 to 6 months to show results.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="8" index="2" kind="news" scope="lifestyle" -->
+### Understanding conjunctivitis or eye flu
+
+Conjunctivitis, commonly called eye flu or pink eye, is inflammation of the conjunctiva causing dilated blood vessels and a pink appearance, with types including viral, bacterial, allergic and chemical or irritant forms. Viral and bacterial forms are highly contagious while allergic conjunctivitis is not; management ranges from supportive care and antibiotics where appropriate to avoiding triggers and immediate flushing for chemical exposure, with medical evaluation advised for severe pain, light sensitivity, blurred vision or symptoms persisting beyond five days.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="8" index="3" kind="news" scope="lifestyle" -->
+### Controlling anger before it controls you
+
+Unmanaged temper stems from an overactive fight-or-flight response and can erode relationships, health and peace of mind; learning to control anger means shifting from impulsive reaction to intentional response. Immediate strategies include a 5-to-10-second pause, controlled box breathing, and physical disengagement from heated conversations, while long-term techniques involve trigger mapping, cognitive reframing and assertive "I" statements, with professional support such as CBT recommended for persistent outbursts.
+<!-- /npd:article -->
+
+---
+
+## Page 9
+
+<!-- npd:article page="9" index="1" kind="news" scope="international" -->
+### Airline defends dangerous stunt
+
+Regional carrier Airlink defended a dramatic low-altitude flypast of two commercial jets over Cape Town's DHL Stadium ahead of a South Africa-New Zealand rugby match, saying the manoeuvre was meticulously planned with aviation authorities and each aircraft was under three senior captains operating within approved safety parameters. Critics called the spectacle a reckless hazard near a capacity crowd while supporters praised pilot precision.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="9" index="2" kind="news" scope="international" -->
+### Indonesia's Sinabung volcano erupts
+
+Mount Sinabung in Indonesia erupted on Monday, spewing a column of black ash and smoke 3,500 metres from the summit over Sumatra island, with no immediate reports of casualties or evacuations but residents advised to refrain from activities within 6 kilometres of the summit. Officials raised the volcano alert level to "Watch," the second-highest level, as several villages in Karo district were covered in grey ash and masks were distributed.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="9" index="3" kind="news" scope="international" -->
+### Policeman killed in Pak IED explosion
+
+One policeman was killed and six injured when their vehicle was targeted with an improvised explosive device in Khyber Pakhtunkhwa, Pakistan, on Monday while travelling from Banda Police Station towards Dargah in Karak district for a search operation. Chief Minister Sohail Afridi condemned the attack as cowardly and a search operation was launched to trace the perpetrators.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="9" index="4" kind="news" scope="international" -->
+### Nepal tunnel workers recount horror and ordeal
+
+Workers from Nepal's flood-hit hydropower projects described desperate escapes, including Shiva Giri and colleagues who trekked 12 hours through forest after the Mailung Hydropower Project was swamped, as rescue teams try to trace 933 workers out of contact since August 26 with more than 600 believed stranded inside tunnels. So far 279 people have been rescued from tunnels and expert teams from India and China have joined Nepal's efforts.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="9" index="5" kind="news" scope="international" -->
+### Modi meets Iranian Prez, calls for end to war
+
+Prime Minister Narendra Modi told Iranian President Masoud Pezeshkian on the sidelines of the SCO summit in Bishkek on Monday that India wants to expand and diversify trade with Iran and called for resolution of the West Asia conflict through dialogue and diplomacy. The MEA said Modi expressed concern at escalating tensions, reiterated support for efforts ensuring lasting peace, and emphasised that civilians, civilian infrastructure and commercial shipping must not be harmed.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="9" index="6" kind="news" scope="international" -->
+### Lawyer, activist & aid giver win this year's Magsaysay awards
+
+Singaporean lawyer Tommy Koh, Myanmar activist Bo Kyi and Bangladeshi aid worker Runa Khan were named winners of the 2026 Ramon Magsaysay Awards on Monday. Koh was recognised for presiding over the 1982 UN Convention on the Law of the Sea conference, Bo Kyi for documenting human rights atrocities after seven years in prison, and Runa Khan for aid work that now employs more than 7,500 people through hospital ships and land-based hospitals.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="9" index="7" kind="news" scope="international" -->
+### NASA launches space telescope
+
+NASA's Nancy Grace Roman Space Telescope successfully lifted off aboard a SpaceX Falcon Heavy rocket from Kennedy Space Centre on Sunday and separated from the upper stage about 30 minutes later, beginning a 100-day journey to the second Sun-Earth Lagrange point. Equipped with a 2.4-metre primary mirror and 300.8-megapixel Wide Field Instrument with a field of view 100 times larger than Hubble's, Roman could discover up to 100,000 exoplanets during its five-year mission.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="9" index="8" kind="news" scope="international" -->
+### 2 killed as Iran, US exchange fire after many weeks
+
+The United States carried out a "limited, precise action" targeting two rocket launchers on Larak Island in the Strait of Hormuz after observing Iranian personnel preparing to launch rockets and lay sea mines, with the IRGC reporting two killed and two injured. In retaliation the IRGC launched ballistic missiles at US military installations in Jordan; Jordanian authorities confirmed intercepting eight incoming missiles early Monday.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="9" index="9" kind="news" scope="international" -->
+### 15 missing in flash floods in Grand Canyon
+
+A major flash flood at the Grand Canyon left one person dead and about 15 others missing or unaccounted for, with scores of visitors evacuated and the only water pipeline for tourists and residents destroyed. Emergency water restrictions began Monday preventing overnight stays at lodges, and the body of a 46-year-old man was recovered Sunday evening near Crystal Rapids along the Colorado River.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="9" index="10" kind="news" scope="international" -->
+### Nashville says final farewell to Dolly Parton
+
+US country music legend Dolly Parton was laid to rest in a private family ceremony at Nashville's Woodlawn Memorial Park beside her late husband Carl Dean after her death at 80 following a brief battle with cancer. Family members including nephew Bryan Seaver gathered for the intimate service after the music community rallied in grief and celebration over the weekend.
+<!-- /npd:article -->
+
+---
+
+## Page 10
+
+<!-- npd:article page="10" index="1" kind="news" scope="lifestyle" -->
+### 6 scientists, 120 research papers, 1 big bet—this IISc startup aims to put India on GaN map
+
+Bengaluru startup Agnit Semiconductors, born at IISc's Innovation Centre, has become India's first Gallium Nitride-based semiconductor company with a team of seven researchers and over 15 years of collective GaN experience aiming to design and manufacture GaN-powered semiconductors within five years. CEO Hareesh Chandrasekar said India is not too far behind in GaN technology and can catch up with government incentives under National Semiconductor Mission 2.0's Rs 1,27,500 crore outlay.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="10" index="2" kind="news" scope="lifestyle" -->
+### Can AI help save the planet and help build peace?
+
+Deepika Amirapu writes that artificial intelligence can serve as an early-warning system for farmers, traffic, forest fires and floods, connecting Sustainable Development Goals to everyday struggles over water, food and energy in cities such as Bengaluru. She argues AI can analyse climate, food, migration and economic conditions to flag rising risks before crises erupt, though Green AI is essential because data centres consume enormous electricity and water, and educational institutions should encourage students to solve real societal problems with AI.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="10" index="3" kind="news" scope="india" -->
+### Amaravati to get India's first dedicated univ for quantum tech, AI and other deep-tech
+
+Andhra Pradesh has approved India's first dedicated Quantum and Artificial Intelligence University campus in Amaravati, spearheaded by NIELIT and fully funded by MeitY at Rs 730 crore on 8.5 acres in the CRDA region. The campus will offer programmes in quantum computing, AI, semiconductors and other deep-tech areas, train approximately 8,250 learners over five years, and until completion academic programmes will run at Acharya Nagarjuna University in Guntur.
+<!-- /npd:article -->
+
+---
+
+## Page 11
+
+<!-- npd:article page="11" index="1" kind="news" scope="india" -->
+### Tata Group opens 80-key Corbett Hideaway resort in Uttarakhand
+
+Tata Group-owned Indian Hotels Company on Monday announced the opening of the 80-key Corbett Hideaway, Jim Corbett - IHCL SeleQtions resort in Uttarakhand, strengthening IHCL's presence in the state and adding the sixth Leisure Hotels Group property to its portfolio. Gaurav Pokhariyal, COO Full-Service Business, IHCL, said Corbett is one of India's most sought-after wildlife destinations.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="11" index="2" kind="news" scope="india" -->
+### Govt considering easing FDI norms in defence
+
+The government is considering liberalisation of foreign direct investment norms in the defence sector, with the Department for Promotion of Industry and Internal Trade holding stakeholder consultations; some easing is under consideration, an official said on Monday. Currently FDI up to 74 per cent is permitted through the automatic route and beyond that through government approval where modern technology access is likely, subject to MHA security clearance; India attracted USD 32.29 million FDI in defence industries between April 2000 and March 2026.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="11" index="3" kind="news" scope="india" -->
+### ITC Infotech to acquire 22.1% in Happiest Minds
+
+ITC Ltd said its wholly-owned subsidiary ITC Infotech will acquire a 22.1 per cent stake in Happiest Minds Technologies for around Rs 1,330 crore from promoter Ashok Soota and Ashok Soota Medical Research LLP, leading to amalgamation of the two entities into a USD 1-billion tech giant. Post-amalgamation ITC Limited will hold 73.4 per cent in the merged entity with a workforce of over 19,000 professionals targeting USD 1 billion revenue by FY28.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="11" index="4" kind="news" scope="india" -->
+### Maruti Suzuki raises capex to Rs 77,500 cr
+
+Maruti Suzuki India has increased its capex outlay to Rs 77,500 crore for five years till FY31 for capacity expansion, new models and R&D, Managing Director and CEO Hisashi Takeuchi said at the AGM on Monday. Capex for FY26-27 alone is planned at Rs 14,000 crore, a 40 per cent jump from around Rs 10,000 crore last year, and he assured Maruti cars from production year 2008 are compatible with E20 fuel.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="11" index="5" kind="news" scope="india" -->
+### Zomato bans analogue dishes on its platform
+
+Food delivery aggregator Zomato on Monday announced a zero-tolerance policy on sale of analogue dishes including analogue cheese, paneer or other dairy products, reserving the right to delist non-compliant restaurants with immediate effect. Dishes declared as containing analogue dairy have been delisted, following renewed food safety focus after Maharashtra FDA crackdowns and FSSAI inspections in Delhi five-star hotels.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="11" index="6" kind="news" scope="india" -->
+### Centre's FY27 fiscal deficit touches 26.8 pc of full year target at end July
+
+The central government's fiscal deficit for 2026-27 stood at 26.8 per cent of the full-year target at the end of July, at Rs 4,55,144 crore in the April-July period against a target of 4.3 per cent of GDP or Rs 16.96 lakh crore, according to CGA data released on Monday. Net tax revenue was about Rs 8.45 lakh crore or 29.5 per cent of budget estimates and total expenditure was about Rs 17.62 lakh crore or 32.9 per cent of BE.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="11" index="7" kind="news" scope="india" -->
+### Govt notifies Rs 1,27,500cr Semicon 2.0
+
+The government on Monday notified the Semicon 2.0 scheme, setting in motion the Rs 1,27,500-crore plan approved by the Union Cabinet on July 15, 2026 to deepen India's semiconductor ambitions from chip manufacturing to design, equipment, materials, packaging, R&D and talent development. IT Secretary S Krishnan said the objective is self-reliance and a globally competitive industry, with 40 per cent fiscal support for silicon fabs and 35 per cent for compound, display and specialised fabs.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="11" index="8" kind="news" scope="india" -->
+### Ex-mill sugar prices fall 30%; retail rates same
+
+Ex-mill sugar prices fell nearly 30 per cent to Rs 47 per kg on Monday from a peak of Rs 67 per kg on August 18 following government interventions, but the drop has yet to filter to retail shelves as retailers hold stock bought at higher rates. Retail sugar was selling at Rs 64.23 per kg on Sunday against a wholesale rate of Rs 59.72 per kg, and an estimated 3-3.5 lakh tonnes of export-refined sugar is expected to enter the domestic market over the next two months.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="11" index="9" kind="news" scope="india" -->
+### Govt: IOC boosted LPG output by 30%
+
+State-owned Indian Oil Corporation ramped up liquefied petroleum gas production by nearly 30 per cent and kept refineries operating above 100 per cent utilisation as Strait of Hormuz disruptions threatened India's energy supplies, chairman Arvinder Singh Sahney said at the 67th AGM on Monday. IOC diversified crude sourcing and secured alternative supplies as West Asia conflict disrupted global energy markets; India imports more than 88 per cent of its crude oil requirement.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="11" index="10" kind="news" scope="india" -->
+### Investments by PE/VC funds jump to $4.1 bln
+
+Private equity and venture capital funds' investments in India increased 3 per cent year-on-year to USD 4.1 billion in July, 52 per cent higher than USD 2.7 billion in June, according to an EY-IVCA report released on Monday. July recorded 10 large deals totalling USD 2.8 billion including Brookfield's USD 600 million bet in Lumara, with buyout investments accounting for USD 1.4 billion, a 176 per cent jump from July 2025.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="11" index="11" kind="news" scope="india" -->
+### Mahindra to manufacture parts for Airbus A320 plane
+
+Mahindra Aerostructures on Monday said it secured a contract from Airbus to manufacture and supply fuselage skins for A320 aircraft with delivery targeted for 2028, covering Sections 18 and 19 of the A320neo and A321XLR rear fuselage and tail sections. Components will be manufactured at Mahindra's Bengaluru facility and supplied to Airbus' Augsburg facility in Germany, expanding India's role in the global aerospace supply chain.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="11" index="12" kind="news" scope="india" -->
+### Chandra's dissenting lenders Canara Bank, Union Bank move NCLAT
+
+Dissenting lenders of Subhash Chandra on Monday moved NCLAT challenging the NCLT order approving a Rs 6.5 crore payment by the Essel Group chairman over creditor claims of about Rs 22,006.57 crore in his personal insolvency resolution process. Solicitor General Tushar Mehta, appearing for LIC Housing Finance, Canara Bank and Union Bank, sought urgent hearing saying the order would defeat the purpose of the Insolvency and Bankruptcy Code; NCLAT listed the matter for Tuesday.
+<!-- /npd:article -->
+
+---
+
+## Page 12
+
+<!-- npd:article page="12" index="1" kind="news" scope="sports" -->
+### Lionel Messi bids emotional farewell to Argentina after international retirement
+
+Football icon Lionel Messi announced through his official Instagram profile that he has retired from international football and will no longer wear the Argentina jersey, saying he made the decision two days after the World Cup final loss to Spain. Messi said it was a decision that still hurts deeply but that he always gave everything for the shirt and leaves with pride in moments shared with teammates.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="12" index="2" kind="news" scope="sports" -->
+### We need to check where we went wrong as a batting unit: Shafali Verma
+
+India opener Shafali Verma said the team's batting unit will assess its shortcomings on turners despite opening the Women's Asia Cup with a 94-run victory over Thailand in Dubai, where India slumped from 91 for one to 159 for nine after her 64 off 36 balls. Shafali said the track offered hold and turn with the older ball and credited Thailand's bowlers while noting her previous UAE World Cup experience helped her prepare.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="12" index="3" kind="news" scope="sports" -->
+### Mourinho calls for patience with Diomande
+
+Real Madrid coach Jose Mourinho called for patience with Ivory Coast winger Yan Diomande, a reported $146 million signing from Leipzig who has made three substitute appearances without replicating his Bundesliga or World Cup form. Mourinho said Diomande needs to go "little by little" after Madrid's 4-0 win over Malaga, their third from three league games this season.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="12" index="4" kind="news" scope="sports" -->
+### Tilak's unbeaten ton puts South in control vs North
+
+Captain Tilak Varma made an unbeaten 106 off 225 balls and Shreyas Gopal scored 87 as South Zone finished at 285 for nine on day two of the Duleep Trophy semifinal against North Zone in Bengaluru, taking a first-innings lead of 90 runs after North were bowled out for 195. Gurnoor Brar took 4 for 70 as South recovered from 80 for five through a 175-run sixth-wicket stand between Tilak and Gopal.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="12" index="5" kind="news" scope="sports" -->
+### Lakshya spearheads Indian challenge at China Masters
+
+Lakshya Sen will spearhead India's challenge at the USD 1,250,000 China Masters Super 750 in Shenzhen beginning Tuesday, facing world champion Alex Lanier of France in the opening round after his shock second-round exit at the World Championships. Former world No. 1 Kidambi Srikanth faces Chinese Taipei's Chi Yu-jen, while fourth seeds Satwiksairaj Rankireddy and Chirag Shetty head the men's doubles hopes after winning the Singapore Open earlier this year.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="12" index="6" kind="news" scope="sports" -->
+### Venus Williams bows out of her 26th US Open
+
+Venus Williams bowed out of her 26th US Open singles appearance early Monday, losing 6-2, 7-6 (6) to fellow American wild card Sofia Kenin after not getting on court until midnight in what could be her final singles match at a Grand Slam. The 46-year-old has lost 15 consecutive singles matches dating to July 2025 and said her mind was fully focused on recovering for doubles with sister Serena later in the week.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="12" index="7" kind="news" scope="sports" -->
+### Djokovic crashes out in US Open first round for first time
+
+Novak Djokovic was knocked out in the US Open first round for the first time, beaten by Mariano Navone of Argentina 7-6 (5), 5-7, 4-6, 6-2, 6-1 after more than 4 1/2 hours in which the 39-year-old vomited and battled leg problems. The 24-time Grand Slam champion had been 19-0 in US Open first rounds and had not lost an opening major match since the 2006 Australian Open.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="12" index="8" kind="news" scope="sports" -->
+### Para paddlers sign off with 16 medals in Finland
+
+India signed off with 16 medals including six gold, four silver and six bronze from the ITTF World Para Future Lahti tournament in Finland. Rameshbhai Chaudhary and Sumit Sehgal claimed men's doubles gold in Classes 4-8 with a 3-0 victory over South Africa, and Sumit partnered Deepikarani Ramanathan for mixed doubles gold.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="12" index="9" kind="news" scope="sports" -->
+### Vaibhav slams 92 as East Zone battle Central
+
+Fifteen-year-old Vaibhav Sooryavanshi scored 92 off 81 balls to become the youngest batter to score a fifty in the Duleep Trophy, but East Zone were bowled out for 266—identical to Central Zone's first-innings total—in the semifinal in Bengaluru on Monday. Left-arm spinner Harsh Dubey took 4 for 66 as East lost 10 wickets for 105 runs in a collapse after Sooryavanshi and Abhimanyu Easwaran's 161-run opening stand, leaving Central at 45 for three at stumps.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="12" index="10" kind="news" scope="sports" -->
+### England's Robinson-Archer combo seals series
+
+Ollie Robinson and Jofra Archer took 24 of Pakistan's 38 possible wickets in harness together for the first time in Test cricket as England clinched the series 2-0 against Pakistan at Lord's on Sunday with a day and a game to spare. Change bowlers Josh Tongue and Gus Atkinson claimed the other 14 wickets; the third and last Test starts on September 9 at Edgbaston.
+<!-- /npd:article -->
+
+---
+
+## Summary
+- Pages processed: 12
+- Articles extracted: 90
+- Pages with no reportable articles (full-page ads, notices only): none
