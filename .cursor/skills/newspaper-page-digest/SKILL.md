@@ -147,6 +147,8 @@ find "$WORKDIR" -mindepth 1 -maxdepth 1 ! -name '*_PageDigest.md' ! -name '*_Pag
 
 Do not paste the entire digest into the chat. Give a short 2–3 line summary (pages processed, total articles, anything unusual such as a page that was mostly ads) and point the user at both file paths under `$WORKDIR`.
 
+This skill is **one newspaper**. After every paper for the calendar day has a PageDigest, the user should run **`/daily-after-digest`** (or ask to “finish the day”) — that builds Local Top 5, Coastal Katte Top 5, Full Paper, and the YouTube briefing. Do **not** run that pack from inside this digest skill, and do **not** write a reel script here.
+
 ## Quality Checklist Before Delivering
 
 - Every page from the split report appears in the output, in order.

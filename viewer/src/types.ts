@@ -62,6 +62,97 @@ export type DateEntry = {
   date: string | null
   has_local_top5: boolean
   has_coastal_katte: boolean
+  has_full_paper?: boolean
 }
 
-export type PrimaryView = 'local' | 'coastal'
+export type PrimaryView = 'local' | 'coastal' | 'full'
+
+export type WhatThisIs = {
+  concept: string
+  told: string
+  purpose: string
+}
+
+export type FullPaperNewsItem = {
+  rank?: number
+  headline: string
+  gist: string
+  paragraph: string
+  what_this_is: WhatThisIs
+  important_points: string[]
+  kind: string
+  scope: string
+  sources: SourceRef[]
+}
+
+export type FullPaperOpinionItem = {
+  headline: string
+  gist: string
+  points: string[]
+  kind: string
+  scope: string
+  sources: SourceRef[]
+}
+
+export type FullPaperNewsBucketKey =
+  | 'mangaluru'
+  | 'coastal_karnataka'
+  | 'karnataka'
+  | 'india'
+  | 'international'
+  | 'sports'
+  | 'lifestyle'
+  | 'other'
+
+export type FullPaperNewsBucket = {
+  label: string
+  item_count: number
+  items: FullPaperNewsItem[]
+}
+
+export type FullPaper = {
+  date: string
+  date_slug: string
+  papers_scanned: Array<{
+    paper: string
+    edition: string
+    path: string
+    total_articles?: number
+  }>
+  summary: {
+    source_articles: number
+    clusters: number
+    news_count: number
+    technology_candidate_count: number
+    technology_top5_count: number
+    technology_rest_count: number
+    opinion_count: number
+  }
+  sections: {
+    news: {
+      label: string
+      buckets: Partial<Record<FullPaperNewsBucketKey, FullPaperNewsBucket>>
+    }
+    technology: {
+      label: string
+      top5: {
+        label: string
+        candidate_count: number
+        selected_count: number
+        items: FullPaperNewsItem[]
+      }
+      rest: {
+        label: string
+        item_count: number
+        items: FullPaperNewsItem[]
+      }
+    }
+    opinion: {
+      label: string
+      item_count: number
+      items: FullPaperOpinionItem[]
+    }
+  }
+}
+
+export type FullPaperSectionId = 'news' | 'technology' | 'opinion'

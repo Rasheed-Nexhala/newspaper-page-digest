@@ -37,6 +37,7 @@ type DateEntry = {
   date: string | null
   has_local_top5: boolean
   has_coastal_katte: boolean
+  has_full_paper: boolean
 }
 
 function localTop5Path(workRoot: string, slug: string): string {
@@ -45,6 +46,10 @@ function localTop5Path(workRoot: string, slug: string): string {
 
 function coastalKattePath(workRoot: string, slug: string): string {
   return path.join(workRoot, slug, 'Coastal_Katte', `CoastalKatte_Top5_${slug}.json`)
+}
+
+function fullPaperPath(workRoot: string, slug: string): string {
+  return path.join(workRoot, slug, 'Full_paper', `FullPaper_${slug}.json`)
 }
 
 function readJsonLabel(filePath: string): string | null {
@@ -67,19 +72,23 @@ function listDates(workRoot: string): DateEntry[] {
 
     const localPath = localTop5Path(workRoot, name)
     const ckPath = coastalKattePath(workRoot, name)
+    const fpPath = fullPaperPath(workRoot, name)
     const has_local_top5 = fs.existsSync(localPath)
     const has_coastal_katte = fs.existsSync(ckPath)
-    if (!has_local_top5 && !has_coastal_katte) continue
+    const has_full_paper = fs.existsSync(fpPath)
+    if (!has_local_top5 && !has_coastal_katte && !has_full_paper) continue
 
     const date =
       (has_local_top5 ? readJsonLabel(localPath) : null) ??
-      (has_coastal_katte ? readJsonLabel(ckPath) : null)
+      (has_coastal_katte ? readJsonLabel(ckPath) : null) ??
+      (has_full_paper ? readJsonLabel(fpPath) : null)
 
     entries.push({
       date_slug: name,
       date,
       has_local_top5,
       has_coastal_katte,
+      has_full_paper,
     })
   }
 
@@ -156,6 +165,17 @@ export function workApiPlugin(workRoot: string): Plugin {
             return
           }
           sendFileJson(res, coastalKattePath(resolvedRoot, slug))
+          return
+        }
+
+        const fpMatch = /^\/api\/full-paper\/([^/]+)\/?$/.exec(url)
+        if (fpMatch) {
+          const slug = decodeURIComponent(fpMatch[1])
+          if (!isDateSlug(slug)) {
+            sendJson(res, 400, { error: 'Invalid date slug' })
+            return
+          }
+          sendFileJson(res, fullPaperPath(resolvedRoot, slug))
           return
         }
 

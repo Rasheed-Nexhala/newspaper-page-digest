@@ -1,6 +1,6 @@
 {
   "name": "newspaper-page-digest",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "Splits any combined newspaper PDF into individual pages and produces a page-by-page Markdown digest with a heading, short blurb, and geographic/content scope for every article, using a fan-out of extractor and editor sub-agents.",
   "author": {
     "name": "Shaz Rasheed"

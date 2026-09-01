@@ -7,6 +7,8 @@ description: Write a 4–6 minute YouTube Top 5 briefing script from Coastal Kat
 
 Follow the `coastal-katte-youtube` skill exactly (`.cursor/skills/coastal-katte-youtube/SKILL.md` or `~/.cursor/skills/coastal-katte-youtube/SKILL.md`) and `references/yt-spec.md`.
 
+If you just finished digesting **all** papers for the day, prefer **`/daily-after-digest`** (includes this briefing).
+
 1. Load `work/<date>/Coastal_Katte/CoastalKatte_Top5_<date>.json` (run `/coastal-katte-top5` first if missing). Date = user-named or latest folder.
 2. If the user pastes a SCRIPT MD or full articles for any rank, those override default beats / blurbs for those ranks.
 3. Write **one** 4–6 min teleprompter: intro (“today’s Top 5 from …”) → stories **1→5** (what happened, numbers/dates, why it matters, labeled host take) → close. Plus **2–3 alternate cold opens**.

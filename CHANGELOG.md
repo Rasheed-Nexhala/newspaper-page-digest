@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.4.0
+
+- Full Paper daily reader (clustered complete news, Technology Top 5, Opinion & Explainers) via `/daily-full-paper`.
+- `/daily-after-digest` runs Local Top 5, Coastal Katte Top 5, Full Paper, and the YouTube briefing after all papers are digested. Does not write reel scripts. Does not backfill older dates.
+- Viewer **Full paper** tab when `Full_paper/FullPaper_*.json` exists; older days without it stay as they were.
+
 ## 1.3.0
 
 - Added required `scope` on every article (`mangaluru` | `coastal_karnataka` | `karnataka` | `india` | `international` | `sports` | `lifestyle` | `other`) in Markdown sentinels and JSON.
