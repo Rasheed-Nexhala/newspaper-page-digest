@@ -1,16 +1,23 @@
 import type { CoastalKatteTop5, DateEntry, FullPaper, LocalTop5 } from './types'
 
+declare const __DATA_CACHE_BUST__: string
+
 /** Production / preview: static files under public/data. Dev: Vite /api middleware. */
 const useStaticData = !import.meta.env.DEV
 
 function staticDataUrl(relPath: string): string {
   const base = import.meta.env.BASE_URL
   const prefix = base.endsWith('/') ? base : `${base}/`
-  return `${prefix}data/${relPath}`
+  const sep = relPath.includes('?') ? '&' : '?'
+  const bust =
+    typeof __DATA_CACHE_BUST__ !== 'undefined' && __DATA_CACHE_BUST__
+      ? `${sep}v=${encodeURIComponent(__DATA_CACHE_BUST__)}`
+      : ''
+  return `${prefix}data/${relPath}${bust}`
 }
 
 async function fetchJson<T>(url: string): Promise<T> {
-  const res = await fetch(url)
+  const res = await fetch(url, { cache: 'no-store' })
   if (!res.ok) {
     let detail = res.statusText
     try {
