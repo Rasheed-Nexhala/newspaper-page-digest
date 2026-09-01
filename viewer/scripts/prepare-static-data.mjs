@@ -8,6 +8,7 @@
  *   public/data/dates.json
  *   public/data/<DD-Mon-YYYY>/local-top5.json
  *   public/data/<DD-Mon-YYYY>/coastal-katte.json
+ *   public/data/<DD-Mon-YYYY>/full-paper.json
  */
 import fs from 'node:fs'
 import path from 'node:path'
@@ -55,6 +56,10 @@ function coastalKattePath(slug) {
   return path.join(workRoot, slug, 'Coastal_Katte', `CoastalKatte_Top5_${slug}.json`)
 }
 
+function fullPaperPath(slug) {
+  return path.join(workRoot, slug, 'Full_paper', `FullPaper_${slug}.json`)
+}
+
 function readJsonLabel(filePath) {
   try {
     const data = JSON.parse(fs.readFileSync(filePath, 'utf8'))
@@ -91,9 +96,11 @@ if (fs.existsSync(workRoot)) {
 
     const localPath = localTop5Path(name)
     const ckPath = coastalKattePath(name)
+    const fpPath = fullPaperPath(name)
     const has_local_top5 = fs.existsSync(localPath)
     const has_coastal_katte = fs.existsSync(ckPath)
-    if (!has_local_top5 && !has_coastal_katte) continue
+    const has_full_paper = fs.existsSync(fpPath)
+    if (!has_local_top5 && !has_coastal_katte && !has_full_paper) continue
 
     const dayDir = path.join(outRoot, name)
     ensureDir(dayDir)
@@ -104,16 +111,21 @@ if (fs.existsSync(workRoot)) {
     if (has_coastal_katte) {
       copyJson(ckPath, path.join(dayDir, 'coastal-katte.json'))
     }
+    if (has_full_paper) {
+      copyJson(fpPath, path.join(dayDir, 'full-paper.json'))
+    }
 
     const date =
       (has_local_top5 ? readJsonLabel(localPath) : null) ??
-      (has_coastal_katte ? readJsonLabel(ckPath) : null)
+      (has_coastal_katte ? readJsonLabel(ckPath) : null) ??
+      (has_full_paper ? readJsonLabel(fpPath) : null)
 
     entries.push({
       date_slug: name,
       date,
       has_local_top5,
       has_coastal_katte,
+      has_full_paper,
     })
   }
 }
@@ -129,6 +141,7 @@ for (const e of entries) {
   const bits = [
     e.has_local_top5 ? 'local' : null,
     e.has_coastal_katte ? 'coastal' : null,
+    e.has_full_paper ? 'full' : null,
   ].filter(Boolean)
   console.log(`  ${e.date_slug} (${bits.join(', ')})`)
 }

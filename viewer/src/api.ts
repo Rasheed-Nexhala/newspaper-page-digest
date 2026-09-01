@@ -1,4 +1,4 @@
-import type { CoastalKatteTop5, DateEntry, LocalTop5 } from './types'
+import type { CoastalKatteTop5, DateEntry, FullPaper, LocalTop5 } from './types'
 
 /** Production / preview: static files under public/data. Dev: Vite /api middleware. */
 const useStaticData = !import.meta.env.DEV
@@ -49,4 +49,13 @@ export function fetchCoastalKatte(dateSlug: string): Promise<CoastalKatteTop5> {
   return fetchJson<CoastalKatteTop5>(
     `/api/coastal-katte/${encodeURIComponent(dateSlug)}`,
   )
+}
+
+export function fetchFullPaper(dateSlug: string): Promise<FullPaper> {
+  if (useStaticData) {
+    return fetchJson<FullPaper>(
+      staticDataUrl(`${encodeURIComponent(dateSlug)}/full-paper.json`),
+    )
+  }
+  return fetchJson<FullPaper>(`/api/full-paper/${encodeURIComponent(dateSlug)}`)
 }

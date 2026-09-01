@@ -21,3 +21,4 @@ The user wants a page-by-page newspaper digest. Follow the `newspaper-page-diges
    - **Fidelity:** no invented facts/wording; blurbs must keep load-bearing ₹ figures, dates, names, and outcomes from the transcript.
 6. Write both digest files into that paper folder only (`*_PageDigest.md` + `*_PageDigest.json`) — never next to the source PDF, never into `Daily_top/`.
 7. After both digests are validated, delete all intermediates under that paper folder (`pages/`, `transcripts/`, `edited/`, `tmp/`, PNGs, OCR text). Keep **only** the two `*_PageDigest` files. Return a short summary plus both paths — do not paste the full digest into chat.
+8. This command is **one paper only**. When **all** papers for the day are digested, run **`/daily-after-digest`** (Local Top 5, Coastal Katte Top 5, Full Paper, YouTube briefing — not the reel script). Do not start that pack from a single-paper digest.
