@@ -5,7 +5,12 @@ import { DatePicker } from './components/DatePicker'
 import { FullPaperView } from './components/FullPaperView'
 import { LocalTop5View } from './components/LocalTop5View'
 import { SavedArticlesView } from './components/SavedArticlesView'
+import { SearchView } from './components/SearchView'
 import { useAuth } from './hooks/useAuth'
+import {
+  catalogToSavedArticle,
+  fetchAllCatalogArticles,
+} from './lib/articles'
 import {
   makeSavedArticleId,
   saveArticle,
@@ -13,6 +18,7 @@ import {
   unsaveArticle,
 } from './lib/savedArticles'
 import type {
+  CatalogArticle,
   CoastalKatteItem,
   CoastalKatteTop5,
   DateEntry,
@@ -35,6 +41,7 @@ function resolveView(
   entry: DateEntry | undefined,
 ): PrimaryView {
   if (requested === 'saved') return 'saved'
+  if (requested === 'search') return 'search'
   if (!entry) return requested
   if (requested === 'coastal' && entry.has_coastal_katte) return 'coastal'
   if (requested === 'local' && entry.has_local_top5) return 'local'
@@ -181,6 +188,9 @@ export default function App() {
   const [savedItems, setSavedItems] = useState<SavedArticle[]>([])
   const [savedLoading, setSavedLoading] = useState(false)
   const [savedError, setSavedError] = useState<string | null>(null)
+  const [catalogArticles, setCatalogArticles] = useState<CatalogArticle[]>([])
+  const [searchLoading, setSearchLoading] = useState(false)
+  const [searchError, setSearchError] = useState<string | null>(null)
   const { user, loading: authLoading, error: authError, signInWithGoogle, signOutUser, setAuthError } =
     useAuth()
 
@@ -302,6 +312,26 @@ export default function App() {
     return unsubscribe
   }, [user])
 
+  useEffect(() => {
+    let cancelled = false
+    setSearchLoading(true)
+    setSearchError(null)
+    fetchAllCatalogArticles()
+      .then((items) => {
+        if (!cancelled) setCatalogArticles(items)
+      })
+      .catch((err: unknown) => {
+        if (cancelled) return
+        setSearchError(err instanceof Error ? err.message : String(err))
+      })
+      .finally(() => {
+        if (!cancelled) setSearchLoading(false)
+      })
+    return () => {
+      cancelled = true
+    }
+  }, [])
+
   function refreshDates() {
     setDatesLoading(true)
     setDatesError(null)
@@ -324,8 +354,11 @@ export default function App() {
   const showFull = activeView === 'full'
   const showCoastal = activeView === 'coastal'
   const showSaved = activeView === 'saved'
+  const showSearch = activeView === 'search'
+  const showEdition = !showSaved && !showSearch
   const missingForView =
     selected &&
+    showEdition &&
     ((showLocal && !selected.has_local_top5) ||
       (showCoastal && !selected.has_coastal_katte) ||
       (showFull && !hasFullPaper(selected)))
@@ -393,8 +426,8 @@ export default function App() {
             Coastal Katte
           </p>
           <p className="mt-3 max-w-md text-[0.95rem] leading-relaxed text-[var(--ink-muted)] sm:mt-4 sm:text-base">
-            Daily Top 5, Coastal Katte, and Full Paper when that day has them —
-            pick a date or step Older / Newer.
+            Daily Top 5, Coastal Katte, Full Paper, and search across Full Paper
+            days — pick a date or step Older / Newer.
           </p>
 
           <div className="glass-panel mt-6 p-4 sm:mt-8 sm:p-5">
@@ -445,6 +478,11 @@ export default function App() {
                 label: 'Saved',
                 enabled: true,
               },
+              {
+                id: 'search' as const,
+                label: 'Search',
+                enabled: true,
+              },
             ] as const
           ).map((tab) => {
             const active = activeView === tab.id
@@ -472,6 +510,8 @@ export default function App() {
                           ? 'bg-[var(--lagoon)]'
                           : tab.id === 'saved'
                             ? 'bg-[var(--ink)]'
+                            : tab.id === 'search'
+                              ? 'bg-[var(--sea-deep)]'
                           : 'bg-[var(--sea)]'
                     }`}
                   />
@@ -488,7 +528,7 @@ export default function App() {
             </p>
           )}
 
-          {!showSaved && !datesLoading && dates.length === 0 && !datesError && (
+          {!showSaved && !showSearch && !datesLoading && dates.length === 0 && !datesError && (
             <p className="py-12 text-center text-[var(--ink-muted)] sm:py-16">
               No Top 5 JSON found yet. Run{' '}
               <code className="text-[var(--sea)]">/daily-after-digest</code> after
@@ -496,17 +536,17 @@ export default function App() {
             </p>
           )}
 
-          {contentLoading && !showSaved && (
+          {contentLoading && showEdition && (
             <p className="py-8 text-[var(--ink-muted)]">Loading edition…</p>
           )}
 
-          {contentError && !showSaved && (
+          {contentError && showEdition && (
             <p className="py-4 text-sm text-[var(--sunset)]" role="alert">
               {contentError}
             </p>
           )}
 
-          {!contentLoading && !showSaved && missingForView && (
+          {!contentLoading && showEdition && missingForView && (
             <p className="py-10 text-[var(--ink-muted)] italic sm:py-12">
               {showLocal
                 ? 'Daily Top 5 is not available for this date.'
@@ -579,6 +619,16 @@ export default function App() {
                   ),
                 )
               }
+            />
+          )}
+
+          {showSearch && (
+            <SearchView
+              articles={catalogArticles}
+              loading={searchLoading}
+              error={searchError}
+              isSaved={(articleId) => savedIds.has(articleId)}
+              onToggleSave={(item) => toggleSaved(catalogToSavedArticle(item))}
             />
           )}
 

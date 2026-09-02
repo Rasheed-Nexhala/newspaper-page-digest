@@ -10,36 +10,14 @@ import {
   type QueryDocumentSnapshot,
   type Timestamp,
 } from 'firebase/firestore'
-import type { SavedArticle, SourceRef } from '../types'
+import type { SavedArticle } from '../types'
+import { makeSavedArticleId } from './articleId'
 import { db } from './firebase'
+
+export { makeSavedArticleId } from './articleId'
 
 type SavedArticleRecord = Omit<SavedArticle, 'saved_at'> & {
   saved_at?: string | Timestamp
-}
-
-function sourceKey(s: SourceRef): string {
-  return `${s.paper}|${s.edition}|${s.page}|${s.index}`
-}
-
-function fallbackKey(article: Pick<SavedArticle, 'headline' | 'scope' | 'kind'>): string {
-  return `${article.scope}|${article.kind}|${article.headline.trim().toLowerCase()}`
-}
-
-function hashString(value: string): string {
-  let hash = 2166136261
-  for (let i = 0; i < value.length; i += 1) {
-    hash ^= value.charCodeAt(i)
-    hash +=
-      (hash << 1) + (hash << 4) + (hash << 7) + (hash << 8) + (hash << 24)
-  }
-  return (hash >>> 0).toString(16)
-}
-
-export function makeSavedArticleId(article: SavedArticle): string {
-  const sourceFingerprint = article.sources.length
-    ? [...article.sources].map(sourceKey).sort().join('||')
-    : fallbackKey(article)
-  return hashString(`${article.date_slug}::${sourceFingerprint}`)
 }
 
 function normalizeSavedArticle(docSnap: QueryDocumentSnapshot): SavedArticle {

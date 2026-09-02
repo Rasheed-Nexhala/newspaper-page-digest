@@ -48,7 +48,19 @@ Load and follow, in order:
 
 If Local Top 5 or Coastal Katte Top 5 already exists for **this** date and the user did not ask to rebuild, you may keep them and still build any missing Full Paper / YouTube outputs. If the user said “rebuild the day”, redo all four.
 
-## Step 3 — Deliver
+## Step 3 — Sync Full Paper to Firestore
+
+After `FullPaper_<date>.json` exists, publish clustered articles to Firestore so the viewer Full Paper tab and Search can fetch them:
+
+```bash
+cd viewer && npm run sync-firestore
+```
+
+Requires Firebase Admin credentials (`FIREBASE_SERVICE_ACCOUNT` JSON or Application Default Credentials). If credentials are missing, still finish the JSON/Markdown outputs and tell the user to run `npm run sync-firestore` (or wait for the deploy workflow, which runs the same command).
+
+Do not skip writing `work/` JSON. Firestore is a publish step, not a replacement for the digest files.
+
+## Step 4 — Deliver
 
 One short block:
 
@@ -57,4 +69,5 @@ One short block:
 - Coastal Katte Top 5 path
 - Full Paper path
 - YouTube briefing path
+- Firestore sync result (or reminder to run `cd viewer && npm run sync-firestore`)
 - Reminder: reel script is **`/coastal-katte-script`** when they pick a story

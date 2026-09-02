@@ -1,3 +1,4 @@
+import { fetchFullPaper as fetchFullPaperFromFirestore } from './lib/articles'
 import type { CoastalKatteTop5, DateEntry, FullPaper, LocalTop5 } from './types'
 
 declare const __DATA_CACHE_BUST__: string
@@ -59,10 +60,5 @@ export function fetchCoastalKatte(dateSlug: string): Promise<CoastalKatteTop5> {
 }
 
 export function fetchFullPaper(dateSlug: string): Promise<FullPaper> {
-  if (useStaticData) {
-    return fetchJson<FullPaper>(
-      staticDataUrl(`${encodeURIComponent(dateSlug)}/full-paper.json`),
-    )
-  }
-  return fetchJson<FullPaper>(`/api/full-paper/${encodeURIComponent(dateSlug)}`)
+  return fetchFullPaperFromFirestore(dateSlug)
 }

@@ -83,7 +83,17 @@ Into `work/<DD-Mon-YYYY>/Full_paper/` only:
 
 Delete `candidates.json` after the finals are written.
 
-## Step 5 — Deliver
+## Step 5 — Publish to Firestore
+
+From `viewer/`:
+
+```bash
+npm run sync-firestore
+```
+
+This upserts `editions/{date_slug}` and one `articles/{id}` doc per clustered story. Keep the JSON in `work/` as the source of truth. If Admin credentials are not available, leave this to CI (`deploy-viewer.yml` runs the same script).
+
+## Step 6 — Deliver
 
 Short summary only: date, papers scanned, source articles → clusters, counts per section, paths. Do not paste the full brief into chat.
 
@@ -96,3 +106,4 @@ Short summary only: date, papers scanned, source articles → clusters, counts p
 - Technology `top5.selected_count` ≤ 5; ranks 1–N consecutive.
 - JSON keys match `references/output-spec.md`.
 - `Full_paper/` ends with only the two FullPaper files.
+- After JSON exists, `cd viewer && npm run sync-firestore` (or CI) so the viewer can fetch the day.

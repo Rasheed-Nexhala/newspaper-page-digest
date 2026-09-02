@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "prepare-data": "node scripts/prepare-static-data.mjs",
+    "sync-firestore": "node scripts/sync-full-paper-to-firestore.mjs",
     "dev": "vite",
     "prebuild": "npm run prepare-data",
     "build": "tsc -b && vite build",
@@ -23,6 +24,7 @@
     "@types/react-dom": "^19.2.4",
     "@vitejs/plugin-react": "^6.1.0",
     "oxlint": "^1.79.0",
+    "google-auth-library": "^10.5.0",
     "tailwindcss": "^4.3.3",
     "typescript": "~6.0.2",
     "vite": "^8.2.2"
