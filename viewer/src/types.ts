@@ -65,7 +65,35 @@ export type DateEntry = {
   has_full_paper?: boolean
 }
 
-export type PrimaryView = 'local' | 'coastal' | 'full'
+export type PrimaryView = 'local' | 'coastal' | 'full' | 'saved' | 'search'
+
+export type SavedArticleOrigin =
+  | 'local_top5'
+  | 'coastal_katte'
+  | 'full_paper_news'
+  | 'full_paper_technology'
+  | 'full_paper_opinion'
+
+export type SavedArticle = {
+  id: string
+  date_slug: string
+  date: string
+  origin: SavedArticleOrigin
+  headline: string
+  summary: string
+  kind: string
+  scope: string
+  sources: SourceRef[]
+  saved_at: string
+  rank?: number
+  why_channel?: string
+  source_bucket?: string
+  local_top_rank?: number
+  paragraph?: string
+  what_this_is?: WhatThisIs
+  important_points?: string[]
+  points?: string[]
+}
 
 export type WhatThisIs = {
   concept: string
@@ -156,3 +184,43 @@ export type FullPaper = {
 }
 
 export type FullPaperSectionId = 'news' | 'technology' | 'opinion'
+
+export type CatalogArticleOrigin =
+  | 'full_paper_news'
+  | 'full_paper_technology'
+  | 'full_paper_opinion'
+
+export type CatalogArticle = {
+  id: string
+  date_slug: string
+  date: string
+  origin: CatalogArticleOrigin
+  headline: string
+  gist: string
+  kind: string
+  scope: string
+  sources: SourceRef[]
+  sort_index: number
+  bucket?: FullPaperNewsBucketKey
+  technology_group?: 'top5' | 'rest'
+  rank?: number
+  paragraph?: string
+  what_this_is?: WhatThisIs
+  important_points?: string[]
+  points?: string[]
+}
+
+export type FullPaperEdition = {
+  date: string
+  date_slug: string
+  papers_scanned: FullPaper['papers_scanned']
+  summary: FullPaper['summary']
+  section_labels: {
+    news: string
+    technology: string
+    technology_top5: string
+    technology_rest: string
+    opinion: string
+  }
+  has_full_paper: boolean
+}

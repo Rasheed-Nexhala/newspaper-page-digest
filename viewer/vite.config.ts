@@ -8,10 +8,9 @@ import { workApiPlugin } from './vite.work-api.ts'
 const rootDir = path.dirname(fileURLToPath(import.meta.url))
 const workRoot = path.resolve(rootDir, '../work')
 
-// GitHub Pages project site: set VITE_BASE=/newspaper-page-digest/ in CI.
-// Local `npm run dev` keeps base at `/`.
+// Firebase Hosting serves at the domain root.
 const base = process.env.VITE_BASE || '/'
-// Bust GitHub Pages CDN cache for work/data JSON (same path across deploys).
+// Bust CDN cache for work/data JSON (same path across deploys).
 const dataCacheBust =
   process.env.GITHUB_SHA?.slice(0, 12) ?? String(Date.now())
 

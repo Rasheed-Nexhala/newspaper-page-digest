@@ -1,0 +1,156 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // ===============================================================
+    // Assumed Data Model
+    // ===============================================================
+    //
+    // Collection: editions
+    // Document ID: date_slug (e.g. 02-Sep-2026)
+    // Fields:
+    //   - date: string (required, 1-200) — display date
+    //   - date_slug: string (required, matches doc id)
+    //   - papers_scanned: list of maps (required, ≤20)
+    //   - summary: map (required)
+    //   - section_labels: map (required)
+    //   - has_full_paper: bool (required)
+    // Writes: publisher Google account (verified email) or Admin SDK / CI.
+    //
+    // Collection: articles
+    // Document ID: stable hash of date_slug + sources (same as saved_articles)
+    // Fields:
+    //   - id: string (required, matches doc id)
+    //   - date_slug, date, origin, headline, gist, kind, scope, sources, sort_index
+    //   - optional: bucket, technology_group, rank, paragraph, what_this_is,
+    //     important_points, points
+    // Reads: public (same as former static Full Paper JSON).
+    // Writes: publisher Google account or Admin SDK / CI.
+    //
+    // Collection: users/{uid}/saved_articles/{articleId}
+    // Owner-only bookmarks. Unchanged access model.
+    //
+    // ===============================================================
+    // Helper Functions
+    // ===============================================================
+
+    function isAuthenticated() {
+      return request.auth != null;
+    }
+
+    function isOwner(userId) {
+      return isAuthenticated() && request.auth.uid == userId;
+    }
+
+    function isPublisher() {
+      return isAuthenticated() &&
+        request.auth.token.email_verified == true &&
+        request.auth.token.email == 'rasheedshaz03@gmail.com';
+    }
+
+    function validStringLength(field, minLen, maxLen) {
+      return request.resource.data[field] is string &&
+        request.resource.data[field].size() >= minLen &&
+        request.resource.data[field].size() <= maxLen;
+    }
+
+    function optionalString(field, maxLen) {
+      return !(field in request.resource.data) ||
+        (request.resource.data[field] is string &&
+          request.resource.data[field].size() <= maxLen);
+    }
+
+    function optionalInt(field) {
+      return !(field in request.resource.data) ||
+        request.resource.data[field] is int;
+    }
+
+    function isStringList(field, maxItems) {
+      return request.resource.data[field] is list &&
+        request.resource.data[field].size() <= maxItems;
+    }
+
+    function isValidOrigin() {
+      return request.resource.data.origin in [
+        'full_paper_news',
+        'full_paper_technology',
+        'full_paper_opinion'
+      ];
+    }
+
+    function isValidArticle(articleId) {
+      let data = request.resource.data;
+      return data.keys().hasAll([
+          'id', 'date_slug', 'date', 'origin', 'headline', 'gist',
+          'kind', 'scope', 'sources', 'sort_index'
+        ]) &&
+        data.keys().hasOnly([
+          'id', 'date_slug', 'date', 'origin', 'headline', 'gist',
+          'kind', 'scope', 'sources', 'sort_index', 'bucket',
+          'technology_group', 'rank', 'paragraph', 'what_this_is',
+          'important_points', 'points'
+        ]) &&
+        validStringLength('id', 1, 64) &&
+        data.id == articleId &&
+        validStringLength('date_slug', 8, 20) &&
+        validStringLength('date', 1, 200) &&
+        validStringLength('headline', 1, 2000) &&
+        validStringLength('gist', 1, 8000) &&
+        validStringLength('kind', 1, 64) &&
+        validStringLength('scope', 1, 64) &&
+        isValidOrigin() &&
+        data.sort_index is int &&
+        data.sort_index >= 0 &&
+        data.sort_index < 5000 &&
+        data.sources is list &&
+        data.sources.size() <= 20 &&
+        optionalString('bucket', 64) &&
+        optionalString('paragraph', 12000) &&
+        optionalInt('rank') &&
+        (!( 'technology_group' in data) ||
+          data.technology_group in ['top5', 'rest']) &&
+        (!( 'important_points' in data) || isStringList('important_points', 40)) &&
+        (!( 'points' in data) || isStringList('points', 40)) &&
+        (!( 'what_this_is' in data) || data.what_this_is is map);
+    }
+
+    function isValidEdition(dateSlug) {
+      let data = request.resource.data;
+      return data.keys().hasAll([
+          'date', 'date_slug', 'papers_scanned', 'summary',
+          'section_labels', 'has_full_paper'
+        ]) &&
+        data.keys().hasOnly([
+          'date', 'date_slug', 'papers_scanned', 'summary',
+          'section_labels', 'has_full_paper'
+        ]) &&
+        validStringLength('date', 1, 200) &&
+        validStringLength('date_slug', 8, 20) &&
+        data.date_slug == dateSlug &&
+        data.papers_scanned is list &&
+        data.papers_scanned.size() <= 20 &&
+        data.summary is map &&
+        data.section_labels is map &&
+        data.has_full_paper is bool;
+    }
+
+    match /editions/{dateSlug} {
+      allow read: if true;
+      allow create, update: if isPublisher() && isValidEdition(dateSlug);
+      allow delete: if isPublisher();
+    }
+
+    match /articles/{articleId} {
+      allow read: if true;
+      allow create, update: if isPublisher() && isValidArticle(articleId);
+      allow delete: if isPublisher();
+    }
+
+    match /users/{uid}/saved_articles/{articleId} {
+      allow read, write: if isOwner(uid);
+    }
+
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

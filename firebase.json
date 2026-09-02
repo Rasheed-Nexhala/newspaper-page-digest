@@ -1,0 +1,24 @@
+{
+  "auth": {
+    "providers": {
+      "googleSignIn": {
+        "oAuthBrandDisplayName": "Newspaper Page Digest",
+        "supportEmail": "rasheedshaz03@gmail.com"
+      }
+    },
+    "authorizedDomains": [
+      "localhost",
+      "newspaper-page-digest.web.app",
+      "newspaper-page-digest.firebaseapp.com"
+    ]
+  },
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  },
+  "hosting": {
+    "public": "viewer/dist",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+    "rewrites": [{ "source": "**", "destination": "/index.html" }]
+  }
+}

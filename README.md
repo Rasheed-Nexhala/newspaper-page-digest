@@ -119,7 +119,7 @@ python3 ~/.cursor/skills/newspaper-page-digest/scripts/parse_digest.py path/to/d
 
 Or `json.load` the matching `*_PageDigest.json`.
 
-## Viewer (Local Top 5 + Full Paper + Coastal Katte)
+## Viewer (Local Top 5 + Full Paper + Coastal Katte + Saved)
 
 A React + Tailwind UI under [`viewer/`](viewer/) reads the daily JSON live from `work/` in dev:
 
@@ -129,11 +129,16 @@ cd viewer && npm install && npm run dev
 
 The **Full paper** tab appears only on days that have `Full_paper/FullPaper_*.json`. Older editions keep Daily Top 5 / Coastal Katte as they are.
 
-**GitHub Pages:** pushing Top 5 / Full Paper JSON (or viewer changes) to `main` runs [`.github/workflows/deploy-viewer.yml`](.github/workflows/deploy-viewer.yml), which copies JSON into a static build and deploys to:
+The **Saved** tab stores per-user saved stories in Firestore. The reader remains public; users sign in with Google when they save stories or open Saved.
 
-https://Rasheed-Nexhala.github.io/newspaper-page-digest/
+**Firebase Hosting:** pushing Top 5 / Full Paper JSON (or viewer changes) to `main` runs [`.github/workflows/deploy-viewer.yml`](.github/workflows/deploy-viewer.yml), which copies JSON into a static build and deploys to:
+
+- https://newspaper-page-digest.web.app
+- https://newspaper-page-digest.firebaseapp.com
 
 Daily flow for a live site: finish **`/daily-after-digest`**, **commit + push** the new `work/<date>/Daily_top/`, `Full_paper/`, and `Coastal_Katte/*.json` — Actions redeploys automatically. See [`viewer/README.md`](viewer/README.md).
+
+For saved articles, CI also deploys Firestore rules/auth config. Add these GitHub secrets: `FIREBASE_SERVICE_ACCOUNT`, `VITE_FIREBASE_API_KEY`, `VITE_FIREBASE_AUTH_DOMAIN`, `VITE_FIREBASE_PROJECT_ID`, `VITE_FIREBASE_STORAGE_BUCKET`, `VITE_FIREBASE_MESSAGING_SENDER_ID`, and `VITE_FIREBASE_APP_ID`.
 
 ## Requirements
 

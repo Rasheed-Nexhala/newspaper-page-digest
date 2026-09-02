@@ -1,15 +1,35 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import { fetchCoastalKatte, fetchDates, fetchFullPaper, fetchLocalTop5 } from './api'
 import { CoastalKatteView } from './components/CoastalKatteView'
 import { DatePicker } from './components/DatePicker'
 import { FullPaperView } from './components/FullPaperView'
 import { LocalTop5View } from './components/LocalTop5View'
+import { SavedArticlesView } from './components/SavedArticlesView'
+import { SearchView } from './components/SearchView'
+import { useAuth } from './hooks/useAuth'
+import {
+  catalogToSavedArticle,
+  fetchAllCatalogArticles,
+} from './lib/articles'
+import {
+  makeSavedArticleId,
+  saveArticle,
+  subscribeSavedArticles,
+  unsaveArticle,
+} from './lib/savedArticles'
 import type {
+  CatalogArticle,
+  CoastalKatteItem,
   CoastalKatteTop5,
   DateEntry,
   FullPaper,
+  FullPaperNewsItem,
+  FullPaperOpinionItem,
   LocalTop5,
   PrimaryView,
+  SavedArticle,
+  SavedArticleOrigin,
+  StoryItem,
 } from './types'
 
 function hasFullPaper(entry: DateEntry | undefined): boolean {
@@ -20,6 +40,8 @@ function resolveView(
   requested: PrimaryView,
   entry: DateEntry | undefined,
 ): PrimaryView {
+  if (requested === 'saved') return 'saved'
+  if (requested === 'search') return 'search'
   if (!entry) return requested
   if (requested === 'coastal' && entry.has_coastal_katte) return 'coastal'
   if (requested === 'local' && entry.has_local_top5) return 'local'
@@ -80,6 +102,78 @@ function pickInitialSlug(list: DateEntry[], preferred: string): string {
   return list[0]?.date_slug ?? ''
 }
 
+function normalizeScope(scope: string): string {
+  return scope.replaceAll(' ', '_')
+}
+
+function articleFromTopStory(
+  item: StoryItem | CoastalKatteItem,
+  dateSlug: string,
+  date: string,
+  origin: SavedArticleOrigin,
+): SavedArticle {
+  return {
+    id: '',
+    date_slug: dateSlug,
+    date,
+    origin,
+    headline: item.headline,
+    summary: item.blurb,
+    kind: item.kind,
+    scope: normalizeScope(item.scope),
+    sources: item.sources,
+    saved_at: '',
+    rank: item.rank,
+    source_bucket: 'source_bucket' in item ? item.source_bucket : undefined,
+    local_top_rank: 'local_top_rank' in item ? item.local_top_rank : undefined,
+    why_channel: 'why_channel' in item ? item.why_channel : undefined,
+  }
+}
+
+function articleFromFullPaperNews(
+  item: FullPaperNewsItem,
+  dateSlug: string,
+  date: string,
+  origin: 'full_paper_news' | 'full_paper_technology',
+): SavedArticle {
+  return {
+    id: '',
+    date_slug: dateSlug,
+    date,
+    origin,
+    headline: item.headline,
+    summary: item.gist,
+    kind: item.kind,
+    scope: normalizeScope(item.scope),
+    sources: item.sources,
+    saved_at: '',
+    rank: item.rank,
+    paragraph: item.paragraph,
+    what_this_is: item.what_this_is,
+    important_points: item.important_points,
+  }
+}
+
+function articleFromFullPaperOpinion(
+  item: FullPaperOpinionItem,
+  dateSlug: string,
+  date: string,
+): SavedArticle {
+  return {
+    id: '',
+    date_slug: dateSlug,
+    date,
+    origin: 'full_paper_opinion',
+    headline: item.headline,
+    summary: item.gist,
+    kind: item.kind,
+    scope: normalizeScope(item.scope),
+    sources: item.sources,
+    saved_at: '',
+    points: item.points,
+  }
+}
+
 export default function App() {
   const [dates, setDates] = useState<DateEntry[]>([])
   const [dateSlug, setDateSlug] = useState(() => readDateFromUrl())
@@ -91,9 +185,18 @@ export default function App() {
   const [fullPaperData, setFullPaperData] = useState<FullPaper | null>(null)
   const [contentLoading, setContentLoading] = useState(false)
   const [contentError, setContentError] = useState<string | null>(null)
+  const [savedItems, setSavedItems] = useState<SavedArticle[]>([])
+  const [savedLoading, setSavedLoading] = useState(false)
+  const [savedError, setSavedError] = useState<string | null>(null)
+  const [catalogArticles, setCatalogArticles] = useState<CatalogArticle[]>([])
+  const [searchLoading, setSearchLoading] = useState(false)
+  const [searchError, setSearchError] = useState<string | null>(null)
+  const { user, loading: authLoading, error: authError, signInWithGoogle, signOutUser, setAuthError } =
+    useAuth()
 
   const selected = dates.find((d) => d.date_slug === dateSlug)
   const activeView = resolveView(view, selected)
+  const savedIds = useMemo(() => new Set(savedItems.map((item) => item.id)), [savedItems])
 
   function selectDate(slug: string) {
     setDateSlug(slug)
@@ -186,6 +289,49 @@ export default function App() {
     }
   }, [dateSlug, selected])
 
+  useEffect(() => {
+    if (!user) {
+      setSavedItems([])
+      setSavedError(null)
+      setSavedLoading(false)
+      return
+    }
+    setSavedLoading(true)
+    setSavedError(null)
+    const unsubscribe = subscribeSavedArticles(
+      user.uid,
+      (items) => {
+        setSavedItems(items)
+        setSavedLoading(false)
+      },
+      (message) => {
+        setSavedError(message)
+        setSavedLoading(false)
+      },
+    )
+    return unsubscribe
+  }, [user])
+
+  useEffect(() => {
+    let cancelled = false
+    setSearchLoading(true)
+    setSearchError(null)
+    fetchAllCatalogArticles()
+      .then((items) => {
+        if (!cancelled) setCatalogArticles(items)
+      })
+      .catch((err: unknown) => {
+        if (cancelled) return
+        setSearchError(err instanceof Error ? err.message : String(err))
+      })
+      .finally(() => {
+        if (!cancelled) setSearchLoading(false)
+      })
+    return () => {
+      cancelled = true
+    }
+  }, [])
+
   function refreshDates() {
     setDatesLoading(true)
     setDatesError(null)
@@ -207,11 +353,67 @@ export default function App() {
   const showLocal = activeView === 'local'
   const showFull = activeView === 'full'
   const showCoastal = activeView === 'coastal'
+  const showSaved = activeView === 'saved'
+  const showSearch = activeView === 'search'
+  const showEdition = !showSaved && !showSearch
   const missingForView =
     selected &&
+    showEdition &&
     ((showLocal && !selected.has_local_top5) ||
       (showCoastal && !selected.has_coastal_katte) ||
       (showFull && !hasFullPaper(selected)))
+
+  async function ensureSignedIn() {
+    setAuthError(null)
+    if (user) return user
+    return signInWithGoogle()
+  }
+
+  async function toggleSaved(article: SavedArticle) {
+    try {
+      const activeUser = await ensureSignedIn()
+      const articleId = makeSavedArticleId(article)
+      if (savedIds.has(articleId)) {
+        await unsaveArticle(activeUser.uid, articleId)
+      } else {
+        await saveArticle(activeUser.uid, article)
+      }
+      setSavedError(null)
+    } catch (err) {
+      const message = err instanceof Error ? err.message : String(err)
+      setAuthError(message)
+      setSavedError(message)
+    }
+  }
+
+  const articleIdForLocal = (item: StoryItem) =>
+    makeSavedArticleId(articleFromTopStory(item, localData?.date_slug ?? '', localData?.date ?? '', 'local_top5'))
+  const articleIdForCoastal = (item: CoastalKatteItem) =>
+    makeSavedArticleId(
+      articleFromTopStory(
+        item,
+        coastalData?.date_slug ?? '',
+        coastalData?.date ?? '',
+        'coastal_katte',
+      ),
+    )
+  const articleIdForNews = (item: FullPaperNewsItem, origin: 'news' | 'technology') =>
+    makeSavedArticleId(
+      articleFromFullPaperNews(
+        item,
+        fullPaperData?.date_slug ?? '',
+        fullPaperData?.date ?? '',
+        origin === 'technology' ? 'full_paper_technology' : 'full_paper_news',
+      ),
+    )
+  const articleIdForOpinion = (item: FullPaperOpinionItem) =>
+    makeSavedArticleId(
+      articleFromFullPaperOpinion(
+        item,
+        fullPaperData?.date_slug ?? '',
+        fullPaperData?.date ?? '',
+      ),
+    )
 
   return (
     <div className="app-shell min-h-dvh">
@@ -224,8 +426,8 @@ export default function App() {
             Coastal Katte
           </p>
           <p className="mt-3 max-w-md text-[0.95rem] leading-relaxed text-[var(--ink-muted)] sm:mt-4 sm:text-base">
-            Daily Top 5, Coastal Katte, and Full Paper when that day has them —
-            pick a date or step Older / Newer.
+            Daily Top 5, Coastal Katte, Full Paper, and search across Full Paper
+            days — pick a date or step Older / Newer.
           </p>
 
           <div className="glass-panel mt-6 p-4 sm:mt-8 sm:p-5">
@@ -271,6 +473,16 @@ export default function App() {
                 label: 'Coastal Katte',
                 enabled: selected?.has_coastal_katte ?? false,
               },
+              {
+                id: 'saved' as const,
+                label: 'Saved',
+                enabled: true,
+              },
+              {
+                id: 'search' as const,
+                label: 'Search',
+                enabled: true,
+              },
             ] as const
           ).map((tab) => {
             const active = activeView === tab.id
@@ -296,6 +508,10 @@ export default function App() {
                         ? 'bg-[var(--sunset)]'
                         : tab.id === 'full'
                           ? 'bg-[var(--lagoon)]'
+                          : tab.id === 'saved'
+                            ? 'bg-[var(--ink)]'
+                            : tab.id === 'search'
+                              ? 'bg-[var(--sea-deep)]'
                           : 'bg-[var(--sea)]'
                     }`}
                   />
@@ -312,7 +528,7 @@ export default function App() {
             </p>
           )}
 
-          {!datesLoading && dates.length === 0 && !datesError && (
+          {!showSaved && !showSearch && !datesLoading && dates.length === 0 && !datesError && (
             <p className="py-12 text-center text-[var(--ink-muted)] sm:py-16">
               No Top 5 JSON found yet. Run{' '}
               <code className="text-[var(--sea)]">/daily-after-digest</code> after
@@ -320,17 +536,17 @@ export default function App() {
             </p>
           )}
 
-          {contentLoading && (
+          {contentLoading && showEdition && (
             <p className="py-8 text-[var(--ink-muted)]">Loading edition…</p>
           )}
 
-          {contentError && (
+          {contentError && showEdition && (
             <p className="py-4 text-sm text-[var(--sunset)]" role="alert">
               {contentError}
             </p>
           )}
 
-          {!contentLoading && missingForView && (
+          {!contentLoading && showEdition && missingForView && (
             <p className="py-10 text-[var(--ink-muted)] italic sm:py-12">
               {showLocal
                 ? 'Daily Top 5 is not available for this date.'
@@ -341,15 +557,96 @@ export default function App() {
           )}
 
           {!contentLoading && !contentError && showLocal && localData && (
-            <LocalTop5View data={localData} />
+            <LocalTop5View
+              data={localData}
+              isSaved={(articleId) => savedIds.has(articleId)}
+              articleIdForItem={articleIdForLocal}
+              onToggleSave={(item) =>
+                toggleSaved(
+                  articleFromTopStory(
+                    item,
+                    localData.date_slug,
+                    localData.date,
+                    'local_top5',
+                  ),
+                )
+              }
+            />
           )}
 
           {!contentLoading && !contentError && showFull && fullPaperData && (
-            <FullPaperView data={fullPaperData} />
+            <FullPaperView
+              data={fullPaperData}
+              isSaved={(articleId) => savedIds.has(articleId)}
+              articleIdForNews={articleIdForNews}
+              articleIdForOpinion={articleIdForOpinion}
+              onToggleNewsSave={(item, origin) =>
+                toggleSaved(
+                  articleFromFullPaperNews(
+                    item,
+                    fullPaperData.date_slug,
+                    fullPaperData.date,
+                    origin === 'technology'
+                      ? 'full_paper_technology'
+                      : 'full_paper_news',
+                  ),
+                )
+              }
+              onToggleOpinionSave={(item) =>
+                toggleSaved(
+                  articleFromFullPaperOpinion(
+                    item,
+                    fullPaperData.date_slug,
+                    fullPaperData.date,
+                  ),
+                )
+              }
+            />
           )}
 
           {!contentLoading && !contentError && showCoastal && coastalData && (
-            <CoastalKatteView data={coastalData} />
+            <CoastalKatteView
+              data={coastalData}
+              isSaved={(articleId) => savedIds.has(articleId)}
+              articleIdForItem={articleIdForCoastal}
+              onToggleSave={(item) =>
+                toggleSaved(
+                  articleFromTopStory(
+                    item,
+                    coastalData.date_slug,
+                    coastalData.date,
+                    'coastal_katte',
+                  ),
+                )
+              }
+            />
+          )}
+
+          {showSearch && (
+            <SearchView
+              articles={catalogArticles}
+              loading={searchLoading}
+              error={searchError}
+              isSaved={(articleId) => savedIds.has(articleId)}
+              onToggleSave={(item) => toggleSaved(catalogToSavedArticle(item))}
+            />
+          )}
+
+          {showSaved && (
+            <SavedArticlesView
+              user={user}
+              authLoading={authLoading}
+              authError={authError}
+              items={savedItems}
+              loading={savedLoading}
+              error={savedError}
+              onSignIn={signInWithGoogle}
+              onSignOut={signOutUser}
+              onRemove={(item) => {
+                if (!user) return Promise.resolve()
+                return unsaveArticle(user.uid, item.id)
+              }}
+            />
           )}
         </main>
       </div>

@@ -1,14 +1,13 @@
 #!/usr/bin/env node
 /**
  * Copies Local Top 5 + Coastal Katte JSON from ../work into public/data/
- * and writes dates.json so the production build works on GitHub Pages
+ * and writes dates.json so the production build works on static hosting
  * (no Vite /api middleware).
  *
  * Layout:
- *   public/data/dates.json
+ *   public/data/dates.json  (has_full_paper still flagged from work/, JSON is in Firestore)
  *   public/data/<DD-Mon-YYYY>/local-top5.json
  *   public/data/<DD-Mon-YYYY>/coastal-katte.json
- *   public/data/<DD-Mon-YYYY>/full-paper.json
  */
 import fs from 'node:fs'
 import path from 'node:path'
@@ -110,9 +109,6 @@ if (fs.existsSync(workRoot)) {
     }
     if (has_coastal_katte) {
       copyJson(ckPath, path.join(dayDir, 'coastal-katte.json'))
-    }
-    if (has_full_paper) {
-      copyJson(fpPath, path.join(dayDir, 'full-paper.json'))
     }
 
     const date =

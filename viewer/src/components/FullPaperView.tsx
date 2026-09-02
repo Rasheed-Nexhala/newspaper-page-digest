@@ -1,7 +1,9 @@
 import { useState } from 'react'
 import type {
   FullPaper,
+  FullPaperNewsItem,
   FullPaperNewsBucketKey,
+  FullPaperOpinionItem,
   FullPaperSectionId,
 } from '../types'
 import { FullPaperNewsCard, FullPaperOpinionCard } from './FullPaperCard'
@@ -25,9 +27,24 @@ const SECTIONS: { id: FullPaperSectionId; label: string }[] = [
 
 type FullPaperViewProps = {
   data: FullPaper
+  isSaved: (articleId: string) => boolean
+  articleIdForNews: (item: FullPaperNewsItem, origin: 'news' | 'technology') => string
+  articleIdForOpinion: (item: FullPaperOpinionItem) => string
+  onToggleNewsSave: (
+    item: FullPaperNewsItem,
+    origin: 'news' | 'technology',
+  ) => Promise<void>
+  onToggleOpinionSave: (item: FullPaperOpinionItem) => Promise<void>
 }
 
-export function FullPaperView({ data }: FullPaperViewProps) {
+export function FullPaperView({
+  data,
+  isSaved,
+  articleIdForNews,
+  articleIdForOpinion,
+  onToggleNewsSave,
+  onToggleOpinionSave,
+}: FullPaperViewProps) {
   const [section, setSection] = useState<FullPaperSectionId>('news')
   const [bucket, setBucket] = useState<FullPaperNewsBucketKey>('mangaluru')
   const current = data.sections.news.buckets[bucket]
@@ -135,6 +152,8 @@ export function FullPaperView({ data }: FullPaperViewProps) {
                 key={`${item.headline}-${item.sources[0]?.page ?? i}`}
                 item={item}
                 index={i}
+                isSaved={isSaved(articleIdForNews(item, 'news'))}
+                onToggleSave={(target) => onToggleNewsSave(target, 'news')}
               />
             ))
           )}
@@ -158,6 +177,8 @@ export function FullPaperView({ data }: FullPaperViewProps) {
                 key={`tech-top-${item.rank ?? i}`}
                 item={item}
                 index={i}
+                isSaved={isSaved(articleIdForNews(item, 'technology'))}
+                onToggleSave={(target) => onToggleNewsSave(target, 'technology')}
               />
             ))
           )}
@@ -171,6 +192,8 @@ export function FullPaperView({ data }: FullPaperViewProps) {
                   key={`tech-rest-${item.headline}`}
                   item={item}
                   index={i}
+                  isSaved={isSaved(articleIdForNews(item, 'technology'))}
+                  onToggleSave={(target) => onToggleNewsSave(target, 'technology')}
                 />
               ))}
             </>
@@ -194,6 +217,8 @@ export function FullPaperView({ data }: FullPaperViewProps) {
                 key={`${item.headline}-${i}`}
                 item={item}
                 index={i}
+                isSaved={isSaved(articleIdForOpinion(item))}
+                onToggleSave={onToggleOpinionSave}
               />
             ))
           )}
