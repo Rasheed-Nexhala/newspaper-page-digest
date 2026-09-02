@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 /**
  * Copies Local Top 5 + Coastal Katte JSON from ../work into public/data/
- * and writes dates.json so the production build works on GitHub Pages
+ * and writes dates.json so the production build works on static hosting
  * (no Vite /api middleware).
  *
  * Layout:

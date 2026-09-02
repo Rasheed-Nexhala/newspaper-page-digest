@@ -19,12 +19,16 @@ type NewsCardProps = {
   item: FullPaperNewsItem
   index: number
   headingLevel?: 'h3' | 'h4'
+  isSaved?: boolean
+  onToggleSave?: (item: FullPaperNewsItem) => Promise<void>
 }
 
 export function FullPaperNewsCard({
   item,
   index,
   headingLevel = 'h3',
+  isSaved = false,
+  onToggleSave,
 }: NewsCardProps) {
   const Heading = headingLevel
   const rank = item.rank
@@ -41,9 +45,22 @@ export function FullPaperNewsCard({
             {String(rank).padStart(2, '0')}
           </p>
         )}
-        <Heading className="font-display text-lg leading-snug break-words text-[var(--ink)] sm:text-xl md:text-2xl">
-          {item.headline}
-        </Heading>
+        <div className="flex flex-wrap items-center justify-between gap-3">
+          <Heading className="font-display text-lg leading-snug break-words text-[var(--ink)] sm:text-xl md:text-2xl">
+            {item.headline}
+          </Heading>
+          {onToggleSave && (
+            <button
+              type="button"
+              onClick={() => void onToggleSave(item)}
+              className={`glass-chip px-3 py-2 text-[0.65rem] tracking-[0.14em] uppercase ${
+                isSaved ? 'text-[var(--sunset)]' : 'text-[var(--sea)]'
+              }`}
+            >
+              {isSaved ? 'Saved' : 'Save'}
+            </button>
+          )}
+        </div>
         <p className="mt-2.5 max-w-prose text-[0.925rem] leading-relaxed text-[var(--ink)] sm:mt-3">
           <span className="font-medium text-[var(--sea-deep)]">In short — </span>
           {item.gist}
@@ -98,18 +115,38 @@ export function FullPaperNewsCard({
 type OpinionCardProps = {
   item: FullPaperOpinionItem
   index: number
+  isSaved?: boolean
+  onToggleSave?: (item: FullPaperOpinionItem) => Promise<void>
 }
 
-export function FullPaperOpinionCard({ item, index }: OpinionCardProps) {
+export function FullPaperOpinionCard({
+  item,
+  index,
+  isSaved = false,
+  onToggleSave,
+}: OpinionCardProps) {
   return (
     <article
       className="story-row group border-b border-[var(--line)] py-5 last:border-b-0 sm:py-7"
       style={{ animationDelay: `${Math.min(index, 12) * 40}ms` }}
     >
       <div className="min-w-0">
-        <h3 className="font-display text-lg leading-snug break-words text-[var(--ink)] sm:text-xl md:text-2xl">
-          {item.headline}
-        </h3>
+        <div className="flex flex-wrap items-center justify-between gap-3">
+          <h3 className="font-display text-lg leading-snug break-words text-[var(--ink)] sm:text-xl md:text-2xl">
+            {item.headline}
+          </h3>
+          {onToggleSave && (
+            <button
+              type="button"
+              onClick={() => void onToggleSave(item)}
+              className={`glass-chip px-3 py-2 text-[0.65rem] tracking-[0.14em] uppercase ${
+                isSaved ? 'text-[var(--sunset)]' : 'text-[var(--sea)]'
+              }`}
+            >
+              {isSaved ? 'Saved' : 'Save'}
+            </button>
+          )}
+        </div>
         <p className="mt-2.5 max-w-prose text-[0.925rem] leading-relaxed text-[var(--ink)] sm:mt-3">
           <span className="font-medium text-[var(--sea-deep)]">In short — </span>
           {item.gist}

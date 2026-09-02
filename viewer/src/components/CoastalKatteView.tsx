@@ -1,11 +1,19 @@
-import type { CoastalKatteTop5 } from '../types'
+import type { CoastalKatteItem, CoastalKatteTop5 } from '../types'
 import { StoryItemRow } from './StoryItem'
 
 type CoastalKatteViewProps = {
   data: CoastalKatteTop5
+  isSaved: (articleId: string) => boolean
+  articleIdForItem: (item: CoastalKatteItem) => string
+  onToggleSave: (item: CoastalKatteItem) => Promise<void>
 }
 
-export function CoastalKatteView({ data }: CoastalKatteViewProps) {
+export function CoastalKatteView({
+  data,
+  isSaved,
+  articleIdForItem,
+  onToggleSave,
+}: CoastalKatteViewProps) {
   return (
     <div className="view-panel" key={data.date_slug}>
       <header className="mb-6 sm:mb-8">
@@ -33,6 +41,8 @@ export function CoastalKatteView({ data }: CoastalKatteViewProps) {
               item={item}
               index={i}
               showWhy
+              isSaved={isSaved(articleIdForItem(item))}
+              onToggleSave={onToggleSave}
             />
           ))}
         </div>

@@ -1,4 +1,4 @@
-name: Deploy viewer to GitHub Pages
+name: Deploy viewer to Firebase Hosting
 
 # Rebuilds whenever Top 5 JSON (or the viewer) lands on main.
 on:
@@ -10,19 +10,18 @@ on:
       - 'work/**/Full_paper/**'
       - 'viewer/**'
       - '.github/workflows/deploy-viewer.yml'
+      - 'firebase.json'
+      - '.firebaserc'
+      - 'firestore.rules'
+      - 'firestore.indexes.json'
   workflow_dispatch:
 
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
 concurrency:
-  group: pages
+  group: firebase-hosting
   cancel-in-progress: true
 
 jobs:
-  build:
+  build_and_deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -42,25 +41,29 @@ jobs:
       - name: Build static viewer
         working-directory: viewer
         env:
-          # Project Pages URL: https://<owner>.github.io/newspaper-page-digest/
-          VITE_BASE: /newspaper-page-digest/
+          VITE_FIREBASE_API_KEY: ${{ secrets.VITE_FIREBASE_API_KEY }}
+          VITE_FIREBASE_AUTH_DOMAIN: ${{ secrets.VITE_FIREBASE_AUTH_DOMAIN }}
+          VITE_FIREBASE_PROJECT_ID: ${{ secrets.VITE_FIREBASE_PROJECT_ID }}
+          VITE_FIREBASE_STORAGE_BUCKET: ${{ secrets.VITE_FIREBASE_STORAGE_BUCKET }}
+          VITE_FIREBASE_MESSAGING_SENDER_ID: ${{ secrets.VITE_FIREBASE_MESSAGING_SENDER_ID }}
+          VITE_FIREBASE_APP_ID: ${{ secrets.VITE_FIREBASE_APP_ID }}
         run: npm run build
 
-      - name: Configure Pages
-        uses: actions/configure-pages@v5
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+      - name: Deploy to Firebase Hosting
+        uses: FirebaseExtended/action-hosting-deploy@v0
         with:
-          path: viewer/dist
+          repoToken: ${{ secrets.GITHUB_TOKEN }}
+          firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+          channelId: live
+          projectId: newspaper-page-digest
 
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+      - name: Authenticate for Firebase CLI
+        uses: google-github-actions/auth@v2
+        with:
+          credentials_json: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+
+      - name: Deploy Firestore rules and indexes
+        run: npx -y firebase-tools@latest deploy --only firestore --project newspaper-page-digest --non-interactive
+
+      - name: Deploy Auth config
+        run: npx -y firebase-tools@latest deploy --only auth --project newspaper-page-digest --non-interactive

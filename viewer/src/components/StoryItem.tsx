@@ -11,13 +11,21 @@ function scopeLabel(scope: string): string {
   return scope.replaceAll('_', ' ')
 }
 
-type StoryItemProps = {
-  item: StoryItem | CoastalKatteItem
+type StoryItemProps<T extends StoryItem | CoastalKatteItem> = {
+  item: T
   index: number
   showWhy?: boolean
+  isSaved?: boolean
+  onToggleSave?: (item: T) => Promise<void>
 }
 
-export function StoryItemRow({ item, index, showWhy = false }: StoryItemProps) {
+export function StoryItemRow<T extends StoryItem | CoastalKatteItem>({
+  item,
+  index,
+  showWhy = false,
+  isSaved = false,
+  onToggleSave,
+}: StoryItemProps<T>) {
   const why = 'why_channel' in item ? item.why_channel : undefined
   const sourceBucket =
     'source_bucket' in item ? item.source_bucket : undefined
@@ -34,9 +42,22 @@ export function StoryItemRow({ item, index, showWhy = false }: StoryItemProps) {
           {String(item.rank).padStart(2, '0')}
         </div>
         <div className="min-w-0">
-          <h3 className="font-display text-lg leading-snug break-words text-[var(--ink)] sm:text-xl md:text-2xl">
-            {item.headline}
-          </h3>
+          <div className="flex flex-wrap items-center justify-between gap-3">
+            <h3 className="font-display text-lg leading-snug break-words text-[var(--ink)] sm:text-xl md:text-2xl">
+              {item.headline}
+            </h3>
+            {onToggleSave && (
+              <button
+                type="button"
+                onClick={() => void onToggleSave(item)}
+                className={`glass-chip px-3 py-2 text-[0.65rem] tracking-[0.14em] uppercase ${
+                  isSaved ? 'text-[var(--sunset)]' : 'text-[var(--sea)]'
+                }`}
+              >
+                {isSaved ? 'Saved' : 'Save'}
+              </button>
+            )}
+          </div>
           <p className="mt-2.5 max-w-prose text-[0.925rem] leading-relaxed text-[var(--ink-muted)] sm:mt-3 sm:text-[0.975rem]">
             {item.blurb}
           </p>
