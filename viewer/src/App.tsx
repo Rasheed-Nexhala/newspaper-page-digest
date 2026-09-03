@@ -426,7 +426,7 @@ export default function App() {
             Coastal Katte
           </p>
           <p className="mt-3 max-w-md text-[0.95rem] leading-relaxed text-[var(--ink-muted)] sm:mt-4 sm:text-base">
-            Daily Top 5, Coastal Katte, Full Paper, and search across Full Paper
+            Daily Top 5, Coastal Katte, Full Paper, and search across all synced
             days — pick a date or step Older / Newer.
           </p>
 

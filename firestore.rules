@@ -71,6 +71,8 @@ service cloud.firestore {
 
     function isValidOrigin() {
       return request.resource.data.origin in [
+        'local_top5',
+        'coastal_katte',
         'full_paper_news',
         'full_paper_technology',
         'full_paper_opinion'
@@ -87,7 +89,8 @@ service cloud.firestore {
           'id', 'date_slug', 'date', 'origin', 'headline', 'gist',
           'kind', 'scope', 'sources', 'sort_index', 'bucket',
           'technology_group', 'rank', 'paragraph', 'what_this_is',
-          'important_points', 'points'
+          'important_points', 'points', 'why_channel', 'source_bucket',
+          'local_top_rank'
         ]) &&
         validStringLength('id', 1, 64) &&
         data.id == articleId &&
@@ -105,7 +108,10 @@ service cloud.firestore {
         data.sources.size() <= 20 &&
         optionalString('bucket', 64) &&
         optionalString('paragraph', 12000) &&
+        optionalString('why_channel', 4000) &&
+        optionalString('source_bucket', 64) &&
         optionalInt('rank') &&
+        optionalInt('local_top_rank') &&
         (!( 'technology_group' in data) ||
           data.technology_group in ['top5', 'rest']) &&
         (!( 'important_points' in data) || isStringList('important_points', 40)) &&

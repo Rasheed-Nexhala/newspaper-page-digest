@@ -59,16 +59,16 @@ The viewer stays public for reading. Users sign in with Google only when they sa
 - `articles/{articleId}` — one clustered Full Paper story per document (public read)
 - `articleId` is stable per day/source set so the same article dedupes across Full Paper, Search, and Saved
 
-### Publish Full Paper to Firestore
+### Publish Full Paper / Top 5 to Firestore
 
-After writing `work/<date>/Full_paper/FullPaper_*.json`:
+After writing `work/<date>/` products (`FullPaper_*.json`, `LocalTop5_*.json`, `CoastalKatte_Top5_*.json`):
 
 ```bash
 cd viewer
 npm run sync-firestore
 ```
 
-Uses Application Default Credentials, or set `FIREBASE_SERVICE_ACCOUNT` to the service-account JSON. CI runs this on every deploy. Optional: `npm run sync-firestore 02-Sep-2026` to sync one day.
+Uses Application Default Credentials, or set `FIREBASE_SERVICE_ACCOUNT` to the service-account JSON. CI runs this on every deploy. Optional: `npm run sync-firestore 02-Sep-2026` to sync one day. Search covers all three products.
 
 ### CI secrets
 

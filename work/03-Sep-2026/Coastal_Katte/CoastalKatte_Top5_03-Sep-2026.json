@@ -1,0 +1,77 @@
+{
+  "date": "Wednesday, 3 September 2026",
+  "date_slug": "03-Sep-2026",
+  "channel": "coastal_katte",
+  "source_local_top5": "work/03-Sep-2026/Daily_top/LocalTop5_03-Sep-2026.json",
+  "candidate_count": 15,
+  "selected_count": 5,
+  "items": [
+    {
+      "rank": 1,
+      "headline": "Traffic disrupted as bridge caves in",
+      "blurb": "Traffic was disrupted on SH 67 after an old small bridge near the Karambar petrol pump caved in on Wednesday morning; Bajpe police advised motorists to use Jari Nagar or Porkodi roads as alternative routes while the PWD works on a diversion for light motor vehicles. Vehicular movement between Mangaluru and Bajpe on Mangaluru-Athradi State Highway 67 was affected after an old minor bridge built in 1963 at Karambar, between MIA and Bajpe, became unstable; passengers travelling from Bajpe towards Mangaluru International Airport have been advised to take alternative routes following the temporary closure of a road near Karambaru.",
+      "kind": "news",
+      "scope": "mangaluru",
+      "source_bucket": "mangaluru",
+      "local_top_rank": 1,
+      "sources": [
+        {"paper": "Deccan Herald", "edition": "Mangaluru", "page": 2, "index": 12},
+        {"paper": "The Hindu", "edition": "Mangaluru", "page": 3, "index": 1},
+        {"paper": "News Trail", "edition": "Mangaluru", "page": 3, "index": 7}
+      ],
+      "why_channel": "Hard infra failure on the airport route — direct commute impact for Mangaluru residents, with cross-paper coverage."
+    },
+    {
+      "rank": 2,
+      "headline": "Kinnigoli-Mulki highway offers a challenge: Travel on stretch without falling into a pothole!",
+      "blurb": "The Kinnigoli-Mulki state highway has deteriorated badly, with the asphalt surface completely worn out at several stretches and potholes dotting the road, making it almost impossible for commuters to travel without falling into a pothole. The poor condition has reportedly caused several motorists, particularly two-wheeler riders, to sustain injuries; work related to the Amrut-2 drinking water pipeline further worsened the situation as the road was cut at several places and allegedly not restored properly. Large potholes have developed at stretches including near S. Kodi, Sukananda Shetty Circle, the bus stand turn, Kinnigoli Rajangana, Hosakaveri Katte, Moorkaveri, Padmanuru and Kerekadu; residents said four people suffered injuries after falling from two-wheelers over the past two days, and Rs 2 crore proposed for development of the Mulki-Kinnigoli road has not yet been sanctioned.",
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "source_bucket": "coastal_karnataka",
+      "local_top_rank": 2,
+      "sources": [
+        {"paper": "News Trail", "edition": "Mangaluru", "page": 3, "index": 9}
+      ],
+      "why_channel": "Coastal belt road in crisis with injuries and a ₹2 crore repair proposal stuck — high daily-life and shareability."
+    },
+    {
+      "rank": 3,
+      "headline": "Three sub-inspectors suspended over bribe-for-post conversation",
+      "blurb": "Three sub-inspectors in Uttara Kannada district have been suspended after an audio recording surfaced on social media, allegedly featuring a discussion about money paid to secure the Haliyal law-and-order SI posting. In the roughly two-minute clip, the officers, who are friends, are purportedly heard discussing the alleged payment and being posted in the same taluk to make money together. Uttara Kannada Superintendent of Police M N Deepan ordered the action and initiated a departmental enquiry; the recording has gone viral, with the JD(S) social media cell sharing it and accusing the ruling government of corruption regarding police postings.",
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "source_bucket": "coastal_karnataka",
+      "local_top_rank": 1,
+      "sources": [
+        {"paper": "News Trail", "edition": "Mangaluru", "page": 3, "index": 1}
+      ],
+      "why_channel": "Corruption/accountability with a viral audio hook — strong Coastal Katte engagement pattern."
+    },
+    {
+      "rank": 4,
+      "headline": "2 fishing boats capsize, ten people rescued",
+      "blurb": "Two wooden fishing trawlers capsized in the estuary near Mangaluru Fisheries Harbour on Tuesday evening but all 10 labourers aboard were rescued without injuries; one boat was towed ashore while the rope pulling the second snapped and it completely capsized. The vessels were Mermaid II, owned by Shareef of Alekala, Ullal, and Aniq, owned by Aboobakkar Azmal of Bengre Kasaba, Kuloor.",
+      "kind": "news",
+      "scope": "mangaluru",
+      "source_bucket": "mangaluru",
+      "local_top_rank": 2,
+      "sources": [
+        {"paper": "Deccan Herald", "edition": "Mangaluru", "page": 2, "index": 8}
+      ],
+      "why_channel": "Local fishing-community safety story at Mangaluru harbour — personal stakes for coastal viewers."
+    },
+    {
+      "rank": 5,
+      "headline": "Schools told to strictly adhere to safety standards for vehicles",
+      "blurb": "The Mangaluru City Traffic Police organised an awareness programme on school bus safety at Town Hall for around 600 drivers, owners and school representatives, instructing managements to adhere to Karnataka Motor Vehicles Rules, 2012, verify vehicle and driver documents, ensure fire extinguishers and speed governors, and keep speeds below 40 kmph. DCP (Crime and Traffic) Ravi Shankar K warned that legal action would be taken against violators.",
+      "kind": "news",
+      "scope": "mangaluru",
+      "source_bucket": "mangaluru",
+      "local_top_rank": 3,
+      "sources": [
+        {"paper": "Deccan Herald", "edition": "Mangaluru", "page": 2, "index": 9}
+      ],
+      "why_channel": "Child safety on school buses — parents in Mangaluru will share this deadline-style civic warning."
+    }
+  ]
+}

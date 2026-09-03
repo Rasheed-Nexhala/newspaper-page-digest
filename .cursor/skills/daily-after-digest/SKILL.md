@@ -50,13 +50,13 @@ If Local Top 5 or Coastal Katte Top 5 already exists for **this** date and the u
 
 ## Step 3 — Sync Full Paper to Firestore
 
-After `FullPaper_<date>.json` exists, publish clustered articles to Firestore so the viewer Full Paper tab and Search can fetch them:
+After `FullPaper_<date>.json` (and Local Top 5 / Coastal Katte) exist, publish searchable articles to Firestore:
 
 ```bash
 cd viewer && npm run sync-firestore
 ```
 
-Requires Firebase Admin credentials (`FIREBASE_SERVICE_ACCOUNT` JSON or Application Default Credentials). If credentials are missing, still finish the JSON/Markdown outputs and tell the user to run `npm run sync-firestore` (or wait for the deploy workflow, which runs the same command).
+This syncs **Full Paper**, **Daily Top 5**, and **Coastal Katte** into the `articles` collection (Search). Requires Firebase Admin credentials (`FIREBASE_SERVICE_ACCOUNT` JSON or Application Default Credentials / firebase login). If credentials are missing, still finish the JSON/Markdown outputs and tell the user to run `npm run sync-firestore` (or wait for the deploy workflow, which runs the same command).
 
 Do not skip writing `work/` JSON. Firestore is a publish step, not a replacement for the digest files.
 

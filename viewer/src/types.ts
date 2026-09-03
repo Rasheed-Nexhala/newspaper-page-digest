@@ -186,6 +186,8 @@ export type FullPaper = {
 export type FullPaperSectionId = 'news' | 'technology' | 'opinion'
 
 export type CatalogArticleOrigin =
+  | 'local_top5'
+  | 'coastal_katte'
   | 'full_paper_news'
   | 'full_paper_technology'
   | 'full_paper_opinion'
@@ -201,13 +203,16 @@ export type CatalogArticle = {
   scope: string
   sources: SourceRef[]
   sort_index: number
-  bucket?: FullPaperNewsBucketKey
+  bucket?: FullPaperNewsBucketKey | string
   technology_group?: 'top5' | 'rest'
   rank?: number
   paragraph?: string
   what_this_is?: WhatThisIs
   important_points?: string[]
   points?: string[]
+  why_channel?: string
+  source_bucket?: string
+  local_top_rank?: number
 }
 
 export type FullPaperEdition = {

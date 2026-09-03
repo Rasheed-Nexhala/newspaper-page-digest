@@ -9,6 +9,7 @@ import {
 } from 'firebase/firestore'
 import type {
   CatalogArticle,
+  CoastalKatteItem,
   FullPaper,
   FullPaperEdition,
   FullPaperNewsBucket,
@@ -195,6 +196,9 @@ export function catalogToSavedArticle(article: CatalogArticle): SavedArticle {
     what_this_is: article.what_this_is,
     important_points: article.important_points,
     points: article.points,
+    why_channel: article.why_channel,
+    source_bucket: article.source_bucket,
+    local_top_rank: article.local_top_rank,
   }
 }
 
@@ -204,6 +208,26 @@ export function catalogToNewsItem(article: CatalogArticle): FullPaperNewsItem {
 
 export function catalogToOpinionItem(article: CatalogArticle): FullPaperOpinionItem {
   return toOpinionItem(article)
+}
+
+export function catalogToStoryItem(article: CatalogArticle): CoastalKatteItem {
+  return {
+    rank: article.rank ?? 0,
+    headline: article.headline,
+    blurb: article.gist,
+    kind: article.kind,
+    scope: article.scope,
+    sources: article.sources,
+    source_bucket: article.source_bucket ?? '',
+    local_top_rank: article.local_top_rank ?? article.rank ?? 0,
+    why_channel: article.why_channel ?? '',
+  }
+}
+
+export function isTopStoryOrigin(
+  origin: CatalogArticle['origin'],
+): origin is 'local_top5' | 'coastal_katte' {
+  return origin === 'local_top5' || origin === 'coastal_katte'
 }
 
 export function catalogArticleMatches(
@@ -217,8 +241,11 @@ export function catalogArticleMatches(
     article.gist,
     article.paragraph ?? '',
     article.scope.replaceAll('_', ' '),
+    article.why_channel ?? '',
+    article.source_bucket?.replaceAll('_', ' ') ?? '',
     ...(article.important_points ?? []),
     ...(article.points ?? []),
+    ...(article.sources ?? []).flatMap((s) => [s.paper, s.edition]),
   ]
   return haystacks.some((text) => text.toLowerCase().includes(needle))
 }

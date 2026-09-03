@@ -1,10 +1,14 @@
 #!/usr/bin/env node
 /**
- * Upserts Full Paper JSON from ../work into Firestore (editions + articles).
+ * Upserts viewer products from ../work into Firestore (editions + articles):
+ *   Full Paper, Daily Top 5, Coastal Katte Top 5
  * Idempotent. Auth, in order:
  *   FIREBASE_SERVICE_ACCOUNT=<json>
  *   GOOGLE_APPLICATION_CREDENTIALS (ADC)
- *   gcloud auth print-access-token
+ *   firebase-tools login token / gcloud auth print-access-token
+ *
+ * Catalog IDs for Top 5 / Coastal are prefixed (lt5_ / ck_) so they never
+ * overwrite Full Paper docs that share the same source fingerprint.
  */
 import { execSync } from 'node:child_process'
 import fs from 'node:fs'
@@ -30,6 +34,14 @@ function isDateSlug(name) {
 
 function fullPaperPath(slug) {
   return path.join(workRoot, slug, 'Full_paper', `FullPaper_${slug}.json`)
+}
+
+function localTop5Path(slug) {
+  return path.join(workRoot, slug, 'Daily_top', `LocalTop5_${slug}.json`)
+}
+
+function coastalKattePath(slug) {
+  return path.join(workRoot, slug, 'Coastal_Katte', `CoastalKatte_Top5_${slug}.json`)
 }
 
 function omitUndefined(value) {
@@ -80,20 +92,29 @@ function docName(collection, id) {
   return `projects/${PROJECT_ID}/databases/(default)/documents/${collection}/${id}`
 }
 
-function baseRecord(fp, item, extra) {
-  const id = makeSavedArticleId({
-    date_slug: fp.date_slug,
+function catalogId(origin, dateSlug, item) {
+  const base = makeSavedArticleId({
+    date_slug: dateSlug,
     sources: item.sources ?? [],
     headline: item.headline,
     scope: item.scope,
     kind: item.kind,
   })
+  if (origin === 'local_top5') return `lt5_${base}`
+  if (origin === 'coastal_katte') return `ck_${base}`
+  return base
+}
+
+function baseRecord(meta, item, extra) {
+  const origin = extra.origin
+  const id = catalogId(origin, meta.date_slug, item)
+  const gist = item.gist ?? item.blurb ?? ''
   return omitUndefined({
     id,
-    date_slug: fp.date_slug,
-    date: fp.date,
+    date_slug: meta.date_slug,
+    date: meta.date,
     headline: item.headline,
-    gist: item.gist,
+    gist,
     kind: item.kind,
     scope: item.scope,
     sources: item.sources ?? [],
@@ -102,18 +123,22 @@ function baseRecord(fp, item, extra) {
     what_this_is: item.what_this_is,
     important_points: item.important_points,
     points: item.points,
+    why_channel: item.why_channel,
+    source_bucket: item.source_bucket,
+    local_top_rank: item.local_top_rank,
     ...extra,
   })
 }
 
 function flattenFullPaper(fp) {
+  const meta = { date_slug: fp.date_slug, date: fp.date }
   const records = []
   const newsBuckets = fp.sections?.news?.buckets ?? {}
   for (const [bucket, group] of Object.entries(newsBuckets)) {
     const items = group?.items ?? []
     items.forEach((item, sort_index) => {
       records.push(
-        baseRecord(fp, item, {
+        baseRecord(meta, item, {
           origin: 'full_paper_news',
           bucket,
           sort_index,
@@ -125,7 +150,7 @@ function flattenFullPaper(fp) {
   const tech = fp.sections?.technology ?? {}
   ;(tech.top5?.items ?? []).forEach((item, sort_index) => {
     records.push(
-      baseRecord(fp, item, {
+      baseRecord(meta, item, {
         origin: 'full_paper_technology',
         technology_group: 'top5',
         sort_index,
@@ -134,7 +159,7 @@ function flattenFullPaper(fp) {
   })
   ;(tech.rest?.items ?? []).forEach((item, sort_index) => {
     records.push(
-      baseRecord(fp, item, {
+      baseRecord(meta, item, {
         origin: 'full_paper_technology',
         technology_group: 'rest',
         sort_index,
@@ -144,7 +169,7 @@ function flattenFullPaper(fp) {
 
   ;(fp.sections?.opinion?.items ?? []).forEach((item, sort_index) => {
     records.push(
-      baseRecord(fp, item, {
+      baseRecord(meta, item, {
         origin: 'full_paper_opinion',
         sort_index,
       }),
@@ -152,6 +177,34 @@ function flattenFullPaper(fp) {
   })
 
   return records
+}
+
+function flattenLocalTop5(data) {
+  const meta = { date_slug: data.date_slug, date: data.date }
+  const records = []
+  let sort_index = 0
+  for (const [bucket, group] of Object.entries(data.buckets ?? {})) {
+    for (const item of group?.items ?? []) {
+      records.push(
+        baseRecord(meta, item, {
+          origin: 'local_top5',
+          bucket,
+          sort_index: sort_index++,
+        }),
+      )
+    }
+  }
+  return records
+}
+
+function flattenCoastalKatte(data) {
+  const meta = { date_slug: data.date_slug, date: data.date }
+  return (data.items ?? []).map((item, sort_index) =>
+    baseRecord(meta, item, {
+      origin: 'coastal_katte',
+      sort_index,
+    }),
+  )
 }
 
 function editionFromFullPaper(fp) {
@@ -291,36 +344,69 @@ async function commitInChunks(token, writes) {
   }
 }
 
-async function syncFile(token, filePath) {
-  const fp = JSON.parse(fs.readFileSync(filePath, 'utf8'))
-  if (!fp.date_slug) {
-    throw new Error(`Missing date_slug in ${filePath}`)
+async function syncDay(token, slug) {
+  const records = []
+  const upsertWrites = []
+  const parts = []
+
+  const fpPath = fullPaperPath(slug)
+  if (fs.existsSync(fpPath)) {
+    const fp = JSON.parse(fs.readFileSync(fpPath, 'utf8'))
+    const flat = flattenFullPaper(fp)
+    records.push(...flat)
+    upsertWrites.push({
+      update: {
+        name: docName('editions', fp.date_slug),
+        fields: toFields(editionFromFullPaper(fp)),
+      },
+    })
+    parts.push(`full=${flat.length}`)
   }
-  const records = flattenFullPaper(fp)
-  const edition = editionFromFullPaper(fp)
-  const existingIds = await listArticleIdsForDate(token, fp.date_slug)
+
+  const ltPath = localTop5Path(slug)
+  if (fs.existsSync(ltPath)) {
+    const data = JSON.parse(fs.readFileSync(ltPath, 'utf8'))
+    const flat = flattenLocalTop5(data)
+    records.push(...flat)
+    parts.push(`local=${flat.length}`)
+  }
+
+  const ckPath = coastalKattePath(slug)
+  if (fs.existsSync(ckPath)) {
+    const data = JSON.parse(fs.readFileSync(ckPath, 'utf8'))
+    const flat = flattenCoastalKatte(data)
+    records.push(...flat)
+    parts.push(`coastal=${flat.length}`)
+  }
+
+  if (records.length === 0) {
+    return { slug, articles: 0, removed: 0, parts: 'empty' }
+  }
+
+  const existingIds = await listArticleIdsForDate(token, slug)
   const nextIds = new Set(records.map((r) => r.id))
   const stale = existingIds.filter((id) => !nextIds.has(id))
 
-  const deleteWrites = stale.map((id) => ({ delete: docName('articles', id) }))
-  const upsertWrites = [
-    {
-      update: {
-        name: docName('editions', fp.date_slug),
-        fields: toFields(edition),
-      },
-    },
+  await commitInChunks(
+    token,
+    stale.map((id) => ({ delete: docName('articles', id) })),
+  )
+  await commitInChunks(token, [
+    ...upsertWrites,
     ...records.map((record) => ({
       update: {
         name: docName('articles', record.id),
         fields: toFields(record),
       },
     })),
-  ]
+  ])
 
-  await commitInChunks(token, deleteWrites)
-  await commitInChunks(token, upsertWrites)
-  return { slug: fp.date_slug, articles: records.length, removed: stale.length }
+  return {
+    slug,
+    articles: records.length,
+    removed: stale.length,
+    parts: parts.join(', '),
+  }
 }
 
 async function main() {
@@ -337,18 +423,23 @@ async function main() {
       return fs.statSync(full).isDirectory() && isDateSlug(name)
     })
     .filter((name) => (onlySlug ? name === onlySlug : true))
-    .filter((name) => fs.existsSync(fullPaperPath(name)))
+    .filter(
+      (name) =>
+        fs.existsSync(fullPaperPath(name)) ||
+        fs.existsSync(localTop5Path(name)) ||
+        fs.existsSync(coastalKattePath(name)),
+    )
 
   if (slugs.length === 0) {
-    console.log('No FullPaper JSON found to sync.')
+    console.log('No Local Top 5 / Coastal Katte / Full Paper JSON found to sync.')
     return
   }
 
   const token = await getAccessToken()
   for (const slug of slugs) {
-    const result = await syncFile(token, fullPaperPath(slug))
+    const result = await syncDay(token, slug)
     console.log(
-      `Synced ${result.slug}: ${result.articles} articles` +
+      `Synced ${result.slug}: ${result.articles} articles (${result.parts})` +
         (result.removed ? `, removed ${result.removed} stale` : ''),
     )
   }
