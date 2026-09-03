@@ -40,20 +40,28 @@ jobs:
 
       - name: Setup Firebase service account
         env:
+          SA_B64: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_B64 }}
           SA_JSON: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
         run: |
-          printf '%s' "$SA_JSON" > "${RUNNER_TEMP}/firebase-sa.json"
+          if [ -n "$SA_B64" ]; then
+            printf '%s' "$SA_B64" | base64 -d > "${RUNNER_TEMP}/firebase-sa.json"
+          else
+            printf '%s' "$SA_JSON" > "${RUNNER_TEMP}/firebase-sa.json"
+          fi
+          jq -e '.client_email and .private_key' "${RUNNER_TEMP}/firebase-sa.json" >/dev/null
+          echo "Using service account: $(jq -r .client_email "${RUNNER_TEMP}/firebase-sa.json")"
           echo "GOOGLE_APPLICATION_CREDENTIALS=${RUNNER_TEMP}/firebase-sa.json" >> "$GITHUB_ENV"
           echo "GOOGLE_CLOUD_PROJECT=newspaper-page-digest" >> "$GITHUB_ENV"
 
       - name: Deploy Firestore rules and indexes
-        run: npx -y firebase-tools@latest deploy --only firestore --project newspaper-page-digest --non-interactive
+        continue-on-error: true
+        run: npx -y firebase-tools@15.7.0 deploy --only firestore --project newspaper-page-digest --non-interactive
 
       - name: Sync Full Paper JSON to Firestore
         working-directory: viewer
-        env:
-          FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
-        run: npm run sync-firestore
+        run: |
+          export FIREBASE_SERVICE_ACCOUNT="$(cat "$GOOGLE_APPLICATION_CREDENTIALS")"
+          npm run sync-firestore
 
       - name: Build static viewer
         working-directory: viewer
@@ -75,4 +83,5 @@ jobs:
           projectId: newspaper-page-digest
 
       - name: Deploy Auth config
-        run: npx -y firebase-tools@latest deploy --only auth --project newspaper-page-digest --non-interactive
+        continue-on-error: true
+        run: npx -y firebase-tools@15.7.0 deploy --only auth --project newspaper-page-digest --non-interactive
