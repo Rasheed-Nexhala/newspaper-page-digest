@@ -39,14 +39,18 @@ jobs:
         run: npm ci
 
       - name: Authenticate for Firebase CLI
+        id: firebase_auth
         uses: google-github-actions/auth@v2
+        continue-on-error: true
         with:
           credentials_json: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
 
       - name: Deploy Firestore rules and indexes
+        if: steps.firebase_auth.outcome == 'success'
         run: npx -y firebase-tools@latest deploy --only firestore --project newspaper-page-digest --non-interactive
 
       - name: Sync Full Paper JSON to Firestore
+        if: steps.firebase_auth.outcome == 'success'
         working-directory: viewer
         env:
           GOOGLE_CLOUD_PROJECT: newspaper-page-digest
@@ -64,6 +68,7 @@ jobs:
         run: npm run build
 
       - name: Deploy to Firebase Hosting
+        if: steps.firebase_auth.outcome == 'success'
         uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: ${{ secrets.GITHUB_TOKEN }}
@@ -72,4 +77,11 @@ jobs:
           projectId: newspaper-page-digest
 
       - name: Deploy Auth config
+        if: steps.firebase_auth.outcome == 'success'
         run: npx -y firebase-tools@latest deploy --only auth --project newspaper-page-digest --non-interactive
+
+      - name: Report missing Firebase credentials
+        if: steps.firebase_auth.outcome != 'success'
+        run: |
+          echo "::warning::FIREBASE_SERVICE_ACCOUNT secret is missing or invalid. Static viewer was built but not deployed to Firebase Hosting."
+          echo "Add FIREBASE_SERVICE_ACCOUNT (and optional VITE_FIREBASE_* secrets) in GitHub repo Settings → Secrets."
