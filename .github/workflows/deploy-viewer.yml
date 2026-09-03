@@ -38,10 +38,13 @@ jobs:
         working-directory: viewer
         run: npm ci
 
-      - name: Authenticate for Firebase CLI
-        uses: google-github-actions/auth@v2
-        with:
-          credentials_json: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+      - name: Setup Firebase service account
+        env:
+          SA_JSON: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+        run: |
+          printf '%s' "$SA_JSON" > "${RUNNER_TEMP}/firebase-sa.json"
+          echo "GOOGLE_APPLICATION_CREDENTIALS=${RUNNER_TEMP}/firebase-sa.json" >> "$GITHUB_ENV"
+          echo "GOOGLE_CLOUD_PROJECT=newspaper-page-digest" >> "$GITHUB_ENV"
 
       - name: Deploy Firestore rules and indexes
         run: npx -y firebase-tools@latest deploy --only firestore --project newspaper-page-digest --non-interactive
@@ -49,7 +52,7 @@ jobs:
       - name: Sync Full Paper JSON to Firestore
         working-directory: viewer
         env:
-          GOOGLE_CLOUD_PROJECT: newspaper-page-digest
+          FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
         run: npm run sync-firestore
 
       - name: Build static viewer
