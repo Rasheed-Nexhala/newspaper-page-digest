@@ -1,0 +1,704 @@
+{
+  "date": "Sunday, 6 September 2026",
+  "date_slug": "06-Sep-2026",
+  "papers_scanned": [
+    {
+      "paper": "Deccan Herald",
+      "edition": "Mangaluru",
+      "path": "/Users/shazrasheed/Downloads/newspaper-page-digest/work/06-Sep-2026/Deccan_Herald/DeccanHerald_Mangaluru_06-Sep-2026_PageDigest.json",
+      "total_articles": 115
+    },
+    {
+      "paper": "News Trail",
+      "edition": "Mangaluru",
+      "path": "/Users/shazrasheed/Downloads/newspaper-page-digest/work/06-Sep-2026/News_Trail/NewsTrail_Mangaluru_06-Sep-2026_PageDigest.json",
+      "total_articles": 82
+    },
+    {
+      "paper": "The Hindu",
+      "edition": "Mangaluru",
+      "path": "/Users/shazrasheed/Downloads/newspaper-page-digest/work/06-Sep-2026/The_Hindu/TheHindu_Mangaluru_06-Sep-2026_PageDigest.json",
+      "total_articles": 118
+    }
+  ],
+  "buckets": {
+    "mangaluru": {
+      "label": "Top 5 — Mangaluru",
+      "candidate_count": 16,
+      "selected_count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "headline": "‘Congress will form Mangaluru railway division if voted to power at Centre’",
+          "blurb": "Member of Legislative Council P.V. Mohan welcomed the Union government’s decision to integrate the Mangaluru railway region with the South Western Railway but said it should not have been annexed to SWR’s Mysuru Division, reiterating the long-standing demand for a separate railway division for Mangaluru. He said the Railways generates nearly ₹1,100 crore revenue from coastal Karnataka and that denial of a division would be a poll issue, pledging that Congress would create a separate Mangaluru division if voted to power at the Centre; Dakshina Kannada District Congress President K. Harish Kumar was among those present.",
+          "kind": "news",
+          "scope": "mangaluru",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 4,
+              "index": 5
+            },
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 4,
+              "index": 2
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "Vande Bharat runtime trial held between Yeshwantpur, Mangaluru",
+          "blurb": "The South Western Railway conducted a runtime trial of a 16-car Vande Bharat Express rake between Yeshwantpur and Mangaluru Central on Saturday, September 5, ahead of a proposed regular service linking Bengaluru and coastal Karnataka. The 2023-make rake, fitted with automatic emergency braking, became the first train-set to run on electric traction end-to-end on the sector, though it reached Mangaluru at 4.25 p.m. instead of 2.25 p.m. after technical glitches caused by unstable overhead electric equipment on the Sakleshpur–Subrahmanya Road Ghat section; Divisional Railway Manager Mudit Mittal said further trials may be held before finalising the timetable and that the proposed running time was higher than comparable services.",
+          "kind": "news",
+          "scope": "mangaluru",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 4,
+              "index": 10
+            },
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 4,
+              "index": 10
+            },
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 4,
+              "index": 1
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "Expired food products seized",
+          "blurb": "Food safety officials, acting on a complaint submitted via a Karnataka Health and Welfare Department QR code, seized expired food items from Reliance Smart Bazaar in Attavara on Saturday after a Kodialbail resident found parota with a manufactured date of June 1 and expiry date of June 7 ordered through the Jio Mart App. Additional samples were seized and sent for laboratory examination, and a show-cause notice was issued to the hypermarket management.",
+          "kind": "news",
+          "scope": "mangaluru",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 4,
+              "index": 11
+            },
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 4,
+              "index": 11
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "NITK introduces new 'bold and balanced' engineering curriculum",
+          "blurb": "National Institute of Technology Karnataka, Surathkal, has implemented a new \"bold and balanced\" engineering curriculum from the BTech batch of 2026, reducing total credits while allowing Honours, minor or interdisciplinary degrees and balancing theory with practical work including labs, life-skills activities, industry internship, R&D projects and startup planning. Dean (Academic Programs) Professor Annappa said the three-year curriculum was developed with industry and alumni input, and Director Prof B Ravi said the institute aims to prepare students for the AI era by emphasising creativity, empathy, ethics and judgement alongside technical knowledge.",
+          "kind": "news",
+          "scope": "mangaluru",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 4,
+              "index": 6
+            },
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 4,
+              "index": 6
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "Educated people pose more problems for govts., moral education needed: Khader",
+          "blurb": "Minister for Health and Family Welfare U.T. Khader, speaking at district-level Teachers' Day celebrations in Mangaluru on Saturday, said governments face more problems from educated people than uneducated ones, noting that educated people are often found involved in corrupt practices, communal activities and terrorist activities, and urged teachers to focus on imparting moral values. He said teachers must stay up to date with AI and technological advancements, that the government is committed to solving teachers' problems including filling over 16,000 posts and addressing guest-teacher issues, and felicitated 21 best teachers. The programme, advanced to 9 a.m., could not begin before 10 a.m. due to a scheduling clash with Chief Minister D.K. Shivakumar's Praja Divas launch in Puttur; Mr. Khader left at 10.30 a.m. for Puttur, 90 minutes from Mangaluru.",
+          "kind": "news",
+          "scope": "mangaluru",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 3,
+              "index": 1
+            }
+          ]
+        }
+      ]
+    },
+    "coastal_karnataka": {
+      "label": "Top 5 — Coastal Karnataka",
+      "candidate_count": 16,
+      "selected_count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "headline": "Cops assaulted while attending to domestic violence plaint",
+          "blurb": "Two Puttur Rural Police Station personnel—Head Constable Madhu and Constable Bheemana Gowda M Biradar—were allegedly assaulted and abused by a man and his family while responding to a domestic violence complaint at Mundaje in Padnur village on Friday night. When the police intervened after the woman's husband Naveen attempted to assault her again, Naveen, his mother and brother allegedly obstructed the officers; Naveen is undergoing hospital treatment and further legal action will be taken after discharge.",
+          "kind": "news",
+          "scope": "coastal_karnataka",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 4,
+              "index": 7
+            },
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 4,
+              "index": 7
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "Jammu youth drowns at Gokarna beach",
+          "blurb": "Vibhash Sharma, 27, from Jammu, drowned while swimming at Kudle beach in Gokarna on Friday evening after checking out of a resort with a friend, visiting Vibhooti Falls and returning to the beach before a scheduled bus to Bengaluru. Police registered a case after he was caught in the waves.",
+          "kind": "news",
+          "scope": "coastal_karnataka",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 7,
+              "index": 9
+            },
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 7,
+              "index": 11
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "'Department of Praja Seva meant to hear and redress grievances of citizens'",
+          "blurb": "Dakshina Kannada District in-charge Minister U.T. Khader inaugurated the district-level Praja Seva meeting in Puttur on Saturday, saying the government has established the Department of Praja Seva to hear and redress the grievances of every citizen and deliver the benefits of every government scheme. On the inaugural day, a total of 163 applications were received from the public, including 61 for Revenue, 22 for Rural Development and 13 for Police; complaints covered land sanction, plotting, title deeds, survey, gun licences, bus sanctions and provision of teachers for schools. Mr. Khader distributed title deeds to beneficiaries and said issues pending for 20 to 30 years have been resolved; Puttur MLA Ashok Kumar Rai and district-level officials were present.",
+          "kind": "news",
+          "scope": "coastal_karnataka",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 3,
+              "index": 2
+            },
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 4,
+              "index": 3
+            },
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 4,
+              "index": 3
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "Vitla Pindi celebrated with grandeur in Udupi",
+          "blurb": "Vitla Pindi festivities, held a day after Krishna Janmashtami, concluded in a grand manner in Udupi on Saturday, with religious and cultural programmes including Krishna Vesha Spardhe held on the Krishna Mutt premises on Friday. On Saturday, devotees visited houses sporting Huli Vesha and other costumes and gathered at the Krishna Mutt as Paryaya Shiroor Mutt seer Sri Vedavardhana Tirtha performed puja to the clay idol of Lord Krishna; around 3 p.m. the idol was taken in a silver chariot around Ratha Beedi, where devotees dressed as Gollas broke ghee pots placed atop poles, while police stepped up crowd-control measures over the two days.",
+          "kind": "news",
+          "scope": "coastal_karnataka",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 4,
+              "index": 1
+            },
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 4,
+              "index": 1
+            },
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 4,
+              "index": 4
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "MLC urges Centre to set up separate railway division for Mangaluru",
+          "blurb": "MLC P V Mohan welcomed transferring Mangaluru's railway administration from the Palakkad division but urged the BJP-led Union government to establish a separate Mangaluru Railway Division with Mangaluru as headquarters, calling the move to the Mysuru division instead a \"betrayal\" of coastal districts. He said coastal Karnataka wants complete railway justice—not merely a change from Palakkad to Mysuru—and called for a feasibility study covering New Mangalore Port, Konkan Railway and the Hassan-Bengaluru corridor and a dedicated Coastal Karnataka Railway Master Plan for the next 10 to 20 years.",
+          "kind": "news",
+          "scope": "coastal_karnataka",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 4,
+              "index": 5
+            }
+          ]
+        }
+      ]
+    },
+    "karnataka": {
+      "label": "Top 5 — Karnataka",
+      "candidate_count": 90,
+      "selected_count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "headline": "‘Days of people making multiple visits to govt. offices for routine work must end’",
+          "blurb": "Chief Minister D.K. Shivakumar launched the new Praja Seva Department at Kudligi in Vijayanagara district on Saturday, aimed at taking administration to people’s doorsteps and providing time-bound redressal of grievances without repeated visits to government offices, with programmes launched simultaneously across the State. The initiative will cover all 224 Assembly constituencies with elected representatives and officials available on the first and third Saturdays of every month, addressing issues including pensions, land disputes, khata transfers, guarantee schemes and house sites, and Mr. Shivakumar announced free legal assistance through government lawyers for poor and disadvantaged people in disputes before tahsildars and commissioners, adding that the government would soon decide on declaring more drought-affected taluks after second-stage surveys in more than 50 taluks.",
+          "kind": "news",
+          "scope": "karnataka",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 7,
+              "index": 3
+            },
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 5,
+              "index": 4
+            },
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 7,
+              "index": 2
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "Shakti scheme: Free smart cards for 1 cr women soon",
+          "blurb": "Transport Minister Byrathi Suresh said on Friday that free smart cards will soon be issued to more than one crore women bus passengers under the Shakti scheme for Rs 250 crore, as the first phase of a project that will eventually cover more than three crore women. The government is introducing the cards to weed out leakages — such as conductors issuing tickets to inflate numbers — and to streamline expenditure amid pressure on city bus conductors to issue tickets quickly. The smart cards will function like bank cards readable by Electronic Ticketing Machines, storing beneficiary photos, domicile details, boarding and alighting points, distance travelled and fare, allowing beneficiaries to tap the card on the ETM instead of presenting ID.",
+          "kind": "news",
+          "scope": "karnataka",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 2,
+              "index": 1
+            },
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 2,
+              "index": 2
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "Rs 12,000 cr for e-buses",
+          "blurb": "Transport Minister Byrathi Suresh said Karnataka will pay over Rs 600 crore per year and Rs 12,000 crore over 20 years to meet part of the operational cost of leasing 4,500 electric buses for the BMTC under the PM E-Drive scheme. After accounting for passenger revenue, BMTC will face an annual shortfall of Rs 1,014 crore, with the state providing over Rs 600 crore as Viability Gap Funding while BMTC mobilises the rest; the Centre will facilitate bus supply through private manufacturers in phases while BMTC pays a fixed amount per kilometre. To support the transition, 32 BMTC depots and 62 depots of other RTCs would be upgraded, with bus depots and stations from all four Road Transport Corporations covered under the programme.",
+          "kind": "news",
+          "scope": "karnataka",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 2,
+              "index": 4
+            },
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 2,
+              "index": 4
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "'50 more taluks to be declared drought-hit by month end'",
+          "blurb": "Chief Minister D K Shivakumar said at Kudligi on Saturday that the state government will declare another 50 taluks as drought-affected, adding to 102 taluks already announced, with all eligible taluks to be included in the second list within the month. He asked people to be patient and said declarations would follow Centre guidelines, with steps to provide necessary support and strengthen affected communities.",
+          "kind": "news",
+          "scope": "karnataka",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 7,
+              "index": 2
+            },
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 7,
+              "index": 1
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "K'taka seeks sharp cut in quantum of water release to TN",
+          "blurb": "Karnataka has appealed to the Cauvery Water Management Authority to cut daily releases to Tamil Nadu from 9,000 cusec to 2,000 cusec at Biligundlu, citing storage of just 66.629 tmcft in four major reservoirs amid an unprecedented super El Niño. Additional chief secretary Gaurav Gupta said the state needs about 154 tmcft for irrigation, drinking water including Bengaluru and environmental flows, while Tamil Nadu's Mettur reservoir holds about 55 tmcft plus expected catchment contributions of about 100 tmcft, and objected to CWRC and CWMA orders in July and August without waiting for a post-monsoon distress assessment.",
+          "kind": "news",
+          "scope": "karnataka",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 9,
+              "index": 2
+            },
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 9,
+              "index": 1
+            }
+          ]
+        }
+      ]
+    },
+    "india": {
+      "label": "Top 5 — India",
+      "candidate_count": 118,
+      "selected_count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "headline": "'Attack on Constitution': Outrage after 150-yr-old UP mosque demolished at 5 am",
+          "blurb": "A mosque inside the Saharanpur Collectorate campus in Uttar Pradesh was demolished at around 5 am on Saturday, September 5, amid heavy police deployment, days after a district court upheld the administration's decision declaring the structure an unauthorised occupation of government land. On September 4, the District Judge's court dismissed an appeal by the mosque management committee and upheld an earlier removal order after the administration had declared the mosque illegal in July under the Uttar Pradesh Public Premises (Eviction of Unauthorised Occupants) Act, 1972. Opposition parties and Jamiat Ulama-i-Hind president Maulana Arshad Madani condemned the demolition, while Samajwadi Party Lok Sabha MP from Kairana Iqra Hasan was placed under house arrest at her residence ahead of it.",
+          "kind": "news",
+          "scope": "india",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 11,
+              "index": 3
+            },
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 1,
+              "index": 4
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "Voter lists shrink over 15% since 2024 elections in States, U.T.s where SIR third-phase draft lists are out",
+          "blurb": "Since the 2024 Lok Sabha elections, voter lists of 17 States and Union Territories where Special Intensive Revision (SIR) is under way in its third phase have shrunk by 15.7% as per draft rolls published by the Election Commission, from 35,50,50,008 to 29,93,00,115. Maharashtra recorded the largest drop in absolute numbers, losing 15,896,198 electors or 17.08% in the draft phase, while Delhi and Chandigarh registered the sharpest dips in percentage at 35.89% and 31.84% respectively. These States and U.T.s had added around 57.75 lakh voters after the polls, taking the cumulative total to 36,08,07,394, but 6.15 crore voters have been deleted as per the draft rolls.",
+          "kind": "news",
+          "scope": "india",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 1,
+              "index": 5
+            },
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 11,
+              "index": 4
+            },
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 11,
+              "index": 4
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "Modi touts 7.8% GDP growth, hits out at 'Fragile Five' critics",
+          "blurb": "Prime Minister Narendra Modi on Saturday hailed India's 7.8% GDP growth amid global headwinds, telling Delhi University's Shri Ram College of Commerce centenary celebrations that the figure showed the economy's strength despite the West Asia conflict and trade challenges and taking a dig at critics who had once pushed India into the \"Fragile Five.\" Returning to the campus 13 years after his February 2013 visit as Gujarat chief minister, he also warned Pakistan that terrorist misadventures would invite strikes \"ghar mein ghuske\" and dismissed Rahul Gandhi's \"Chhatron Ki Goonj\" outreach as \"Jhooth ki goonj.\"",
+          "kind": "news",
+          "scope": "india",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 10,
+              "index": 2
+            },
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 10,
+              "index": 3
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "UP's IAS exodus exposes rot beneath bureaucracy",
+          "blurb": "Divya Mittal, a 2013-batch IAS officer and former district magistrate of Mirzapur and Deoria, resigned on August 30 after 13 years in service, raising questions about why experienced officers with strong field records are leaving. An IIT Delhi and IIM Bangalore alumna, she had become known in Mirzapur for initiatives such as piped water to Lahuria Dah village. Since 2017, at least nine UP-cadre IAS officers have opted for VRS and several others have resigned, including Mohammad Mustafa, Amod Kumar, Rigzin Samphel, Renuka Kumar, Juthika Patankar, Vikas Gothalwal, Anamika Singh, Vidya Bhushan, Abhishek Singh, S. Muthu Shalini and Mittal.",
+          "kind": "news",
+          "scope": "india",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 1,
+              "index": 1
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "8 students from TN killed in highway crash",
+          "blurb": "Eight engineering students from Tamil Nadu's Dindigul were killed when their car rammed into a lorry parked illegally on NH-66 in Thrissur district of central Kerala at around 11.40 pm on Friday at Panambikkunnu in Kaipamangalam. According to the FIR, the Maharashtra-registered lorry was parked illegally on the right side near a barricaded stretch where traffic had been diverted for construction work; six students died on the spot and two were declared dead on arrival at a nearby hospital. The deceased were students of an engineering college in Dindigul travelling from Guruvayur towards Kodungallur.",
+          "kind": "news",
+          "scope": "india",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 1,
+              "index": 3
+            },
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 1,
+              "index": 7
+            }
+          ]
+        }
+      ]
+    },
+    "international": {
+      "label": "Top 5 — International",
+      "candidate_count": 25,
+      "selected_count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "headline": "2 more rescued alive in Nepal after being trapped for 10 days",
+          "blurb": "Emergency responders rescued a Chinese man and a Nepali woman in two separate operations as authorities continued searching for thousands missing 10 days after massive floods hit Nepal. On Saturday, a joint team of Nepali army personnel and South Korean disaster experts rescued the man from a 225-metre (740ft) tunnel in the Upper Trishuli-1 hydropower project; he was evacuated by helicopter for a health assessment. About 900 workers are missing across a dozen hydropower projects, with 500 thought trapped in huge tunnels, as international teams from India, China, South Korea and the US search debris and damaged structures.",
+          "kind": "news",
+          "scope": "international",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 1,
+              "index": 5
+            },
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 14,
+              "index": 2
+            },
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 14,
+              "index": 2
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "U.S. military hits 3 Iranian tankers after saying 2 Navy ships targeted",
+          "blurb": "The U.S. military said on Saturday it struck three Iranian oil tankers after Navy warships were targeted with missiles, permanently disabling two carriers and destroying a third unladen tanker; an aircraft carrier and destroyer evaded the attacks with no U.S. personnel hurt. Admiral Brad Cooper, head of U.S. Central Command, said the tankers were part of a shadow network funding the IRGC and its proxies and warned the U.S. would “if necessary, destroy Iran’s limited and exposed oil fleet”.",
+          "kind": "news",
+          "scope": "international",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 14,
+              "index": 3
+            },
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 14,
+              "index": 7
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "Putin orders a 72-hour pause in strikes on Kyiv",
+          "blurb": "Russian President Vladimir Putin ordered a 72-hour pause in strikes on Kyiv starting at midnight on Saturday as U.S. envoys Steve Witkoff and Jared Kushner arrived in Moscow to revive stalled efforts to end Russia’s full-scale invasion of Ukraine. Putin later met the envoys at the Kremlin, describing the situation as “not simple”; Ukrainian President Volodymyr Zelenskyy had said Ukraine would halt strikes during the envoys’ planned visit to Kyiv on Sunday.",
+          "kind": "news",
+          "scope": "international",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 14,
+              "index": 5
+            },
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 14,
+              "index": 1
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "India votes in favour of UNGA resolution on new world map",
+          "blurb": "India has voted in favour of a UN General Assembly resolution aimed at correcting the world map to promote a \"more accurate representation\" of continental landmasses. The 193-member UN General Assembly on Friday overwhelmingly adopted the resolution \"Correct the map: rebalancing global cartographic representation and promoting equitable representation of the world's regions, particularly Africa\", sponsored by Togo with 164 votes in favour, abstentions from Estonia, Georgia, Lithuania, Moldova, Serbia and Ukraine, and a lone vote against from the United States.",
+          "kind": "news",
+          "scope": "international",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 14,
+              "index": 8
+            },
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 9,
+              "index": 2
+            },
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 14,
+              "index": 6
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "60 killed in clashes between Houthis, Yemen govt. forces",
+          "blurb": "Fighting between Yemen’s Saudi-backed government forces and Houthi rebels killed more than 60 people on Saturday, including civilians, medical and military sources said. Renewed clashes in the southwest over control of a gateway to the Red Sea followed Friday’s deadliest fighting in years after the collapse in July of a 2022 ceasefire; 26 government troops and 31 rebel fighters were killed, and a missile strike in Taiz killed six civilians.",
+          "kind": "news",
+          "scope": "international",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 14,
+              "index": 9
+            }
+          ]
+        }
+      ]
+    },
+    "sports": {
+      "label": "Top 5 — Sports",
+      "candidate_count": 30,
+      "selected_count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "headline": "India bowls out Pakistan for its lowest T20I total",
+          "blurb": "Pakistan recorded its lowest T20I total in its group match against India at the women’s Asia Cup in Dubai on Saturday, bundled out for 55 in 18.1 overs. The Asian side’s previous lowest score was 56 against New Zealand at the same Dubai International Cricket Stadium in the 2024 T20 World Cup.",
+          "kind": "news",
+          "scope": "sports",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 15,
+              "index": 1
+            },
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 12,
+              "index": 4
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "Satwik-Chirag a step away from China Masters title",
+          "blurb": "The Indian men’s doubles pair of Satwiksairaj Rankireddy and Chirag Shetty overcame Malaysia’s Nur Mohd Azriyn Ayub and Tan Wee Kiong 21-16, 18-21, 21-11 to reach the China Masters final for the third time on Saturday. The World No. 5 combination, runner-up in 2023 and 2025, will meet China’s He Ji Ting and Ren Xiang Yu in the summit clash.",
+          "kind": "news",
+          "scope": "sports",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 12,
+              "index": 7
+            },
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 14,
+              "index": 12
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "Proven performers take centre stage in the final showdown",
+          "blurb": "South Zone will take on East Zone in the Duleep Trophy final at the MAC Stadium in Chennai from Sunday, with the zonal tournament serving as the curtain-raiser for the domestic season. Devdutt Padikkal and Mohammed Siraj have bolstered Tilak Varma-led South, while East will depend on Mohammed Shami as Vaibhav Sooryavanshi offers Ishan Kishan’s side an X-factor; Shreyas Gopal and Shami will both feature in their 100th First Class appearance.",
+          "kind": "news",
+          "scope": "sports",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 12,
+              "index": 5
+            },
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 16,
+              "index": 2
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "Williams sisters fall in a thriller on US Open doubles return",
+          "blurb": "Serena and Venus Williams electrified the Arthur Ashe Stadium but fell to Chan Hao-ching and Maya Joint in a thrilling three-setter on their return to US Open women’s doubles. The duo led the deciding 10-point tiebreaker 5-0 but fell 3-6, 7-6(6), 6-7(7). “Being able to play against such legends is super special,” Joint said.",
+          "kind": "news",
+          "scope": "sports",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 15,
+              "index": 4
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "Alcaraz and Sabalenka cruise into the last 16",
+          "blurb": "Defending singles champions Carlos Alcaraz and Aryna Sabalenka sailed into the US Open last 16 on Friday as Alcaraz beat China’s Wu Yibing 6-3, 6-4, 6-1 and Sabalenka dismissed Kamilla Rakhimova 6-3, 6-4 without facing a break point. Alcaraz will face 20th-seeded American Tommy Paul, Sabalenka meets Taylor Townsend, and elsewhere Jessica Pegula beat Leylah Fernandez 1-6, 6-4, 6-3 and Emma Navarro upset seventh-seeded Karolina Muchova 6-3, 7-5.",
+          "kind": "news",
+          "scope": "sports",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 15,
+              "index": 6
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
