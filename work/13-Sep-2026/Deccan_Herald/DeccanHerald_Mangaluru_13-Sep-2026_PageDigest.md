@@ -1,0 +1,953 @@
+# Deccan Herald — Mangaluru — Page-by-Page Digest
+**Date:** Sunday, 13 September 2026  |  **Total pages:** 20  |  **Total articles:** 112
+
+---
+
+## Page 1
+
+<!-- npd:article page="1" index="1" kind="news" scope="india" -->
+### AI can do the work, can students do the thinking?
+
+Agentic AI reshapes learning and hiring by taking a goal, breaking it into steps, choosing tools, executing and checking results, unlike ordinary chatbots that only answer questions. Nearly half of ChatGPT’s Indian users are under 24 and use it for studying, while a PNAS randomised trial found school students with unrestricted GPT-4 access scored 48% better on practice problems but 17% worse on unaided exams when the tool was withdrawn. The piece warns of metacognitive offloading, false confidence from flawless AI output, and a labour-market mismatch as Indian IT fresher hiring fell from about 6 lakh in FY 2022 to about 1.2 lakh in FY 2025 even as employability rates rose.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="1" index="2" kind="news" scope="karnataka" -->
+### Being a woman, living in a world of fear
+
+Slow redressal, legal lacunae and victim shaming belittle sexual harassment trauma, as illustrated by three cases: a Bengaluru analyst spat on near Kengeri bus stop, Ahmedabad journalist Devanshi Joshi facing rape threats after a 2017 YouTube investigation, and a postgraduate student photographed without consent on Namma Metro. Harassment spans real and virtual worlds, and broadly covers improper conduct causing humiliation or distress.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="1" index="3" kind="news" scope="international" -->
+### BRICS meet calls for max restraint in West Asia
+
+The BRICS on Saturday called for maximum restraint in West Asia, expressed serious concern over deliberate attacks on civilian infrastructure and peaceful IAEA-safeguarded nuclear facilities, and urged respect for sovereignty and territorial integrity without assigning blame, as diplomats bridged differences between Iran and Saudi Arabia and the UAE overnight to adopt the New Delhi Declaration at the 18th summit hosted by Prime Minister Narendra Modi at Bharat Mandapam. On Israel-Palestine, BRICS invoked ICJ proceedings, reaffirmed support for Palestinian rights and a two-state solution based on 1967 borders, and Modi said the declaration provides clear direction that must be translated into tangible results.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="1" index="4" kind="news" scope="india" -->
+### Pahalgam attack condemned
+
+The BRICS grouping strongly condemned the April 2025 Pahalgam terror attack in its New Delhi Declaration adopted on Saturday and called for zero tolerance towards cross-border terrorism, with details on Page 9.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="1" index="5" kind="news" scope="international" -->
+### DELHI DECLARATION
+
+Diplomats negotiated the declaration text overnight, bridging differences between Iran on one side and Saudi Arabia and the United Arab Emirates on the other; it calls for a zone free of nuclear weapons and other weapons of mass destruction in West Asia, expresses concern over ongoing conflicts in many parts of the world without directly referring to Russia’s war against Ukraine, and urges maintenance of ceasefire and unhindered humanitarian access in Gaza while opposing forced displacement and demographic changes and backing the right to self-determination of Palestinians.
+<!-- /npd:article -->
+
+---
+
+## Page 2
+
+<!-- npd:article page="2" index="1" kind="news" scope="karnataka" -->
+### 46 answer scripts of BCom students vanish at BU
+
+Answer scripts of 46 BCom students in the Modern Banking subject have gone missing at Bangalore University, leaving fourth-semester pupils awaiting results since April 2025 after January exams whose other results were declared in March. The Syndicate decided to declare results based on marks in other subjects and issue notices to the exam custodian, systems engineer and college principal, but members including Dr H J Jaikrishna demanded a detailed inquiry, citing prior missing-script cases involving 97 students between 2013 and 2023 and alleged mismanagement in the evaluation department.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="2" index="2" kind="news" scope="karnataka" -->
+### ‘Error by AI camera’: Car driver fined Rs 500 for driving sans helmet
+
+Subhash Bojane of Athani in Belagavi district was fined Rs 500 after AI cameras at Ambedkar circle recorded his car passing through and traffic police sent a WhatsApp notice citing ‘no helmet’ violation; he protested by driving wearing a helmet and sharing a video that went viral, triggering debate over AI camera functioning in the town.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="2" index="3" kind="news" scope="karnataka" -->
+### Shopping malls do not require trade licence, rules HC
+
+A Karnataka High Court division bench held that shopping malls within BBMP jurisdiction do not require trade licences though individual shops inside do, rejecting BBMP’s demand that Island Star Mall Developers renew trade licence fees for a diesel generator set after the firm had paid Rs 10 lakh and renewed until 2013. The bench said section 354 of the Karnataka Municipal Corporations Act requires permission for installation, not annual trade-licence renewal, and that BBMP rendered no inspection service beyond collecting fees while electrical inspector and KSPCB handled certification.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="2" index="4" kind="news" scope="karnataka" -->
+### Rajanna terms ED raids on Jarkiholi ‘politically motivated’
+
+Congress veteran K N Rajanna on Saturday condemned ED raids on properties linked to Public Works Minister Satish Jarkiholi as politically motivated, saying Jarkiholi’s family business has Rs 2,000 crore annual turnover and questioning the significance of seizing Rs 2 crore; he denied reports of quitting Congress over missing an Apex Bank term, said he may or may not contest the next Assembly polls from Madhugiri on a Congress ticket, and deflected questions on CM claims that four to five ministers could face ED raids.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="2" index="5" kind="news" scope="karnataka" -->
+### Loans for minorities
+
+The Karnataka Minorities Development Corporation has invited online applications from eligible minority-community members for 2026-27 loans under schemes including Swavalambi Sarathi, Fast Food Truck/Tailer Kitchen Food Kiosk, women’s self-help group self-employment promotion, Sikh community economic empowerment, Community-Based Training, Direct Loan, Foreign Education Loan and Santhwana, with applications due by September 17; enquiries at 8277799990.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="2" index="6" kind="news" scope="karnataka" -->
+### Free training in tailoring, fashion designing
+
+RRUDSETI, with Sri Dharmasthala Manjunatheshwara Education Trust and Canara Bank, will conduct free 31-day tailoring and fashion designing training for rural unemployed women from September 17; applicants must be aged 18–50, read and write Kannada, and hold BPL and Aadhaar cards, with free food and accommodation and Ministry of Rural Development certificates on completion; contact RUDSET, Arishinakunte, Nelamangala taluk, or 9380162042, 9241482541, 9481506564 or 9113880324.
+<!-- /npd:article -->
+
+---
+
+## Page 3
+
+<!-- npd:article page="3" index="1" kind="news" scope="india" -->
+### Border peace must for better ties: Modi to Xi
+
+Prime Minister Narendra Modi told Chinese President Xi Jinping on the sidelines of the 18th BRICS summit in New Delhi on Saturday that peace and tranquillity in border areas remained an essential basis for bilateral relations, their third meeting since Kazan 2024 and Tianjin 2025 after the June 2020 Galwan face-off. Both leaders committed to a fair, reasonable and mutually acceptable boundary resolution from the political perspective of overall ties, noted progress in people-to-people links, and underlined need to address trade imbalance as India’s FY26 trade deficit with China hit a record $112.16 billion; India recently accepted China’s early-harvest delimitation proposal and a joint expert group after SFIO recommended a probe into Xiaomi’s India operations.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="3" index="2" kind="news" scope="india" -->
+### HC: ‘UP using Goonda Act as tool of oppression’
+
+The Allahabad High Court Lucknow bench said Uttar Pradesh seems to be using the Goondas Act as a tool of oppression while hearing Zahid Ali’s challenge to being declared a goonda and externed from Gonda district for six months, days after it quashed Delhi University student Akriti Chaudhary’s NSA detention over Noida worker protests in April.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="3" index="3" kind="news" scope="karnataka" -->
+### 503 child labourers rescued in raids across Bengaluru
+
+Joint teams from Bengaluru City Police, Labour Department and Women and Child Development rescued 503 child labourers during surprise inspections at 5,897 locations on Saturday and registered 18 cases under child-labour and juvenile justice laws, with West Division reporting 84 rescues, East 71 and Central 63; a CCB team separately rescued 45 children from 420 locations and registered nine cases following Chief Minister D K Shivakumar’s direction after visiting Yeshwantpur APMC yard.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="3" index="4" kind="news" scope="india" -->
+### NIA secures warrant for LeT’s Hafiz Saeed
+
+The NIA secured a second non-bailable warrant in two months against Lashkar-e-Taiba founder Hafiz Saeed, a designated terrorist under BNSS Section 75, as a Jammu Special Court issued the NBW on September 8 in a case linked to Mohammad Naqeeb Bhat’s arrest at Pandach near Srinagar with a China-made grenade and 15 live rounds recovered.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="3" index="5" kind="news" scope="karnataka" -->
+### Govt school hours may be changed to avoid B’luru traffic
+
+School Education Minister Madhu Bangarappa said he will discuss revising Bengaluru government school timings after teachers reported needing to leave 1.5 hours early yet spending about an hour in traffic to reach schools running 10.30 am–4.30 pm, while private schools operate 8.45 am–3.45 pm; teachers suggested 8.30 am–3.30 pm and Bangarappa said the government is also considering private unaided school staff for State Best Teachers awards.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="3" index="6" kind="news" scope="karnataka" -->
+### 90% of kidnapping cases reported in B’luru false
+
+Data accessed by DH showed about 90% of kidnapping and abduction cases in Bengaluru between 2022 and 2025 were false, including 91.66% in 2022, 86.18% in 2025 and 47.99% in 2026 till August, largely from elopement complaints families later drop; Commissioner Seemant Kumar Singh said minors who elope must be treated as kidnaps and many cases end false when couples return, contributing to low conviction as victims and complainants turn hostile.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="3" index="7" kind="news" scope="karnataka" -->
+### Proposed ring roads get ‘wider’ development push
+
+The Karnataka government will open a four-km-wide development corridor along proposed ring roads in 167 Tier-2 and Tier-3 cities under its Road Network Grid Plan, treating two km on either side as an Impact Zone permitting residential townships, commercial, logistics, educational and tourism projects among others; Chief Minister D K Shivakumar said a new road grid is being formed for mobility, covering cities including Belagavi, Ballari, Chitradurga, Badami, Gauribidanur, Belthangady and Shikaripura.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="3" index="8" kind="news" scope="karnataka" -->
+### Fest rush chokes B’luru-Mysuru toll plazas
+
+Gowri-Ganesha festival weekend traffic toward Mysuru caused kilometre-long queues at Kaniminike toll plaza in Bengaluru South taluk and Sheshagirihalli toll plaza in Ramanagara taluk on Saturday despite FASTag and seven to eight gates at each plaza.
+<!-- /npd:article -->
+
+---
+
+## Page 4
+
+<!-- npd:article page="4" index="1" kind="news" scope="karnataka" -->
+### Being a woman, living in a world of fear
+
+Globally one in three women has experienced physical or sexual violence per UN estimates, and India reported over 4 lakh crimes against women in 2024—over 1,200 daily per NCRB—as deep-rooted patriarchy and India’s rank of 131 of 148 on the Global Gender Gap Index 2025 compound unsafe public transport, workplaces and digital spaces. A 2025 LinkedIn survey found about 70% of Indian corporate women experienced workplace harassment, with many not reporting for fear of retaliation and willing to forgo 19% of wages for safer workplaces; cybercrimes against women rose 239% between 2017 and 2022 per a Joint Parliamentary Committee report, while legal safeguards including BNS sections and the POSH Act face gaps in street-harassment coverage, police sensitisation, digital-law enforcement and low conviction rates that discourage complaints.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="4" index="2" kind="opinion" scope="india" -->
+### The AI skill students are not being taught (Opinion)
+
+A student who cannot distinguish correct from merely plausible AI output has acquired no real capability as fresher IT hiring fell from about 6 lakh in FY 2022 to 1.2 lakh in FY 2025 while employability metrics rose, leaving employers wanting judgement employers universities may not build. Safe Agentic AI adoption requires UGC/AICTE accreditation policy on where tools may accompany versus replace learning, treating agentic systems as legal objects with DPDPA Section 9 constraints for minors, and sectoral education regulation as MeitY’s November 2025 India AI Governance Guidelines delegate rulemaking while computational thinking becomes mandatory for Class 3 in 2026–27 with barely 15% AI-literate teachers.
+<!-- /npd:article -->
+
+---
+
+## Page 5
+
+*(no reportable articles)*
+
+---
+
+## Page 6
+
+<!-- npd:article page="6" index="1" kind="news" scope="coastal_karnataka" -->
+### Need for wider reach of Tulu language stressed
+
+Karnataka Tulu Sahitya Academy President Taranath Gatti Kapikad, inaugurating the Karavali Wikimedians User Group decennial celebrations in Mangaluru, said Tulu’s literary and cultural wealth confined largely to Dakshina Kannada and Udupi must reach Indian and international audiences through authentic digital documentation; Dr U B Pavanaja said Tulu Wikipedia has gathered 40,000 articles over 10 years, and Wikipedia CEO Bernadette M Meehan praised open repositories across Wikimedia platforms.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="6" index="2" kind="news" scope="mangaluru" -->
+### Sixth edition of Mangaluru Technovanza on Sept 23
+
+Mangaluru Technovanza 2026 will be held at Dr TMA Pai International Convention Centre on September 23 under the Beyond Bengaluru initiative by the Electronics, IT and BT Department and Karnataka Digital Economy Mission, expected to bring 600+ delegates, 150+ startups, 40+ global speakers, 50+ global capability centres and 20+ investors to discuss emerging technologies and the cluster’s role as Silicon Beach of India.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="6" index="3" kind="news" scope="mangaluru" -->
+### Kids make eco-friendly Ganesha idols in workshop
+
+An eco-friendly clay Ganesha idol-making workshop at Rotary Bala Bhavan, jointly organised by KSPCB Mangaluru, Canara Bank, New Mangalore Port, A J Hospital, CAMP-CO and others, drew about 125 registered children using more than 1,000 kg of clay amid restrictions on Plaster of Paris idols; KSPCB official Dr Manju Rajanna urged natural-clay idols and immersion only at designated tanks.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="6" index="4" kind="news" scope="coastal_karnataka" -->
+### Udupi’s locked overbridge leaves pedestrians stranded
+
+A foot overbridge near Udupi City Municipal Council, built for patients between Urban Primary Health Centre and the old Mother and Child Hospital, stands locked and unused with rust, weeds and blocked staircases as the hospital site changed; social activist Nityananda Olakadu and MLA Yashpal Suvarna urged repair, redesign or relocation, while Commissioner Mahantesh Hangargi said authorities may shift it as a new overbridge near MGM College is set to begin construction next week under a PPP model.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="6" index="5" kind="news" scope="coastal_karnataka" -->
+### 2 arrested for unauthorised rock blasting
+
+Manipal police arrested K Govinda Raj (40) of Inna, Karkala, and Shekhappa Chalavadi alias Chandru (28) from Halekatte, Karkala, for alleged unauthorised rock blasting on 1.54 acres of government land in Kukkipalke, Marne village, Udupi taluk on September 5 without departmental permission, registering a case under BNS Sections 288 and 3(5) and Explosives Act Section 9(b) and seizing a tractor with drilling compressor and a car.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="6" index="6" kind="news" scope="mangaluru" -->
+### 14 convicted for assault on Bhaskar Shetty murder accused
+
+Mangaluru Fast Track Court convicted 14 persons for the 2017 attempt to murder undertrials Navneeth Shetty and Niranjan Bhat inside district prison during the Bhaskar Shetty murder case, with quantum of punishment to be pronounced on September 16; prosecution alleged the accused assaulted the two, struck Shetty with a steel drum and carrom board, and demanded Rs 5 lakh while threatening them to confess to Bhaskar Shetty’s murder.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="6" index="7" kind="news" scope="coastal_karnataka" -->
+### Protest over insult to Kharge
+
+Former minister Jayaprakash Hegde at a Udupi District Congress black-badge protest near Gandhi statue at Ajjarkadu accused the Uttarakhand BJP government of insulting constitutional values by allegedly ordering purification of the stage where AICC president Mallikarjun Kharge spoke, while former minister Vinay Kumar Sorake said the BJP undermines constitutional principles through untouchability; the protest also opposed an FIR against Rahul Gandhi over his protest against the incident.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="6" index="8" kind="news" scope="coastal_karnataka" -->
+### Ivan seeks fact-finding panel on K’rangan report’s impact
+
+MLC Ivan D’Souza urged Karnataka MPs to press the Centre for a fact-finding committee on the Kasturirangan Committee report’s impact before any decision, saying the state rejected draft notifications six times, and announced a stakeholders’ meeting in Dakshina Kannada and Udupi within a week ahead of the September 21–23 legislature special session; he also said CM D K Shivakumar will meet ruling and Opposition MLAs on September 18 on coastal employment proposals including CRZ relaxation and demanded Mangalore University conduct direct students’ council elections per government circular.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="6" index="9" kind="news" scope="mangaluru" -->
+### CAMPCO to expand business operations countrywide
+
+CAMPCO president S R Satishchandra told the cooperative’s 52nd annual general body meeting at Adyar Garden that it will expand procurement and marketing nationally through agreements with cooperative societies in various states, approved a 14% dividend for arecanut-growing members, and plans an international arecanut conference in Mangaluru in January 2027 plus an arecanut export unit serving markets including Dubai and New Delhi while procuring jackfruit, cashew, cocoa, rubber and black pepper.
+<!-- /npd:article -->
+
+---
+
+## Page 7
+
+<!-- npd:article page="7" index="1" kind="news" scope="international" -->
+### BRICS meet calls for max restraint in West Asia
+
+Continuing coverage of the New Delhi Declaration, BRICS encouraged dialogue and diplomacy for lasting West Asia peace, stressed maintaining global trade and energy flows under international law, expressed concern over ongoing conflicts and nuclear danger without directly naming Russia’s Ukraine war, and called for early implementation of UN resolutions on a West Asia zone free of nuclear weapons and other WMD. Uncertainty over consensus had loomed after May and foreign-ministers’ meetings failed to adopt a joint document amid Iran–UAE clashes, but New Delhi worked with Russia and Egypt in back-channel talks to bridge Iran’s differences with Saudi Arabia and the UAE.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="7" index="2" kind="news" scope="karnataka" -->
+### ED raids: ‘I know who complained about me’
+
+Public Works Minister Satish Jarkiholi said he knows who complained against him leading to ED raids, told Chief Minister D K Shivakumar the complainant’s identity without confirming if the person is from Congress, and denied overseas investments while noting ED statements used ‘suspected’ and ‘allegations’; BJP state president B Y Vijayendra suggested internal Congress differences over the 2028 chief ministerial race may have ‘trapped’ Satish, saying the BJP had no role in the raids.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="7" index="3" kind="news" scope="karnataka" -->
+### Shettar calls on Lakhan, Ramesh Jarkiholi
+
+Former chief minister and Belagavi BJP MP Jagadish Shettar on Saturday met MLC Lakhan Jarkiholi and MLA Ramesh Jarkiholi in Gokak amid ED raids on their brother Satish Jarkiholi, discussing state politics, local body elections and the raids; BJP MLA Balachandra Jarkiholi also visited Satish’s raided Gokak house, saying the family stands united despite political differences.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="7" index="4" kind="news" scope="karnataka" -->
+### Surprise check flags lapses at Bengaluru eco lab, probe ordered
+
+Forest Minister Ramalinga Reddy ordered a comprehensive probe into Bengaluru Analytics and Research Laboratory Private Limited after a surprise inspection found only one of three permitted analysts present, expired KSPCB consent from 2025, laboratory waste discharged into an open pit, and discrepancies in charges and noise-level readings versus CPCB rates; he directed KSPCB to inspect all nearly 50 environmental sample-analysis laboratories across Karnataka.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="7" index="5" kind="news" scope="karnataka" -->
+### State medical colleges to adopt rural health centres
+
+The government directed all government and private medical colleges to adopt one taluk hospital, one community health centre and one primary health centre each under the Chief Minister’s 100-day programme, deploying specialists and residents on rotational schedules while the Health Department provides infrastructure, diagnostics, medicines and ambulance support to reduce tertiary referrals and improve rural facility use.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="7" index="6" kind="news" scope="karnataka" -->
+### Mines amalgamation: NGO files contempt petition
+
+Samaj Parivarthana Samudaya filed a Supreme Court contempt petition against chief secretary Shalini Rajneesh and senior officials alleging amalgamation of five cancelled ‘C’ category mine blocks with ‘B’ and ‘A1’ leases and virgin forest in violation of apex court orders, and separately sought acceptance of Justice Sudershan Reddy’s recommendation to limit iron ore production in four Karnataka districts to 20 million tonnes per year for intergenerational equity over 75 years.
+<!-- /npd:article -->
+
+---
+
+## Page 8
+
+<!-- npd:article page="8" index="1" kind="news" scope="karnataka" -->
+### Can Cabinet panel take school fees’ bull run by the horns?
+
+A Cabinet sub-committee on students’ issues includes regulating private-institution fees among its terms of reference, but Karnataka lacks a dedicated fee-regulation committee and courts have struck down rigid fee-fixing, including the 2023 Dharwad bench ruling against section 48 of the Karnataka Education Act for unaided schools, an order the government has appealed. Private school associations accept regulation of fees above 20% excess but reject fee formulas, while parents’ groups cite Tamil Nadu’s judge-headed commission model and Minister Madhu Bangarappa said legal issues must be resolved; CM D K Shivakumar warned institutions charging over Rs 50,000 annually to adopt village government schools or face fee caps.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="8" index="2" kind="news" scope="karnataka" -->
+### Nominations open
+
+DH’s Changemakers awards, launched in 2019 and having recognised more than 150 individuals, seeks nominations for 10 trailblazers under 45 to feature in the New Year’s Day edition with docu-films; nominations close September 25, 2026.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="8" index="3" kind="news" scope="karnataka" -->
+### Anti-SIR forum to launch campaign in state from Sept 22
+
+Civil society groups opposing Karnataka’s Special Intensive Revision of electoral rolls announced a study of 100 polling booths and protests at Jantar Mantar on October 1–2, with actor Prakash Raj alleging voters marked shifted or absent are forced into Form 6 rather than Form 8 address updates; the forum claimed over 1.08 crore voters were flagged or removed and about 66 lakh shifted voters wrongly categorised, demanding SIR be scrapped, commissioner resignations and legislature discussion during the September 21 special session.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="8" index="4" kind="news" scope="karnataka" -->
+### Gubbi RFO, camp watcher held in bribery case
+
+Lokayukta arrested Gubbi range forest officer Satishchandra K S and camp watcher Shoukat after contractor B J Shivaraj alleged the RFO demanded a 30% cut or Rs 5 lakh to allow trench-digging and sapling work and Shoukat was caught taking Rs 2 lakh at the RFO office on September 11 following a trap.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="8" index="5" kind="news" scope="karnataka" -->
+### Vande Mataram: BJP march on Sept 15 opposing govt decision
+
+BJP state president B Y Vijayendra said the party will hold a five-day foot march across all 224 Assembly constituencies from September 15 protesting the Congress government’s decision to limit Vande Mataram to two stanzas at official events, submitting petitions at tahsildar and deputy commissioner offices demanding withdrawal of what he called an appeasement move contrary to the Centre’s six-stanza policy.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="8" index="6" kind="news" scope="india" -->
+### Farmers’ alliance seeks statute on seed rights
+
+Bharat Beej Swaraj Manch urged legislation ensuring farmers’ natural seed rights are not subordinate to breeders’ rights under the PPV&FR Act, a month after the Supreme Court in Kavita Kuruganti vs PepsiCo India agreed with the Delhi High Court that farmers claiming protection under the Act may do so while PepsiCo retains legal remedies if its registered potato variety rights are infringed.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="8" index="7" kind="news" scope="karnataka" -->
+### Four student teams, 15 startups win C-CAMP bio entrepreneurship contest
+
+Fifteen startups and four student teams won the ninth C-CAMP National Bio Entrepreneurship Competition 2026 from 25 finalists shortlisted from 74 pre-finalists and over 3,200 registrations nationwide, sharing Rs 35 crore-plus in cash and investment for startups and Rs 4 lakh for student teams; winning projects spanned cancer pathology, quantum kidney screening, bone regeneration and affordable insulin pumps among others.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="8" index="8" kind="news" scope="karnataka" -->
+### Varsities told to issue physical marks cards from this academic year
+
+Higher Education Minister Basavaraj Rayareddi instructed state university vice-chancellors at a KSHEC general council meeting to issue physical marks cards alongside digital certificates from the current academic year after growing demand from students, employers and foreign universities citing difficulty validating unattested digital certificates; a committee will recommend security features within a week.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="8" index="9" kind="news" scope="karnataka" -->
+### FIR on 2 ex-BJP MLAs, 20 workers for protest sans permission
+
+Ballari rural police registered an FIR against former BJP MLAs G Somashekar Reddy, M P Renukacharya and 20 others for violating prohibitory orders during the Raichur-Ballari padayatra by blocking Ballari-Hosapete NH 67 and Ballari-Gutti bypass roads after Palike staff removed flags and posters put up beyond permitted limits.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="8" index="10" kind="news" scope="karnataka" -->
+### Almatti dam full, water for canals from Sept 14
+
+Almatti dam in Bagalkot district filled to 519.60 metres with 123.081 tmcft storage and 6,862 cusec inflow on Saturday, with canal water releases scheduled from September 14 to November 10 in a staggered manner.
+<!-- /npd:article -->
+
+---
+
+## Page 9
+
+<!-- npd:article page="9" index="1" kind="news" scope="india" -->
+### Maharashtra: ST discontent wells up during Ganeshotsav
+
+Scheduled Tribe grievances over Forest Rights Act implementation, hostel conditions, PESA appointments and Dhangar ST inclusion demands persist after the 2018 Nashik-Mumbai farmers’ march, with recent snakebite deaths of three tribal ashram hostel girls in Gadchiroli and a fever death in Palghar intensifying protests Rahul Gandhi amplified; the Fadnavis government formed a high-level recruitment review committee after Pune and Nashik agitations, a 17-day Manjari hostel fast ending after Tribal Development Minister Ashok Uike’s assurances, and Sakal Adivasi Vidyarthi Andolan Kruti Samiti planning a September 15–20 Nashik-Mumbai march during Ganeshotsav.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="9" index="2" kind="news" scope="india" -->
+### BRICS condemns Pahalgam terror attack in unison
+
+The BRICS New Delhi Declaration adopted Saturday strongly condemned the April 2025 Pahalgam terror attack that killed 26 people, mainly tourists, called for zero tolerance toward cross-border terrorism and accountability for perpetrators and sponsors, urged expeditious finalisation of the UN Comprehensive Convention on International Terrorism, and welcomed BRICS Counter-Terrorism Working Group activities; BJP spokesperson Pradeep Bhandari called it a significant diplomatic win for India.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="9" index="3" kind="news" scope="india" -->
+### RBI rejects Tata Sons’ deregistration attempt; mandatory listing looms
+
+The RBI rejected Tata Sons’ March 2024 application to surrender its core investment company registration in a Saturday letter, meaning it remains an Upper Layer NBFC required to list after being classified in September 2022 with an original September 30, 2025 deadline; Tata Sons had repaid over Rs 21,000 crore of debt in 2024 seeking to avoid listing, but assets well above the Rs 1 lakh crore threshold make exemption difficult and a public listing would subject the Tata Group holding company to enhanced disclosure and shareholder scrutiny.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="9" index="4" kind="news" scope="india" -->
+### Ahead of Bengal bypolls, EC meets rival TMC factions
+
+Mamata Banerjee’s and Ritabrata Banerjee’s Trinamool Congress factions met the Election Commission on Saturday over competing claims to the party name and symbol ahead of Nandigram and Rejinagar Assembly bypoll nominations ending September 16, with sources indicating the EC may freeze the symbol as in the Shiv Sena split; Ritabrata sought a decision before nomination day while the Mamata faction said there is no dispute, only ‘traitors’ who won on TMC tickets five months ago.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="9" index="5" kind="news" scope="india" -->
+### Ex-U’khand CM Rawat quits Cong posts after ED raids aide
+
+Former Uttarakhand chief minister Harish Rawat resigned as permanent invitee to the Congress Working Committee and member of the Uttarakhand Congress Executive Committee after an ED raid on his personal assistant’s Dehradun residence recovered cash and jewellery, saying he did not want the party weakened ahead of hill-state Assembly polls though he remains in the Congress.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="9" index="6" kind="news" scope="india" -->
+### Mayawati hints at niece Deepika’s elevation as BSP looks to Gen-Z
+
+BSP chief Mayawati, days after expelling nephew Akash Anand, hinted she may entrust niece Deepika Anand with party responsibilities based on integrity and competence if brother Anand Kumar needs assistance, ruled out giving duties to other nephew Ishan Anand, and said Gen-Z candidates would get preference in ticket distribution for upcoming Uttar Pradesh, Uttarakhand and Punjab Assembly polls.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="9" index="7" kind="news" scope="india" -->
+### Hyderabad man loses Rs 3.35 cr to investment scam
+
+Telangana Cyber Security Bureau registered a case after a man reportedly lost Rs 3.35 crore over about 55 days to a fraudster who contacted him via a dating app, built trust on WhatsApp, and lured him into a fake Meta-related investment app showing apparent profits before demanding more money when he tried to withdraw, citing a lowered credit score.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="9" index="8" kind="news" scope="india" -->
+### From ‘Nitishpur’ to ‘JD (Nitish)’, colleagues & allies find ways to pay tribute to leader
+
+JD(U) working president Sanjay Jha proposed renaming Janata Dal (United) as Janata Dal (Nitish), while HAM president Santosh Suman suggested renaming Nitish Kumar’s birthplace Bakhtiyarpur as ‘Nitishpur’; senior minister Shrawan Kumar and LJP(R) president Chirag Paswan backed the tributes, though Jan Suraaj Party founder Prashant Kishor said the party is controlled by Amit Shah appointees serving BJP interests.
+<!-- /npd:article -->
+
+---
+
+## Page 10
+
+<!-- npd:article page="10" index="1" kind="opinion" scope="international" -->
+### Germany’s far-right movement is no longer on the fringe (Opinion)
+
+Alternative for Germany won about 44% and 39 of 83 seats in Saxony-Anhalt state elections, more than doubling its prior support while Chancellor Friedrich Merz’s CDU fell to 17.2% and 15 seats with about 78% turnout—the AfD’s best result though three seats short of a majority. The outcome pressures Merz ahead of Berlin and Mecklenburg-Western Pomerania polls, emboldens Europe’s far right, and raises questions about sustaining the political firewall isolating the AfD as it leads national polls at about 28% with policies on migration, energy, Ukraine and Russia complicating European integration and ReArm Europe defence plans.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="10" index="2" kind="news" scope="international" -->
+### Saudi Arabia shuts down pipeline as Houthis seize island
+
+Saudi Arabia shut its East-West oil pipeline as a precaution after drone attacks it blamed on drones from Iraq, while Yemeni Houthis seized Mayun island near the Bab el-Mandeb strait; Iraqi Prime Minister Ali al-Zaidi dismissed the Maysan province operations commander after determining attacks on Saudi Arabia launched from there, and US President Donald Trump said Iran was probably responsible while claiming the Houthis contacted Washington not wanting to fight the US.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="10" index="3" kind="news" scope="india" -->
+### US finalises levies on solar cell imports from India
+
+The US Department of Commerce on Friday finalised anti-dumping margins of 123.04% for Indian producers, 94.36% for Indonesia and 65.43% for Laos, and countervailing duty rates of 126.09% for India, 73.2–173.7% for Indonesia and 82.03–153.67% for Laos on crystalline silicon photovoltaic cells, following complaints of unfair subsidies harming American solar manufacturing; the US International Trade Commission will decide by October 14 whether to issue duty orders by November 2 or terminate the probe.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="10" index="4" kind="news" scope="international" -->
+### Trump says unified Ireland would be ‘fantastic’
+
+US President Donald Trump told Irish Prime Minister Micheál Martin in Dublin during a golf-tournament visit that reunification of the Republic of Ireland with Northern Ireland would be fantastic and might as well happen now, though the UK would have something to say, weighing in on an issue previous American presidents typically avoided after decades of conflict that killed about 3,600 people.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="10" index="5" kind="news" scope="international" -->
+### Anthropic boss calls for slowing pace of AI development
+
+Anthropic CEO Dario Amodei called on AI firms to slow capability improvements, saying progress will still seem fast and wise use of gained time is needed, days after researcher Jacob Coxon left OpenAI accusing US AI companies of gambling with lives in the race toward self-improving systems; Amodei argued not building AI deprives benefits or cedes control to authoritarian powers while building too fast is reckless.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="10" index="6" kind="news" scope="international" -->
+### Swiss bank honours Hinduja
+
+Geneva-based private bank founded by late Srichand Parmanand Hinduja has been rebranded ARYA Banque Privée, with daughter Shanu S P Hinduja as chair, honouring his Switzerland-India bridge-building legacy and offering Swiss investors unique access to Indian equities.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="10" index="7" kind="news" scope="international" -->
+### Indian-origin woman held
+
+Anila Baby, 32, was arrested in California for allegedly killing friends Ann Mary Mathew, 35, and Anjana Hari, 35, in separate San Jose and Milpitas attacks within about 90 minutes on August 28, stabbing one and running over the other with her car; all three are Kerala-rooted friends.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="10" index="8" kind="news" scope="international" -->
+### Hindu girl goes missing in Pak
+
+A 14-year-old Hindu girl has been missing from Pakistan’s Sindh province since Wednesday, her parents making a video appeal Saturday, days after two minor Hindu sisters aged 14 and 16 were allegedly abducted and forcibly converted in the same area on August 29.
+<!-- /npd:article -->
+
+---
+
+## Page 11
+
+<!-- npd:article page="11" index="1" kind="news" scope="karnataka" -->
+### Fewer ATHLETES, same EXPECTATIONS
+
+Twenty-three Karnataka sportspersons, most making their Asian Games debut, are part of India’s 500-plus contingent for the 20th Asian Games in Aichi-Nagoya, Japan, from September 19 — down from roughly 37 at Hangzhou four years ago. Medal hopes include pole-vault record holder Sindhushree G, 400m hurdler Yashas P, relay runners Unnathi Aiyappa, Sneha SS and Poovamma MR, Mangaluru shuttler Ayush Shetty, golfers Aditi Ashok and Pranavi Urs, swimmers led by Srihari Nataraj, hockey goalkeeper Mohith HS, and shooter Tilottama Sen; Deputy Chief Minister G Parameshwara announced Rs 5 lakh each for state athletes at the Commonwealth Games and Asiad, atop Rs 35 lakh, Rs 25 lakh and Rs 15 lakh for gold, silver and bronze.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="11" index="2" kind="news" scope="karnataka" -->
+### Pipers, Grandmasters reach final
+
+On a dramatic Saturday in the Global Chess League in Bengaluru, Alpine APL Pipers and Ganges Grandmasters — both on 18 points — advanced to the Sunday final after the top three teams chasing a final berth all lost to bottom-placed sides; FYERS American Gambits and CheQ Mumba Masters (15 points each) will play for third place. Gambits needed at least nine game points against Masters but fell 11-6 after Nihal Sarin squandered a winning position, while Magnus Carlsen’s Pipers lost 11-6 to Triveni Continental Kings and Grandmasters lost 9-7 to PBG Alaskan Knights despite needing only one game point to qualify.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="11" index="3" kind="news" scope="india" -->
+### HI president strips DG of all powers
+
+Hockey India president Dilip Tirkey served a show-cause notice to Director General Cdr RK Srivastava on Saturday, stripping him of all powers with immediate effect to maintain “discipline, accountability and the smooth functioning of Hockey India.” The legal notice directed Srivastava not to exercise any authority on behalf of HI pending further decision under HI bye-laws and to hand over operational charge, records, credentials, assets and pending matters to designated office bearers.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="11" index="4" kind="news" scope="karnataka" -->
+### City's Poojita shifts into winning gear
+
+Bengaluru’s Poojita Anil Kumar won the women’s Apache RTR 200 one-make championship race (5 laps) in 11:14.009 as round two of the MRF Indian National Racing Challenge 2W opened at Madras International Circuit in Chennai on Saturday. Sarthak Chavan (Super Sport 301-400cc), Mohamed Mikail (Pro-Stock 200cc) and Kabilesh R Krishnan (Super Stock 301-400cc) also took race wins on the opening day.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="11" index="5" kind="news" scope="karnataka" -->
+### Srinath's delicate balancing act of coaching two sides
+
+GM Srinath Narayanan, coach of FYERS American Gambits at the Bengaluru Global Chess League, will switch to India’s national team at the Chess Olympiad in Samarkand from September 16, working with Arjun Erigaisi, R Praggnanandhaa, Nihal Sarin, D Gukesh and Vidit Gujrathi after coaching an international Gambits squad that includes Uzbek icon Javokhir Sindarov. Srinath said he and Sindarov maintain clear boundaries on personal chess matters while functioning as one unit, ahead of Sindarov leading Uzbekistan and later facing Gukesh in the World Chess Championship.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="11" index="6" kind="news" scope="karnataka" -->
+### Rusty SC Bengaluru start on winning note
+
+Former champions SC Bengaluru opened their KSFA Super Division campaign with a 2-0 win over ASC FC at the BFS on Saturday, Ngmring Kampuinamei scoring in the first minute and Kangbi John in the 88th. MEG & Centre FC beat HAL FC 4-3 and Bangalore City drew 1-1 with Rebels FC in other results.
+<!-- /npd:article -->
+
+---
+
+## Page 12
+
+<!-- npd:article page="12" index="1" kind="news" scope="india" -->
+### India eye record eighth title
+
+Seven-time champions India will look to Shafali Verma (168 runs, two fifties, tournament’s leading scorer) and Deepti Sharma (11 wickets, joint top with Chamari Athapaththu) when they face Sri Lanka in the Women’s T20 Asia Cup final in Dubai on Sunday. Harmanpreet Kaur’s side remain wary after Sri Lanka’s eight-wicket win in the 2024 final and their semifinal recovery from 5/2 and 33/4 to chase 131 against Pakistan, while India’s fielding concerns persist with nine dropped catches in four matches.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="12" index="2" kind="news" scope="international" -->
+### England complete 3-0 sweep of Pak
+
+England beat Pakistan by eight wickets at Edgbaston on Saturday to seal a 3-0 Test series sweep, chasing 130 after losing both openers in the first over to Mohammad Abbas. Joe Root was unbeaten on 62 and Jordan Cox 59 not out, though England had floundered on Friday when debutant Razaullah raced to 81 off 63 balls with nine sixes and added 121 for the ninth wicket with Abbas (42); Pakistan had already lost the first two Tests by an innings and 103 runs and by 194 runs, sacked coaches Sarfaraz Ahmed and Umar Gul, and sent seven players home after Lord’s.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="12" index="3" kind="news" scope="india" -->
+### India brace for tricky Afg test
+
+India face a selection dilemma between Vaibhav Sooryavanshi’s aggression and Sanju Samson’s experience in the first T20I against Afghanistan in New Delhi on Sunday, with both possibly playing if Ishan Kishan is ruled out after a back scare. Shreyas Iyer’s side, preparing for the Asian Games, will test themselves against Rashid Khan, Noor Ahmed and Mujeeb ur Rahman in a three-match series where India lead the bilateral T20I head-to-head 8-0 with one no-result in nine meetings.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="12" index="4" kind="news" scope="india" -->
+### Amount of cricket the main reason for injuries: Iyer
+
+India T20I captain Shreyas Iyer said he avoids burdening players with rigid roles, arguing that continuous high-intensity cricket makes injuries inevitable rather than deliberate, and that backups must be ready when combinations change. Ahead of the Afghanistan T20I, he welcomed Jasprit Bumrah’s return from injury and called having Sooryavanshi, Samson and Abhishek Sharma in the squad a luxury for the opening slot.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="12" index="5" kind="news" scope="india" -->
+### Wushu player alleges unfair treatment, harassment
+
+Wushu player Divyanshi Choudhary, dropped from the Asian Games squad on medical grounds, alleged physical and mental harassment by the national federation on Saturday, claiming she was replaced by two-time Asian Games medallist Naorem Roshibina Devi despite doctor’s clearance. The Wushu Association of India said an MRI showed a partial high-grade ACL tear with large effusion after she reported injury at the 2026 SCO Wushu Sanda Championship in Hubei, China, and during August training.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="12" index="6" kind="news" scope="karnataka" -->
+### Ira breaks national record to take gold
+
+Trio World School’s Ira Umashanker shattered the national record in the girls’ 200m breaststroke with 3:01.78 to win gold at the CISCE National Games & Sports Swimming Championship at Basavangudi Aquatic Centre in Bengaluru, earning direct qualification for the SGFI National Championship.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="12" index="7" kind="news" scope="india" -->
+### Baruah enters final; Tanvi, Prannoy bow out
+
+Third seed Isharani Baruah beat compatriot Rakshitha Sree Santhosh Ramraj 21-10, 21-18 in 39 minutes to reach the Vietnam Open Super 100 women’s singles final in Ho Chi Minh City, while top seed Tanvi Sharma lost 19-21, 20-22 to Thailand’s Sarunrak Vitidsarn and H S Prannoy fell 13-21, 8-21 to Singapore’s Jia Heng Teh in the semifinals.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="12" index="8" kind="news" scope="karnataka" -->
+### K'taka women take silver
+
+The Karnataka women’s water polo team won silver after losing 15-6 to Keralam in the final of the 52nd Junior National Aquatic Championships in Indore on Saturday, while the boys’ team finished fourth.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="12" index="9" kind="news" scope="india" -->
+### Anahat makes strong start
+
+Women’s world No. 20 Anahat Singh beat world No. 16 Farida Mohamed of Egypt 13-11, 3-11, 11-7, 11-7 in the opening round of the USD 242,000 Qatar Classic in New Delhi and will next face Belgium’s world No. 9 Tinne Gilis.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="12" index="10" kind="news" scope="international" -->
+### Sevilla rub salt into Valencia wounds with 1-0 win
+
+Sevilla midfielder Juan Iglesias scored in the 81st minute to beat rock-bottom Valencia 1-0 in La Liga on Friday, Valencia’s fourth defeat in five games after Barcelona midfielder Rodri was caught on camera calling them “very weak” during last weekend’s 5-0 loss. Racing Santander beat Deportivo Alaves 2-1 and Espanyol defeated Osasuna 2-0 elsewhere.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="12" index="11" kind="news" scope="international" -->
+### Hull hold free-flowing Chelsea
+
+Hull City held Chelsea 2-2 at Stamford Bridge as Liverpool drew 0-0 with Fulham in Premier League action on Saturday. Morgan Rogers and Joao Pedro scored for Chelsea while Mohamed Belloumi struck twice for Hull; under Xabi Alonso, Chelsea have scored 16 and conceded 12 in five top-flight games against top opposition.
+<!-- /npd:article -->
+
+---
+
+## Page 13
+
+<!-- npd:article page="13" index="1" kind="news" scope="karnataka" -->
+### Fans get close with BFC stars
+
+Bengaluru FC fans interacted with captain Sunil Chhetri, goalkeeper Gurpreet Singh Sandhu, Ryan Williams and coach Pep Munoz at the club’s CSE training ground ahead of the new season, with Chhetri promising the team would fight for everything and make supporters proud.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="13" index="2" kind="news" scope="karnataka" -->
+### Ashique finds his wings again with Blues
+
+Kerala winger Ashique Kuruniyan, 29, says returning to Bengaluru FC after injury-hit years at Mohun Bagan — including an ACL tear playing for India against Iraq in September 2023 — has restored his joy under coach Pep Munoz ahead of friendlies against Panama, Brazil and Uruguay. Head coaches Renedy Singh and Munoz have kept him as the first choice on the left flank as he prepares to feature again for India.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="13" index="3" kind="news" scope="sports" -->
+### Red-hot Shelton downs Tiafoe
+
+Eighth seed Ben Shelton beat compatriot Frances Tiafoe 4-6, 6-3, 6-3, 7-5 with 20 aces at the US Open on Friday to reach his first Grand Slam final against Alexander Zverev, who defeated Karen Khachanov 6-3, 7-6 (9/7), 7-6 (8/6). Shelton, who eliminated defending champion Carlos Alcaraz in the quarterfinals, dedicated the win to his late grandmother and could become the first American men’s major champion since Andy Roddick in 2003.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="13" index="4" kind="news" scope="india" -->
+### Maaya-Sushkova exit
+
+India’s Maaya Rajeshwaran Revathi and Ukrainian partner Antonina Sushkova lost 6-7(2), 2-6 in the US Open junior girls’ doubles semifinals to American twins Annika and Kristina Penickova in New York.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="13" index="5" kind="news" scope="sports" -->
+### Norris snatches pole from Kimi
+
+World champion Lando Norris took pole for McLaren at the Spanish Grand Prix with a 1:31.824 lap, beating Mercedes’ 20-year-old Kimi Antonelli by 0.011 seconds at the Madring circuit in Madrid on Saturday after missing most of Friday practice for a gearbox change.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="13" index="6" kind="news" scope="sports" -->
+### Kavya wins Pune City Gold Cup
+
+M K Jadhav-trained Kavya, ridden by N S Parmer, won the Pune City Gold Cup (1600M) in 1:37.10 on Saturday as the day’s main event, beating Dream Alliance, Sovereign King and Shambala; seven other races were also run at Pune.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="13" index="7" kind="news" scope="karnataka" -->
+### Cherie Chevalier for feature
+
+K S V Prasad Raju-trained Cherie Chevalier, to be ridden by Sai Kumar, is fancied for the S N Reddy Memorial Trophy (1400M), the main Hyderabad race on Sunday with first post at 1:45 pm; Day’s best pick is Teak.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="13" index="8" kind="news" scope="sports" -->
+### Jaandaar for main event
+
+Pesi Shroff-trained Jaandaar, to be ridden by Vivek G, is fancied for the S A Poonawalla Million (Grade III, 1600M), the main Pune race on Sunday with first post at 1:30 pm; Day’s best pick is Jaandaar.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="13" index="9" kind="news" scope="india" -->
+### Asian Cadet from Nov 20
+
+The Asian Cadet Cup fencing championship will be held in Chennai from November 20-23, featuring more than 500 athletes, coaches and officials from over 30 countries across Epee, Foil and Sabre, organised by the Fencing Association of India.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="13" index="10" kind="news" scope="international" -->
+### Duplantis, Ingebrigtsen hit jackpot with Ultimate performances
+
+Armand Duplantis cleared 6.20m and Jakob Ingebrigtsen won the 5,000m in 12:59.24 on the opening day of the inaugural Ultimate Championship in Budapest on Friday, each earning $150,000 from the $10 million prize pool across 28 disciplines featuring Olympic, world and Diamond League champions.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="13" index="11" kind="news" scope="india" -->
+### Supriya treble takes India into final
+
+Drag-flicker Supriya scored a hat-trick from penalty corners as defending champions India beat South Korea 5-1 in the first semifinal of the AHF Junior Asia Cup in Moqi, China, on Saturday, with Madhu Sidar opening the scoring in the 13th minute.
+<!-- /npd:article -->
+
+---
+
+## Page 14
+
+*(no reportable articles)*
+
+---
+
+## Page 15
+
+<!-- npd:article page="15" index="1" kind="opinion" scope="india" -->
+### Persons of forest, prisoners of men: How orangutans turn up in India (Opinion)
+
+Five baby orangutans seized in Odisha highlight illegal wildlife trade from their native Malaysia and Indonesia range, likely driven by demand for private exotic menageries rather than kinship with humans who share nearly 97% of their DNA. Ecologist Seshadri K S argues the infants were probably snatched from killed mothers, that India’s CITES enforcement through the Wildlife Crime Control Bureau on a Rs 13 crore budget is overstretched, and that the five orphans should be repatriated to semi-wild settings in their home range rather than kept in zoos or private rescue centres.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="15" index="2" kind="opinion" scope="india" -->
+### Police station footage: Seen and unseen (Opinion)
+
+Venkatesh Nayak contrasts recent pro-accountability judicial signals with an Allahabad High Court order upholding denial of RTI access to police-station CCTV footage under Section 8(1)(g), limiting release to courts or human rights commissions only after a complaint. He notes mandatory CCTV under the Supreme Court’s 2020 Paramvir Singh Saini directions, Karnataka Information Commission penalties of Rs 15,000-25,000 on three Kalaburagi police officers for non-compliance, and argues footage should not become a “sarkari secret” when citizens lawfully record police interactions.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="15" index="3" kind="opinion" scope="international" -->
+### BRICS raises the reform pitch (Opinion)
+
+Srikanth Kondapalli writes that the 18th BRICS Summit’s 140-paragraph New Delhi Declaration pushes multipolarity, UN/UNSC/IMF reform, and Global South leadership while treading cautiously on West Asia and omitting de-dollarisation despite nearly half of $1.1 trillion intra-BRICS trade settling in renminbi. The declaration condemned the 2025 Pahalgam attack that killed 26 people, backed the New Development Bank, and called for reliable critical-mineral supply chains amid tariff and sanctions disruptions.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="15" index="4" kind="opinion" scope="lifestyle" -->
+### And some dance just to move (Opinion)
+
+S R Ramakrishna argues dance fitness has democratised movement across Indian cities, with gym-chain memberships costing Rs 50-80 a day drawing mixed-age groups to secular, non-judgmental sessions set to pan-Indian playlists. Citing Basavanna’s jangama ideal in a modern key, he contrasts costly formal dance training with accessible hourly classes that offer community, step counts, and physical relief without guru-shishya commitment.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="15" index="5" kind="opinion" scope="other" -->
+### Information, truth and connection in the AI age (Opinion)
+
+Gopichand Katragadda responds to Yuval Noah Harari by defining information as data with sufficient context to reduce uncertainty for a given purpose, not inherently truth-bearing connection. He warns that generative AI makes fluent falsehood cheap, urges readers to verify primary sources and treat AI answers as leads, and argues societies must distinguish data, belief, and truth rather than confuse political narrative with statistical analysis.
+<!-- /npd:article -->
+
+---
+
+## Page 16
+
+<!-- npd:article page="16" index="1" kind="news" scope="lifestyle" -->
+### Mind in your hands
+
+Across urban India, exhausted professionals are turning to pottery, painting and other hands-on workshops for stress relief, with Callipottery founder Pradip and Bengaluru potter Apurva Chavan citing clay’s ego-dismantling effect and a 2026 Frontiers in Human Neuroscience scoping review linking art-making to lower cortisol — including a Drexel trial cutting average cortisol from ~17.9 to ~14.8 nmol/L in 45 minutes. Therapists and studio founders in Bengaluru, Hyderabad, Bhopal and Gurugram report reduced anxiety, new friendships, and dismantled perfectionism, while Bangalore Theatre Company’s Arjun Kabbina notes creative activity can act as a stressbuster without replacing clinical treatment.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="16" index="2" kind="news" scope="lifestyle" -->
+### The case for making things
+
+A sidebar notes that systematic reviews of craft and handmade activities — including a 2025 review of 19 craft-intervention studies and a 2024 review of 181 handmade-activity studies — associate hands-on making with better mood, lower stress, greater self-esteem, and stronger purpose. Working with clay, knitting or learning instruments demands attention and yields visible progress, challenging the brain with unfamiliar tasks in a world of passive digital consumption.
+<!-- /npd:article -->
+
+---
+
+## Page 17
+
+<!-- npd:article page="17" index="1" kind="news" scope="lifestyle" -->
+### Politics of belonging
+
+Rahul Singh reviews Aruni Kashyap’s *How To Date A Fanatic* (Fourth Estate, pp 368, Rs 599), a novel expanding his 2020 Boston Review story about Delhi University assistant professor Rohit navigating queer desire, Assam roots, and a post-2014 authoritarian shift across Delhi, Assam and Haryana’s private-university belt. Singh praises Kashyap’s poetic political portrait of urban-rural porosity, reservation politics, and claustrophobic luxury amid campus change, and calls Minti the character who most haunts the reader after the book ends.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="17" index="2" kind="news" scope="lifestyle" -->
+### Hunt for selfhood amid daily chaos
+
+Aleksandra Bogdanova reviews Herta Müller’s *Traveling on One Leg* (Aleph, pp 154, Rs 599), a semi-autobiographical novel following Romanian-German Irene’s exile, loneliness, and failed romances after leaving Nicolae Ceausescu’s dictatorship for Germany. Bogdanova highlights Müller’s non-linear style, recurring water-mirror-window imagery, and Irene’s messy search for identity without marriage, career or neat resolution.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="17" index="3" kind="news" scope="lifestyle" -->
+### A comic lens to perceive the world
+
+Anjali Chauhan reviews *The Bare Bones Book of Humour* edited by Ankit Raj Ojha (Bare Bones Pubn, Rs 199), an anthology of 24 writers from eight countries arguing humour exposes vanity, power and everyday absurdity rather than offering escape. Chauhan singles out Merlin Flower’s feminist satire *Robes and Roles* and Aparna Kalra’s *Protection*, set against Uttarakhand’s Uniform Civil Code live-in registration rules, as politically incisive examples of comedy as dissent.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="17" index="4" kind="news" scope="lifestyle" -->
+### September is a month of thresholds: these three novels turn that transitional mood into stories of reunion, warmth and longing.
+
+Speed Reads surveys three September-set novels: Rosamunde Pilcher’s *September* reuniting MacNichol family and friends in the Scottish Highlands; Carissa Orlando’s haunted-house tale *The September House*; and Donna Tartt’s 1992 campus classic *The Secret History*, whose New England autumn atmosphere frames a privileged student group’s unraveling.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="17" index="5" kind="news" scope="lifestyle" -->
+### Read of the Week
+
+The column highlights Francis Fukuyama’s political memoir tracing his break from neoconservative mentors after the 2003 Iraq invasion and 2008 financial crash, alongside his father’s civil rights work and CIA contract research in the 1980s. It frames the book as an urgent study of how the West can recover democracy amid shifts from Bush through Obama to Trump and Russia’s Ukraine invasion.
+<!-- /npd:article -->
+
+---
+
+## Page 18
+
+<!-- npd:article page="18" index="1" kind="news" scope="lifestyle" -->
+### A city of contrasts
+
+Pallabi Dey Purkayastha’s 48-hour Bhopal guide covers Upper Lake at dawn, Qudsia Begum’s 1820 Gohar Mahal, 1830 Shaukat Mahal, Shah Jahan Begum’s Taj-ul-Masajid, Bharat Bhavan’s performing arts, Chowk Bazaar street food and zardosi shopping, plus day-two trips to Sanchi Stupa, Indira Gandhi Rashtriya Manav Sangrahalaya’s tribal architecture displays, Van Vihar National Park, and a sunset boat ride before departing from Raja Bhoj Airport.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="18" index="2" kind="news" scope="international" -->
+### Revisiting the feminist icon
+
+Aisiri Amin recalls Gloria Steinem’s death at 92, tracing her Ohio childhood, two years in India on the Charles Bowles Fellowship including time at Delhi University’s Miranda House, 1963 undercover reporting on Hugh Hefner’s Playboy Club, co-founding *Ms Magazine* in 1971, and landmark feminist advocacy. Amin also notes criticism that Steinem catered to educated white women, her CIA-linked Independent Research Service work, 1998 defence of Bill Clinton, evolving 2013 support for transgender people, and her 1958 sari advertisement image from the Gloria Steinem Foundation archives.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="18" index="3" kind="news" scope="international" -->
+### Courage to refuse
+
+Chintan Girish Modi profiles Ella Keidar Greenberg, imprisoned in March 2025 as the first openly transgender conscientious objector in Israel since Hamas’s October 7, 2023 attack, and Aiden Katri, who refused enlistment in 2016 citing apartheid against Palestinians. He links their “refusenik” tradition to resistance against compulsory military service and “pinkwashing,” quoting Ella’s pledge that she would tell future grandchildren she chose to resist during the genocide.
+<!-- /npd:article -->
+
+---
+
+## Page 19
+
+<!-- npd:article page="19" index="1" kind="news" scope="lifestyle" -->
+### A kadubu by any other name…
+
+Origin Story traces the sweet dumpling known as kadubu, kudumu, kozhukatta, modak and, in Goa, Mangaluru and coastal Karnataka, fried neureo or nevri, from Sanskrit *moda-ka* (“that which delights”) through Vedic honey fillings, Buddhist-period jaggery, Someshwara III’s *Manasollasa*, and global parallels such as pierogi and tangyuan. Food historian K T Achaya links modaka to medical “sweet uncooked pills” in Charaka and Sushrutha, while Barbara Gallani notes independent dumpling traditions spread through travel and trade.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="19" index="2" kind="news" scope="lifestyle" -->
+### Culinary trail across time zones
+
+Ruth Dsouza Prabhu reports that beyond Ajanta-Ellora at Chhatrapati Sambhajinagar, food now shapes travel through Dhyaana Farms’ curated farm meals, Chef Mohib Farooqui’s eight-seater Accentuate Food Lab tasting menus of nine to thirteen themed courses, street stops such as Hira Pao Bhaji and Mathura Wala, paan rituals, Jama Khan Mandi and Mustafa Biryani, and local staples including naan qalia, Aurangabad kantakki, tikiya pao, samosa rice and imarti.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="19" index="3" kind="news" scope="lifestyle" -->
+### Truth about remission
+
+Dr R Shrikanth, a Hubli hemato-oncologist, explains that leukaemia “complete remission” means no detectable disease on standard tests, not guaranteed eradication of all malignant cells, with measurable residual disease (MRD) offering earlier relapse signals. He cites 2025 AML studies showing 49.7% five-year relapse among transplant patients with detectable leukaemia stem cells versus 8.5% without, and notes newer options including targeted therapy, immunotherapy and pre-emptive azacitidine when MRD turns positive.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="19" index="4" kind="news" scope="lifestyle" -->
+### Multivitamins: Yes or no?
+
+Mythbuster examines mixed evidence on daily multivitamins, citing a 2026 Columbia University *Nature Medicine* study finding a minor biological-ageing slowdown alongside a 2024 JAMA Network Open study of 4,00,000 US adults over two decades showing no mortality benefit. It advises healthy adults to prioritise balanced food and sun exposure, follow doctor-prescribed supplementation for deficiencies, and avoid overdosing rather than taking pills “on autopilot.”
+<!-- /npd:article -->
+
+---
+
+## Page 20
+
+<!-- npd:article page="20" index="1" kind="news" scope="india" -->
+### At 90, veteran artist Gulammohammed Sheikh continues to confront violence, dogmatism and injustice, turning our everyday realities into works that speak
+
+Kavita Chowdhury profiles Gulammohammed Sheikh ahead of his 90th birthday, covering the Kolkata retrospective *Handprints/Mindprints* of over 100 prints curated by Pushpamala N, works confronting riots from 1969 Baroda to post-Babri violence and digital *Mappamundi: Troubled Terrains*, and his self-description as “artist-activist.” Sheikh quotes Kabir and Gandhi as counterpoints to normalised violence and says he fully supports the “brave” Gen Z non-violent protests at Jantar Mantar.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="20" index="2" kind="news" scope="karnataka" -->
+### The gallery that grew with the city
+
+Deepa Natarajan Lobo recounts ophthalmologist Dr Premilla Baid founding Gallery Sumukha in Bengaluru in 1996 after charity shows and early Chittrovanu Mazumdar and Kolkata artist exhibitions, moving from a family outhouse to Alliance Française and Wilson Garden in 1999. Thirty years on, Sumukha hosted artists from K G Subramanyan and Gulammohammed Sheikh to younger names, Peter Nagy-curated shows, and international fairs, with Dr Premilla urging welcoming spaces where visitors discover art without pressure to buy.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="20" index="3" kind="news" scope="lifestyle" -->
+### How lapis lazuli coloured the world
+
+Shrey Maurya’s Discover Indian Art column traces lapis lazuli from Afghanistan’s Sar-e-Sang mines — nearly the world’s sole source until around 1950 — along Silk Road trade routes into Indus Valley beadwork from 2600 BCE, Buddhist cave pigments, Persian and Indian manuscript ateliers, and European ultramarine used by Leonardo da Vinci, Vermeer and others until 19th-century synthetics. Archaeological and museum evidence shows the stone prized for colour and supposed spiritual protection across Egypt, Nepal and beyond.
+<!-- /npd:article -->
+
+---
+
+## Summary
+- Pages processed: 20
+- Articles extracted: 112
+- Pages with no reportable articles (full-page ads, notices only): 5, 14

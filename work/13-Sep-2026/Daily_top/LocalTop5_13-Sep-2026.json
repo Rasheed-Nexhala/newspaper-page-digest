@@ -1,0 +1,578 @@
+{
+  "date": "Saturday, 13 September 2026",
+  "date_slug": "13-Sep-2026",
+  "papers_scanned": [
+    {
+      "paper": "Deccan Herald",
+      "edition": "Mangaluru",
+      "path": "/Users/shazrasheed/Downloads/newspaper-page-digest/work/13-Sep-2026/Deccan_Herald/DeccanHerald_Mangaluru_13-Sep-2026_PageDigest.json",
+      "total_articles": 112
+    },
+    {
+      "paper": "News Trail",
+      "edition": "Mangaluru",
+      "path": "/Users/shazrasheed/Downloads/newspaper-page-digest/work/13-Sep-2026/News_Trail/NewsTrail_Mangaluru_13-Sep-2026_PageDigest.json",
+      "total_articles": 51
+    },
+    {
+      "paper": "The Hindu",
+      "edition": "Mangaluru",
+      "path": "/Users/shazrasheed/Downloads/newspaper-page-digest/work/13-Sep-2026/The_Hindu/TheHindu_Mangaluru_13-Sep-2026_PageDigest.json",
+      "total_articles": 114
+    },
+    {
+      "paper": "Times of India",
+      "edition": "Bengaluru",
+      "path": "/Users/shazrasheed/Downloads/newspaper-page-digest/work/13-Sep-2026/Times_Of_India/TimesOfIndia_Bengaluru_13-Sep-2026_PageDigest.json",
+      "total_articles": 133
+    }
+  ],
+  "buckets": {
+    "mangaluru": {
+      "label": "Top 5 — Mangaluru",
+      "candidate_count": 15,
+      "selected_count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "headline": "NSUI alleges violation of rules in M'luru college poll",
+          "blurb": "NSUI alleged Students' Union elections at University College, Mangalore on Friday violated state govt guidelines after ABVP-backed candidates won all 37 posts, saying NSUI learnt only on Tuesday that polls would be held Friday despite approaching the vice-chancellor, district minister and principal to follow govt orders. NSUI Dakshina Kannada convener Suhan Alva claimed the higher education secretary said elections held without following the govt order would not be valid and that the V-C had assured polls would not proceed; NSUI said it would condemn the election and demand it be declared invalid, while ABVP's Suvith Shetty said the poll was peaceful.",
+          "kind": "news",
+          "scope": "mangaluru",
+          "sources": [
+            {
+              "paper": "Times of India",
+              "edition": "Bengaluru",
+              "page": 6,
+              "index": 8
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "Follow-up drug screening: 38 of 50 students test negative",
+          "blurb": "A follow-up drug screening on Thursday found 38 of 50 college students who had initially tested positive now negative after counselling, out of 8,310 students tested from 150 colleges this year where 98 had first tested positive. Authorities said more than 75% of re-tested students reported stopping drug use and advised continued monitoring for the remaining 12.",
+          "kind": "news",
+          "scope": "mangaluru",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 3,
+              "index": 5
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "14 convicted for assault on Bhaskar Shetty murder accused",
+          "blurb": "Mangaluru Fast Track Court convicted 14 persons for the 2017 attempt to murder undertrials Navneeth Shetty and Niranjan Bhat inside district prison during the Bhaskar Shetty murder case, with quantum of punishment to be pronounced on September 16; prosecution alleged the accused assaulted the two, struck Shetty with a steel drum and carrom board, and demanded Rs 5 lakh while threatening them to confess to Bhaskar Shetty’s murder.",
+          "kind": "news",
+          "scope": "mangaluru",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 6,
+              "index": 6
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "Vande Bharat to Bengaluru should leave in morning, say stakeholders",
+          "blurb": "Patrons and associations in coastal Karnataka hope the South Western Railway runtime trial of the Vande Bharat Express between Bengaluru and Mangaluru—leaving Bengaluru in the morning and returning at night—will not set the regular service schedule, saying the train should start from Mangaluru early and return by night for people with official and business work in the State capital. G. Hanumanth Kamath of Pashchima Karavali Railway Yatri Abhivriddhi Samithi and KCCI president P.B. Ahmed Mudassar said a morning departure around 6 a.m. would mirror the popular Mangaluru–Thiruvananthapuram Vande Bharat pattern; Thursday's trial covered Yeshwantpur–Mangaluru Junction in 7.05 hours and the return in 6.49 hours, with SWR sources telling The Hindu the target is to complete both directions within six hours by speeding up sections where authorised sectional speed is 110 kmph.",
+          "kind": "news",
+          "scope": "mangaluru",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 3,
+              "index": 1
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "Mangaluru Technovanza on Sep. 23",
+          "blurb": "Mangaluru Technovanza 2026 will be held at Dr TMA Pai International Convention Centre on September 23 under the Beyond Bengaluru initiative by the Electronics, IT and BT Department and Karnataka Digital Economy Mission, expected to bring 600+ delegates, 150+ startups, 40+ global speakers, 50+ global capability centres and 20+ investors to discuss emerging technologies and the cluster’s role as Silicon Beach of India.",
+          "kind": "news",
+          "scope": "mangaluru",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 6,
+              "index": 2
+            },
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 6,
+              "index": 2
+            }
+          ]
+        }
+      ]
+    },
+    "coastal_karnataka": {
+      "label": "Top 5 — Coastal Karnataka",
+      "candidate_count": 10,
+      "selected_count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "headline": "MLC seeks ₹5,000-crore special package for coastal Karnataka at Cabinet meeting",
+          "blurb": "MLC and State Congress working president Manjunath Bhandary said he had sought a ₹5,000-crore special economic package for coastal Karnataka to be included in the September 18 Mangaluru Cabinet meeting agenda to improve infrastructure, fisheries, tourism, and higher education and protect coastal culture, and that Chief Minister D.K. Shivakumar responded positively and asked the Chief Secretary to include prominent demands. His memorandum also sought an advanced skill development centre, a permanent solution to coastal erosion, upgrading the Brahmavara Agriculture/Horticulture Diploma College as an Agricultural University using 342 acres and ₹20 crore infrastructure, upgrading Mangaluru Fisheries College as a fisheries university, establishing a Karnataka Fisheries Council, developing a modern Aqua Park, raising compensation for fishermen's families who die while fishing from ₹5 lakh to ₹10 lakh, completing the urban ecopark at Pilikula, developing a Karavali religious tourism circuit, and building a coastal parallel road from Talapady to Byndoor.",
+          "kind": "news",
+          "scope": "coastal_karnataka",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 3,
+              "index": 3
+            },
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 3,
+              "index": 2
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "Udupi’s locked overbridge leaves pedestrians stranded",
+          "blurb": "A foot overbridge near Udupi City Municipal Council, built for patients between Urban Primary Health Centre and the old Mother and Child Hospital, stands locked and unused with rust, weeds and blocked staircases as the hospital site changed; social activist Nityananda Olakadu and MLA Yashpal Suvarna urged repair, redesign or relocation, while Commissioner Mahantesh Hangargi said authorities may shift it as a new overbridge near MGM College is set to begin construction next week under a PPP model.",
+          "kind": "news",
+          "scope": "coastal_karnataka",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 6,
+              "index": 4
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "2 arrested for unauthorised rock blasting",
+          "blurb": "Manipal police arrested K Govinda Raj (40) of Inna, Karkala, and Shekhappa Chalavadi alias Chandru (28) from Halekatte, Karkala, for alleged unauthorised rock blasting on 1.54 acres of government land in Kukkipalke, Marne village, Udupi taluk on September 5 without departmental permission, registering a case under BNS Sections 288 and 3(5) and Explosives Act Section 9(b) and seizing a tractor with drilling compressor and a car.",
+          "kind": "news",
+          "scope": "coastal_karnataka",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 6,
+              "index": 5
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "Ivan seeks fact-finding panel on K’rangan report’s impact",
+          "blurb": "MLC Ivan D’Souza urged Karnataka MPs to press the Centre for a fact-finding committee on the Kasturirangan Committee report’s impact before any decision, saying the state rejected draft notifications six times, and announced a stakeholders’ meeting in Dakshina Kannada and Udupi within a week ahead of the September 21–23 legislature special session; he also said CM D K Shivakumar will meet ruling and Opposition MLAs on September 18 on coastal employment proposals including CRZ relaxation and demanded Mangalore University conduct direct students’ council elections per government circular.",
+          "kind": "news",
+          "scope": "coastal_karnataka",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 6,
+              "index": 8
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "Need for wider reach of Tulu language stressed",
+          "blurb": "Karnataka Tulu Sahitya Academy President Taranath Gatti Kapikad, inaugurating the Karavali Wikimedians User Group decennial celebrations in Mangaluru, said Tulu’s literary and cultural wealth confined largely to Dakshina Kannada and Udupi must reach Indian and international audiences through authentic digital documentation; Dr U B Pavanaja said Tulu Wikipedia has gathered 40,000 articles over 10 years, and Wikipedia CEO Bernadette M Meehan praised open repositories across Wikimedia platforms.",
+          "kind": "news",
+          "scope": "coastal_karnataka",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 6,
+              "index": 1
+            }
+          ]
+        }
+      ]
+    },
+    "karnataka": {
+      "label": "Top 5 — Karnataka",
+      "candidate_count": 100,
+      "selected_count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "headline": "Crackdown on child labour: 800 rescued in state",
+          "blurb": "A statewide police crackdown on child labour has rescued 800 children from hotels, eateries, shops, garages and other establishments after CM D K Shivakumar ordered the drive upon reportedly spotting a child labourer at Yeshwantpur APMC Yard. The operation covered nearly 17,000 premises across 962 police station limits, with Bengaluru accounting for 503 rescues followed by Vijayapura with 72.",
+          "kind": "news",
+          "scope": "karnataka",
+          "sources": [
+            {
+              "paper": "Times of India",
+              "edition": "Bengaluru",
+              "page": 3,
+              "index": 11
+            },
+            {
+              "paper": "Times of India",
+              "edition": "Bengaluru",
+              "page": 5,
+              "index": 9
+            },
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 3,
+              "index": 3
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "Opposition seeks Minister's resignation amid ED probe",
+          "blurb": "Ahead of a three-day special Legislative Assembly session from September 21 on drought, farmers' distress and the Kasturirangan report, the BJP and JD(S) are set to intensify their campaign for Public Works Minister Satish Jarkiholi's resignation after ED searches at 21 premises linked to him, his family and associates. The ED reported seizure of ₹3.3 crore in unaccounted cash and alleged bribery in PWD contract awards and undisclosed overseas investments; Leader of Opposition R. Ashok demanded Mr. Jarkiholi's immediate removal until the probe is complete, citing a strategy similar to that used against former Minister B. Nagendra in the Valmiki corporation case — both ministers belong to the Nayaka Scheduled Tribe community.",
+          "kind": "news",
+          "scope": "karnataka",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 4,
+              "index": 3
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "Surprise check flags lapses at Bengaluru eco lab, probe ordered",
+          "blurb": "Bengaluru Analytics and Research Laboratory Pvt Ltd faces scrutiny after forest, ecology and environment minister Ramalinga Reddy and senior KSPCB officials conducted a surprise inspection and found multiple irregularities, including operation without valid KSPCB consent after its establishment consent expired in 2025 despite prior MoEFCC permission stating three analysts would be employed when only one was present. Officials found no proper waste-disposal system and alleged waste was discharged into an open pit.",
+          "kind": "news",
+          "scope": "karnataka",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 7,
+              "index": 4
+            },
+            {
+              "paper": "Times of India",
+              "edition": "Bengaluru",
+              "page": 4,
+              "index": 6
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "Crackdown on child labour: 800 rescued in state",
+          "blurb": "A statewide police crackdown on child labour has rescued 800 children from hotels, eateries, shops, garages and other establishments after CM D K Shivakumar ordered the drive upon reportedly spotting a child labourer at Yeshwantpur APMC Yard. The operation covered nearly 17,000 premises across 962 police station limits, with Bengaluru accounting for 503 rescues followed by Vijayapura with 72.",
+          "kind": "news",
+          "scope": "karnataka",
+          "sources": [
+            {
+              "paper": "Times of India",
+              "edition": "Bengaluru",
+              "page": 3,
+              "index": 11
+            },
+            {
+              "paper": "Times of India",
+              "edition": "Bengaluru",
+              "page": 5,
+              "index": 9
+            },
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 3,
+              "index": 3
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "CM to hear people from regions affected by Kasturirangan report",
+          "blurb": "Chief Minister D.K. Shivakumar, who will chair a Cabinet meeting at Praja Soudha in Mangaluru from 10 a.m. on September 18, will hold public meetings in Udupi, Shivamogga, and Chikkamagaluru districts on September 18 and 19 to hear from people in areas that could be affected by the Kasturirangan Committee report, travelling by helicopter to Hebri (3 p.m. on September 18), Tirthahalli (10 a.m. on September 19), and Balehonnur (1 p.m. on September 19) before returning to Bengaluru that evening. Meanwhile, MLC Ivan D'Souza said he will interact with people affected by the report ahead of the September 21–23 special legislature session, noting that although the State government has rejected the report eight times, the Union government has been pressuring southern states to accept it and that as many as seven districts would be impacted.",
+          "kind": "news",
+          "scope": "karnataka",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 3,
+              "index": 3
+            }
+          ]
+        }
+      ]
+    },
+    "india": {
+      "label": "Top 5 — India",
+      "candidate_count": 116,
+      "selected_count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "headline": "Border peace must for better ties: Modi to Xi",
+          "blurb": "Prime Minister Narendra Modi told Chinese President Xi Jinping on the sidelines of the 18th BRICS summit in New Delhi on Saturday that peace and tranquillity in border areas remained an essential basis for bilateral relations, their third meeting since Kazan 2024 and Tianjin 2025 after the June 2020 Galwan face-off. Both leaders committed to a fair, reasonable and mutually acceptable boundary resolution from the political perspective of overall ties, noted progress in people-to-people links, and underlined need to address trade imbalance as India’s FY26 trade deficit with China hit a record $112.16 billion; India recently accepted China’s early-harvest delimitation proposal and a joint expert group after SFIO recommended a probe into Xiaomi’s India operations.",
+          "kind": "news",
+          "scope": "india",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 3,
+              "index": 1
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "BRICS condemns Pahalgam terror attack in unison",
+          "blurb": "The BRICS New Delhi Declaration adopted Saturday strongly condemned the April 2025 Pahalgam terror attack that killed 26 people, mainly tourists, called for zero tolerance toward cross-border terrorism and accountability for perpetrators and sponsors, urged expeditious finalisation of the UN Comprehensive Convention on International Terrorism, and welcomed BRICS Counter-Terrorism Working Group activities; BJP spokesperson Pradeep Bhandari called it a significant diplomatic win for India.",
+          "kind": "news",
+          "scope": "india",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 9,
+              "index": 2
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "RBI rejects Tata Sons’ deregistration attempt; mandatory listing looms",
+          "blurb": "The Reserve Bank of India has rejected Tata Sons' application to surrender its Non-Banking Finance Company licence, saying the application \"cannot be acceded to\" and asking the Tata Group holding company to prepare for an immediate public listing, putting an end to years of uncertainty. Tata Sons had applied for de-registration as it was majority-owned by charitable trusts and was not mobilising public funds, but the RBI included it in the list of 17 large upper-layer NBFCs for 2026-27 subject to enhanced regulatory requirements and mandatory listing within three years of identification. With listing imminent, Tata Sons will face enhanced governance and disclosures amid allegations of governance lapses and a leadership transition yet to be finalised by Tata Trusts.",
+          "kind": "news",
+          "scope": "india",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 9,
+              "index": 3
+            },
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 9,
+              "index": 3
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "US finalises levies on solar cell imports from India",
+          "blurb": "The US Department of Commerce on Friday finalised anti-dumping margins of 123.04% for Indian producers, 94.36% for Indonesia and 65.43% for Laos, and countervailing duty rates of 126.09% for India, 73.2–173.7% for Indonesia and 82.03–153.67% for Laos on crystalline silicon photovoltaic cells, following complaints of unfair subsidies harming American solar manufacturing; the US International Trade Commission will decide by October 14 whether to issue duty orders by November 2 or terminate the probe.",
+          "kind": "news",
+          "scope": "india",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 10,
+              "index": 3
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "HC: ‘UP using Goonda Act as tool of oppression’",
+          "blurb": "The Allahabad High Court Lucknow bench said Uttar Pradesh seems to be using the Goondas Act as a tool of oppression while hearing Zahid Ali’s challenge to being declared a goonda and externed from Gonda district for six months, days after it quashed Delhi University student Akriti Chaudhary’s NSA detention over Noida worker protests in April.",
+          "kind": "news",
+          "scope": "india",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 3,
+              "index": 2
+            }
+          ]
+        }
+      ]
+    },
+    "international": {
+      "label": "Top 5 — International",
+      "candidate_count": 65,
+      "selected_count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "headline": "Saudi Arabia closes key oil pipeline after strikes",
+          "blurb": "Threatening to send energy prices even higher amid the war in West Asia, Saudi Arabia has shut down its 1,200-kilometre-long East-West pipeline after the vital oil conduit came under aerial attack, with the kingdom saying the attack originated in Iraq where Iran-backed militias operate. The pipeline, used by Riyadh as an alternative to the Strait of Hormuz, has been moving close to 5 million barrels of oil per day in recent months, amounting to 5% of global supply. The Saudi Arabian Foreign Ministry said the attack resulted in some injuries and damage that was being assessed; though an umbrella group of Iran-backed militias in Iraq denied involvement, Iraq's government said the attacks originated from its territory, pledged a probe, and dismissed two senior officials, AP reported.",
+          "kind": "news",
+          "scope": "international",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 1,
+              "index": 4
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "BRICS meet calls for max restraint in West Asia",
+          "blurb": "The BRICS on Saturday called for maximum restraint in West Asia, expressed serious concern over deliberate attacks on civilian infrastructure and peaceful IAEA-safeguarded nuclear facilities, and urged respect for sovereignty and territorial integrity without assigning blame, as diplomats bridged differences between Iran and Saudi Arabia and the UAE overnight to adopt the New Delhi Declaration at the 18th summit hosted by Prime Minister Narendra Modi at Bharat Mandapam. On Israel-Palestine, BRICS invoked ICJ proceedings, reaffirmed support for Palestinian rights and a two-state solution based on 1967 borders, and Modi said the declaration provides clear direction that must be translated into tangible results.",
+          "kind": "news",
+          "scope": "international",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 1,
+              "index": 3
+            },
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 1,
+              "index": 1
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "5 killed, dozens injured in Russian strikes on Ukraine",
+          "blurb": "Russian strikes killed five civilians and wounded dozens in Ukraine on Saturday, local officials said, after Russian President Vladimir Putin warned that sending European troops into Ukraine would amount to direct conflict with Russia. Moscow's intensifying air campaign targeted Ukraine's power grid ahead of winter, with attacks on Zaporizhzhia, Kryvyi Rih, Odesa and Zhytomyr region killing civilians and destroying a residential high-rise in Odesa where 35 people were wounded in what regional head Oleh Kiper called a \"massive attack\".",
+          "kind": "news",
+          "scope": "international",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 13,
+              "index": 1
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "Al-Qaida, terror training camps back in Af: US",
+          "blurb": "Al-Qaida and terrorist training camps are back in Afghanistan 25 years after 9/11, with the Washington Post reporting at least eight training sites established over the past three years exploiting the security vacuum after the Taliban's return and the 2021 US withdrawal. UN monitors and Western intelligence officials say the camps cover weapons, explosives, guerrilla warfare and instruction involving encryption, drones and AI, with militant Islamist groups now present in at least 14 of Afghanistan's 34 provinces; the report notes al-Qaida's current leader Saif al-Adel is believed to be hiding in Iran and revisits Pakistan's historical role in the network's South Asia operations.",
+          "kind": "news",
+          "scope": "international",
+          "sources": [
+            {
+              "paper": "Times of India",
+              "edition": "Bengaluru",
+              "page": 2,
+              "index": 6
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "N. Korea fires missiles toward sea after rivals' trilateral military drill",
+          "blurb": "North Korea launched multiple short-range ballistic missiles toward the sea on Saturday, a day after the U.S., South Korea and Japan ended their trilateral military drill that North Korea views as a provocation. The U.S. Pacific Command said the North's launch event did not pose a threat to U.S. territory or to its allies.",
+          "kind": "news",
+          "scope": "international",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 13,
+              "index": 3
+            }
+          ]
+        }
+      ]
+    },
+    "sports": {
+      "label": "Top 5 — Sports",
+      "candidate_count": 56,
+      "selected_count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "headline": "India eye record-extending eighth title win in Women's T20 Asia Cup final vs SL",
+          "blurb": "Seven-time champions India face Sri Lanka in Sunday's Women's T20 Asia Cup final in Dubai relying on Shafali Verma's tournament-leading 168 runs and Deepti Sharma's 11 wickets alongside Chamari Athapaththu's 11. Shafali has stayed consistent on slow spin-friendly wickets while Smriti Mandhana has mixed a century with two single-digit scores.",
+          "kind": "news",
+          "scope": "sports",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 9,
+              "index": 8
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "Shelton one win from ending America's long Grand Slam drought",
+          "blurb": "Ben Shelton beat Frances Tiafoe 4-6, 6-3, 6-3, 7-5 to reach the US Open final against Alexander Zverev, giving the United States its first men's major finalist since Andy Roddick's 2003 Flushing Meadows title. The No 8 seed recovered from a late quarterfinal finish against Carlos Alcaraz and fired serves up to 144 mph to take control in the second set.",
+          "kind": "news",
+          "scope": "sports",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 9,
+              "index": 1
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "Norris snatches pole from Kimi",
+          "blurb": "World champion Lando Norris took pole for McLaren at the Spanish Grand Prix with a 1:31.824 lap, beating Mercedes’ 20-year-old Kimi Antonelli by 0.011 seconds at the Madring circuit in Madrid on Saturday after missing most of Friday practice for a gearbox change.",
+          "kind": "news",
+          "scope": "sports",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 13,
+              "index": 5
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "Eng clinch Test series sweep of Pak: Root, Cox steer hosts to 8-wicket win at Edgbaston",
+          "blurb": "England chased 130 in 24.2 overs on day four at Edgbaston for a first home whitewash of Pakistan despite losing both openers first ball, as Joe Root made 62 not out and Jordan Cox 59 not out in an unbroken 128-run stand. Cox's knock may help his case to keep a Test spot ahead of the December South Africa tour.",
+          "kind": "news",
+          "scope": "sports",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 9,
+              "index": 6
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "Pipers advance to the final as Masters lend a helping hand",
+          "blurb": "Magnus Carlsen's Alpine APL Pipers needed CheQ Mumba Masters to beat Fyers American Gambits in the last league clash to reach the Global Chess League final, and Masters won an edge-of-the-seat thriller 11-6 after Nihal Sarin blundered under severe time pressure against M. Pranesh. Pipers will take on Ganges Grandmasters in the season four final at the Lalit Ashok, with Grandmasters topping the table on higher game points despite losing their last league match to PBG Alaskan Knights.",
+          "kind": "news",
+          "scope": "sports",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 14,
+              "index": 8
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
