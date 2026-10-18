@@ -1,0 +1,106 @@
+{
+  "date": "Saturday, 17 October 2026",
+  "date_slug": "17-Oct-2026",
+  "channel": "coastal_katte",
+  "source_local_top5": "work/17-Oct-2026/Daily_top/LocalTop5_17-Oct-2026.json",
+  "candidate_count": 15,
+  "selected_count": 5,
+  "items": [
+    {
+      "rank": 1,
+      "headline": "Priest booked for sexually assaulting five minor boys",
+      "blurb": "Mangaluru city police have booked Siprian Pinto, a priest at St. Vincent Ferrar Church, Valencia, for aggravated sexual assault on five 14-year-old boys after a complaint at Mangaluru South police station on Thursday. One boy alleged Pinto gave him chocolate, took him to a room on church premises and inappropriately touched him, with four friends reporting similar experiences; the Bishop of Mangaluru advised filing a police complaint after the parents informed him, and the family met Police Commissioner Sudheer Kumar Reddy before lodging the case.",
+      "kind": "news",
+      "scope": "mangaluru",
+      "source_bucket": "mangaluru",
+      "local_top_rank": 1,
+      "sources": [
+        {
+          "paper": "The Hindu",
+          "edition": "Mangaluru",
+          "page": 6,
+          "index": 4
+        },
+        {
+          "paper": "Deccan Herald",
+          "edition": "Mangaluru",
+          "page": 3,
+          "index": 4
+        }
+      ],
+      "why_channel": "Hard local safety/accountability with POCSO stakes — high share potential for Mangaluru audiences."
+    },
+    {
+      "rank": 2,
+      "headline": "'Submit facts before HC committee on need for Circuit Bench in M'luru'",
+      "blurb": "Senior advocate M P Noronha said associations, institutions, students and women must submit facts before the High Court committee on the genuine need for a Circuit Bench in Mangaluru, at a consultative meeting organised by the United Legal Research and Justice Trust. He cited unique customs such as Aliya Santhana, Mulgeni and Kumki rights, and over 3,21,240 pending High Court cases; MLC Ivan D’Souza and Mangaluru Bar Association president Jagadeesh K Shenava backed the 18-year campaign covering Dakshina Kannada, Udupi, Kodagu and Chikkamagaluru.",
+      "kind": "news",
+      "scope": "mangaluru",
+      "source_bucket": "mangaluru",
+      "local_top_rank": 2,
+      "sources": [
+        {
+          "paper": "Deccan Herald",
+          "edition": "Mangaluru",
+          "page": 3,
+          "index": 2
+        }
+      ],
+      "why_channel": "Civic justice access (HC Circuit Bench) affects DK/Udupi litigants’ daily life."
+    },
+    {
+      "rank": 3,
+      "headline": "MRPL workers to receive ₹5 lakh health cover",
+      "blurb": "At a meeting led by Dakshina Kannada MP Capt. Brijesh Chowta in Mangaluru, approval was granted to extend ₹5 lakh health insurance to more than 2,000 MRPL contract workers and their families, ending an eight-year demand. The meeting, attended by BJP MLA Dr Bharath Shetty, Additional District Collector Raju, MRPL officials and workers’ leaders, also indicated agreement on separate toilets and rest rooms for women contract workers.",
+      "kind": "news",
+      "scope": "mangaluru",
+      "source_bucket": "mangaluru",
+      "local_top_rank": 3,
+      "sources": [
+        {
+          "paper": "News Trail",
+          "edition": "Mangaluru",
+          "page": 3,
+          "index": 2
+        }
+      ],
+      "why_channel": "₹5 lakh health cover for 2,000+ MRPL contract workers — clear ₹/jobs/health hook."
+    },
+    {
+      "rank": 4,
+      "headline": "HYDGEN Unveils 250 kW Electrolysers at Innovation Day 2026",
+      "blurb": "HYDGEN unveiled 250 kW AEM and PEM electrolysers at Innovation Day 2026 at its Ganjimutt, Mangaluru manufacturing facility, which has 20 MW annual capacity spanning R&D through testing. MP Capt. Brijesh Chowta and MLA Dr Y. Bharath Shetty attended; the company said it executed more than 20 projects across India, Singapore and Thailand in the past 12 months with sales exceeding USD 1 million.",
+      "kind": "news",
+      "scope": "mangaluru",
+      "source_bucket": "mangaluru",
+      "local_top_rank": 5,
+      "sources": [
+        {
+          "paper": "News Trail",
+          "edition": "Mangaluru",
+          "page": 3,
+          "index": 9
+        }
+      ],
+      "why_channel": "Local hydrogen manufacturing + jobs in Ganjimutt — infra/investment growth story."
+    },
+    {
+      "rank": 5,
+      "headline": "Belthangady police have arrested three people for setting afire a clinic",
+      "blurb": "Belthangady police arrested Ravi Kumar (31), Suresh P N (44) and Dinesh Prabhu (51) of Navoor in connection with the alleged arson of a clinic run by Dr Pradeep A (51) at Navoor on the night of October 6. Medicines and equipment were gutted with an estimated loss of Rs 2 lakh to Rs 3 lakh; a case was registered under Sections 326(f), 326(g) and 324(5) of BNS, 2023.",
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "source_bucket": "coastal_karnataka",
+      "local_top_rank": 2,
+      "sources": [
+        {
+          "paper": "Deccan Herald",
+          "edition": "Mangaluru",
+          "page": 4,
+          "index": 2
+        }
+      ],
+      "why_channel": "Belthangady clinic arson arrests — crime/safety with personal stakes on the coastal belt."
+    }
+  ]
+}

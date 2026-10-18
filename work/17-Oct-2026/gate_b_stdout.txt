@@ -1,0 +1,47 @@
+=== Gate B citation check ===
+date: 17-Oct-2026
+top5_files: /workspace/work/17-Oct-2026/Daily_top/LocalTop5_17-Oct-2026.json, /workspace/work/17-Oct-2026/Coastal_Katte/CoastalKatte_Top5_17-Oct-2026.json
+pdfs_mapped: deccan herald=/cursor/stores/bc-a1ab9db4-bc7b-43ae-89f5-881ca44fac62/media/17-Oct-2026/Newspaper_2026-10-17_DeccanHerald_Mangaluru_b854.pdf, news trail=/cursor/stores/bc-a1ab9db4-bc7b-43ae-89f5-881ca44fac62/media/17-Oct-2026/Newspaper_2026-10-17_NewsTrail_Mangaluru_38be.pdf, the hindu=/cursor/stores/bc-a1ab9db4-bc7b-43ae-89f5-881ca44fac62/media/17-Oct-2026/Newspaper_2026-10-17_TheHindu_Mangaluru_4219.pdf
+work_dir: /workspace/work/17-Oct-2026
+force_ocr: True
+---
+PASS	LocalTop5_17-Oct-2026.json	mangaluru#1	The Hindu p6 i4	method=ocr_cached	ocr_chars=16474	full_headline:priest booked for sexually assaulting five minor boys	source=/workspace/work/17-Oct-2026/The_Hindu/pages/page-06.png
+PASS	LocalTop5_17-Oct-2026.json	mangaluru#1	Deccan Herald p3 i4	method=ocr_cached	ocr_chars=11834	substring:priest booked for sexually 	source=/workspace/work/17-Oct-2026/Deccan_Herald/pages/page-03.png
+PASS	LocalTop5_17-Oct-2026.json	mangaluru#2	Deccan Herald p3 i2	method=ocr_cached	ocr_chars=11834	substring:submit facts before hc committee on need for circuit bench in m 	source=/workspace/work/17-Oct-2026/Deccan_Herald/pages/page-03.png
+PASS	LocalTop5_17-Oct-2026.json	mangaluru#3	News Trail p3 i2	method=ocr_cached	ocr_chars=17876	substring:mrpl workers to receive 	source=/workspace/work/17-Oct-2026/News_Trail/pages/page-03.png
+PASS	LocalTop5_17-Oct-2026.json	mangaluru#4	Deccan Herald p4 i5	method=ocr_cached	ocr_chars=19095	substring: recorded a profit after tax 	source=/workspace/work/17-Oct-2026/Deccan_Herald/pages/page-04.png
+PASS	LocalTop5_17-Oct-2026.json	mangaluru#5	News Trail p3 i9	method=ocr_cached	ocr_chars=17876	full_headline:hydgen unveils 250 kw electrolysers at innovation day 2026	source=/workspace/work/17-Oct-2026/News_Trail/pages/page-03.png
+PASS	LocalTop5_17-Oct-2026.json	coastal_karnataka#1	The Hindu p6 i6	method=ocr_cached	ocr_chars=16474	full_headline:man gets 20 years jail term for rape of minor in puttur	source=/workspace/work/17-Oct-2026/The_Hindu/pages/page-06.png
+PASS	LocalTop5_17-Oct-2026.json	coastal_karnataka#2	Deccan Herald p4 i2	method=ocr_cached	ocr_chars=19095	token_window:belthangady police arrested three people	source=/workspace/work/17-Oct-2026/Deccan_Herald/pages/page-04.png
+PASS	LocalTop5_17-Oct-2026.json	coastal_karnataka#3	Deccan Herald p3 i1	method=ocr_cached	ocr_chars=11834	full_headline:stranded hajj pilgrims forum demands centre s intervention	source=/workspace/work/17-Oct-2026/Deccan_Herald/pages/page-03.png
+PASS	LocalTop5_17-Oct-2026.json	coastal_karnataka#4	Deccan Herald p1 i8	method=ocr_cached	ocr_chars=12030	full_headline:naval muscle	source=/workspace/work/17-Oct-2026/Deccan_Herald/pages/page-01.png
+PASS	LocalTop5_17-Oct-2026.json	coastal_karnataka#5	The Hindu p6 i1	method=ocr_cached	ocr_chars=16474	full_headline:150 pairs of buffaloes to leave puttur today for mysuru dasara kambala	source=/workspace/work/17-Oct-2026/The_Hindu/pages/page-06.png
+PASS	LocalTop5_17-Oct-2026.json	karnataka#1	The Hindu p8 i1	method=ocr_cached	ocr_chars=14714	full_headline:sudha yadav sworn in as governor	source=/workspace/work/17-Oct-2026/The_Hindu/pages/page-08.png
+PASS	LocalTop5_17-Oct-2026.json	karnataka#2	Deccan Herald p1 i7	method=ocr_cached	ocr_chars=12030	substring:killed as bus truck collide	source=/workspace/work/17-Oct-2026/Deccan_Herald/pages/page-01.png
+PASS	LocalTop5_17-Oct-2026.json	karnataka#3	Deccan Herald p1 i3	method=ocr_cached	ocr_chars=12030	full_headline:hdk s govt job formula retire in 15 yrs make way for others	source=/workspace/work/17-Oct-2026/Deccan_Herald/pages/page-01.png
+PASS	LocalTop5_17-Oct-2026.json	karnataka#4	Deccan Herald p5 i1	method=ocr_cached	ocr_chars=14300	full_headline:19 365 sir notices pending verification says poll panel chief	source=/workspace/work/17-Oct-2026/Deccan_Herald/pages/page-05.png
+PASS	LocalTop5_17-Oct-2026.json	karnataka#5	Deccan Herald p1 i9	method=ocr_cached	ocr_chars=12030	full_headline:over 50 000 antiquities unearthed during survey	source=/workspace/work/17-Oct-2026/Deccan_Herald/pages/page-01.png
+PASS	LocalTop5_17-Oct-2026.json	india#1	Deccan Herald p1 i1	method=ocr_cached	ocr_chars=12030	full_headline:dipke neha bora detained ahead of rally	source=/workspace/work/17-Oct-2026/Deccan_Herald/pages/page-01.png
+PASS	LocalTop5_17-Oct-2026.json	india#2	Deccan Herald p1 i6	method=ocr_cached	ocr_chars=12030	substring: indian systems govt	source=/workspace/work/17-Oct-2026/Deccan_Herald/pages/page-01.png
+PASS	LocalTop5_17-Oct-2026.json	india#3	Deccan Herald p1 i5	method=ocr_cached	ocr_chars=12030	full_headline:reliance responds to musk says indian laws apply to all	source=/workspace/work/17-Oct-2026/Deccan_Herald/pages/page-01.png
+PASS	LocalTop5_17-Oct-2026.json	india#4	News Trail p1 i2	method=ocr_cached	ocr_chars=12737	full_headline:us official rubio s mumbai visit sparks row	source=/workspace/work/17-Oct-2026/News_Trail/pages/page-01.png
+PASS	LocalTop5_17-Oct-2026.json	india#5	News Trail p7 i4	method=ocr_cached	ocr_chars=15334	full_headline:former keralam chief minister pinarayi vijayan	source=/workspace/work/17-Oct-2026/News_Trail/pages/page-07.png
+PASS	LocalTop5_17-Oct-2026.json	international#1	Deccan Herald p12 i7	method=ocr_cached	ocr_chars=15476	substring: biotech solar exports	source=/workspace/work/17-Oct-2026/Deccan_Herald/pages/page-12.png
+PASS	LocalTop5_17-Oct-2026.json	international#2	Deccan Herald p12 i1	method=ocr_cached	ocr_chars=15476	full_headline:gunman kills 4 in us school	source=/workspace/work/17-Oct-2026/Deccan_Herald/pages/page-12.png
+PASS	LocalTop5_17-Oct-2026.json	international#3	Deccan Herald p12 i2	method=ocr_cached	ocr_chars=15476	full_headline:zelenskyy blasts trump s diesel deal with russia	source=/workspace/work/17-Oct-2026/Deccan_Herald/pages/page-12.png
+PASS	LocalTop5_17-Oct-2026.json	international#4	News Trail p9 i1	method=ocr_cached	ocr_chars=14301	full_headline:qatar announces massive solar plant project in lebanon	source=/workspace/work/17-Oct-2026/News_Trail/pages/page-09.png
+PASS	LocalTop5_17-Oct-2026.json	international#5	News Trail p9 i5	method=ocr_cached	ocr_chars=14301	substring:italy s air traffic 	source=/workspace/work/17-Oct-2026/News_Trail/pages/page-09.png
+PASS	LocalTop5_17-Oct-2026.json	sports#1	The Hindu p17 i5	method=ocr_cached	ocr_chars=14046	full_headline:chinnaswamy set for series decider amid rain threat	source=/workspace/work/17-Oct-2026/The_Hindu/pages/page-17.png
+PASS	LocalTop5_17-Oct-2026.json	sports#2	News Trail p12 i1	method=ocr_cached	ocr_chars=16282	substring:mandhana eyes professional well oiled team as india begin new 	source=/workspace/work/17-Oct-2026/News_Trail/pages/page-12.png
+PASS	LocalTop5_17-Oct-2026.json	sports#3	Deccan Herald p18 i2	method=ocr_cached	ocr_chars=10071	full_headline:bengaluru fc renew rivalry with chennaiyin	source=/workspace/work/17-Oct-2026/Deccan_Herald/pages/page-18.png
+PASS	LocalTop5_17-Oct-2026.json	sports#4	The Hindu p19 i3	method=ocr_cached	ocr_chars=16536	full_headline:shreyas gopal named karnataka captain for two ranji games	source=/workspace/work/17-Oct-2026/The_Hindu/pages/page-19.png
+PASS	LocalTop5_17-Oct-2026.json	sports#5	Deccan Herald p18 i3	method=ocr_cached	ocr_chars=10071	token_window:tons anvay dhruv	source=/workspace/work/17-Oct-2026/Deccan_Herald/pages/page-18.png
+PASS	CoastalKatte_Top5_17-Oct-2026.json	items#1	The Hindu p6 i4	method=ocr_cached	ocr_chars=16474	full_headline:priest booked for sexually assaulting five minor boys	source=/workspace/work/17-Oct-2026/The_Hindu/pages/page-06.png
+PASS	CoastalKatte_Top5_17-Oct-2026.json	items#1	Deccan Herald p3 i4	method=ocr_cached	ocr_chars=11834	substring:priest booked for sexually 	source=/workspace/work/17-Oct-2026/Deccan_Herald/pages/page-03.png
+PASS	CoastalKatte_Top5_17-Oct-2026.json	items#2	Deccan Herald p3 i2	method=ocr_cached	ocr_chars=11834	substring:submit facts before hc committee on need for circuit bench in m 	source=/workspace/work/17-Oct-2026/Deccan_Herald/pages/page-03.png
+PASS	CoastalKatte_Top5_17-Oct-2026.json	items#3	News Trail p3 i2	method=ocr_cached	ocr_chars=17876	substring:mrpl workers to receive 	source=/workspace/work/17-Oct-2026/News_Trail/pages/page-03.png
+PASS	CoastalKatte_Top5_17-Oct-2026.json	items#4	News Trail p3 i9	method=ocr_cached	ocr_chars=17876	full_headline:hydgen unveils 250 kw electrolysers at innovation day 2026	source=/workspace/work/17-Oct-2026/News_Trail/pages/page-03.png
+PASS	CoastalKatte_Top5_17-Oct-2026.json	items#5	Deccan Herald p4 i2	method=ocr_cached	ocr_chars=19095	token_window:belthangady police arrested three people	source=/workspace/work/17-Oct-2026/Deccan_Herald/pages/page-04.png
+---
+SUMMARY	pass=37	fail=0	total=37
+GATE_B: PASS
