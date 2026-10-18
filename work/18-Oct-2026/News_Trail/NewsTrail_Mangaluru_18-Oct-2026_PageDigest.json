@@ -1,0 +1,562 @@
+{
+  "paper": "News Trail",
+  "edition": "Mangaluru",
+  "date": "Sunday, 18 October 2026",
+  "total_pages": 12,
+  "total_articles": 69,
+  "pages_with_no_articles": [],
+  "articles": [
+    {
+      "page": 1,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Angry young India betrayed over jobs",
+      "blurb": "Youth unemployment among Indians aged 15–29 who were actively seeking work reached 16.2% in June 2026, the highest in a 15-month PLFS series, with urban youth at 18.2% and women at 20.7%; Jayanta Roy Chowdhury writes that degrees no longer guarantee footholds while gig-sector jobs fail to match graduates’ costs and aspirations."
+    },
+    {
+      "page": 1,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Conditional bail for Dipke; asked to sign peace bond",
+      "blurb": "Cockroach Janta Party founder Abhijeet Dipke was granted conditional bail in New Delhi on Saturday after being detained for allegedly violating a peace bond he furnished on 10 October; police produced him before a magistrate at Mandir Marg after he left Jhandewalan to join the party’s “Lehra Tiranga” protest at Connaught Place on Friday."
+    },
+    {
+      "page": 1,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "India Students' Association president Neha Bora released",
+      "blurb": "ISA president Neha Bora was released on Saturday morning after completing formalities related to her detention under Section 65 of the Delhi Police Act; she said she was kept at a police station overnight until 5 am, slammed Delhi Police and the Centre over “illegal” detentions, and demanded the CEC’s resignation and halting of the SIR process."
+    },
+    {
+      "page": 1,
+      "index": 4,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Air India, AI Express extend Saudi flight cancellations",
+      "blurb": "Air India and Air India Express said on 17 October they have temporarily suspended flights to and from Jeddah, Riyadh and Dammam until 24 October 2026 amid Middle East security concerns after earlier cancellations; Akasa Air also extended suspensions for Riyadh until 24 October and Jeddah until 21 October."
+    },
+    {
+      "page": 1,
+      "index": 5,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Advani stable after chest infection",
+      "blurb": "BJP veteran L K Advani, 98, was admitted to Indraprastha Apollo Hospital in Jasola Vihar around 7.30 pm on Friday with a chest infection and remains in the ICU under neurologist Dr Vinit Suri; the hospital said on Saturday his condition is stable and he remains under close medical observation."
+    },
+    {
+      "page": 1,
+      "index": 6,
+      "kind": "news",
+      "scope": "international",
+      "headline": "'Illegal, unreasonable': Imran moves HC against notice directing him to leave India",
+      "blurb": "Imran Khan has moved the high court against a notice directing him to leave India, terming it illegal and unreasonable, the paper reports in a front-page brief."
+    },
+    {
+      "page": 1,
+      "index": 7,
+      "kind": "news",
+      "scope": "international",
+      "headline": "How Gen Z across the world takes on the system",
+      "blurb": "A Sunday Anchor report links youth protests in India over voter-list revisions and the CEC, French students over school conditions, Albanian demonstrations over corruption and tuition, and Spanish housing costs—with Idealista data showing average advertised rents rising from €8.20 per sq m in 2016 to €15.10 in 2026—arguing shared anxieties over institutions, education and employment drive Gen Z action amplified by social media."
+    },
+    {
+      "page": 2,
+      "index": 1,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "CJI Surya Kant urges law graduates to uphold justice, defend liberty and values",
+      "blurb": "Chief Justice of India Surya Kant told NLSIU’s 34th convocation in Bengaluru on Saturday that legal education must prepare graduates to serve society, defend justice and listen to unheard voices; he paid tribute to graduate Urvashi Krishnatra, who died before receiving her degree, and urged graduates not to compromise honesty when expediency tempts."
+    },
+    {
+      "page": 2,
+      "index": 2,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Minister writes to Puri over issuing new domestic LPG connections",
+      "blurb": "Karnataka Food and Civil Supplies Minister B Z Zameer Ahmed Khan wrote to Union Petroleum Minister Hardeep Singh Puri urging steps to issue new domestic LPG connections, citing a backlog of about 36,000 applications since new connections were stopped and warning that households without LPG may rely on firewood and unsafe fuels, slowing progress toward clean cooking for all."
+    },
+    {
+      "page": 2,
+      "index": 3,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "State plans standardisation of private hospital charges",
+      "blurb": "The Karnataka Health Department is considering uniform pricing for surgeries and procedures at private hospitals after preliminary talks with PHANA, as patients in Bengaluru, Hubballi and Mangaluru report the same treatment costing from about ₹10,000 at one facility to ₹50,000 or up to ₹1 lakh at corporate hospitals; officials may decide on a mechanism as early as next week."
+    },
+    {
+      "page": 2,
+      "index": 4,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "6 held for threatening spa owner, extorting Rs 1 lakh",
+      "blurb": "Bengaluru police arrested six people, including four women, for allegedly posing as organisation and media representatives, assaulting staff at a Vidyaranyapura spa on 3 October, demanding ₹5 lakh and taking ₹1 lakh; police seized ₹80,000 cash, seven phones, a car and a two-wheeler after a complaint filed on 4 October."
+    },
+    {
+      "page": 3,
+      "index": 1,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Coastal K'taka needs High Court Bench, say advocates",
+      "blurb": "The Coastal Karnataka High Court Bench Struggle Committee met at Brahmavara Bunts Bhavan urging the Chief Justice and governments to establish a circuit bench, with advocates citing 20–30% of coastal cases in the High Court and nearly 500 km travel to Bengaluru; speakers including Prasad Raj Kanchan and Kadooru Praveen Kumar Shetty sought a bench convenient to Dakshina Kannada, Udupi and Uttara Kannada."
+    },
+    {
+      "page": 3,
+      "index": 2,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Security personnel take pledge against drug abuse in Shivamogga",
+      "blurb": "Security personnel took a pledge during National Unity Day celebrations in Shivamogga on Saturday with the message “Fight against drug abuse,” a PTI photo caption reports."
+    },
+    {
+      "page": 3,
+      "index": 3,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Tulu Academy to honour tiger dance veteran Gangadhara Devadiga",
+      "blurb": "The Karnataka Tulu Sahitya Academy will honour Gangadhara Devadiga (Pili Annu) of Kadri at 10.30 am on 10 October at Dakshina Kannada Zilla Panchayat Higher Primary School, Mannagudda, for contributions to Tulu Nadu’s tiger dance; MUDA chairman Santosh Shetty will present the honour and Karnataka Eco-Tourism Board chairperson Sharlat Pinto will be chief guest."
+    },
+    {
+      "page": 3,
+      "index": 4,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "MRPL blast: Another victim succumbs to injuries at hospital",
+      "blurb": "Rajesh D'Silva, in his 40s, died on Saturday from injuries sustained in the 30 September explosion at MRPL’s Coker Hydrotreater unit, raising the toll to two after Manish Karkada of Mulky died on the day of the accident; MRPL expressed condolences and announced ₹90 lakh compensation and other deliverables, totalling ₹1.20 crore for the family."
+    },
+    {
+      "page": 3,
+      "index": 5,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Pilinalike-11 to be held in Mangaluru on October 20; winner to get ₹10 lakh",
+      "blurb": "The 11th Pilinalike tiger-dance competition organised by the Pilinalike Foundation and Namma TV will be held at Karavali Utsav Grounds near Mangala Stadium from 10 am on 20 October, with nine teams expected; the winner gets ₹10 lakh and a trophy, second ₹5 lakh, third ₹3 lakh, category prizes of ₹50,000 each, ₹50,000 per team incentive, and Dinesh Karthik and The Great Khali among expected guests."
+    },
+    {
+      "page": 3,
+      "index": 6,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Coastal farmers eye palm as optional crop",
+      "blurb": "Coastal farmers growing areca, coconut, banana and pepper were shown oil palm cultivation at the Brahmavar Agricultural Fair, including pollination by the weevil Elaeidobius kamerunicus, as an alternative income option."
+    },
+    {
+      "page": 3,
+      "index": 7,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Three booked for knife-point robbery of bikers in Belthangady",
+      "blurb": "Police booked three men for allegedly intercepting a motorcycle near Haleji in Uruvalu, Belthangady, around 11.45 am on 6 October, threatening Mithilesh, 18, and Magadevi with a knife and taking phones worth ₹3,000 and ₹2,000 and ₹5,200 cash."
+    },
+    {
+      "page": 3,
+      "index": 8,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Yediyurappa visits numismatic exhibition in Shivamogga",
+      "blurb": "Former Karnataka Chief Minister B S Yediyurappa visited a Shivamogga Municipal Corporation numismatic exhibition of historical Indian and foreign coins during Shivamogga Dasara on Saturday, PTI reported."
+    },
+    {
+      "page": 3,
+      "index": 9,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Special trains to clear extra rush during festive season",
+      "blurb": "Southern Railway will run Train No. 06036 Chennai Egmore–Mangaluru Central leaving 11.55 pm on 17 October and arriving 7.45 pm on 18 October, and Train No. 06142 Mangaluru Central–Rameswaram leaving 4.15 am on 19 October and reaching Rameswaram 7.30 pm the same day, with listed halts en route."
+    },
+    {
+      "page": 3,
+      "index": 10,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "From CEC to KPSC: Crisis of trust in bureaucracy",
+      "blurb": "Aamir Sohail writes that Chief Election Commissioner Gyanesh Kumar and former KPSC chairman S Sahukar, in ED custody until 19 October over an alleged recruitment scam, illustrate weak enforcement of bureaucratic accountability, with former IAS officers saying political protection often blocks DPAR action."
+    },
+    {
+      "page": 3,
+      "index": 11,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Uchila Dasara art contest to nurture young talent",
+      "blurb": "Udupi MLA and Mahalakshmi Co-operative Bank president Yashpal Suvarna inaugurated a Dakshina Kannada district drawing and painting competition at Uchila temple premises for Uchila Dasara Mahotsava, saying such events nurture children’s creativity; Dakshina Kannada Mogaveera Mahajana Sangha president Jay C Kotian praised the bank and fish federation’s role."
+    },
+    {
+      "page": 3,
+      "index": 12,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Thumbay hosts Camel Sciences meet, honours 12 veterinary leaders",
+      "blurb": "Thumbay College of Veterinary Medicine and Gulf Medical University held “Advances in Camel Sciences” in Ajman with Dubai Camel Hospital, with Ajman Ruler’s Court chairman Sheikh Dr Majid bin Saeed Al Nuaimi as chief guest; 12 professionals were honoured and the college announced AnimalProfi on 10–11 November 2026 and equine certificate courses with Dubai Equine Hospital."
+    },
+    {
+      "page": 4,
+      "index": 1,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Never stop questioning, CM tells young lawyers",
+      "blurb": "Chief Minister D K Shivakumar told NLSIU’s 34th convocation on Saturday, also addressed by CJI Surya Kant, that a strong democracy allows citizens to question government and urged graduates to defend institutions and make justice accessible, saying young lawyers must safeguard the Constitution amid challenges to democratic institutions."
+    },
+    {
+      "page": 4,
+      "index": 2,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Prakash Raj vows nationwide protests against CEC, SIR despite police factor",
+      "blurb": "Actor-activist Prakash Raj said peaceful protests against CEC Gyanesh Kumar and electoral-roll SIR will continue nationwide despite detentions, speaking after a Manaveeya Veedhi meeting in Bengaluru where police briefly disputed microphone permission; he cited Gandhi, Ambedkar and Bhagat Singh and asked why protests were being stopped."
+    },
+    {
+      "page": 4,
+      "index": 3,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Shivakumar gets wedding invite for Anirudh Ravichander, Kavya Maran's star-studded celebrations",
+      "blurb": "Chief Minister D K Shivakumar received an invitation to the wedding of composer Anirudh Ravichander and Kavya Maran, daughter of Sun Group chairman Kalanithi Maran, with the high-profile event expected to draw film, cricket and political guests including Telangana leaders."
+    },
+    {
+      "page": 4,
+      "index": 4,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Soumya quits over lack of women in K'taka Cabinet",
+      "blurb": "Karnataka Pradesh Mahila Congress president Soumya Reddy submitted her resignation to AICC president Mallikarjun Kharge on 20 August 2026, citing the state government’s failure to appoint any woman minister despite assurances; she said she will continue as Mahila Congress president until a successor is named."
+    },
+    {
+      "page": 4,
+      "index": 5,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Kumaraswamy seeks ED, I-T probe into 'sting' op cost",
+      "blurb": "Union Minister H D Kumaraswamy in Ramanagara on Friday sought ED and Income Tax probes into alleged spending of ₹10–15 crore on a sting operation against a former chief minister, saying the truth would emerge if the ED traced fund sources and movements beyond the figures being discussed."
+    },
+    {
+      "page": 4,
+      "index": 6,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "KWIN City must see major progress by Feb-Mar '27: Patil",
+      "blurb": "Industries Minister M B Patil directed KIADB on Friday to expedite the 5,000-acre KWIN City project between Doddaballapura and Dabaspet near Bengaluru, targeting major progress by February–March 2027, with a dedicated on-site team and progress reports every eight days on land, roads and drainage."
+    },
+    {
+      "page": 4,
+      "index": 7,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Direct Davangere-Bengaluru rail connectivity to cut travel time, cost",
+      "blurb": "Union Minister V Somanna said the Tumakuru–Chitradurga–Davangere line is expected to be completed by December 2027 after an on-site inspection, giving Davangere a direct link to Bengaluru instead of circuitous routes via Arsikere or Hubballi and potentially cutting journeys to about two and a half hours from four to five hours by road."
+    },
+    {
+      "page": 5,
+      "index": 1,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "CHASING the no-reception zone",
+      "blurb": "The writer joined Hero XClan’s Magnetic Frontier 2026 Ladakh ride on an XPulse 210, crossing Khardung La at 18,380 ft, Nubra, Pangong Tso and Umling La at 19,024 ft with a convoy of about 19 bikes plus medical support, noting thin air, weather and stretches without mobile reception including power only 7 pm–1 pm at one stop."
+    },
+    {
+      "page": 5,
+      "index": 2,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "High expectations to meet",
+      "blurb": "Yamaha’s India-developed YZF-R2, its first 200-cc bike, uses a 204-cc engine rated 28.5 hp at 10,000 rpm and 19.1 Nm at 8,500 rpm, a 149 kg kerb weight, 37 mm USD forks, dual-channel ABS, YCC-T, three ride modes, traction control and a third-generation bi-directional quick-shifter, without the R15’s VVA."
+    },
+    {
+      "page": 5,
+      "index": 3,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "MARKS THE SPOT",
+      "blurb": "TVS’s X electric scooter, launched at ₹2.66 lakh ex-showroom after a long delay, offers an 11.7 kW motor, 110 km/h top speed, 4.43 kWh battery with 159 km IDC range but about 92 km in mixed testing, a 10.2-inch screen with Android Auto, three modes Xtealth/Xtride/Xonic, and handling praised against rivals at ₹2.66 lakh without subsidies."
+    },
+    {
+      "page": 6,
+      "index": 1,
+      "kind": "opinion",
+      "scope": "india",
+      "headline": "An intolerant regime does not tolerate dissent (Opinion)",
+      "blurb": "Reprinting Soli Sorabjee’s 2005 argument, the piece says tolerance of dissent defines democracy, contrasts censorship with fascist tendencies citing the James Laine Shivaji biography backlash and Bombay High Court’s 1968 defence of unpopular speech, and warns intolerance is spreading globally though Indian courts have upheld dissent."
+    },
+    {
+      "page": 6,
+      "index": 2,
+      "kind": "opinion",
+      "scope": "india",
+      "headline": "ECI finally makes U-turn on SSR data (Opinion)",
+      "blurb": "Gurdeep Singh Sappal writes that the ECI’s 15 October 2026 order to give parties searchable Special Summary Revision rolls reverses an eight-year stance it had called a privacy risk, after Congress analyses such as 27 lakh suspect entries in 2018 Madhya Pradesh and 1,00,250 suspects in one Bengaluru segment took months on image PDFs."
+    },
+    {
+      "page": 7,
+      "index": 1,
+      "kind": "opinion",
+      "scope": "india",
+      "headline": "Noorjahan has an opinion. Kerala's clerical orthodoxy can't accept it (Opinion)",
+      "blurb": "Anand Kochukudy reports Farook College zoology professor Shabnam Noorjahan faces clerical backlash for opposing the niqab and promoting “Sufinism” after viral hijab-dance videos and a women’s Rumi gathering; Salafi leader Haneef Kayakkodi warned parents about Sufism while CM V D Satheesan condemned Grand Mufti Kanthapuram’s remarks."
+    },
+    {
+      "page": 7,
+      "index": 2,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Why is China buying up gold?",
+      "blurb": "Caolan Magee reports China’s central bank bought gold for a 23rd consecutive month in September, adding about 23 tonnes to reach roughly 2,410 tonnes or 8.5% of reserves, as Beijing seeks to cut reliance on US Treasuries after Western asset freezes on Russia and amid $40 trillion US debt concerns, while household bar and coin demand rose 28.4% in H1 2026."
+    },
+    {
+      "page": 8,
+      "index": 1,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "EVERYDAY STRETCHES FOR BETTER MOBILITY",
+      "blurb": "The Seniors’ Trail feature lists gentle stretches for older adults—neck, chest and shoulder opener, side stretch, seated hamstring and calf holds of about 15–30 seconds—advising mild tension not pain, to maintain flexibility for bending, reaching and walking without replacing strength or aerobic exercise."
+    },
+    {
+      "page": 8,
+      "index": 2,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "Hidden costs of palm oil",
+      "blurb": "The article warns palm oil’s saturated fat can raise LDL versus low-saturated oils, that refining may produce 3-MCPD and glycidyl esters, and that plantation expansion destroys rainforest habitat for orangutans and tigers while urging readers to compare replacements when labels say “no palm oil.”"
+    },
+    {
+      "page": 8,
+      "index": 3,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "Understanding arthritis in seniors",
+      "blurb": "The piece explains osteoarthritis and rheumatoid arthritis risks with age, gender and lifestyle, lists symptoms such as resting pain and swelling, and covers weight management, activity, and medical or surgical treatment options to protect joint mobility."
+    },
+    {
+      "page": 9,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Right to protest is now a crime: Sibal slams government",
+      "blurb": "Rajya Sabha MP Kapil Sibal said denotifying Jantar Mantar and restricting Metro and trains during protests has made demonstrating a “crime” despite being a fundamental right, citing protest spaces in New York, London and Paris and alleging orchestrated violence and assaults on women protesters."
+    },
+    {
+      "page": 9,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Women take out march, seek action over 'sexual assaults'",
+      "blurb": "Women and queer activists marched from Gurudwara Bangla Sahib to Delhi Police Headquarters on Saturday demanding action against personnel accused of sexual harassment and violence during anti-ECI protests since July, citing footage of assaults in detention and a journalist’s complaint of being grabbed and then detained."
+    },
+    {
+      "page": 9,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Satheesan reviews facilities in Sabarimala",
+      "blurb": "Kerala Chief Minister V D Satheesan visited Sabarimala-linked sites on Saturday with ministers and officials to review pilgrimage-season preparations, saying Devaswom authorities assured adequate prasadam and that KSRTC will deploy 461 buses for the season."
+    },
+    {
+      "page": 9,
+      "index": 4,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Popular Tamil music composer Deva dies",
+      "blurb": "Composer Deva, 75, died at a Chennai private hospital on Saturday after a career of over 400 films including Rajinikanth hits Annamalai and Baasha; he was famed for mainstreaming ‘gana’ music and memorable scores such as “Baasha, Baasha.”"
+    },
+    {
+      "page": 9,
+      "index": 5,
+      "kind": "news",
+      "scope": "india",
+      "headline": "DMK MPs meet demands CEC's removal",
+      "blurb": "A DMK parliamentary party meeting chaired by M K Stalin adopted resolutions demanding dismissal of CEC Gyanesh Kumar over the SIR drive it says disenfranchised voters in Bihar, Tamil Nadu and other states, and backing youth protests while criticising Congress and TVK."
+    },
+    {
+      "page": 9,
+      "index": 6,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Eight killed as vehicle falls into drain on expressway",
+      "blurb": "Eight people from Betul in Madhya Pradesh died and about nine were injured when a tempo traveller fell into a 15-foot drain on the Delhi–Mumbai Expressway in Kota, Rajasthan, around 6 am on Saturday; the group had left Bhopal on Friday for Khatu Shyam Temple in Sikar."
+    },
+    {
+      "page": 9,
+      "index": 7,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Priyagold in the dock for using cattle feed bran in biscuits",
+      "blurb": "FSSAI has begun prosecution against Surya Food & Agro for using cattle-feed bran in Priyagold biscuits after inspections found bran bags marked for animal feed in manufacturing, alongside hygiene lapses; proceedings also target Dodla Dairy for substandard milk and Ueir Organic Foods for pesticide residues in raisins."
+    },
+    {
+      "page": 10,
+      "index": 1,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "CHAPDI STONE: A duality in design",
+      "blurb": "The OH HO home-office in Bengaluru on a former quarry site near a zoological park uses 100 mm chapdi stone in a nine-square 36×36 ft plan with climate-led gabion walls and layered stone joinery, arguing stone’s low carbon footprint suits Karnataka’s traditional material culture."
+    },
+    {
+      "page": 10,
+      "index": 2,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "EASY CHECK LIST: Explore different commode types, their features and benefits, and how to choose right one for your bathroom",
+      "blurb": "An Architecture Trail buyer’s guide compares one-piece, two-piece, wall-hung and floor-mounted toilets, advising buyers to measure space, check drainage, weigh maintenance and flushing systems, and choose height and shape for comfort."
+    },
+    {
+      "page": 10,
+      "index": 3,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "Contemporary living rooted in tradition",
+      "blurb": "The Sukoon residence in Kerala’s Malabar blends Tharavadu-inspired L-shaped planning with modern interiors, kolaya semi-open space and warm timber details to connect rooms with courtyards and landscape."
+    },
+    {
+      "page": 11,
+      "index": 1,
+      "kind": "news",
+      "scope": "international",
+      "headline": "El Nino rains flood South America, sends people, cattle swimming",
+      "blurb": "El Niño-linked rains flooded Argentina, Paraguay and Uruguay, with the Paraná near Ituzaingó at 4.7 m prompting evacuations and cattle rescues; Ayolas mayor Carlos Duarte said more than 2,000 people fled as the river hit its highest level in over 40 years."
+    },
+    {
+      "page": 11,
+      "index": 2,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Beyond oil, Gulf is becoming a food security crisis",
+      "blurb": "UN Under-Secretary-General Jorge Moreira da Silva warned delayed Gulf fertilizer shipments could hit Asian and African food security, noting the region supplies roughly 30–35% of world urea and much sulphur and ammonia; FAO estimates 1.5–3 million tonnes of trade delayed monthly even if straits reopen."
+    },
+    {
+      "page": 11,
+      "index": 3,
+      "kind": "news",
+      "scope": "international",
+      "headline": "French protesters rally over rising living costs",
+      "blurb": "Protesters across France demonstrated Saturday against living costs alongside student blockades over school conditions, with the CGT backing calls for higher wages and pensions; President Emmanuel Macron urged calm while affirming the constitutional right to protest."
+    },
+    {
+      "page": 11,
+      "index": 4,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Russian strikes in Ukraine kill 8, cut power",
+      "blurb": "Russian attacks on Friday killed at least eight people and wounded 60 across nine Ukrainian regions, striking Kharkiv, Kramatorsk and Volyn and cutting power to more than a million people, officials said."
+    },
+    {
+      "page": 11,
+      "index": 5,
+      "kind": "news",
+      "scope": "international",
+      "headline": "10 killed in fire at seaside resort in Bangladesh",
+      "blurb": "At least 10 people died and nine were injured in a fire around 6.30 am Saturday at TUPTUP Resto and Resort in Cox’s Bazar’s Inani area; five injured had burns on about 5% of their bodies, Cox’s Bazar hospital officials said."
+    },
+    {
+      "page": 11,
+      "index": 6,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Houthi strikes on Saudi show the rebels' growing strength",
+      "blurb": "Iran-backed Houthis have repeatedly struck Saudi Arabia’s main international airport and seized Yemeni territory near shipping chokepoints; AP reports a Saudi diplomat said Iran encouraged escalation and Houthis rejected a summer negotiation offer while sourcing precision-guided missile parts."
+    },
+    {
+      "page": 11,
+      "index": 7,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Earth's oldest evidence of life written in stone, at risk of disappearing",
+      "blurb": "A Conversation piece notes Western Australia holds microbialites up to 3.5 billion years old in the Pilbara and living examples in Shark Bay, but fossil and living sites face trampling and degradation—including May 2024 damage to 2,000-year-old thrombolites at Lake Clifton."
+    },
+    {
+      "page": 12,
+      "index": 1,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Shreyas Gopal to lead Karnataka vs Saurashtra",
+      "blurb": "Shreyas Gopal will captain Karnataka against Saurashtra in Alur in Ranji Trophy Group B without Ravichandran Smaran, who joined India A in New Zealand, while pacers Vidwath Kaverappa and Vyshak Vijaykumar return; Karnataka took one point after Karun Nair’s unbeaten 155 salvaged a draw against Andhra."
+    },
+    {
+      "page": 12,
+      "index": 2,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Mumbai face HP sans Jaiswal, Mhatre",
+      "blurb": "Mumbai will miss Yashasvi Jaiswal with India A and vice-captain Ayush Mhatre after a grade 4 hamstring tear in round one, drafting Divyansh Saxena and Angkrish Raghuvanshi to open against Himachal Pradesh as Sarfaraz Khan seeks form after a duck."
+    },
+    {
+      "page": 12,
+      "index": 3,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Gill's Ranji return in focus as round two starts",
+      "blurb": "Punjab captain Shubman Gill returns for Sunday’s Ranji clash with Chhattisgarh after missing the opener Uday Saharan led, following 334 runs at 167 in India’s 2–1 ODI win over West Indies including an unbeaten 223 in a 406 chase."
+    },
+    {
+      "page": 12,
+      "index": 4,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Ashwin questions Jaiswal's omission from ODI squad, says it could ruin his confidence",
+      "blurb": "Ravichandran Ashwin criticised Yashasvi Jaiswal’s exclusion from India’s New Zealand ODI squad announced Friday, saying lack of 50-over game time could damage confidence despite Jaiswal’s unbeaten 100 off 86 against Afghanistan in June; Jaiswal is in India A for the New Zealand Tests from 26 October."
+    },
+    {
+      "page": 12,
+      "index": 5,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Bopanna misses out on AITA'S SOM roster",
+      "blurb": "Rohan Bopanna was omitted from AITA’s Sportspeople of Outstanding Merit list published 16 October 2026 because his 1 November 2025 retirement fell short of the National Sports Governance Rules’ mandatory one-year retired period by a few days."
+    },
+    {
+      "page": 12,
+      "index": 6,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Jayawardene steps down as MI head coach",
+      "blurb": "Mahela Jayawardene ended his second stint as Mumbai Indians head coach after the 2025 season, having led the franchise to three IPL titles in his first 2017–2022 tenure; owner Nita Ambani thanked his contribution."
+    },
+    {
+      "page": 12,
+      "index": 7,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "India eye strong Para Asian Games campaign",
+      "blurb": "India sends about 168 athletes to the Aichi-Nagoya Asian Para Games starting Sunday, down from 303 in Hangzhou 2023 when it won 111 medals including 25 gold, making matching that haul difficult with tighter quotas despite early action in para-badminton, table tennis, boccia and blind football."
+    },
+    {
+      "page": 12,
+      "index": 8,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Indian top order eyes better show against Zimbabwe in 2nd WT20I",
+      "blurb": "India women seek steadier batting in Sunday’s second T20I in Raipur after recovering from 19 for 4 to beat Zimbabwe by four wickets via Niki Prasad and Deepti Sharma’s 82-run stand; captain Smriti Mandhana, Shafali Verma, Anushka Sharma and Harmanpreet Kaur all fell cheaply in the opener."
+    },
+    {
+      "page": 12,
+      "index": 9,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "DC rope in Vaas as fast-bowling coach",
+      "blurb": "Delhi Capitals appointed former Sri Lanka paceman Chaminda Vaas as fast-bowling coach for the upcoming IPL, replacing Munaf Patel and joining head coach Sourav Ganguly and batting coach Yuvraj Singh."
+    },
+    {
+      "page": 12,
+      "index": 10,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Djokovic to play at Swiss Indoors after accepting wild-card invitation",
+      "blurb": "Novak Djokovic received a wildcard for the Swiss Indoors in Basel starting 26 October, his first appearance there since 2009, as he chases a 103rd title after winning the China Open this month."
+    },
+    {
+      "page": 12,
+      "index": 11,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "India go down 1-6 to hosts Japan in blind football",
+      "blurb": "India lost 1-6 to Japan in men’s blind football at the Asian Para Games in Nagoya on Saturday after Sovendra Singh scored in the 16th minute while Japan’s Hirabayashi Taichi hit four goals; India are winless after also losing 0-2 to South Korea."
+    },
+    {
+      "page": 12,
+      "index": 12,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Time with Rory, sharing Masters experience unreal: Pranavi",
+      "blurb": "Golfer Pranavi Urs said meeting Rory McIlroy for about an hour during the DP World India Championship was “unreal,” discussing his Masters comeback and her Asian Games gold after a third-hole triple bogey in Nagoya; the 23-year-old from Mysuru overcame that start to win by one stroke."
+    }
+  ]
+}
