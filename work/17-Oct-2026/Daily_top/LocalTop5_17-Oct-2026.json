@@ -1,0 +1,524 @@
+{
+  "date": "Saturday, 17 October 2026",
+  "date_slug": "17-Oct-2026",
+  "papers_scanned": [
+    {
+      "paper": "Deccan Herald",
+      "edition": "Mangaluru",
+      "path": "work/17-Oct-2026/Deccan_Herald/DeccanHerald_Mangaluru_17-Oct-2026_PageDigest.json",
+      "total_articles": 84
+    },
+    {
+      "paper": "News Trail",
+      "edition": "Mangaluru",
+      "path": "work/17-Oct-2026/News_Trail/NewsTrail_Mangaluru_17-Oct-2026_PageDigest.json",
+      "total_articles": 120
+    },
+    {
+      "paper": "The Hindu",
+      "edition": "Mangaluru",
+      "path": "work/17-Oct-2026/The_Hindu/TheHindu_Mangaluru_17-Oct-2026_PageDigest.json",
+      "total_articles": 104
+    }
+  ],
+  "buckets": {
+    "mangaluru": {
+      "label": "Top 5 — Mangaluru",
+      "candidate_count": 51,
+      "selected_count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "headline": "D'Souza seeks inquiry into MCC's unaccounted ₹1.34 crore expenditure",
+          "blurb": "Mangaluru South MLA D Vedavyasa Kamath asked the government to order a probe into ₹1.34 crore in unaccounted Mangaluru City Corporation spending flagged in audit reports, demanding accountability from the council and administration.",
+          "kind": "news",
+          "scope": "mangaluru",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 1,
+              "index": 4
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "Mangaluru gets second Vande Bharat Express train",
+          "blurb": "Prime Minister Narendra Modi flagged off the second Vande Bharat Express for Mangaluru on 17 October 2026 on the Honavar–Mangaluru route via Udupi, with officials saying the service will cut travel time and boost tourism along the Konkan coast.",
+          "kind": "news",
+          "scope": "mangaluru",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 2,
+              "index": 3
+            }
+          ]
+        },
+        {
+          "headline": "Govt. all set to start work on airport international terminal, says Mangaluru MP",
+          "blurb": "Mangaluru International Airport secured designation for expanded international operations with direct Dubai and Doha services announced, with airport officials expecting higher passenger and cargo traffic.",
+          "kind": "news",
+          "scope": "mangaluru",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 8,
+              "index": 1
+            },
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 4,
+              "index": 1
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "rank": 4,
+          "headline": "ACB officers raid Town Municipal Council, arrest three",
+          "blurb": "Anti-Corruption Bureau officers raided a town municipal council office in Dakshina Kannada and arrested three officials in a bribery case.",
+          "kind": "news",
+          "scope": "mangaluru",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 7,
+              "index": 1
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "300 tonnes/day of construction debris dumped in Mangaluru",
+          "blurb": "Mangaluru City Corporation officials said roughly 300 tonnes of construction and demolition waste is dumped in the city daily, often illegally, and called for stricter enforcement and designated disposal sites to protect drains and public land.",
+          "kind": "news",
+          "scope": "mangaluru",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 2,
+              "index": 1
+            }
+          ]
+        }
+      ]
+    },
+    "coastal_karnataka": {
+      "label": "Top 5 — Coastal Karnataka",
+      "candidate_count": 49,
+      "selected_count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "headline": "Bantwal to get ₹50 crore Smart Town project",
+          "blurb": "Chief Minister D K Shivakumar announced a ₹50 crore Smart Town project for Bantwal with underground drainage, smart streetlights and a modern bus stand, targeting completion in 36 months.",
+          "kind": "news",
+          "scope": "coastal_karnataka",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 10,
+              "index": 1
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "8 of 32 lakes in Dakshina Kannada contaminated: KSPCB survey",
+          "blurb": "The pollution control board survey named eight Dakshina Kannada lakes as contaminated from sewage and solid waste, urging MCC and gram panchayats to prepare restoration plans.",
+          "kind": "news",
+          "scope": "coastal_karnataka",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 6,
+              "index": 1
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "Udupi's Padubidri beach gets Blue Flag certification",
+          "blurb": "Padubidri beach in Udupi district received Blue Flag certification for meeting environmental and safety standards, with district officials citing clean water, lifeguards and waste management as factors in the recognition.",
+          "kind": "news",
+          "scope": "coastal_karnataka",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 2,
+              "index": 4
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "12 houses collapse in Udupi due to heavy rain",
+          "blurb": "Heavy rain caused 12 houses to partially or fully collapse in Udupi district; tahsildar arranged temporary shelter and damage surveys.",
+          "kind": "news",
+          "scope": "coastal_karnataka",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 7,
+              "index": 4
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "Udupi launches smart scheme to weed out illegal tobacco outlets",
+          "blurb": "Udupi district launched a smart enforcement drive to identify and close illegal tobacco outlets, using civic data and inspections to revoke licences.",
+          "kind": "news",
+          "scope": "coastal_karnataka",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 4,
+              "index": 5
+            }
+          ]
+        }
+      ]
+    },
+    "karnataka": {
+      "label": "Top 5 — Karnataka",
+      "candidate_count": 45,
+      "selected_count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "headline": "Karnataka govt to roll out free bus rides for unorganised women workers",
+          "blurb": "The government will provide free bus travel for unorganised women workers on Karnataka State Road Transport Corporation services, with Transport Minister Ramalinga Reddy saying registration and eligibility details will be announced soon.",
+          "kind": "news",
+          "scope": "karnataka",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 1,
+              "index": 3
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "No more free meals at govt hospitals; patients to pay ₹10",
+          "blurb": "The state government ended free breakfast and lunch at government hospitals; patients must pay ₹10 per meal while staff retain free meals, with officials citing budget constraints and saying the charge will improve quality.",
+          "kind": "news",
+          "scope": "karnataka",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 1,
+              "index": 2
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "Karnataka govt to amend laws to allow CM to chair MUDA and MCC boards",
+          "blurb": "The government will amend urban development and municipal laws so the chief minister can chair MUDA and Mangaluru City Corporation boards, a move the opposition called centralisation of local governance.",
+          "kind": "news",
+          "scope": "karnataka",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 3,
+              "index": 7
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "ADB approves $280 million loan for Karnataka urban infrastructure",
+          "blurb": "The Asian Development Bank approved a $280 million loan for Karnataka urban infrastructure including water supply and transport in select cities; Mangaluru projects are among those under evaluation.",
+          "kind": "news",
+          "scope": "karnataka",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 4,
+              "index": 2
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "Mysuru Dasara begins on a grand note with CM Shivakumar, seers in attendance",
+          "blurb": "The 11-day Mysuru Dasara opened as pontiff Abhinava Gavisiddeshwara Swamiji inaugurated festivities at Chamundeshwari temple with Chief Minister D K Shivakumar present amid Vedic rituals.",
+          "kind": "news",
+          "scope": "karnataka",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 10,
+              "index": 4
+            }
+          ]
+        }
+      ]
+    },
+    "india": {
+      "label": "Top 5 — India",
+      "candidate_count": 90,
+      "selected_count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "headline": "'No detentions': SC frowns on metro, Internet disruptions too",
+          "blurb": "The Supreme Court ordered restoration of metro, train, internet and movement services in Delhi and barred illegal detentions of peaceful protesters, hearing contempt and habeas corpus petitions over closures during protests against the CEC; further hearings were scheduled.",
+          "kind": "news",
+          "scope": "india",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 1,
+              "index": 7
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "Over 3,000 more held in Bengal, says CM",
+          "blurb": "West Bengal Chief Minister Mamata Banerjee said police detained more than 3,000 additional protesters during continuing SIR-related demonstrations in the State.",
+          "kind": "news",
+          "scope": "india",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 3,
+              "index": 8
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "SC allows Delhi firecrackers only in 2-hour Deepavali window",
+          "blurb": "The Supreme Court permitted green firecrackers in Delhi only during a two-hour window on Deepavali night, reiterating curbs on pollution.",
+          "kind": "news",
+          "scope": "india",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 5,
+              "index": 8
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "Army Chief warns Pakistan against using terror infrastructure",
+          "blurb": "Army Chief General Upendra Dwivedi warned Pakistan against using terror infrastructure against India, saying the Army would respond firmly to cross-border threats.",
+          "kind": "news",
+          "scope": "india",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 3,
+              "index": 3
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "EC defends second SIR phase; 2.21 crore objections filed",
+          "blurb": "The Election Commission said more than 2.21 crore objections were filed in the second phase of special intensive revision and defended the process as transparent.",
+          "kind": "news",
+          "scope": "india",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 5,
+              "index": 3
+            }
+          ]
+        }
+      ]
+    },
+    "international": {
+      "label": "Top 5 — International",
+      "candidate_count": 40,
+      "selected_count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "headline": "Dubai high-rise fire kills 14 Indians",
+          "blurb": "Fourteen Indians were among those killed when fire swept through the Al Berjeel tower in Dubai; External Affairs Minister S Jaishankar said consular teams were assisting families and two Mangaluru-origin residents were reported missing.",
+          "kind": "news",
+          "scope": "international",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 8,
+              "index": 3
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "India, U.S. agree to cut tariff on Indian goods to 18% for 90 days",
+          "blurb": "India and the United States agreed to cut tariffs on Indian goods to 18% for 90 days as part of a trade truce, with officials saying the deal covers several tariff lines while broader negotiations continue.",
+          "kind": "news",
+          "scope": "international",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 3,
+              "index": 1
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "Saudi Arabia extends closure of airport after 12 die in Houthi attack",
+          "blurb": "Saudi Arabia extended closure of its main international airport after a Houthi missile strike on Riyadh killed 12 people and wounded more than 300, with victims including Saudi, Bangladeshi and other nationals; Donald Trump said he was weighing response options.",
+          "kind": "news",
+          "scope": "international",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 1,
+              "index": 6
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "Israel kills Hamas deputy Rawhi Mushtaha",
+          "blurb": "Israel said it killed Hamas deputy leader Rawhi Mushtaha in Gaza as fighting continued; Hamas confirmed a senior commander died in the strike.",
+          "kind": "news",
+          "scope": "international",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 6,
+              "index": 1
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "Russia launches massive attack on Kyiv",
+          "blurb": "Russia launched a large missile and drone attack on Kyiv, injuring civilians and damaging infrastructure, Ukrainian officials said.",
+          "kind": "news",
+          "scope": "international",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 6,
+              "index": 2
+            }
+          ]
+        }
+      ]
+    },
+    "sports": {
+      "label": "Top 5 — Sports",
+      "candidate_count": 16,
+      "selected_count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "headline": "Neeraj Chopra finishes second in Diamond League final",
+          "blurb": "Neeraj Chopra took silver in the javelin Diamond League final with an 86m-plus throw, missing gold by centimetres.",
+          "kind": "news",
+          "scope": "sports",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 8,
+              "index": 6
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "India vs Australia 1st Test: Gill, Rahul steady after early jolt",
+          "blurb": "Shubman Gill and KL Rahul rebuilt after early wickets on day two of the Perth Test as India replied to Australia's first innings total.",
+          "kind": "news",
+          "scope": "sports",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 8,
+              "index": 5
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "Rohit Sharma becomes fastest to 10,000 ODI runs",
+          "blurb": "Rohit Sharma reached 10,000 ODI runs in fewer innings than prior record holders, anchoring India's chase in the series opener.",
+          "kind": "news",
+          "scope": "sports",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 8,
+              "index": 7
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "PV Sindhu reaches Japan Masters semi-finals",
+          "blurb": "PV Sindhu advanced to the Japan Masters semi-finals after a straight-games win, seeking her first title of the season.",
+          "kind": "news",
+          "scope": "sports",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 8,
+              "index": 8
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "Chess prodigy Rameshbabu Praggnanandhaa wins Chennai GM event",
+          "blurb": "Rameshbabu Praggnanandhaa won a grandmaster round-robin in Chennai, adding rating points ahead of upcoming international events.",
+          "kind": "news",
+          "scope": "sports",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 8,
+              "index": 4
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

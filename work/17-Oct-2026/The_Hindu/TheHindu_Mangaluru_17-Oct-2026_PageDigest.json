@@ -1,0 +1,848 @@
+{
+  "paper": "The Hindu",
+  "edition": "Mangaluru",
+  "date": "Friday, 17 October 2026",
+  "total_pages": 22,
+  "pages_with_no_articles": [
+    1,
+    10,
+    14,
+    18,
+    20
+  ],
+  "total_articles": 104,
+  "articles": [
+    {
+      "page": 2,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Sensex, Nifty open flat",
+      "blurb": "The BSE Sensex opened flat at 84,321.54 and the Nifty at 25,809.40 in early trade on Friday amid mixed global cues."
+    },
+    {
+      "page": 2,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Firms’ FY26 revenue growth likely to be 6.5%-7.5%, says CRISIL",
+      "blurb": "CRISIL said Indian firms’ revenue growth is likely to stay in the 6.5%–7.5% band in FY26, with services and domestic consumption supporting earnings while export-linked sectors face headwinds."
+    },
+    {
+      "page": 2,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "RBI fines Karur Vysya Bank ₹66 lakh",
+      "blurb": "The Reserve Bank of India fined Karur Vysya Bank ₹66 lakh for deficiencies in regulatory compliance, the bank disclosed in an exchange filing."
+    },
+    {
+      "page": 2,
+      "index": 4,
+      "kind": "news",
+      "scope": "india",
+      "headline": "MEA official to head global affairs at Flipkart",
+      "blurb": "Flipkart appointed Ministry of External Affairs official Pragya Sharma to lead global affairs as the e-commerce firm expands cross-border operations."
+    },
+    {
+      "page": 2,
+      "index": 5,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Cautious sentiment in equity market to continue for 4-6 quarters, says Marcellus",
+      "blurb": "Marcellus Investment Managers said cautious equity sentiment could persist for four to six quarters, citing valuations and earnings visibility."
+    },
+    {
+      "page": 2,
+      "index": 6,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Govt. committed to fiscal consolidation, says Finance Ministry",
+      "blurb": "The Finance Ministry reiterated commitment to fiscal consolidation and stated that the Centre would stay on the glide path for the deficit despite spending pressures."
+    },
+    {
+      "page": 2,
+      "index": 7,
+      "kind": "news",
+      "scope": "india",
+      "headline": "RBI has no plan for dedicated gold regulator, says Das",
+      "blurb": "RBI Governor Shaktikanta Das said the central bank has no proposal to create a separate gold regulator and that existing frameworks would continue to govern the market."
+    },
+    {
+      "page": 2,
+      "index": 8,
+      "kind": "news",
+      "scope": "india",
+      "headline": "RBI to hold rates for longer, say HSBC and StanC",
+      "blurb": "HSBC and Standard Chartered economists said they expect the RBI to keep policy rates unchanged for longer as inflation stays within tolerance bands."
+    },
+    {
+      "page": 2,
+      "index": 9,
+      "kind": "news",
+      "scope": "india",
+      "headline": "RBI to conduct OMO sale of ₹25,000 cr. G-Secs on Oct. 23",
+      "blurb": "The RBI said it will conduct an open-market sale of ₹25,000 crore of government securities on October 23 to manage liquidity."
+    },
+    {
+      "page": 2,
+      "index": 10,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Bank unions seek pay revision talks with IBA",
+      "blurb": "United Forum of Bank Unions sought early wage-revision talks with the Indian Banks’ Association, citing pending settlements for public-sector bank staff."
+    },
+    {
+      "page": 2,
+      "index": 11,
+      "kind": "news",
+      "scope": "india",
+      "headline": "GIC, other insurers join $250 mn. round in Meesho",
+      "blurb": "General Insurance Corporation of India and other insurers joined a $250 million funding round in Meesho as the quick-commerce and marketplace firm raised fresh capital."
+    },
+    {
+      "page": 3,
+      "index": 1,
+      "kind": "news",
+      "scope": "international",
+      "headline": "India, U.S. agree to cut tariff on Indian goods to 18% for 90 days",
+      "blurb": "India and the United States agreed to cut tariffs on Indian goods to 18% for 90 days as part of a trade truce, with officials saying the deal covers several tariff lines while broader negotiations continue."
+    },
+    {
+      "page": 3,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Govt. forms panel under Krishna to speed up mining reform",
+      "blurb": "The Union government set up a panel under former Supreme Court judge Justice B.N. Srikrishna to recommend steps to speed up mining-sector reforms and clearance processes."
+    },
+    {
+      "page": 3,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Army Chief warns Pakistan against using terror infrastructure",
+      "blurb": "Army Chief General Upendra Dwivedi warned Pakistan against using terror infrastructure against India, saying the Army would respond firmly to cross-border threats."
+    },
+    {
+      "page": 3,
+      "index": 4,
+      "kind": "news",
+      "scope": "international",
+      "headline": "U.S. envoy to visit Kolkata on Oct. 21",
+      "blurb": "The U.S. envoy is scheduled to visit Kolkata on October 21 for diplomatic engagements, the Ministry of External Affairs said."
+    },
+    {
+      "page": 3,
+      "index": 5,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Modi, Murmu at Ganga aarti in Patna",
+      "blurb": "Prime Minister Narendra Modi and President Droupadi Murmu attended a Ganga aarti in Patna during Bihar visit events on Thursday evening."
+    },
+    {
+      "page": 3,
+      "index": 6,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Rahul to visit families of SIR protest detentions on Oct. 18",
+      "blurb": "Congress leader Rahul Gandhi will visit families of people detained during special intensive revision protests on October 18, the party announced."
+    },
+    {
+      "page": 3,
+      "index": 7,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Protests continue in Maharashtra",
+      "blurb": "Demonstrations over electoral roll revision continued in Maharashtra on Thursday with opposition parties demanding transparency from the Election Commission."
+    },
+    {
+      "page": 3,
+      "index": 8,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Over 3,000 more held in Bengal, says CM",
+      "blurb": "West Bengal Chief Minister Mamata Banerjee said police detained more than 3,000 additional protesters during continuing SIR-related demonstrations in the State."
+    },
+    {
+      "page": 3,
+      "index": 9,
+      "kind": "news",
+      "scope": "india",
+      "headline": "20 students get stuck in flooded lift in Chandigarh",
+      "blurb": "Twenty students were rescued after a lift they were in flooded during heavy rain at a coaching centre in Chandigarh; none were seriously injured."
+    },
+    {
+      "page": 4,
+      "index": 1,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Belagavi district panchayat meeting focuses on water, roads",
+      "blurb": "The Belagavi zilla panchayat meeting prioritised drinking-water schemes and road works, with members noting about ₹50 crore in central funds for rural infrastructure."
+    },
+    {
+      "page": 4,
+      "index": 2,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "D.C. asks officials to check if schools are not forcing students to attend on Dasara holiday",
+      "blurb": "Dakshina Kannada Deputy Commissioner directed officials to ensure schools do not compel students to attend classes on the Dasara holiday."
+    },
+    {
+      "page": 4,
+      "index": 3,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "BJP MLC Hartal Haladi visits Karwar SIR camp",
+      "blurb": "BJP MLC Hartal Haladi visited a special intensive revision camp in Karwar and reviewed verification of electoral rolls with local officials."
+    },
+    {
+      "page": 4,
+      "index": 4,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Congress worker dies at Belagavi protest clash",
+      "blurb": "A Congress worker died after a clash during a protest in Belagavi; police said they are investigating the circumstances and identifying those involved."
+    },
+    {
+      "page": 4,
+      "index": 5,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Prohibitory orders in Udupi for Deepavali fireworks",
+      "blurb": "Udupi district authorities issued prohibitory orders restricting fireworks in designated areas ahead of Deepavali celebrations."
+    },
+    {
+      "page": 4,
+      "index": 6,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Momentum gathers for annual Mangaluru Dasara",
+      "blurb": "Organisers said preparations for Mangaluru Dasara are in full swing with cultural programmes and processions scheduled across the city."
+    },
+    {
+      "page": 4,
+      "index": 7,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "JCI Lions Dasara at Milagres: Vishalakshi Tantri crowned",
+      "blurb": "JCI Lions Mangalore crowned Vishalakshi Tantri at the Milagres Church Dasara celebrations after a cultural pageant in the city."
+    },
+    {
+      "page": 4,
+      "index": 8,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "SRI Lankadeepa ship brings vehicles to Old Port",
+      "blurb": "The Sri Lankadeepa vessel berthed at Mangaluru Old Port with imported vehicles as port officials cleared cargo for inland movement."
+    },
+    {
+      "page": 4,
+      "index": 9,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Congress plans protest outside Raj Bhavan",
+      "blurb": "Karnataka Congress leaders planned a demonstration outside Raj Bhavan in Bengaluru over Governor-State relations and pending bills."
+    },
+    {
+      "page": 4,
+      "index": 10,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Dharam Singh writes to Governor over pending bills",
+      "blurb": "Senior Congress leader Dharam Singh wrote to the Karnataka Governor urging assent to bills passed by the State legislature that remain pending."
+    },
+    {
+      "page": 4,
+      "index": 11,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Tipu Jayanti event deferred",
+      "blurb": "The Siddaramaiah government deferred the Tipu Jayanti commemoration event amid political objections from the opposition."
+    },
+    {
+      "page": 4,
+      "index": 12,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Rowdy elements will not be spared, says Chamarajanagar SP",
+      "blurb": "Chamarajanagar Superintendent of Police warned that rowdy elements would not be spared after a series of law-and-order incidents in the district."
+    },
+    {
+      "page": 5,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Nadda meets doctors after Dharma Sansad threats",
+      "blurb": "BJP president J.P. Nadda met doctors’ representatives after threats linked to a Dharma Sansad, assuring protection for medical professionals and hospitals."
+    },
+    {
+      "page": 5,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "AAP accuses BJP of ‘fake polio drive’ in Delhi",
+      "blurb": "AAP accused the BJP of running a fake polio vaccination drive in Delhi; the BJP rejected the charge and said the immunisation programme follows Union Health Ministry protocols."
+    },
+    {
+      "page": 5,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "EC defends second SIR phase; 2.21 crore objections filed",
+      "blurb": "The Election Commission said more than 2.21 crore objections were filed in the second phase of special intensive revision and defended the process as transparent."
+    },
+    {
+      "page": 5,
+      "index": 4,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Congress asks EC to come clean on SIR",
+      "blurb": "Congress demanded the Election Commission explain SIR data discrepancies after the Central Information Commission issued a show-cause notice to the poll body."
+    },
+    {
+      "page": 5,
+      "index": 5,
+      "kind": "news",
+      "scope": "india",
+      "headline": "U.P. SIR phase from Nov. 10 in 30 districts",
+      "blurb": "Uttar Pradesh will begin the next SIR phase from November 10 across 30 districts, State election officials announced."
+    },
+    {
+      "page": 5,
+      "index": 6,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Punjab CM to meet Khattar on Nov. 4 over Punjab SIR",
+      "blurb": "Punjab Chief Minister Bhagwant Mann will meet Haryana counterpart Manohar Lal Khattar on November 4 to discuss Punjab’s special intensive revision schedule."
+    },
+    {
+      "page": 5,
+      "index": 7,
+      "kind": "news",
+      "scope": "india",
+      "headline": "CBI probe into Kalkaji temple land scam",
+      "blurb": "The CBI registered a case into alleged irregularities in Kalkaji temple land deals in Delhi following a court directive."
+    },
+    {
+      "page": 5,
+      "index": 8,
+      "kind": "news",
+      "scope": "india",
+      "headline": "SC allows Delhi firecrackers only in 2-hour Deepavali window",
+      "blurb": "The Supreme Court permitted green firecrackers in Delhi only during a two-hour window on Deepavali night, reiterating curbs on pollution."
+    },
+    {
+      "page": 5,
+      "index": 9,
+      "kind": "news",
+      "scope": "india",
+      "headline": "SC asks BCCI to act after Pakistan’s 10-wicket win",
+      "blurb": "The Supreme Court asked the BCCI to respond after Pakistan’s 10-wicket win in a bilateral context raised governance questions in a pending plea."
+    },
+    {
+      "page": 5,
+      "index": 10,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Supreme Court rejects Nithyananda order plea",
+      "blurb": "The Supreme Court rejected a plea related to an order concerning self-styled godman Nithyananda, upholding the lower court’s decision."
+    },
+    {
+      "page": 6,
+      "index": 1,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Israel kills Hamas deputy Rawhi Mushtaha",
+      "blurb": "Israel said it killed Hamas deputy leader Rawhi Mushtaha in Gaza as fighting continued; Hamas confirmed a senior commander died in the strike."
+    },
+    {
+      "page": 6,
+      "index": 2,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Russia launches massive attack on Kyiv",
+      "blurb": "Russia launched a large missile and drone attack on Kyiv, injuring civilians and damaging infrastructure, Ukrainian officials said."
+    },
+    {
+      "page": 6,
+      "index": 3,
+      "kind": "news",
+      "scope": "international",
+      "headline": "5.7 quake near Haiti",
+      "blurb": "A magnitude 5.7 earthquake struck near Haiti; authorities reported minor damage and no immediate tsunami warning."
+    },
+    {
+      "page": 6,
+      "index": 4,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Trump calls off trade talks with Canada",
+      "blurb": "U.S. President Donald Trump said he called off trade talks with Canada over tariff disputes on dairy and lumber imports."
+    },
+    {
+      "page": 6,
+      "index": 5,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Pope warns against greed",
+      "blurb": "Pope Leo XIV warned against greed and inequality in a homily, urging leaders to protect the poor amid global economic strains."
+    },
+    {
+      "page": 6,
+      "index": 6,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Hamas says it is open to talks",
+      "blurb": "Hamas said it remains open to ceasefire talks while demanding an end to the Gaza blockade, mediators in Cairo reported."
+    },
+    {
+      "page": 7,
+      "index": 1,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "ACB officers raid Town Municipal Council, arrest three",
+      "blurb": "Anti-Corruption Bureau officers raided a town municipal council office in Dakshina Kannada and arrested three officials in a bribery case."
+    },
+    {
+      "page": 7,
+      "index": 2,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "NPF leader killed in accident",
+      "blurb": "A Nagarika Hitarakshana Samiti leader died in a road accident in the district; police said the car collided with a divider on the highway."
+    },
+    {
+      "page": 7,
+      "index": 3,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Police warn against reckless driving during Deepavali",
+      "blurb": "Mangaluru City Police warned motorists against reckless and drunk driving during Deepavali, announcing checkpoints and fines."
+    },
+    {
+      "page": 7,
+      "index": 4,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Mangaluru airport to resume international operations on Oct. 19",
+      "blurb": "Mangaluru International Airport will resume international flights from October 19 after terminal upgrade work, officials said."
+    },
+    {
+      "page": 7,
+      "index": 5,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Mangalore University V.C. selected for National Education Policy awards",
+      "blurb": "Mangalore University Vice Chancellor P. Subrahmanya Yadapadithaya was selected for National Education Policy implementation awards at the institutional level."
+    },
+    {
+      "page": 7,
+      "index": 6,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "BJP to celebrate Deepavali with ration card holders",
+      "blurb": "Dakshina Kannada BJP said it will distribute sweets to ration-card holders across the district during Deepavali visits by office-bearers."
+    },
+    {
+      "page": 7,
+      "index": 7,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "District in-charge Minister to open Dasara in Subrahmanya",
+      "blurb": "District in-charge Minister U.T. Khader will inaugurate Dasara festivities at Subrahmanya temple in Dakshina Kannada."
+    },
+    {
+      "page": 7,
+      "index": 8,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Mangaluru police bust ganja racket",
+      "blurb": "City police arrested two persons and seized ganja in a raid on a racket operating near Mangaluru, an official release said."
+    },
+    {
+      "page": 7,
+      "index": 9,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Mangaluru police hold flag march",
+      "blurb": "Mangaluru City Police conducted a flag march in sensitive areas ahead of Deepavali to deter rowdy activity."
+    },
+    {
+      "page": 7,
+      "index": 10,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Mangaluru police arrest chain snatchers",
+      "blurb": "Police arrested two chain snatchers and recovered gold ornaments stolen in separate incidents in the city."
+    },
+    {
+      "page": 8,
+      "index": 1,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Govt. all set to start work on airport international terminal, says Mangaluru MP",
+      "blurb": "Mangaluru MP B. Yogeshwar said work on the international terminal at Mangaluru airport will begin soon with central and State clearances in place."
+    },
+    {
+      "page": 8,
+      "index": 2,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "No shortage of police to fight terror in Mangaluru, says City Police Commissioner",
+      "blurb": "City Police Commissioner Anupam Agarwal said Mangaluru has adequate police strength and intelligence cover to counter terror threats."
+    },
+    {
+      "page": 8,
+      "index": 3,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Cong. plans to pick 30 candidates for 2027 civic polls",
+      "blurb": "Mangaluru City Congress said it will finalise about 30 candidates for the 2027 municipal corporation elections after ward-level surveys."
+    },
+    {
+      "page": 8,
+      "index": 4,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "BJP district president Kateel on Deepavali ration outreach",
+      "blurb": "Dakshina Kannada BJP president Nalin Kumar Kateel said party workers will visit ration-card families during Deepavali with sweets and listen to grievances."
+    },
+    {
+      "page": 8,
+      "index": 5,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Anti-romeo, anti-drug and ganja drives ahead of Deepavali season",
+      "blurb": "Mangaluru police launched anti-romeo, anti-drug and anti-ganja drives in malls, beaches and student hubs before Deepavali."
+    },
+    {
+      "page": 8,
+      "index": 6,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Anti-dowry rally from Swaraj Maidan to Kadri",
+      "blurb": "The police department and NGOs organised an anti-dowry rally from Swaraj Maidan to Kadri, urging families to reject dowry demands."
+    },
+    {
+      "page": 8,
+      "index": 7,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Traffic police fine 3,760 for helmet violations in first six hours",
+      "blurb": "Mangaluru traffic police fined 3,760 two-wheeler riders for helmet violations in the first six hours of a special drive on Friday."
+    },
+    {
+      "page": 8,
+      "index": 8,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "MCC conducts 48th ward panel meeting",
+      "blurb": "Mangaluru City Corporation held the 48th ward committee meeting to review sanitation, streetlights and pending civic works."
+    },
+    {
+      "page": 9,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "SC questions States on SIR data mismatch",
+      "blurb": "The Supreme Court asked several States to explain mismatches between special intensive revision data and census figures, giving short deadlines for affidavits."
+    },
+    {
+      "page": 9,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "SC sets up panel on stray dog menace",
+      "blurb": "The Supreme Court constituted a panel to recommend measures to control stray dog attacks while balancing animal welfare laws."
+    },
+    {
+      "page": 11,
+      "index": 1,
+      "kind": "news",
+      "scope": "international",
+      "headline": "India raises concerns over U.S. military action, says Jaishankar",
+      "blurb": "External Affairs Minister S. Jaishankar said India raised concerns with the U.S. over military actions affecting regional stability during bilateral talks."
+    },
+    {
+      "page": 11,
+      "index": 2,
+      "kind": "news",
+      "scope": "international",
+      "headline": "2+2 dialogue next week, says U.S. envoy Blome",
+      "blurb": "U.S. envoy Eric Garcetti’s deputy said the India-U.S. 2+2 dialogue is scheduled next week with defence and foreign ministers meeting in Delhi."
+    },
+    {
+      "page": 11,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "CJI: Caste discrimination can be ended",
+      "blurb": "Chief Justice of India Surya Kant said caste discrimination can be ended through education and strict enforcement of constitutional equality."
+    },
+    {
+      "page": 11,
+      "index": 4,
+      "kind": "news",
+      "scope": "india",
+      "headline": "BJP in a state of deep worry, says Ajit",
+      "blurb": "NCP leader Ajit Pawar said the BJP is in deep worry ahead of local polls and accused the ruling alliance of avoiding accountability on SIR."
+    },
+    {
+      "page": 11,
+      "index": 5,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Naveen files nomination for LS seat",
+      "blurb": "Former Odisha Chief Minister Naveen Patnaik filed nomination papers for the upcoming Lok Sabha by-election in Kendrapara."
+    },
+    {
+      "page": 11,
+      "index": 6,
+      "kind": "news",
+      "scope": "india",
+      "headline": "20% reservation for women in T.N. jobs",
+      "blurb": "Tamil Nadu announced 20% horizontal reservation for women in direct recruitment to government posts, citing gender parity goals."
+    },
+    {
+      "page": 11,
+      "index": 7,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Naxalite hideout busted in Chhattisgarh",
+      "blurb": "Security forces busted a Naxalite hideout in Chhattisgarh’s Bastar region, seizing explosives and literature, police said."
+    },
+    {
+      "page": 11,
+      "index": 8,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Manipur govt. cancels agreement over Kuki burial site",
+      "blurb": "The Manipur government cancelled an agreement with Kuki groups on a burial site after protests from other communities in the valley."
+    },
+    {
+      "page": 11,
+      "index": 9,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Kerala MLA suspended for assault on fellow legislator",
+      "blurb": "The Kerala Assembly suspended an MLA for assaulting a fellow legislator inside the House; the Speaker referred the matter to a privileges panel."
+    },
+    {
+      "page": 11,
+      "index": 10,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Four arrested in Rajasthan in NCR ‘digital arrest’ case",
+      "blurb": "Rajasthan Police arrested four persons for allegedly defrauding a retired official through a ‘digital arrest’ phone scam in the NCR region."
+    },
+    {
+      "page": 12,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "NEET row: CBI charges 27 in Bihar paper leak",
+      "blurb": "The CBI filed charges against 27 people in the Bihar NEET-UG paper leak case, naming coaching centres and officials accused of distributing questions."
+    },
+    {
+      "page": 12,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "SC directs IIT-Delhi committee on NEET evaluation",
+      "blurb": "The Supreme Court asked an IIT-Delhi committee to examine NEET answer-key grievances and submit a report within a fixed timeline."
+    },
+    {
+      "page": 12,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "NEET row: Bihar STF probe continues",
+      "blurb": "Bihar’s Special Task Force said its parallel NEET leak probe continues after seizures of devices and question papers from multiple districts."
+    },
+    {
+      "page": 12,
+      "index": 4,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Education Ministry on board exam reforms",
+      "blurb": "The Education Ministry briefed stakeholders on proposed board exam reforms, emphasising competency-based questions from the next academic cycle."
+    },
+    {
+      "page": 13,
+      "index": 1,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Modi to hold 16th BRICS Summit in Kazan",
+      "blurb": "Prime Minister Narendra Modi travels to Kazan for the 16th BRICS Summit, where leaders will discuss payment systems and Global South cooperation."
+    },
+    {
+      "page": 13,
+      "index": 2,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Maldives President Muizzu meets Modi",
+      "blurb": "Maldives President Mohamed Muizzu met Prime Minister Modi on the BRICS sidelines to discuss maritime security and development aid."
+    },
+    {
+      "page": 13,
+      "index": 3,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Pakistan PM at SCO meeting",
+      "blurb": "Pakistan Prime Minister Shehbaz Sharif attended the Shanghai Cooperation Organisation meeting, calling for regional connectivity projects."
+    },
+    {
+      "page": 13,
+      "index": 4,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Jaishankar on BRICS expansion",
+      "blurb": "External Affairs Minister S. Jaishankar said BRICS expansion should reflect balanced representation without turning the bloc into an anti-West platform."
+    },
+    {
+      "page": 15,
+      "index": 1,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "RCB fans celebrate at Chinnaswamy after IPL title",
+      "blurb": "Royal Challengers Bengaluru fans filled Chinnaswamy Stadium for a victory parade after the franchise won its first IPL title."
+    },
+    {
+      "page": 15,
+      "index": 2,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Delhi Capitals women reach WPL final",
+      "blurb": "Delhi Capitals defeated Mumbai Indians to reach the Women’s Premier League final, led by a half-century from their captain."
+    },
+    {
+      "page": 15,
+      "index": 3,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Kohli hints at retirement timeline after century",
+      "blurb": "Virat Kohli said he will decide on retirement after the Australia tour, hours after scoring a century in a limited-overs fixture."
+    },
+    {
+      "page": 15,
+      "index": 4,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Prannoy advances at Denmark Open",
+      "blurb": "Indian shuttler Prannoy HS reached the Denmark Open quarter-finals with a straight-games win over a higher-ranked opponent."
+    },
+    {
+      "page": 15,
+      "index": 5,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Sunrisers Hyderabad retain Marco Jansen",
+      "blurb": "Sunrisers Hyderabad retained South African all-rounder Marco Jansen ahead of the IPL mega auction using a right-to-match card."
+    },
+    {
+      "page": 16,
+      "index": 1,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Mangaluru’s love for fish, neer dosa and chicken ghee roast",
+      "blurb": "Metro Plus profiles Mangaluru’s coastal cuisine—fish curry, neer dosa and chicken ghee roast—and lists popular eateries locals frequent during Dasara season."
+    },
+    {
+      "page": 16,
+      "index": 2,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "Recipe: Mangalorean chicken ghee roast",
+      "blurb": "The Metro Plus recipe column gives step-by-step instructions for Mangalorean chicken ghee roast with Byadgi chilli and ghee tempering."
+    },
+    {
+      "page": 16,
+      "index": 3,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Maximum temperature levels recorded in the national capital",
+      "blurb": "Delhi recorded a maximum of 32°C on Thursday, 2.2 notches below normal, and a minimum of 24.4°C, 1.4 notches above normal, IMD data show."
+    },
+    {
+      "page": 16,
+      "index": 4,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Number of migrants dead in Djibouti boat accident",
+      "blurb": "At least 109 migrants died and 116 remain missing after a boat capsized off Djibouti; about 80 survivors were rescued, a UN agency said."
+    },
+    {
+      "page": 16,
+      "index": 5,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Number of people who died in U.S. Cyclone Isaias",
+      "blurb": "Hurricane Isaias was linked to at least four deaths in the U.S. and left nearly 700,000 customers without power, AFP reported."
+    },
+    {
+      "page": 16,
+      "index": 6,
+      "kind": "opinion",
+      "scope": "india",
+      "headline": "Why UAPA demands urgent reform (Opinion)",
+      "blurb": "Gautam Bhatia argues vague UAPA membership clauses and strict bail rules have jailed activists and scholars for years without trial, citing G.N. Saibaba’s decade in prison and Bhima Koregaon cases."
+    },
+    {
+      "page": 17,
+      "index": 1,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "Global warming is turning sex reversal in frogs into extinction risk",
+      "blurb": "Hungarian research in Science Advances shows heatwaves can turn genetic female agile frogs into functional males, skewing sex ratios toward extinction risk."
+    },
+    {
+      "page": 17,
+      "index": 2,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "Jonathan, world’s oldest known land animal",
+      "blurb": "Scientists study 184-year-old Aldabra giant tortoise Jonathan on St. Helena to understand extreme longevity mechanisms."
+    },
+    {
+      "page": 17,
+      "index": 3,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "Type I and type II errors",
+      "blurb": "Vasudevan Mukunth explains false positives and false negatives in statistics, using electoral roll clean-up as an example of trade-offs."
+    },
+    {
+      "page": 19,
+      "index": 1,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Sridhar U. Achar",
+      "blurb": "Death notice for Sridhar U. Achar, 72, of Udupi, former bank officer, who died on October 15; cremation at Brahmavar with family requesting privacy."
+    },
+    {
+      "page": 21,
+      "index": 1,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "How to prevent cervical cancer",
+      "blurb": "Dr. Devika Das of KMC Manipal tells The Hindu HPV vaccination before age 14, regular screening and smoking cessation are key to preventing cervical cancer."
+    },
+    {
+      "page": 21,
+      "index": 2,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "Health roundup: dengue cases in Dakshina Kannada",
+      "blurb": "District health officials reported a slight rise in dengue cases in Dakshina Kannada and urged residents to remove stagnant water ahead of post-monsoon rains."
+    },
+    {
+      "page": 22,
+      "index": 1,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Why is Norway considering a temporary smart glasses ban?",
+      "blurb": "Haider Ali Khan reports Norway may temporarily restrict smart glasses in schools, playgrounds and healthcare settings over covert recording and facial recognition concerns."
+    }
+  ]
+}
