@@ -51,6 +51,17 @@ Do **not** expand into other leftover packs from `daily-after-digest` beyond Loc
 7. **Publish means `main`** — Firebase Hosting deploy runs on push to `main` via **Deploy viewer to Firebase Hosting** (`.github/workflows/deploy-viewer.yml`). Notify the user when that deploy succeeds.
 8. **Page-image verification is mandatory** — invented digests must not reach Top 5 or Firebase. Follow **`references/page-image-verification-gate.md`** (Gate A after each paper digest, Gate B on every Top 5 citation before commit). **Hard fail** the pipeline (no merge/deploy) if any Top 5 citation fails. **News Trail** and image-only PDFs: vision on page images only — never prior knowledge.
 
+### Permanent anti-fabrication rules (Oct 2026 incident — never waive)
+
+Root cause: News Trail scans with no text layer led to **invented** stories when extraction was empty (15 & 17 Oct 2026). See `AGENTS.md` and `docs/incidents/2026-10-18-nt-fabricated-digests.md`.
+
+1. **Never invent, infer, or fill in** a story, number, name, quote, date, or weekday. Every digest item must come from text you actually read: PDF text layer, or OCR/vision on the rendered page image.
+2. If a PDF page has **no or too little text**, render to image and read with OCR/vision. If still unreadable, write **"page unreadable"** for that page. **Never fill it in.**
+3. Each **Top 5 citation** (`paper` + `page`) must be checked against that **page image** before publish (**Gate A** and **Gate B**). Mandatory and blocking for **every paper** (Deccan Herald, The Hindu, News Trail), **every day**.
+4. **Compute weekdays from the date.** Never guess them.
+5. If **any gate fails**, do **not** merge or deploy. Report the failure instead.
+6. **Log each day's verification evidence** (page image checked, headline seen) in the **PR description**.
+
 ## Page-image verification (summary)
 
 Full rules: **`references/page-image-verification-gate.md`**.
@@ -145,6 +156,8 @@ Land on **`main`** (direct push, or PR **merged into `main`**). That push trigge
 | Sites | https://newspaper-page-digest.web.app · https://newspaper-page-digest.firebaseapp.com |
 
 Ensure Top 5 JSON paths are included so the Action’s path filters fire. Do not force-push, skip hooks, or commit secrets.
+
+If landing via **PR**, the PR description must include **Gate A / Gate B verification evidence** for that date (papers, page numbers checked, headline confirmed on image). Do not merge until gates pass.
 
 ## Step 6 — Notify when Firebase deploy completes
 

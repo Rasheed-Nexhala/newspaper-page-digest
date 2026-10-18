@@ -22,4 +22,15 @@ Follow the `daily-local-coastal-top5` skill (`.cursor/skills/daily-local-coastal
 6. Commit + land on **`main`** so **Deploy viewer to Firebase Hosting** publishes.
 7. Notify the user when deploy/merge to Firebase completes.
 
+## Permanent rules (blocking)
+
+See `AGENTS.md`. Never waive:
+
+1. **Never invent, infer, or fill in** a story, number, name, quote, date, or weekday — only PDF text layer or OCR/vision on the page image.
+2. Empty/thin text → render page → OCR/vision; if still unreadable → **"page unreadable"** — never fill in.
+3. **Gate A** (per paper) + **Gate B** (every Top 5 `paper`+`page`) on page images — DH, Hindu, NT, every day (`references/page-image-verification-gate.md`).
+4. **Weekdays from the date** — never guess.
+5. **Any gate fail** → no merge/deploy; report failure.
+6. **PR description** must log verification evidence (pages checked, headlines seen).
+
 Short summary + paths only — never paste full digests or briefs.
