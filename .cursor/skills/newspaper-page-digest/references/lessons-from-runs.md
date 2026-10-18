@@ -2,6 +2,13 @@
 
 Captured so the skill does not regress. Full rules live in `../SKILL.md` (“Hard lessons”).
 
+## Invented / wrong digests reaching Top 5 (2026-10-18)
+
+| Failure | Cause | Fix now in skill |
+|:--------|:------|:-----------------|
+| Headlines in JSON not on the printed page | Editors/parent trusted transcripts without image check | **Gate A** after assembly; **Gate B** on every Top 5 `paper`+`page` before publish (`daily-local-coastal-top5/references/page-image-verification-gate.md`) |
+| News Trail especially wrong | Image-only PDF; text invented from memory | Vision Read on page image only; check every page when cheap |
+
 ## What broke on News Trail Mangaluru 30 Aug 2026 (12 pages)
 
 | Failure | Cause | Fix now in skill |

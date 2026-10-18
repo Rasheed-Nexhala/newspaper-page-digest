@@ -15,8 +15,10 @@ description: >-
 One combined pipeline for the preferred daily pack:
 
 ```
-newspaper-page-digest → daily-local-top → coastal-katte-top5
-  → UI verify → land on main (Firebase Hosting) → notify user
+newspaper-page-digest (+ page-image Gate A per paper)
+  → daily-local-top → coastal-katte-top5
+  → page-image Gate B (Top 5 citations) → UI verify
+  → cleanup deferred page PDFs → land on main (Firebase Hosting) → notify user
 ```
 
 **Do not** invent parallel digest/ranking logic. Load and follow each child skill **exactly** (output specs, hard lessons, layouts stay in those skills).
@@ -47,6 +49,18 @@ Do **not** expand into other leftover packs from `daily-after-digest` beyond Loc
 5. **Do not run** Full Paper, YouTube, or reel script skills.
 6. **Chat replies stay short** — summaries + paths only; never paste full digests or Top 5 lists.
 7. **Publish means `main`** — Firebase Hosting deploy runs on push to `main` via **Deploy viewer to Firebase Hosting** (`.github/workflows/deploy-viewer.yml`). Notify the user when that deploy succeeds.
+8. **Page-image verification is mandatory** — invented digests must not reach Top 5 or Firebase. Follow **`references/page-image-verification-gate.md`** (Gate A after each paper digest, Gate B on every Top 5 citation before commit). **Hard fail** the pipeline (no merge/deploy) if any Top 5 citation fails. **News Trail** and image-only PDFs: vision on page images only — never prior knowledge.
+
+## Page-image verification (summary)
+
+Full rules: **`references/page-image-verification-gate.md`**.
+
+| Gate | When | Action |
+|:-----|:-----|:-------|
+| **A** | After each paper’s PageDigest assembled, **before** “paper done” | Sample pages (or every page if ≤6 pages or News Trail): Read page PDF/PNG; confirm each checked article’s digest **headline** appears on the image. Fix digest or fail the paper. |
+| **B** | After Local + Coastal Top 5 JSON exist, **before** commit/push/merge | For **every** ranked item in Local Top 5 (all buckets) and Coastal Katte Top 5: verify each `sources[]` `paper`+`page`+headline on the page image; drop/replace failures; **abort publish** if any citation still fails. |
+
+In this pipeline, **defer** `newspaper-page-digest` Step 5 cleanup (`pages/` deletion) until **Gate B** passes, so Top 5 checks can open `$WORKDIR/pages/page-NN.pdf`. Then cleanup all paper folders before commit.
 
 ## Step 1 — Newspaper page digest
 
@@ -56,8 +70,9 @@ Follow **`.cursor/skills/newspaper-page-digest/SKILL.md`** exactly (and its `ref
 2. Digest **each paper** (one paper per skill run; parallel Task subagents per PDF are fine — same pattern as `daily-full-pipeline`).
 3. Write under `work/<DD-Mon-YYYY>/<Paper_Slug>/` only; after cleanup each paper folder keeps **only** `*_PageDigest.md` + `*_PageDigest.json`.
 4. Confirm every expected paper for the day has both digest files under the **same** date folder before continuing.
+5. Run **Gate A** (`references/page-image-verification-gate.md`). Do **not** delete `pages/` yet — defer cleanup until after Gate B.
 
-If digests for this date already exist and the user did not ask to rebuild, you may keep them and continue to step 2.
+If digests for this date already exist and the user did not ask to rebuild, you may keep them and continue to step 2 **only if** Gate A was satisfied when those digests were built (or re-run Gate A on a sample now, with page PDFs re-split from source if needed).
 
 ## Step 2 — Local Top 5
 
@@ -80,6 +95,15 @@ Outputs:
 - `work/<DD-Mon-YYYY>/Coastal_Katte/CoastalKatte_Top5_<DD-Mon-YYYY>.json`
 
 Do **not** create `scripts/` or `youtube/` under `Coastal_Katte/` in this pipeline.
+
+## Step 3b — Gate B: Top 5 page-image citations
+
+Before UI verify or git commit:
+
+1. Follow **`references/page-image-verification-gate.md`** Gate B for `LocalTop5_*.json` and `CoastalKatte_Top5_*.json`.
+2. On any failure: fix PageDigest or re-rank Top 5, then re-run Gate B.
+3. If any shipped Top 5 item still fails: **stop** — do not commit, merge, or deploy. Report failing `paper` / `page` / rank.
+4. After Gate B passes: run per-paper digest cleanup (delete `pages/`, `transcripts/`, `edited/`, temps) so each paper folder keeps only `*_PageDigest.*`.
 
 ## Step 4 — Verify UI
 
@@ -133,6 +157,7 @@ Ensure Top 5 JSON paths are included so the Action’s path filters fire. Do not
 One short block:
 
 - Date and papers digested
+- Gate A / Gate B pass (pages checked; any drops/replacements)
 - Paths: each PageDigest pair, Local Top 5, Coastal Katte Top 5
 - UI verify result
 - Commit / branch / Action result

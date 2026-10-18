@@ -26,11 +26,13 @@ These failed in real runs — treat as mandatory:
 5. **Parent owns assembly.** Validate article counts page-by-page against the transcript. Fix wrong blurbs yourself from the transcript when an editor drifts. Write both digest files from verified records.
 6. **Skip front-page teasers.** Lines that are only a headline + `SEE P N` with no body are navigation, not articles — the full piece lives on the jump page. Do not emit teaser-only records on the cover.
 7. **Write digests only under `work/<DD-Mon-YYYY>/<Paper_Slug>/`.** Never next to the source PDF in Downloads (or elsewhere), never in the project root, never under `Daily_top/`. Paper slug = masthead with spaces → underscores (`The_Hindu`, `News_Trail`).
-8. **Cleanup is mandatory.** After validation, delete `pages/`, `transcripts/`, `edited/`, `tmp/`, PNGs, OCR text. Leaving intermediates behind is a failed run.
+8. **Cleanup is mandatory** (timing varies). After validation, delete `pages/`, `transcripts/`, `edited/`, `tmp/`, PNGs, OCR text — leaving intermediates behind is a failed run **once cleanup is due**. When digesting as step 1 of `daily-local-coastal-top5`, keep `pages/` until that pipeline’s **Gate B** passes (see hard lesson 15).
 9. **JSON schema is frozen.** `*_PageDigest.json` must match `references/output-spec.md` exactly — same top-level keys, same article field names/types/order of meaning. Do not rename keys, add ad-hoc fields, or drop `scope`. Downstream `daily-local-top` depends on this shape.
 10. **Scope geography carefully.** Kerala / other-state South pages are `india` (or that state's story), not `coastal_karnataka`. Coastal = Dakshina Kannada / Udupi / coastal belt outside Mangaluru city only. Mis-tags pollute Daily Top 5.
 11. **Fidelity over flourish (user relies on this).** Never invent facts, names, figures, dates, causes, or outcomes. Never add unrelated wording, metaphors, or “helpful” context that is not in the printed article. Downstream Top 5 and Coastal Katte scripts treat digests as ground truth — a wrong blurb poisons the channel.
 12. **Do not drop load-bearing facts.** In transcripts, capture the full body. In blurbs (still 1–3 sentences), keep every critical fact the article states for that story: ₹ amounts, percentages, deadlines/dates, places, officials’ names when they are the news, court/action outcomes. Prefer a dense accurate blurb over a punchy incomplete one. If the editor omits a key figure present in the transcript, the parent must fix it before writing the digest.
+13. **Page-image Gate A (mandatory).** After assembly, before marking the paper done or running cleanup: re-open page PDFs/PNGs with the **Read** tool and confirm digest headlines on checked pages appear on the image. Sample at least page 1, the busiest page, and any troubled page — or **every page** when ≤6 pages or for **News Trail** / image-only scans. **News Trail:** vision on the page image only; never confirm from memory. Full gate + Top 5 rules: `.cursor/skills/daily-local-coastal-top5/references/page-image-verification-gate.md`.
+14. **Defer cleanup in the daily Top 5 pipeline.** When this digest is step 1 of `daily-local-coastal-top5`, keep `pages/` until that skill’s **Gate B** (Top 5 citation check) passes, then run Step 5 cleanup.
 
 ## Work folder layout
 
@@ -122,6 +124,16 @@ Follow `references/output-spec.md` exactly for structure, filenames, sentinels, 
 
 Optional helper: after assembly, run `scripts/parse_digest.py` on the JSON to confirm article count and that every record has `scope`.
 
+## Step 4b — Page-image verification (Gate A)
+
+Before cleanup:
+
+1. For each page in the check set (see hard lesson 14), **Read** `$WORKDIR/pages/page-NN.pdf` (or the rendered image used for extraction).
+2. Compare each article on that page in `*_PageDigest.json` (`page`, `index`, `headline`) to the image. Headline must be visibly present for that story.
+3. On mismatch: fix records from the image (re-edit or re-extract that article), then re-check. Do not delete `pages/` until Gate A passes for the check set.
+
+If this run is **not** part of `daily-local-coastal-top5`, proceed to Step 5 cleanup immediately after Gate A.
+
 ## Step 5 — Cleanup intermediates
 
 **Only after** both `*_PageDigest.md` and `*_PageDigest.json` exist in `$WORKDIR` and have been validated (counts/scopes look right), delete everything else under that edition folder. Keep **only** those two digest files.
@@ -161,4 +173,5 @@ This skill is **one newspaper**. After every paper for the calendar day has a Pa
 - Spot-check at least one multi-figure story (infra, courts, crime) against the transcript before cleanup.
 - Every article has a valid `scope` in both Markdown sentinels and JSON.
 - Filenames, sentinels, and JSON shape follow `references/output-spec.md`.
-- After cleanup, `$WORKDIR` contains **only** the two `*_PageDigest` files (no `pages/`, `transcripts/`, `edited/`, temp PNGs, or OCR text).
+- Gate A passed for the required page sample (or all pages when required).
+- After cleanup, `$WORKDIR` contains **only** the two `*_PageDigest` files (no `pages/`, `transcripts/`, `edited/`, temp PNGs, or OCR text) — except when `pages/` is intentionally retained for `daily-local-coastal-top5` Gate B (see hard lesson 15).
