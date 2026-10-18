@@ -1,0 +1,5 @@
+# Gate B mechanical checker (gate_b_check.py)
+# System packages also required: tesseract-ocr, poppler-utils
+pypdf>=4.0
+pillow>=10.0
+pytesseract>=0.3.10

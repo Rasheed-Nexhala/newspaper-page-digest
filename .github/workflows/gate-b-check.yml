@@ -1,0 +1,131 @@
+name: Gate B Top 5 citation check
+
+# Optional mechanical Gate B when edition PDFs are available to the runner.
+# PDFs are NOT in the repo. CI skips (does not invent a pass) unless
+# GATE_B_PDF_DIR points at a directory of edition PDFs, or the optional
+# path inputs.newspaper_pdf_dir is set via workflow_dispatch / repo variable.
+#
+# Agents MUST still run gate_b_check.py locally before merge and paste stdout
+# into the PR. Missing CI PDFs ≠ Gate B pass.
+
+on:
+  pull_request:
+    paths:
+      - 'work/**/Daily_top/LocalTop5_*.json'
+      - 'work/**/Coastal_Katte/CoastalKatte_Top5_*.json'
+      - '.cursor/skills/daily-local-coastal-top5/scripts/gate_b_check.py'
+      - '.github/workflows/gate-b-check.yml'
+  workflow_dispatch:
+    inputs:
+      date_slug:
+        description: 'Date slug e.g. 14-Oct-2026 (optional; auto-detect from PR files if empty)'
+        required: false
+        default: ''
+      pdf_dir:
+        description: 'Absolute path on runner with edition PDFs (optional)'
+        required: false
+        default: ''
+
+jobs:
+  gate_b:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Resolve PDF dir
+        id: pdfs
+        env:
+          INPUT_PDF_DIR: ${{ github.event.inputs.pdf_dir }}
+          VAR_PDF_DIR: ${{ vars.GATE_B_PDF_DIR }}
+          ENV_PDF_DIR: ${{ env.GATE_B_PDF_DIR }}
+        run: |
+          set -euo pipefail
+          CANDIDATE="${INPUT_PDF_DIR:-}"
+          if [ -z "$CANDIDATE" ]; then CANDIDATE="${VAR_PDF_DIR:-}"; fi
+          if [ -z "$CANDIDATE" ]; then CANDIDATE="${ENV_PDF_DIR:-}"; fi
+          # Optional in-repo convention (usually empty — PDFs not committed)
+          if [ -z "$CANDIDATE" ] && [ -d "newspaper-pdfs" ]; then
+            CANDIDATE="newspaper-pdfs"
+          fi
+          if [ -n "$CANDIDATE" ] && [ -d "$CANDIDATE" ]; then
+            echo "available=true" >> "$GITHUB_OUTPUT"
+            echo "dir=$CANDIDATE" >> "$GITHUB_OUTPUT"
+            echo "Using PDF dir: $CANDIDATE"
+          else
+            echo "available=false" >> "$GITHUB_OUTPUT"
+            echo "dir=" >> "$GITHUB_OUTPUT"
+            echo "::notice::Gate B PDFs not available on runner (GATE_B_PDF_DIR unset / empty). CI skips mechanical check. Agents must run gate_b_check.py locally and paste stdout into the PR before merge."
+          fi
+
+      - name: Install OCR stack
+        if: steps.pdfs.outputs.available == 'true'
+        run: |
+          sudo apt-get update -qq
+          sudo DEBIAN_FRONTEND=noninteractive apt-get install -y -qq tesseract-ocr poppler-utils
+          pip install -r .cursor/skills/daily-local-coastal-top5/scripts/requirements-gate-b.txt
+
+      - name: Find Top 5 JSON for changed dates
+        if: steps.pdfs.outputs.available == 'true'
+        id: dates
+        env:
+          INPUT_DATE: ${{ github.event.inputs.date_slug }}
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          DATES=""
+          if [ -n "${INPUT_DATE:-}" ]; then
+            DATES="$INPUT_DATE"
+          else
+            # From PR file list or all work/*/Daily_top when dispatch without date
+            if [ "${{ github.event_name }}" = "pull_request" ]; then
+              mapfile -t FILES < <(gh api "repos/${{ github.repository }}/pulls/${{ github.event.pull_request.number }}/files" --paginate -q '.[].filename' || true)
+            else
+              mapfile -t FILES < <(find work -type f \( -name 'LocalTop5_*.json' -o -name 'CoastalKatte_Top5_*.json' \) 2>/dev/null | head -200)
+            fi
+            for f in "${FILES[@]:-}"; do
+              if [[ "$f" =~ work/([^/]+)/ ]]; then
+                DATES="$DATES ${BASH_REMATCH[1]}"
+              fi
+            done
+            DATES=$(echo "$DATES" | tr ' ' '\n' | grep -E '^[0-9]{2}-[A-Za-z]{3}-[0-9]{4}$' | sort -u | tr '\n' ' ')
+          fi
+          DATES=$(echo "$DATES" | xargs)
+          echo "dates=$DATES" >> "$GITHUB_OUTPUT"
+          echo "Resolved dates: ${DATES:-NONE}"
+          if [ -z "$DATES" ]; then
+            echo "::notice::No date slugs resolved; nothing to check."
+          fi
+
+      - name: Run gate_b_check.py
+        if: steps.pdfs.outputs.available == 'true' && steps.dates.outputs.dates != ''
+        env:
+          PDF_DIR: ${{ steps.pdfs.outputs.dir }}
+        run: |
+          set -euo pipefail
+          FAIL=0
+          for DATE in ${{ steps.dates.outputs.dates }}; do
+            LT="work/$DATE/Daily_top/LocalTop5_$DATE.json"
+            CK="work/$DATE/Coastal_Katte/CoastalKatte_Top5_$DATE.json"
+            ARGS=(--date "$DATE" --pdf-dir "$PDF_DIR" --force-ocr)
+            if [ -f "$LT" ]; then ARGS+=(--top5 "$LT"); fi
+            if [ -f "$CK" ]; then ARGS+=(--top5 "$CK"); fi
+            if [ ! -f "$LT" ] && [ ! -f "$CK" ]; then
+              echo "Skip $DATE — no Top5 JSON"
+              continue
+            fi
+            echo "======== Gate B $DATE ========"
+            python3 .cursor/skills/daily-local-coastal-top5/scripts/gate_b_check.py "${ARGS[@]}" \
+              || FAIL=1
+          done
+          exit $FAIL
+
+      - name: Record skip (no PDFs)
+        if: steps.pdfs.outputs.available != 'true'
+        run: |
+          echo "GATE_B_CI: SKIPPED (no PDFs). Not a pass. Agents must attach script evidence in the PR."

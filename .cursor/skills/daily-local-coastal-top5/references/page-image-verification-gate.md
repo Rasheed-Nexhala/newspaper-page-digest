@@ -41,14 +41,37 @@ Record in run notes (chat or internal): paper slug, pages checked, pass/fail. Fa
 - **Local Top 5:** all ranked items in all six buckets (`items[]` / equivalent in frozen schema).
 - **Coastal Katte Top 5:** all five ranked items (each must trace to Local Top 5 `sources`).
 
+### Mechanical checker (mandatory — fail closed)
+
+**Do not merge on verbal “I checked.”** Run the blocking script and paste its stdout into the PR:
+
+```bash
+python3 .cursor/skills/daily-local-coastal-top5/scripts/gate_b_check.py \
+  --date <DD-Mon-YYYY> \
+  --top5 work/<date>/Daily_top/LocalTop5_<date>.json \
+  --top5 work/<date>/Coastal_Katte/CoastalKatte_Top5_<date>.json \
+  --pdf-dir /path/to/edition-pdfs \
+  --force-ocr
+```
+
+- Script path / deps / CI notes: `../scripts/README-gate-b.md`
+- Exit **0** only when every citation’s headline (or substantial substring) is found on the cited page via text layer or OCR.
+- Exit **non-zero** on any miss **or** missing PDF/page for a cited paper → **no merge/deploy**.
+- Prefer `--work-dir work/<date>` when `pages/page-NN.pdf` still exist; otherwise `--pdf-dir` / `--pdf 'Paper=/path.pdf'`.
+- News Trail / scans: always `--force-ocr`.
+- **PR evidence:** full script stdout (`PASS`/`FAIL` lines + `SUMMARY` / `GATE_B:`). No script output ⇒ Gate B **not** passed.
+- CI (`.github/workflows/gate-b-check.yml`) runs the same script **only if** PDFs are available to the runner (`GATE_B_PDF_DIR` / `vars.GATE_B_PDF_DIR`). If PDFs are absent (normal — not in repo), CI **skips** and prints a notice; that skip is **not** a pass. Agents still must run locally and paste evidence.
+
+### Manual vision follow-up (still required on script FAIL or doubt)
+
 For **each** selected item, for **each** entry in `sources` (or the single source):
 
 1. Resolve `paper`, `page`, and `headline` (and rank blurb if Coastal Katte copied it).
 2. Open the **actual page image** for that paper and page number:
    - Prefer `$WORKDIR/pages/page-NN.pdf` if still present under `work/<date>/<Paper_Slug>/`.
    - Else **Read** the user’s **source combined PDF** at that page (or re-run `split_pdf.py` into a temp dir — do not commit temps).
-3. Confirm the **cited headline** (or unmistakable same story lead) is visible on that page. If the story is wrong page, wrong paper, or invented: **drop or replace** the item from the Top 5 JSON/Markdown and re-rank if needed.
-4. **Hard fail:** If any remaining Top 5 item still fails page-image check, **stop the pipeline** — do not commit, merge, or deploy. Report which `paper` / `page` / `rank` failed.
+3. Confirm the **cited headline** (or unmistakable same story lead) is visible on that page. If the story is wrong page, wrong paper, or invented: **drop or replace** the item from the Top 5 JSON/Markdown and re-rank if needed, then **re-run** `gate_b_check.py`.
+4. **Hard fail:** If any remaining Top 5 item still fails the script or page-image check, **stop the pipeline** — do not commit, merge, or deploy. Report which `paper` / `page` / `rank` failed.
 
 Gate B is **not** optional and **not** waivable for “thin news days.”
 

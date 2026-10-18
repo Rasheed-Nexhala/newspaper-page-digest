@@ -15,9 +15,10 @@ Brief reference: `docs/incidents/2026-10-18-nt-fabricated-digests.md`.
 1. **Never invent, infer, or fill in** a story, number, name, quote, date, or weekday. Every digest item must come from text you actually read: PDF text layer, or OCR/vision on the rendered page image.
 2. If a PDF page has **no or too little text**, render to image and read with OCR/vision. If still unreadable, write **“page unreadable”** for that page. **Never fill it in.**
 3. Each **Top 5 citation** (`paper` + `page`) must be checked against that **page image** before publish (**Gate A** and **Gate B**). Mandatory and blocking for **every paper** (Deccan Herald, The Hindu, News Trail), **every day**.
-4. **Compute weekdays from the date.** Never guess them.
-5. If **any gate fails**, do **not** merge or deploy. Report the failure instead.
-6. **Log each day’s verification evidence** (page image checked, headline seen) in the **PR description**.
+4. **Gate B is mechanical:** run `.cursor/skills/daily-local-coastal-top5/scripts/gate_b_check.py` before merge; paste full stdout into the PR. Exit non-zero or missing script output ⇒ **do not merge**. Verbal “I checked” is not a pass. (PDFs are usually not in-repo — agents run locally with `--pdf-dir` / `--pdf`; CI skips when PDFs are absent and that skip is **not** a pass.)
+5. **Compute weekdays from the date.** Never guess them.
+6. If **any gate fails**, do **not** merge or deploy. Report the failure instead.
+7. **Log each day’s verification evidence** (Gate B script output; page image checked, headline seen) in the **PR description**.
 
 ## Where rules are enforced in-repo
 
@@ -26,9 +27,12 @@ Brief reference: `docs/incidents/2026-10-18-nt-fabricated-digests.md`.
 | `.cursor/rules/newspaper-digest-no-invent.mdc` | Cursor project rule (always on for this repo) |
 | `.cursor/skills/daily-local-coastal-top5/SKILL.md` | Preferred daily pipeline + Gate A/B |
 | `.cursor/skills/daily-local-coastal-top5/references/page-image-verification-gate.md` | Gate A/B procedure |
+| `.cursor/skills/daily-local-coastal-top5/scripts/gate_b_check.py` | **Mechanical Gate B** — OCR/text-layer citation check; exit non-zero on miss |
+| `.cursor/skills/daily-local-coastal-top5/scripts/README-gate-b.md` | How to run Gate B + CI notes |
+| `.github/workflows/gate-b-check.yml` | Optional CI when `GATE_B_PDF_DIR` has PDFs |
 | `.cursor/skills/newspaper-page-digest/SKILL.md` | Per-paper digest + Gate A |
 | `.cursor/commands/daily-local-coastal-top5.md` | Slash command summary |
 
 ## Daily pack default
 
-Preferred pack: **`daily-local-coastal-top5`** — digest → Local Top 5 → Coastal Katte Top 5 → UI verify → land on `main` (Firebase Hosting). Do not skip Gate A or Gate B.
+Preferred pack: **`daily-local-coastal-top5`** — digest → Local Top 5 → Coastal Katte Top 5 → **`gate_b_check.py`** → UI verify → land on `main` (Firebase Hosting). Do not skip Gate A or Gate B.

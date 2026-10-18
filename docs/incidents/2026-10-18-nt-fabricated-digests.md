@@ -20,3 +20,5 @@ News Trail Mangaluru editions are **image scans** without a reliable text layer.
 ## Prevention (durable)
 
 See `AGENTS.md` and `.cursor/rules/newspaper-digest-no-invent.mdc`. Operational gates: **Gate A** (per-paper digest) and **Gate B** (every Top 5 citation) in `.cursor/skills/daily-local-coastal-top5/references/page-image-verification-gate.md`.
+
+**Gate B must be mechanical:** run `.cursor/skills/daily-local-coastal-top5/scripts/gate_b_check.py` before merge and paste stdout into the PR. Procedure-only / verbal QA was insufficient — **14 Oct** still shipped fabricated News Trail Top 5 items after “QA.” No script output ⇒ do not merge. CI may run the same script when PDFs are available (`GATE_B_PDF_DIR`); otherwise agents run locally (PDFs are not in-repo).
