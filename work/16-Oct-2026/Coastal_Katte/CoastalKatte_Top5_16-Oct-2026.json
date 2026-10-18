@@ -1,0 +1,100 @@
+{
+  "date": "Friday, 16 October 2026",
+  "date_slug": "16-Oct-2026",
+  "channel": "coastal_katte",
+  "source_local_top5": "work/16-Oct-2026/Daily_top/LocalTop5_16-Oct-2026.json",
+  "candidate_count": 15,
+  "selected_count": 5,
+  "items": [
+    {
+      "rank": 1,
+      "headline": "Hospitals fined Rs 1 lakh for operating without renewing their registration",
+      "blurb": "Deputy Commissioner Darshan H V fined KVG Dental College and Hospital in Sullia Rs 1 lakh for three years without KPME renewal over missing pollution board clearance and Omega Hospital in Mangaluru Rs 1 lakh for 18 months without fire certification, ordering audits of all district hospitals.",
+      "kind": "news",
+      "scope": "mangaluru",
+      "source_bucket": "mangaluru",
+      "local_top_rank": 1,
+      "sources": [
+        {
+          "paper": "Deccan Herald",
+          "edition": "Mangaluru",
+          "page": 4,
+          "index": 7
+        }
+      ],
+      "why_channel": "Civic accountability + ₹1 lakh fines on local hospitals affects where people seek care."
+    },
+    {
+      "rank": 2,
+      "headline": "Govt will develop coastal K'taka into world-class tourism hub: CM",
+      "blurb": "At Mahila Dasara at Uchila Mahalakshmi Temple, Shivakumar said coastal Karnataka is integral to the state's identity, acknowledged demands including Rs 35 crore for port development and kerosene subsidy, cited 1.24 crore Gruhalakshmi beneficiaries, and promised a separate coastal–Malnad tourism policy and a special park in Karkala for wood and metal crafts.",
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "source_bucket": "coastal_karnataka",
+      "local_top_rank": 3,
+      "sources": [
+        {
+          "paper": "Deccan Herald",
+          "edition": "Mangaluru",
+          "page": 4,
+          "index": 2
+        }
+      ],
+      "why_channel": "Tourism policy + Rs demands and jobs angle for coastal economy."
+    },
+    {
+      "rank": 3,
+      "headline": "75-year-old woman loses Rs 2 crore to digital arrest scam",
+      "blurb": "A 75-year-old Mangaluru woman told CEN Crime police that fraudsters posing as Mumbai police and CBI officials kept her under 'digital arrest' from September 25 and duped her of Rs 2 crore after she shared bank details and transferred money to accounts they specified.",
+      "kind": "news",
+      "scope": "mangaluru",
+      "source_bucket": "mangaluru",
+      "local_top_rank": 2,
+      "sources": [
+        {
+          "paper": "Deccan Herald",
+          "edition": "Mangaluru",
+          "page": 2,
+          "index": 10
+        }
+      ],
+      "why_channel": "Rs 2 crore cyber fraud with personal safety stakes — high share potential for Mangaluru viewers."
+    },
+    {
+      "rank": 4,
+      "headline": "We will continue to oppose SIR, says DKS",
+      "blurb": "Chief Minister D K Shivakumar at Mangaluru airport said the Congress would keep opposing Special Intensive Revision of electoral rolls and had appealed to the Supreme Court on SIR anomalies; he denied disrespect by Rahul Gandhi during the INDIA bloc march and highlighted Tulunadu's Mysuru Dasara tableau.",
+      "kind": "news",
+      "scope": "mangaluru",
+      "source_bucket": "mangaluru",
+      "local_top_rank": 4,
+      "sources": [
+        {
+          "paper": "Deccan Herald",
+          "edition": "Mangaluru",
+          "page": 4,
+          "index": 5
+        }
+      ],
+      "why_channel": "CM on SIR and voting rights at Mangaluru airport — timely political hook for coastal viewers."
+    },
+    {
+      "rank": 5,
+      "headline": "Railway, a fitting reply to age-old demand for a separate coach in Mangaluru-SC train",
+      "blurb": "South Western Railway attached a dedicated coach on the Mangaluru–Secunderabad express, meeting a long-standing demand from coastal passengers for reserved accommodation.",
+      "kind": "news",
+      "scope": "mangaluru",
+      "source_bucket": "mangaluru",
+      "local_top_rank": 5,
+      "sources": [
+        {
+          "paper": "News Trail",
+          "edition": "Mangaluru",
+          "page": 6,
+          "index": 3
+        }
+      ],
+      "why_channel": "Local daily-life impact for Mangaluru and coastal Karnataka audience."
+    }
+  ]
+}

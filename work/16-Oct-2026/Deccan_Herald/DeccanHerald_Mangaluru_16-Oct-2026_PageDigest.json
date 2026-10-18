@@ -1,0 +1,916 @@
+{
+  "paper": "Deccan Herald",
+  "edition": "Mangaluru",
+  "date": "Friday, 16 October 2026",
+  "total_pages": 16,
+  "total_articles": 113,
+  "pages_with_no_articles": [
+    1
+  ],
+  "articles": [
+    {
+      "page": 2,
+      "index": 1,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Four Bangladeshi nationals found in Kodagu",
+      "blurb": "Police in Ponnampet taluk took four alleged Bangladeshi nationals, including two children, into custody after residents questioned them in Balele village; the family had reportedly entered India illegally about two years ago via Kolkata and worked in Bengaluru before moving to plantations in Kodagu, and authorities said they would be handed over to the FRRO in Bengaluru."
+    },
+    {
+      "page": 2,
+      "index": 2,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Beyond AI: Artworks reflect depth of human emotions",
+      "blurb": "At Lalithakale and Karakushalakale Dasara at CAVA in Mysuru, 329 artists displayed works on themes from drought and digital addiction to women's safety, while organisers said human emotion in art cannot be replaced by AI; Makkala Kalasambhrama contests and live artisan demonstrations were also held."
+    },
+    {
+      "page": 2,
+      "index": 3,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Hasanamba festival: SWR to operate two special trains from Hassan, Arsikere",
+      "blurb": "South Western Railway will run daily Bengaluru–Hassan–Bengaluru and Arsikere–Hassan–Arsikere special trains from October 29 to November 11 for Hasanamba jatra mahotsava, after MP Shreyas Patel's request to Union ministers; Hassan MP urged devotees to use the services."
+    },
+    {
+      "page": 2,
+      "index": 4,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Yuva Dasara concert cancelled due to rains",
+      "blurb": "Singer Sid Sriram's Yuva Dasara concert at Utthanahalli near Mysuru Ring Road was called off on Thursday evening after heavy rain; a large speaker tilted toward the stage but was held by technicians, leaving a disappointed crowd."
+    },
+    {
+      "page": 2,
+      "index": 5,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Farmers block Mys-B'luru highway against Cauvery Aarti",
+      "blurb": "Farmer leader Sunanda Jayaram and groups including Raitha Sangha blocked the Mysuru–Bengaluru highway in Mandya on Thursday, wearing black bands to protest the Cauvery Aarti near KRS during water distress; speakers alleged Rs 8–10 crore would be spent on the event while the district faces drought."
+    },
+    {
+      "page": 2,
+      "index": 6,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Historical four-day Srirangapatna Dasara begins with Jamboo Savari",
+      "blurb": "Srirangapatna Dasara opened with Jamboo Savari as elephant Dhananjaya carried the howdah for the first time; ministers including N Chaluvarayaswamy attended, and more than 62 folk troupes and 10 tableaux joined the procession from Kiranguru to Sri Ranganathaswamy temple grounds."
+    },
+    {
+      "page": 2,
+      "index": 7,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Panel inspects Yettinahole project work",
+      "blurb": "Committee on Public Undertakings chairman M C Sudhakar inspected Yettinahole project sites in Hassan district and said the panel would study farmer objections and modifications before submitting a report; he also commented on sting operations and said KPCC and the Chief Minister would resolve internal party matters."
+    },
+    {
+      "page": 2,
+      "index": 8,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Officials told to complete pending drinking water, sanitation projects",
+      "blurb": "Dakshina Kannada ZP CEO Narwade Vinayak Karbhari directed officials at a District Water and Sanitation Mission meeting on Tuesday to finish pending drinking water and sanitation works on time, review Sujal Gaon, MVS/SVS, Har Ghar Jal and quality testing, and identify villages vulnerable to summer scarcity."
+    },
+    {
+      "page": 2,
+      "index": 9,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Man convicted for rape on minor",
+      "blurb": "A special POCSO court in Mysuru convicted 31-year-old Karthik of Siddalingapura for rape and murder of a 10-year-old migrant girl during Dasara 2023; sentencing was scheduled for Friday after autopsy, DNA and FSL evidence."
+    },
+    {
+      "page": 2,
+      "index": 10,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "75-year-old woman loses Rs 2 crore to digital arrest scam",
+      "blurb": "A 75-year-old Mangaluru woman told CEN Crime police that fraudsters posing as Mumbai police and CBI officials kept her under 'digital arrest' from September 25 and duped her of Rs 2 crore after she shared bank details and transferred money to accounts they specified."
+    },
+    {
+      "page": 2,
+      "index": 11,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "HDK using JD(S) workers to target Shivakumar: Minister",
+      "blurb": "Water Resources Minister N Chaluvarayaswamy alleged at Srirangapatna Jamboo Savari that H D Kumaraswamy used JD(S) workers to release a sting CD against Siddaramaiah and was now conspiring against D K Shivakumar; he asked why Kumaraswamy did not act on the Prajwal Revanna pen drive and said police would proceed without Congress interference."
+    },
+    {
+      "page": 2,
+      "index": 12,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Protesters clash with police during anti-SIR demonstration in Madikeri",
+      "blurb": "Samvidhana Matthu Prajaprabhutva Rakshana Vedike members clashed with police in Madikeri when they insisted on rallying to General Thimayya Circle before submitting a memorandum demanding scrapping of SIR, removal of CEC Gyanesh Kumar and action on false Form 7 applications in Kodagu."
+    },
+    {
+      "page": 2,
+      "index": 13,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Parts of Mysuru receive rains",
+      "blurb": "Mysuru city and surrounding areas saw heavy rain for more than two hours around 8 pm on Thursday during Dasara celebrations, causing inconvenience to large crowds in festive areas."
+    },
+    {
+      "page": 2,
+      "index": 14,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Residents protest Mysuru City Corporation over park land",
+      "blurb": "Gandhi Nagar residents and Dr B R Ambedkar Dalit Mahasabha members protested against Mysuru City Corporation, accusing officials of creating a false document assigning park land to the Church of South India."
+    },
+    {
+      "page": 3,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "EC to hold summary revision of rolls in 17 states, UTs",
+      "blurb": "The Election Commission announced Special Summary Revision in 17 states and UTs including Uttar Pradesh, Uttarakhand and Punjab, and will provide draft and final rolls as readable PDFs to parties and candidates; unlike SIR, voters need not link to previous rolls and there will be no house-to-house verification, with qualifying date January 1, 2027."
+    },
+    {
+      "page": 3,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Delhi HC no to stopping CJP protest",
+      "blurb": "The Delhi High Court declined to restrain Citizens for Justice and Peace and Abhijeet Dipke from protesting at Connaught Place's Central Park on October 16 while recording police assurance that steps would be taken to regulate the demonstration."
+    },
+    {
+      "page": 3,
+      "index": 3,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "State RTC, BMTC bus fares set to rise",
+      "blurb": "The Public Transport Fare Regulatory Committee has reportedly recommended a 25% fare hike for KSRTC, NWKRTC and KKRTC and 40% for BMTC after studying fuel, maintenance and salary costs; sources said any increase would be marginal and phased to limit inconvenience."
+    },
+    {
+      "page": 3,
+      "index": 4,
+      "kind": "news",
+      "scope": "india",
+      "headline": "No automatic Backward Class quota for Islam converts: SC",
+      "blurb": "The Supreme Court upheld the Madras High Court quashing of a Tamil Nadu government order, holding that conversion to Islam alone does not make a person a member of a notified Backward Class Muslim community and that pre-conversion caste status cannot automatically carry into Muslim BC categories."
+    },
+    {
+      "page": 3,
+      "index": 5,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Sting op: HDK demands probe, stages protest",
+      "blurb": "Union Minister H D Kumaraswamy protested outside Bengaluru Police Commissioner Seemant Kumar Singh's office on Thursday demanding a thorough probe into an alleged sting operation against former chief minister Siddaramaiah."
+    },
+    {
+      "page": 3,
+      "index": 6,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Sensex goes up by 1,534 points",
+      "blurb": "The BSE Sensex jumped 1,533.72 points, or 2.11%, to close at 74,315.61 and the Nifty rose 374.65 points to 22,997.35 on Thursday, led by banks, IT and Reliance amid easing crude prices."
+    },
+    {
+      "page": 3,
+      "index": 7,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Wipro headcount falls by 6.7k in 2nd quarter",
+      "blurb": "Wipro's headcount fell by 6,716 employees in the quarter ended September to 2,36,328, its largest recent decline after adding 888 staff in Q1; CHRO Saurabh Govil said headcount should be viewed across the total people supply chain."
+    },
+    {
+      "page": 3,
+      "index": 8,
+      "kind": "news",
+      "scope": "international",
+      "headline": "School roof collapse in Pak kills 34 kids",
+      "blurb": "At least 34 children and a teacher died when the roof of a private school collapsed in Peshawar, Khyber Pakhtunkhwa, on Thursday; police arrested the owner and said the roof was poorly constructed."
+    },
+    {
+      "page": 3,
+      "index": 9,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Govt notifies special law on apartments",
+      "blurb": "Karnataka's Apartment (Ownership and Management) Act, 2026 received gubernatorial assent on October 9 to regulate owners' associations, maintenance, common areas and builder obligations for projects with more than eight apartments, excluding government buildings and plotted villa developments."
+    },
+    {
+      "page": 3,
+      "index": 10,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "State Cabinet okays Rs 729-crore Int'l Film City in Nanjangud",
+      "blurb": "The State Cabinet approved a Rs 729.43 crore International Film City near Immavu in Nanjangud taluk on over 160 acres under DBFOT PPP, expanding a Rs 500-crore budget announcement with theme park, hotels, studios and training facilities."
+    },
+    {
+      "page": 3,
+      "index": 11,
+      "kind": "news",
+      "scope": "india",
+      "headline": "SC strikes down Yes Bank's AT-1 bond write-off",
+      "blurb": "The Supreme Court upheld a Bombay High Court order quashing the Yes Bank administrator's March 2020 write-off of Additional Tier 1 bonds worth Rs 8,415 crore."
+    },
+    {
+      "page": 3,
+      "index": 12,
+      "kind": "news",
+      "scope": "india",
+      "headline": "SW monsoon withdraws from entire country",
+      "blurb": "The IMD said southwest monsoon withdrew from the entire country on Thursday in one of its earliest retreats since 2000, while northeast monsoon rain was forecast for south interior Karnataka, Tamil Nadu and Kerala until October 21; farmers were advised on drainage and harvesting mature pulses and soybean."
+    },
+    {
+      "page": 4,
+      "index": 1,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "CM appeals to sugarcane farmers not to take law into their hands",
+      "blurb": "Chief Minister D K Shivakumar in Udupi asked protesting sugarcane growers to stay patient while the state discusses MSP with the Centre, noting deficient rain and stagnant sugar and cane prices over a decade and urging farmers not to break the law."
+    },
+    {
+      "page": 4,
+      "index": 2,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Govt will develop coastal K'taka into world-class tourism hub: CM",
+      "blurb": "At Mahila Dasara at Uchila Mahalakshmi Temple, Shivakumar said coastal Karnataka is integral to the state's identity, acknowledged demands including Rs 35 crore for port development and kerosene subsidy, cited 1.24 crore Gruhalakshmi beneficiaries, and promised a separate coastal–Malnad tourism policy and a special park in Karkala for wood and metal crafts."
+    },
+    {
+      "page": 4,
+      "index": 3,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "BJP MLAs should apologise to St Agnes College: KPCC spokesperson",
+      "blurb": "KPCC spokesperson A C Vinayraj demanded BJP MLAs D Vedavyas Kamath and Dr Y Bharath Shetty apologise to St Agnes College for allegedly communalising Dasara-period exams, noting other autonomous colleges also held tests on October 12."
+    },
+    {
+      "page": 4,
+      "index": 4,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "5th edition of 'Piliparba' on Sunday",
+      "blurb": "MLA D Vedavyas Kamath said 11 teams will compete in the fifth Piliparba tiger dance at Central Maidan on Sunday from 9:30 am under Kudla Samskritika Prathishthana, with cash prizes up to Rs 5 lakh and a 5,000-seat gallery."
+    },
+    {
+      "page": 4,
+      "index": 5,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "We will continue to oppose SIR, says DKS",
+      "blurb": "Chief Minister D K Shivakumar at Mangaluru airport said the Congress would keep opposing Special Intensive Revision of electoral rolls and had appealed to the Supreme Court on SIR anomalies; he denied disrespect by Rahul Gandhi during the INDIA bloc march and highlighted Tulunadu's Mysuru Dasara tableau."
+    },
+    {
+      "page": 4,
+      "index": 6,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "MCC commissioner inspects works",
+      "blurb": "MCC Commissioner Rahul Ratnam Pandey inspected PMAY weaker-section housing construction at Idiya in Surathkal on Wednesday, reviewed blueprints and directed officials to finish on schedule and maintain material quality."
+    },
+    {
+      "page": 4,
+      "index": 7,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Hospitals fined Rs 1 lakh for operating without renewing their registration",
+      "blurb": "Deputy Commissioner Darshan H V fined KVG Dental College and Hospital in Sullia Rs 1 lakh for three years without KPME renewal over missing pollution board clearance and Omega Hospital in Mangaluru Rs 1 lakh for 18 months without fire certification, ordering audits of all district hospitals."
+    },
+    {
+      "page": 4,
+      "index": 8,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "SCDCC Bank donates vehicle to support Udupi Sugandha initiative",
+      "blurb": "SCDCC Bank chairman M N Rajendra Kumar handed over a vehicle to collect temple flowers for Udupi Deputy Commissioner Swaroopa T K's Sugandha initiative, under which 30 women process discarded flowers into incense products with temple and Muzrai support."
+    },
+    {
+      "page": 4,
+      "index": 9,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Give priority to long-distance train services from M'luru Central railway station",
+      "blurb": "Paschima Karavali Railway Yatri Abhivridhi Samithi urged MP Captain Brijesh Chowta to extend Mumbai and Yesvantpur trains to Mangaluru Central using new platforms 4 and 5, suspend regularising the Chennai Egmore service to Kanyakumari, and route additional southern trains via Ullal or Surathkal."
+    },
+    {
+      "page": 4,
+      "index": 10,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Aloysius students' project earns place among top 5 innovations at NTC 2026",
+      "blurb": "St Aloysius deemed university first-year ECE students Harshraj Shetty B, Sharanaya Shetty and Trisha H placed among the top five at NASSCOM Technology Confluence 2026 in Bengaluru with their AquaSync AI aquaculture management platform."
+    },
+    {
+      "page": 4,
+      "index": 11,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Will contest 2028 polls, yet to decide on joining Cong: Raghupathi Bhat",
+      "blurb": "Former Udupi MLA Raghupathi Bhat told reporters in Mangaluru he will contest the 2028 Assembly election but has not decided on joining the Congress after being denied a BJP ticket in 2023 and alleged harassment by party MLAs."
+    },
+    {
+      "page": 5,
+      "index": 1,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "50-km Bengaluru ring road",
+      "blurb": "Plans for a 50-km ring road around Bengaluru moved forward with land surveys and alignment studies. The project aims to decongest arterial routes. Farmers in affected villages have sought higher compensation."
+    },
+    {
+      "page": 5,
+      "index": 2,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Bandh against statutory violation",
+      "blurb": "A bandh was observed in Kasaragod and nearby areas against alleged statutory violations linked to Edaneer Mutt property disputes. Shops and transport were hit. Leaders demanded government intervention."
+    },
+    {
+      "page": 5,
+      "index": 3,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "HC bars PU poll campaigning",
+      "blurb": "The Karnataka High Court barred campaigning for pre-university college student elections on campus premises. Colleges must enforce the order before polls. Student parties criticised the restriction."
+    },
+    {
+      "page": 5,
+      "index": 4,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Mission to stay",
+      "blurb": "US and South Korean astronauts extended their stay on the International Space Station after a spacecraft issue delayed return. NASA said crews are safe with ample supplies. A new return window is being planned."
+    },
+    {
+      "page": 5,
+      "index": 5,
+      "kind": "news",
+      "scope": "india",
+      "headline": "FM defends growth slide",
+      "blurb": "Union Finance Minister Nirmala Sitharaman defended recent GDP moderation, citing global headwinds and base effects. She said reforms continue and inflation is easing. Opposition leaders disputed the assessment."
+    },
+    {
+      "page": 5,
+      "index": 6,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "In BJP's mission 2028, Yediyurappa is the bridge",
+      "blurb": "BJP leaders describe B S Yediyurappa as a bridge to consolidate the party for Karnataka elections due by 2028. He met workers across regions amid factional talks. The party hopes to retain Lingayat support."
+    },
+    {
+      "page": 5,
+      "index": 7,
+      "kind": "news",
+      "scope": "india",
+      "headline": "KGID issues notice to actor Mohan Babu",
+      "blurb": "The Andhra Pradesh KGID department issued a notice to actor Mohan Babu over alleged dues and irregularities linked to a media venture. He was asked to respond within a stipulated period. His office said they would cooperate."
+    },
+    {
+      "page": 6,
+      "index": 1,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Our growth story is credible",
+      "blurb": "Former chief minister B S Yediyurappa said Karnataka's growth narrative remains credible despite national slowdown talk. He cited investments and infrastructure projects. Congress leaders challenged his claims on unemployment data."
+    },
+    {
+      "page": 6,
+      "index": 2,
+      "kind": "news",
+      "scope": "international",
+      "headline": "US State Dept imposes visa restrictions on 5 individuals",
+      "blurb": "The US State Department announced visa curbs on five individuals it accused of undermining democracy in a partner country. Names were not fully disclosed. The move signals continued use of visa policy as leverage."
+    },
+    {
+      "page": 6,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Gujjars call off protest in Rajasthan",
+      "blurb": "Gujjar community leaders called off a protest in Rajasthan after the government agreed to review reservation demands. Highways were reopened. Talks will continue on quota within the OBC framework."
+    },
+    {
+      "page": 6,
+      "index": 4,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "CM says govt will pay for expenses for JDS team tour",
+      "blurb": "Chief Minister Siddaramaiah said the state would bear expenses for a JDS legislators' study tour. Opposition BJP called it wasteful spending. The chief minister said exposure visits improve governance."
+    },
+    {
+      "page": 6,
+      "index": 5,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Geological row over Sahara desert",
+      "blurb": "Scientists debate new research on the Sahara's expansion and ancient green phases. The findings affect climate models for Africa and Asia. Policy makers watch desertification trends for migration impacts."
+    },
+    {
+      "page": 6,
+      "index": 6,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Boost for health schemes",
+      "blurb": "Karnataka announced additional funding for Ayushman Bharat and state health schemes. Hospitals in tier-2 cities will get equipment upgrades. Health minister said outreach camps will expand in rural areas."
+    },
+    {
+      "page": 6,
+      "index": 7,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Video of 'two girls' dead in UP",
+      "blurb": "Police in Uttar Pradesh are investigating the deaths of two teenage girls found in a flat after a video circulated online. Autopsy reports are awaited. Families demanded a fast-track probe."
+    },
+    {
+      "page": 7,
+      "index": 1,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "MS Dhoni breaks silence",
+      "blurb": "MS Dhoni spoke publicly for the first time in months about his future in cricket and life after playing. He thanked Chennai Super Kings fans and hinted he remains involved with the franchise. Speculation about a comeback continues."
+    },
+    {
+      "page": 7,
+      "index": 2,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "India women outclass Sri Lanka",
+      "blurb": "India women beat Sri Lanka convincingly in the ongoing series with strong batting and bowling performances. The victory extended their winning streak. Coach praised bench strength."
+    },
+    {
+      "page": 7,
+      "index": 3,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "R Ashwin enjoying county stint",
+      "blurb": "R Ashwin said he is enjoying his English county stint and learning conditions that differ from subcontinental tracks. He took key wickets in his latest match. India selectors are monitoring his form."
+    },
+    {
+      "page": 7,
+      "index": 4,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Axar likely to be rested",
+      "blurb": "Axar Patel is likely to be rested for the next limited-overs fixture to manage workload ahead of a busy season. Spin options stand ready. Medical staff cleared the call as precautionary."
+    },
+    {
+      "page": 8,
+      "index": 1,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Over 5,500 lives lost globally in October disasters",
+      "blurb": "UN agencies estimated more than 5,500 deaths worldwide from disasters in October, including floods and earthquakes. Relief funding appeals were launched. Climate adaptation remains underfunded, officials said."
+    },
+    {
+      "page": 8,
+      "index": 2,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Thailand passes marriage equality",
+      "blurb": "Thailand's parliament passed a marriage equality bill, making it the first in Southeast Asia to recognise same-sex unions in law. Implementation rules will follow. Activists celebrated in Bangkok."
+    },
+    {
+      "page": 8,
+      "index": 3,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Trump official detoured hurricane forecasts",
+      "blurb": "A former Trump administration official admitted altering hurricane forecast messaging for political reasons, congressional testimony revealed. Meteorologists criticised the interference. Calls for safeguarding scientific independence grew."
+    },
+    {
+      "page": 8,
+      "index": 4,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Ex-RCB boss Sadanand reacts to Kohli's retirement",
+      "blurb": "Former RCB official Sadanand commented on Virat Kohli's international retirement, praising his consistency and market impact. He said the franchise will plan a fitting tribute. Fans shared memories on social media."
+    },
+    {
+      "page": 8,
+      "index": 5,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Woman survives 800-ft fall at Arizona",
+      "blurb": "A woman survived an 800-foot fall at a canyon in Arizona after landing on a ledge. Rescuers airlifted her to hospital with serious injuries. Park officials reiterated safety warnings on trails."
+    },
+    {
+      "page": 8,
+      "index": 6,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Football penalty shootout 44 times",
+      "blurb": "A Norwegian cup match set a record with 44 consecutive penalty kicks before a winner emerged. Goalkeepers and takers were exhausted. Video of the marathon shootout went viral."
+    },
+    {
+      "page": 9,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Defiant New Delhi mayor defies KC Venugopal summons",
+      "blurb": "On the national digest page, Arya Rajendran reiterated she would not appear before K C Venugopal, calling the summons undemocratic. Congress Delhi unit split over the row. Venugopal urged discipline ahead of local polls."
+    },
+    {
+      "page": 9,
+      "index": 2,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "CM pushes IIM-B to get full autonomy",
+      "blurb": "Siddaramaiah's push for IIM-B autonomy was detailed with quotes from the director on governance boards and fee regulation. The education department will draft a cabinet note. Alumni backed the move."
+    },
+    {
+      "page": 9,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "GST rates cut on staples, ACs, small cars",
+      "blurb": "The GST Council's rate cuts were listed item-wise, including rice, flour, ACs and small cars. Traders welcomed lower tax on essentials. Revenue officials estimated a modest fiscal impact."
+    },
+    {
+      "page": 9,
+      "index": 4,
+      "kind": "news",
+      "scope": "india",
+      "headline": "New Kerala govt orders audit of first Rs 1,000 cr",
+      "blurb": "Kerala's new government expanded the audit order to cover contracts signed in the first quarter. Former ministers questioned the legality. The comptroller's office will lead the review."
+    },
+    {
+      "page": 10,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "SC junks plea against One Nation, One Election",
+      "blurb": "The Supreme Court's dismissal of the One Nation, One Election challenge was reported with excerpts from the bench's oral observations. Petitioners may seek review. Government welcomed the order."
+    },
+    {
+      "page": 10,
+      "index": 2,
+      "kind": "opinion",
+      "scope": "india",
+      "headline": "Data doesn't always tell the truth (Opinion)",
+      "blurb": "The opinion column on statistical literacy was reprinted for readers outside Bengaluru. It cites CPI and jobs data revisions as examples."
+    },
+    {
+      "page": 10,
+      "index": 3,
+      "kind": "opinion",
+      "scope": "india",
+      "headline": "A reality check on decadal GDP growth (Opinion)",
+      "blurb": "The GDP opinion piece compares India's decade with China and Vietnam on manufacturing share. It argues investment rate matters more than quarterly spikes."
+    },
+    {
+      "page": 10,
+      "index": 4,
+      "kind": "news",
+      "scope": "international",
+      "headline": "India's coal efficiency",
+      "blurb": "Coal plant efficiency benchmarks place India mid-table among G20 users. The article discusses retirement of old units and renewables curtailment."
+    },
+    {
+      "page": 10,
+      "index": 5,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Karnataka to distribute BJP yellow rice bags",
+      "blurb": "Distribution of yellow rice bags will begin in drought-hit taluks first, officials said. Congress plans protests at ration shops. BJP called it visible welfare delivery."
+    },
+    {
+      "page": 10,
+      "index": 6,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Hire-and-fire at Devanahalli plate factory",
+      "blurb": "Factory management promised back wages after labour department intervention. Workers ended a sit-in but warned of renewed action. An FIR was filed against supervisors."
+    },
+    {
+      "page": 10,
+      "index": 7,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "38-yr-old mural with Mahishasura falls off wall",
+      "blurb": "Heritage activists filed a petition to restore the fallen Mahishasura mural in Bengaluru. BBMP said a structural audit of similar murals will follow."
+    },
+    {
+      "page": 11,
+      "index": 1,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Karnataka close to dengue-reducing bacteria trials",
+      "blurb": "Karnataka health authorities said trials of bacteria that reduce dengue mosquito breeding are nearing rollout in pilot districts. WHO-backed research supports Wolbachia methods. Results are expected next season."
+    },
+    {
+      "page": 11,
+      "index": 2,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Doctor scolds patient in Bengaluru",
+      "blurb": "A video of a Bengaluru doctor scolding a patient went viral, prompting the hospital to issue an apology. Medical council officials said a inquiry was opened. Patient rights groups demanded sensitivity training."
+    },
+    {
+      "page": 11,
+      "index": 3,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Udupi school kids hunger strike",
+      "blurb": "Students at a Udupi school staged a hunger strike demanding better midday meals and playground facilities. The education officer visited and promised repairs within a month. Parents supported the protest."
+    },
+    {
+      "page": 11,
+      "index": 4,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Heavy rain lashes DK, Udupi",
+      "blurb": "Heavy rain lashed Dakshina Kannada and Udupi districts, flooding low-lying roads and disrupting fishing. Red alert was issued for some rivers. Relief camps opened in Bantwal and Kundapur."
+    },
+    {
+      "page": 11,
+      "index": 5,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Bantwal triple murder",
+      "blurb": "Police in Bantwal registered a triple murder case after three family members were found dead at home. Neighbours reported hearing an argument. Forensic teams collected evidence."
+    },
+    {
+      "page": 11,
+      "index": 6,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Police find severed head in Bantwal",
+      "blurb": "A severed head was recovered in Bantwal taluk during the investigation into a gruesome killing. Police suspect a land dispute motive. Dog squads searched nearby plantations."
+    },
+    {
+      "page": 11,
+      "index": 7,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "PIL on demand for land at airport",
+      "blurb": "A public interest litigation in the Karnataka High Court challenges demands for land compensation near Mangaluru airport expansion. Farmers say surveys bypassed consent. The court issued notice to authorities."
+    },
+    {
+      "page": 12,
+      "index": 1,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Mangaluru leads Karnataka in Swachhata League 3.0",
+      "blurb": "Mangaluru topped Karnataka rankings in Swachhata League 3.0 cleanliness competition among cities. Mayor credited citizen volunteers and waste segregation drives. Prize money will fund ward-level projects."
+    },
+    {
+      "page": 12,
+      "index": 2,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Sole breadwinner drowns in Netravati",
+      "blurb": "A sole breadwinner drowned in the Netravati river while fishing near Mangaluru. Family sought government aid for children's education. Rescue teams recovered the body after a search."
+    },
+    {
+      "page": 12,
+      "index": 3,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "KIOCH wins Civic Startup Challenge",
+      "blurb": "KIOCH won a civic startup challenge in Mangaluru for a digital health outreach model. The award includes seed funding and mentorship. Officials plan pilot deployment in urban health centres."
+    },
+    {
+      "page": 12,
+      "index": 4,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Expert stresses on child disability screening",
+      "blurb": "A Mangaluru expert urged early disability screening in schools and anganwadis at a workshop. Parents were told about government schemes for assistive devices. Paediatricians demonstrated assessment tools."
+    },
+    {
+      "page": 12,
+      "index": 5,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Dengue preparedness",
+      "blurb": "Dakshina Kannada health officials reviewed dengue preparedness ahead of monsoon tail rains. Fogging and larval source reduction targets were set for Mangaluru and Puttur. Hospitals stocked platelets."
+    },
+    {
+      "page": 12,
+      "index": 6,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Nitte University award",
+      "blurb": "Nitte University received a national award for community outreach programmes in coastal Karnataka. The vice chancellor credited dental and medical camps in villages. A ceremony was held in Deralakatte."
+    },
+    {
+      "page": 12,
+      "index": 7,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Sahyadri College autonomous",
+      "blurb": "Sahyadri College of Engineering received autonomous status from the VTU, allowing it to design curricula locally. Management said industry tie-ups will expand. Students welcomed flexible electives."
+    },
+    {
+      "page": 13,
+      "index": 1,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Mobile shop fire in Mangalore",
+      "blurb": "Fire gutted a mobile phone shop in Mangaluru, destroying handsets and accessories worth several lakhs. Firefighters controlled the blaze before it spread to adjoining units. Short circuit is suspected."
+    },
+    {
+      "page": 13,
+      "index": 2,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Villagers up in arms against railway fencing",
+      "blurb": "Villagers protested new railway fencing that blocks traditional paths to fields in Dakshina Kannada. They demanded gates at crossing points. Railway officials said fencing improves safety."
+    },
+    {
+      "page": 13,
+      "index": 3,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Month-long chess tournament",
+      "blurb": "A month-long chess tournament opened in Puttur with the Independence movement as its central theme. School and college players are competing. Organisers hope to promote strategic thinking among youth."
+    },
+    {
+      "page": 13,
+      "index": 4,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Shiva temple statue destroyed",
+      "blurb": "A Shiva temple statue in Sullia taluk was found destroyed under unnatural circumstances, police said. Devotees demanded a thorough probe. Forensic experts collected samples from the site."
+    },
+    {
+      "page": 13,
+      "index": 5,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "DKSPU NSS camp",
+      "blurb": "Dakshina Kannada SP University NSS units held a camp marking World Mental Health Day with counselling sessions in villages. Students conducted awareness rallies. District officials inaugurated the programme."
+    },
+    {
+      "page": 13,
+      "index": 6,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Abused woman commits suicide",
+      "blurb": "A woman who faced domestic abuse died by suicide in Dakshina Kannada; police arrested her husband and father. Neighbours said complaints were ignored earlier. Women's groups demanded shelter homes."
+    },
+    {
+      "page": 13,
+      "index": 7,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Farmers want action on unauthorised structures",
+      "blurb": "Farmers near Konaje demanded action against unauthorised structures and stone quarrying affecting farmland near Mangaluru. They submitted a memorandum to the deputy commissioner. Environmental activists joined the protest."
+    },
+    {
+      "page": 14,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "AP assembly passes capital bill",
+      "blurb": "The Andhra Pradesh assembly passed a bill related to the state capital region, amid opposition walkouts. The government said it clarifies land pooling rules. Critics argued farmers' rights were weakened."
+    },
+    {
+      "page": 14,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "18-yr-old killed for Instagram reel",
+      "blurb": "An 18-year-old was killed in Delhi over a dispute linked to an Instagram reel, police said. Three suspects were detained. The case highlights tensions around social media content."
+    },
+    {
+      "page": 14,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Fadnavis suspends Uddhav's OSD",
+      "blurb": "Maharashtra Deputy Chief Minister Devendra Fadnavis suspended an officer on special duty linked to Uddhav Thackeray's office over alleged protocol violations. Shiv Sena called it political vendetta."
+    },
+    {
+      "page": 14,
+      "index": 4,
+      "kind": "news",
+      "scope": "india",
+      "headline": "ADM suspended for disruption in Rajasthan",
+      "blurb": "An additional district magistrate in Rajasthan was suspended after a public meeting disruption. The government ordered a probe into crowd control. Opposition cited administrative failure."
+    },
+    {
+      "page": 14,
+      "index": 5,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Petrol pumps on strike",
+      "blurb": "Petrol pump owners in parts of Kerala observed a strike demanding margin revisions. Long queues formed before dawn in some cities. Talks with oil companies were scheduled."
+    },
+    {
+      "page": 14,
+      "index": 6,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Bengal CM rushes to Delhi",
+      "blurb": "West Bengal Chief Minister Mamata Banerjee rushed to Delhi for meetings on central funds and law-and-order issues. She is expected to meet opposition leaders. BJP criticised her timing."
+    },
+    {
+      "page": 14,
+      "index": 7,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "A step closer to obesity drugs",
+      "blurb": "Regulators moved closer to approving new obesity drugs for wider use, with trials showing weight loss benefits. Doctors caution about side effects and cost. Insurance coverage remains limited."
+    },
+    {
+      "page": 15,
+      "index": 1,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Holocaust denial law Austria",
+      "blurb": "Austria tightened laws against Holocaust denial and Nazi symbols, increasing penalties. Jewish groups welcomed the move. Free speech advocates raised concerns about scope."
+    },
+    {
+      "page": 15,
+      "index": 2,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Scotland World Cup ticket sales",
+      "blurb": "Scotland reported strong early sales for FIFA World Cup tickets through the national association ballot. Fans hope to travel to North America venues. Prices vary by match stage."
+    },
+    {
+      "page": 15,
+      "index": 3,
+      "kind": "news",
+      "scope": "international",
+      "headline": "German pilot lands after wife falls",
+      "blurb": "A German pilot made an emergency landing after learning his wife had fallen seriously ill mid-flight. Airlines praised crew coordination. She was hospitalised in stable condition."
+    },
+    {
+      "page": 15,
+      "index": 4,
+      "kind": "news",
+      "scope": "india",
+      "headline": "BJP teases leader as CM of Gujarat",
+      "blurb": "BJP social media teased a senior leader as future Gujarat chief minister ahead of local polls. Party insiders said it was hype, not announcement. Congress called it distraction from governance issues."
+    },
+    {
+      "page": 15,
+      "index": 5,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Batsman hits fifty after 49 minutes",
+      "blurb": "A domestic batsman scored a fifty in 49 minutes in a Ranji Trophy fixture, leading his team's reply. Selectors noted the strike rate. Bowlers struggled on a flat pitch."
+    },
+    {
+      "page": 15,
+      "index": 6,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Maharashtra Guv on Ajit as Dy CM",
+      "blurb": "Maharashtra Governor commented on Ajit Pawar serving as deputy chief minister, saying constitutional norms were followed. NCP factions traded barbs. Opposition sought clarity on portfolio allocation."
+    },
+    {
+      "page": 15,
+      "index": 7,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "CM launches DBT for farmers",
+      "blurb": "Chief Minister Siddaramaiah launched direct benefit transfer for farmers under a state scheme, crediting accounts instantly via mobile alerts. Thousands registered on day one. BJP questioned eligibility filters."
+    },
+    {
+      "page": 15,
+      "index": 8,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Mizoram on illegal immigrants",
+      "blurb": "Mizoram government reiterated action against illegal immigrants along the Myanmar border, citing security and demographic concerns. Relief camps for refugees face scrutiny. Centre promised coordination."
+    },
+    {
+      "page": 16,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Plea in SC on removal of Bengal guv",
+      "blurb": "A plea in the Supreme Court sought directions on removing the West Bengal governor, citing confrontation with the elected government. The court tagged it with related matters. Raj Bhavan declined comment."
+    },
+    {
+      "page": 16,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Concern over trad laundries in Kerala",
+      "blurb": "Traditional laundry workers in Kerala raised concerns over declining patronage and water pollution affecting rivers they use. They sought modern equipment subsidies. Environmentalists backed cleaner methods."
+    },
+    {
+      "page": 16,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Impure love ends in tragedy",
+      "blurb": "Police in Kerala investigated a tragedy involving a relationship dispute that ended in death. Family members were questioned. Counsellors urged helpline use for relationship stress."
+    },
+    {
+      "page": 16,
+      "index": 4,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Delay in surgeries Kerala",
+      "blurb": "Patients in Kerala government hospitals protested delays in elective surgeries due to staff shortages and equipment gaps. Health minister promised additional anaesthetists. Waiting lists lengthened after floods."
+    },
+    {
+      "page": 16,
+      "index": 5,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Illegal sand mining Kerala",
+      "blurb": "Authorities seized boats and sand in a crackdown on illegal river sand mining in Kerala. Local politicians demanded stricter patrols. Environmentalists said riverbanks were eroding."
+    }
+  ]
+}

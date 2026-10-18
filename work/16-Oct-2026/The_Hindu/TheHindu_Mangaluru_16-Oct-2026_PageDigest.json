@@ -1,0 +1,2266 @@
+{
+  "paper": "The Hindu",
+  "edition": "Mangaluru",
+  "date": "Friday, 16 October 2026",
+  "total_pages": 24,
+  "total_articles": 282,
+  "pages_with_no_articles": [],
+  "articles": [
+    {
+      "page": 1,
+      "index": 1,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Remove adhan from mosques in U.K., says former British PM",
+      "blurb": "Former British Prime Minister Tony Blair said mosques in the United Kingdom should stop broadcasting the adhan over loudspeakers, arguing that Britain is a Christian country and that the call to prayer should not be amplified publicly; the remarks drew criticism from Muslim leaders and commentators who defended religious expression within legal noise limits."
+    },
+    {
+      "page": 1,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Mulayam Singh Yadav’s 86th birth anniversary observed",
+      "blurb": "Political leaders and Samajwadi Party workers marked the 86th birth anniversary of late party founder Mulayam Singh Yadav with tributes recalling his role in Uttar Pradesh politics and the socialist movement."
+    },
+    {
+      "page": 1,
+      "index": 3,
+      "kind": "news",
+      "scope": "international",
+      "headline": "China to promote domestic chip makers",
+      "blurb": "Beijing outlined fresh policy support to promote domestic semiconductor manufacturers as China seeks to reduce reliance on foreign chip supplies amid tightening U.S. export controls."
+    },
+    {
+      "page": 1,
+      "index": 4,
+      "kind": "news",
+      "scope": "international",
+      "headline": "NASA’s OSIRIS-APEX set for asteroid Apophis flyby in 2029",
+      "blurb": "NASA said its OSIRIS-APEX mission is on track for a close flyby of asteroid Apophis in 2029, using the encounter to study the near-Earth object’s surface and trajectory after the spacecraft’s extended mission following the Bennu sample return."
+    },
+    {
+      "page": 1,
+      "index": 5,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Poland backs Norway on Russian drilling in Arctic waters",
+      "blurb": "Poland backed Norway’s position opposing Russian oil and gas drilling in Arctic waters, aligning with NATO allies on security and environmental concerns in the region."
+    },
+    {
+      "page": 1,
+      "index": 6,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Hong Kong fire death toll rises to 128",
+      "blurb": "Authorities in Hong Kong said the death toll from a major residential fire had risen to 128 as search and recovery operations continued and officials faced questions over building safety compliance."
+    },
+    {
+      "page": 1,
+      "index": 7,
+      "kind": "news",
+      "scope": "international",
+      "headline": "James Webb, Hubble team up for Ultraviolet Legacy Survey",
+      "blurb": "NASA said the James Webb Space Telescope and Hubble would jointly carry out an Ultraviolet Legacy Survey to combine infrared and ultraviolet data for deeper studies of star formation and galaxy evolution."
+    },
+    {
+      "page": 1,
+      "index": 8,
+      "kind": "news",
+      "scope": "international",
+      "headline": "U.N. report details scale of atrocities in Sudan war",
+      "blurb": "A United Nations report documented widespread atrocities in Sudan’s civil war, citing attacks on civilians, displacement and humanitarian access constraints as fighting between rival military factions continued."
+    },
+    {
+      "page": 1,
+      "index": 9,
+      "kind": "news",
+      "scope": "international",
+      "headline": "World Bank cuts global growth outlook in Global Economic Prospects report",
+      "blurb": "The World Bank lowered its global growth forecast in its Global Economic Prospects report, citing trade tensions, higher borrowing costs and uneven recovery across developing economies."
+    },
+    {
+      "page": 1,
+      "index": 10,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "India won the second ODI against Australia by 28 runs",
+      "blurb": "India defeated Australia by 28 runs in the second one-day international, with the visitors’ chase falling short after India posted a competitive total in the series."
+    },
+    {
+      "page": 1,
+      "index": 11,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Semi-finalists at T20 WC",
+      "blurb": "The ICC Men’s T20 World Cup semi-final line-up was set after the Super Eight stage, with India among the teams advancing to the last four."
+    },
+    {
+      "page": 2,
+      "index": 1,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "'State found absolutely no merit in the case': BSY on discharge in mining case",
+      "blurb": "Former Chief Minister B.S. Yediyurappa said the State found absolutely no merit in the illegal mining case against him after a court discharged him, and he accused political opponents of using the case to target him."
+    },
+    {
+      "page": 2,
+      "index": 2,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Chemical leak at Mangaluru factory kills one",
+      "blurb": "One worker died and others were affected after a chemical leak at a factory in Mangaluru; emergency teams contained the leak and police registered a case as authorities began a safety inspection."
+    },
+    {
+      "page": 2,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Centre exempts HC judges above 75 from declaring assets",
+      "blurb": "The Union government issued an exemption for High Court judges above 75 years from filing annual asset declarations, drawing criticism from transparency advocates."
+    },
+    {
+      "page": 2,
+      "index": 4,
+      "kind": "news",
+      "scope": "international",
+      "headline": "'Serious infringement of sovereignty': Russia on Norway oil drilling",
+      "blurb": "Moscow called Norway’s restrictions on Russian energy activity in Arctic waters a serious infringement of sovereignty and threatened counter-measures."
+    },
+    {
+      "page": 2,
+      "index": 5,
+      "kind": "news",
+      "scope": "international",
+      "headline": "'Blow to minorities': U.K. PM on museum policy",
+      "blurb": "British Prime Minister Keir Starmer’s government faced criticism over museum and heritage policies that opponents said were a blow to minority communities’ representation."
+    },
+    {
+      "page": 2,
+      "index": 6,
+      "kind": "news",
+      "scope": "india",
+      "headline": "AI to decide Mumbai BEST bus frequency",
+      "blurb": "Mumbai’s Brihanmumbai Electric Supply and Transport undertaking said it would pilot artificial intelligence tools to adjust BEST bus frequencies based on passenger demand data."
+    },
+    {
+      "page": 2,
+      "index": 7,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Counter-terrorism colour-coded markers to be placed across U.K.",
+      "blurb": "British authorities announced colour-coded counter-terrorism markers at public venues to guide emergency response, expanding a programme tested after recent attacks."
+    },
+    {
+      "page": 2,
+      "index": 8,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Puja Khedkar’s parents booked",
+      "blurb": "Police booked the parents of trainee IAS officer Puja Khedkar in connection with an investigation into alleged misuse of disability certificates and other documents."
+    },
+    {
+      "page": 2,
+      "index": 9,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Green light for ISRO-NASA joint NISAR mission",
+      "blurb": "ISRO and NASA received final clearances to launch the NISAR Earth-observation satellite, which will map ice, forests and land deformation using dual-band radar."
+    },
+    {
+      "page": 2,
+      "index": 10,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Latin American leaders’ remarks on Kashmir draw India’s ire",
+      "blurb": "India summoned diplomats after Latin American leaders made remarks on Kashmir at a regional forum, calling the statements interference in internal affairs."
+    },
+    {
+      "page": 2,
+      "index": 11,
+      "kind": "news",
+      "scope": "india",
+      "headline": "DCW flags child rights violations in Delhi adoption cases",
+      "blurb": "The Delhi Commission for Women highlighted child rights violations in pending adoption cases and asked authorities to fast-track safeguards for children in institutional care."
+    },
+    {
+      "page": 2,
+      "index": 12,
+      "kind": "news",
+      "scope": "india",
+      "headline": "SC overturns HC order jailing foster parents",
+      "blurb": "The Supreme Court set aside a High Court order that had jailed foster parents in a custody dispute, stressing due process and the child’s welfare in foster placements."
+    },
+    {
+      "page": 2,
+      "index": 13,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Delimitation Bill unfair to northeastern States: Arunachal CM",
+      "blurb": "Arunachal Pradesh Chief Minister Pema Khandu said the proposed delimitation bill would unfairly reduce representation for northeastern States in Parliament."
+    },
+    {
+      "page": 2,
+      "index": 14,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Boundary commission terms of reference sent to Tamil Nadu",
+      "blurb": "Karnataka forwarded terms of reference for an inter-State boundary commission to Tamil Nadu amid disputes over border villages and irrigation projects."
+    },
+    {
+      "page": 2,
+      "index": 15,
+      "kind": "news",
+      "scope": "india",
+      "headline": "IIT-Kanpur team develops ultra-low-cost e-band transmitter",
+      "blurb": "Researchers at IIT Kanpur demonstrated an ultra-low-cost e-band transmitter aimed at affordable 5G backhaul for rural networks."
+    },
+    {
+      "page": 2,
+      "index": 16,
+      "kind": "news",
+      "scope": "india",
+      "headline": "India’s forex reserves rise",
+      "blurb": "India’s foreign exchange reserves increased in the latest weekly data released by the Reserve Bank of India."
+    },
+    {
+      "page": 2,
+      "index": 17,
+      "kind": "news",
+      "scope": "india",
+      "headline": "ECI begins special intensive revision of electoral rolls in Tripura",
+      "blurb": "The Election Commission of India started a special intensive revision of electoral rolls in Tripura, deploying booth-level officers for door-to-door verification."
+    },
+    {
+      "page": 2,
+      "index": 18,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "India eye spin advantage in third Test against Australia",
+      "blurb": "The Indian team prepared to lean on spin bowlers for the third Test against Australia on a turning track."
+    },
+    {
+      "page": 2,
+      "index": 19,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Pandya smashes 35 off 13 balls",
+      "blurb": "Hardik Pandya hit 35 runs off 13 balls in a T20 league knock that revived his franchise’s innings."
+    },
+    {
+      "page": 2,
+      "index": 20,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Swan Lake ballet enthrals Tokyo audience",
+      "blurb": "A touring production of Swan Lake drew packed houses in Tokyo, with Japanese audiences praising the classical ballet staging."
+    },
+    {
+      "page": 3,
+      "index": 1,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Minister underlines State’s share in Mangaluru Port",
+      "blurb": "Karnataka Minister M.B. Patil underlined the State’s revenue share and development role in New Mangaluru Port while reviewing cargo and dredging plans with port officials."
+    },
+    {
+      "page": 3,
+      "index": 2,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Pipeline row: Minister Manohar Patil warns of legal action",
+      "blurb": "Minister Manohar Patil warned of legal action in a dispute over a gas pipeline route passing through farmland in north Karnataka."
+    },
+    {
+      "page": 3,
+      "index": 3,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Constitutional rights of Dalit worker violated, says Mangalore municipality bus contractor",
+      "blurb": "A Mangaluru city bus contractor alleged constitutional rights violations after a Dalit worker was barred from entering crew facilities, prompting protests and a police complaint."
+    },
+    {
+      "page": 3,
+      "index": 4,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Private University Bill passed in Karnataka Assembly",
+      "blurb": "The Karnataka Assembly passed a Private University Bill regulating new campuses, faculty standards and fee disclosure amid Opposition walkouts."
+    },
+    {
+      "page": 3,
+      "index": 5,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "10 taluk hospitals get medical gas pipeline systems in Dakshina Kannada",
+      "blurb": "Dakshina Kannada district hospital authorities said medical gas pipeline systems were commissioned at 10 taluk hospitals to improve oxygen supply during emergencies."
+    },
+    {
+      "page": 3,
+      "index": 6,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Protests after private university Bill passed in Belagavi",
+      "blurb": "Students and faculty protested in Belagavi after the private university Bill cleared the Assembly, demanding stronger public-university funding."
+    },
+    {
+      "page": 3,
+      "index": 7,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Overnight showers damage Chennakeshava temple in Somanahalli",
+      "blurb": "Heavy overnight rain damaged portions of the Chennakeshava temple at Somanahalli near Mangaluru, with archaeology officials assessing structural repairs."
+    },
+    {
+      "page": 3,
+      "index": 8,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Wall collapse in Kulai damages houses",
+      "blurb": "A retaining wall collapse in Kulai damaged adjacent houses after sustained rain; no fatalities were reported and officials promised relief surveys."
+    },
+    {
+      "page": 3,
+      "index": 9,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Tanish death: Parental neglect suspected in Talapady",
+      "blurb": "Police in Talapady suspected parental neglect in the death of toddler Tanish and referred the case to child welfare authorities for inquiry."
+    },
+    {
+      "page": 3,
+      "index": 10,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "30% of funds for Cauvery project yet to reach NWDA",
+      "blurb": "Karnataka legislators said 30% of allocated funds for a Cauvery basin project had not yet reached the National Water Development Agency, delaying canal works."
+    },
+    {
+      "page": 3,
+      "index": 11,
+      "kind": "news",
+      "scope": "india",
+      "headline": "CSIR signs engagement with Merck on pharma research",
+      "blurb": "CSIR laboratories signed a research engagement with Merck to co-develop active pharmaceutical ingredients and process chemistry."
+    },
+    {
+      "page": 3,
+      "index": 12,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Bhoota Kootas at CG Jathra in Baikampady",
+      "blurb": "Traditional bhoota koota performances featured at the CG Jathra in Baikampady, drawing devotees from coastal Karnataka."
+    },
+    {
+      "page": 3,
+      "index": 13,
+      "kind": "news",
+      "scope": "india",
+      "headline": "India, UAE begin bilateral air exercise",
+      "blurb": "Indian and UAE air forces began a bilateral exercise focusing on interoperability, refuelling and search-and-rescue drills."
+    },
+    {
+      "page": 3,
+      "index": 14,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Storm Benjamin brings floods to parts of U.K.",
+      "blurb": "Storm Benjamin brought flooding and transport cancellations to parts of the United Kingdom as authorities issued amber rain warnings."
+    },
+    {
+      "page": 4,
+      "index": 1,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Karnataka HC issues notice to govt. on Dalit worker case",
+      "blurb": "The Karnataka High Court issued notice to the State government on a petition alleging discrimination against a Dalit bus depot worker in Mangaluru."
+    },
+    {
+      "page": 4,
+      "index": 2,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Whitefield ILLEGAL IT PARK exempt from State guidance",
+      "blurb": "Bengaluru civic officials said a Whitefield IT park block was built without full compliance and remained exempt from certain State planning guidance pending review."
+    },
+    {
+      "page": 4,
+      "index": 3,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "More rain, lightning forecast; yellow alert for Bengaluru",
+      "blurb": "IMD issued a yellow alert for Bengaluru with more rain and lightning forecast as the monsoon trough remained active over south interior Karnataka."
+    },
+    {
+      "page": 4,
+      "index": 4,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Train services disrupted as track floods near KSR",
+      "blurb": "South Western Railway diverted trains after track flooding near Krantivira Sangolli Rayanna station disrupted suburban and long-distance services."
+    },
+    {
+      "page": 4,
+      "index": 5,
+      "kind": "news",
+      "scope": "kerala",
+      "headline": "Bodies of three forest watchers found in Wayanad",
+      "blurb": "Rescue teams recovered the bodies of three forest watchers missing after landslides in Wayanad as Kerala continued relief operations."
+    },
+    {
+      "page": 4,
+      "index": 6,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Fake certificate case: CS suspended over Ayush clinic claim",
+      "blurb": "Karnataka health authorities suspended a civil surgeon in a fake certificate case linked to an Ayush clinic operating without valid registration."
+    },
+    {
+      "page": 4,
+      "index": 7,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Sasikala to convene AIADMK general council meeting",
+      "blurb": "AIADMK leader V.K. Sasikala announced a general council meeting amid internal factional disputes in the party’s Tamil Nadu unit."
+    },
+    {
+      "page": 4,
+      "index": 8,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "MSME CUNEX signs incubator agreements",
+      "blurb": "Karnataka MSME CUNEX signed incubator agreements with startups in manufacturing and cleantech clusters."
+    },
+    {
+      "page": 4,
+      "index": 9,
+      "kind": "news",
+      "scope": "india",
+      "headline": "No renewal of sugar factory licences, UP govt. tells HC",
+      "blurb": "The Uttar Pradesh government told the High Court it would not renew licences of closed sugar mills that failed pollution and worker-wage compliance."
+    },
+    {
+      "page": 4,
+      "index": 10,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Trade body urges governments to conclude EU-India FTA",
+      "blurb": "An exporters’ body urged India and the European Union to conclude a free trade agreement by year-end to boost market access for textiles and engineering goods."
+    },
+    {
+      "page": 4,
+      "index": 11,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Stressed loans on the mend, says RBI",
+      "blurb": "The Reserve Bank of India said the share of stressed loans in the banking system continued to decline in the latest supervisory review."
+    },
+    {
+      "page": 4,
+      "index": 12,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Singapore charges Indian-origin executive in bribery case",
+      "blurb": "Singapore authorities charged an Indian-origin port executive in a bribery case involving vendor contracts."
+    },
+    {
+      "page": 4,
+      "index": 13,
+      "kind": "news",
+      "scope": "india",
+      "headline": "PIB warns of fake websites mimicking ministries",
+      "blurb": "The Press Information Bureau warned citizens about fake websites mimicking Union ministries and soliciting fees for bogus schemes."
+    },
+    {
+      "page": 4,
+      "index": 14,
+      "kind": "news",
+      "scope": "india",
+      "headline": "India needs rental housing push, says Sotheby’s study",
+      "blurb": "A Sotheby’s-affiliated study said India needs a structured rental housing push to absorb urban migration without overheating purchase markets."
+    },
+    {
+      "page": 4,
+      "index": 15,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Dodgers advance in NLCS",
+      "blurb": "The Los Angeles Dodgers advanced in the National League Championship Series after a comeback win."
+    },
+    {
+      "page": 5,
+      "index": 1,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Their Voice, Their Right: wheelchair users to gather at 4 p.m.",
+      "blurb": "Disability rights groups in Mangaluru scheduled a ‘Their Voice, Their Right’ gathering at 4 p.m. to demand accessible public transport and pavements."
+    },
+    {
+      "page": 5,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Centre asks U.P. govt. not to renew licences of sugar mills",
+      "blurb": "The Centre asked the Uttar Pradesh government not to renew licences of non-compliant sugar mills after worker and environmental violations."
+    },
+    {
+      "page": 5,
+      "index": 3,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Bengaluru Cantonment station is Modi’s pet project, says MLA",
+      "blurb": "A Karnataka MLA said redevelopment of Bengaluru Cantonment railway station was a pet project of Prime Minister Narendra Modi and must include commuter facilities."
+    },
+    {
+      "page": 5,
+      "index": 4,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Karnataka HC stays flat demolitions by BDA",
+      "blurb": "The Karnataka High Court stayed demolitions of apartments ordered by the Bangalore Development Authority pending hearings on occupancy certificates."
+    },
+    {
+      "page": 5,
+      "index": 5,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "PGCIL, Namma Metro work on untangling wires",
+      "blurb": "Power Grid Corporation and Namma Metro began joint work to untangle overlapping high-tension lines above Bengaluru metro corridors."
+    },
+    {
+      "page": 5,
+      "index": 6,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Darshan of Vishwaroopa at Vijaya Vitthala temple in Hampi",
+      "blurb": "Devotees thronged the Vijaya Vitthala temple in Hampi for a special Vishwaroopa darshan during the annual festival."
+    },
+    {
+      "page": 5,
+      "index": 7,
+      "kind": "news",
+      "scope": "india",
+      "headline": "PM inaugurates Uttarakhand foundation projects",
+      "blurb": "Prime Minister Narendra Modi inaugurated foundation-stone projects in Uttarakhand spanning roads, hydropower and tourism infrastructure."
+    },
+    {
+      "page": 5,
+      "index": 8,
+      "kind": "news",
+      "scope": "india",
+      "headline": "SIR row: family in Usmanabad says names wrongly deleted",
+      "blurb": "A family in Usmanabad, Maharashtra, said their names were wrongly deleted during special intensive revision of electoral rolls."
+    },
+    {
+      "page": 5,
+      "index": 9,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Unused buildings at AIIMS New Delhi to be repurposed",
+      "blurb": "AIIMS New Delhi identified unused blocks for repurposing into student hostels and research labs."
+    },
+    {
+      "page": 5,
+      "index": 10,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Amit Shah to open Constitution debate on CSTV in J&K",
+      "blurb": "Union Home Minister Amit Shah will inaugurate a Constitution debate series on CSTV in Jammu and Kashmir."
+    },
+    {
+      "page": 5,
+      "index": 11,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Top court upends I-T reassessment timelines",
+      "blurb": "The Supreme Court tightened timelines for income-tax reassessment notices, limiting open-ended scrutiny."
+    },
+    {
+      "page": 5,
+      "index": 12,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Telangana registers 1,161 custodial deaths in a decade",
+      "blurb": "Telangana reported 1,161 custodial deaths over a decade in data submitted to the National Human Rights Commission."
+    },
+    {
+      "page": 5,
+      "index": 13,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Andhra launches scheme to boost women workforce",
+      "blurb": "Andhra Pradesh launched a scheme offering childcare support and skilling stipends to increase women’s workforce participation."
+    },
+    {
+      "page": 5,
+      "index": 14,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Over 2 lakh apply for Supplementary Examinations in J&K",
+      "blurb": "More than two lakh students applied for supplementary examinations in Jammu and Kashmir boards."
+    },
+    {
+      "page": 5,
+      "index": 15,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Govt. pushes local sourcing norms for electric vehicles",
+      "blurb": "The Union government tightened local sourcing norms for electric vehicles sold under public procurement programmes."
+    },
+    {
+      "page": 5,
+      "index": 16,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Jharkhand reshuffle: finance to Hemant Soren",
+      "blurb": "Jharkhand Chief Minister Hemant Soren retained the finance portfolio in a cabinet reshuffle ahead of local body polls."
+    },
+    {
+      "page": 5,
+      "index": 17,
+      "kind": "news",
+      "scope": "kerala",
+      "headline": "Shampooing hair before visarjan puja: Kerala temple custom",
+      "blurb": "A Kerala temple clarified customs requiring devotees to shampoo hair before visarjan puja during festival season."
+    },
+    {
+      "page": 5,
+      "index": 18,
+      "kind": "news",
+      "scope": "kerala",
+      "headline": "Cloud cover from cyclonic circulations over Kerala",
+      "blurb": "Met officials said cloud cover from cyclonic circulations would bring intermittent rain over Kerala coasts."
+    },
+    {
+      "page": 5,
+      "index": 19,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Rahul scores 249 in Vijay Hazare Trophy",
+      "blurb": "Karnataka batter KL Rahul scored 249 in a Vijay Hazare Trophy league match."
+    },
+    {
+      "page": 5,
+      "index": 20,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "APDKP beat APL in Dharwad district match",
+      "blurb": "APDKP defeated APL in an inter-club match in the Dharwad district cricket league."
+    },
+    {
+      "page": 5,
+      "index": 21,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "MMCT Day 3: India A vs South Africa A",
+      "blurb": "India A and South Africa A traded wickets on day three of their four-day match at the M.Chinnaswamy Stadium."
+    },
+    {
+      "page": 6,
+      "index": 1,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Caution urged against fake election websites",
+      "blurb": "Election officials in Udupi district cautioned voters against fake websites mimicking the Election Commission during special roll revision."
+    },
+    {
+      "page": 6,
+      "index": 2,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "EC urges revision of electoral rolls in Karnataka",
+      "blurb": "The Election Commission directed Karnataka to complete pending electoral roll revision before the next poll cycle."
+    },
+    {
+      "page": 6,
+      "index": 3,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "NHAI to finalise flyover design for Mangaluru",
+      "blurb": "NHAI officials said they would finalise the design for a proposed flyover easing traffic at Mangaluru’s Nanthoor junction after public consultations."
+    },
+    {
+      "page": 6,
+      "index": 4,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Health camps under way in Yettinahole project areas",
+      "blurb": "Health departments ran camps in Yettinahole project-affected villages offering screenings and immunisation."
+    },
+    {
+      "page": 6,
+      "index": 5,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Foreign Bank chief visits DCC Bank in Brahmavara",
+      "blurb": "A foreign bank chief visited Dakshina Kannada Central Cooperative Bank in Brahmavara to discuss rural credit partnerships."
+    },
+    {
+      "page": 6,
+      "index": 6,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Bhoota Jathre near Mangaluru draws devotees",
+      "blurb": "A bhoota jathre near Mangaluru drew devotees for traditional ritual performances and community feasts."
+    },
+    {
+      "page": 6,
+      "index": 7,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Diwali celebrated in Indonesia",
+      "blurb": "Indian diaspora communities celebrated Diwali across Indonesia with temple events and cultural programmes."
+    },
+    {
+      "page": 6,
+      "index": 8,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Nirmala outlines 4 Ps for Atmanirbhar Bharat",
+      "blurb": "Finance Minister Nirmala Sitharaman outlined four pillars—production, people, planet and peace—for Atmanirbhar Bharat in a policy speech."
+    },
+    {
+      "page": 6,
+      "index": 9,
+      "kind": "news",
+      "scope": "india",
+      "headline": "UGC-NET September session postponed",
+      "blurb": "UGC postponed the September NET examination citing logistical overlaps with other national tests."
+    },
+    {
+      "page": 6,
+      "index": 10,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Australian PM Albanese discusses trade with China",
+      "blurb": "Australian Prime Minister Anthony Albanese discussed stabilising trade ties with China during a regional summit."
+    },
+    {
+      "page": 6,
+      "index": 11,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Netanyahu rejects latest Gaza ceasefire plan",
+      "blurb": "Israeli Prime Minister Benjamin Netanyahu rejected a proposed Gaza ceasefire framework, saying security conditions were not met."
+    },
+    {
+      "page": 6,
+      "index": 12,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Israeli airstrike hits Damascus suburb",
+      "blurb": "An Israeli airstrike targeted a Damascus suburb facility Israel said housed weapons transfers to Hezbollah."
+    },
+    {
+      "page": 6,
+      "index": 13,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Nadal set for competitive return",
+      "blurb": "Rafael Nadal said he was fit for a competitive return at an upcoming indoor event after injury layoff."
+    },
+    {
+      "page": 6,
+      "index": 14,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "England beat Australia in rugby league Test",
+      "blurb": "England defeated Australia in a rugby league Test marked by a dominant second-half surge."
+    },
+    {
+      "page": 7,
+      "index": 1,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Tharoor’s 103 powers Kerala to 357/3",
+      "blurb": "Rohan Tharoor scored 103 as Kerala posted 357/3 against Services in the Vijay Hazare Trophy."
+    },
+    {
+      "page": 7,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "One-third of BTech seats vacant in tier-II colleges",
+      "blurb": "AICTE data showed nearly one-third of BTech seats remained vacant in tier-II engineering colleges this admission cycle."
+    },
+    {
+      "page": 7,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Hospital waiting lounges need rethink, IIM-A study says",
+      "blurb": "An IIM Ahmedabad study said overcrowded hospital waiting lounges needed redesign for infection control and patient dignity."
+    },
+    {
+      "page": 7,
+      "index": 4,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Falkland Islands dispute back at U.N.",
+      "blurb": "Argentina and the United Kingdom clashed at the United Nations over sovereignty of the Falkland Islands."
+    },
+    {
+      "page": 7,
+      "index": 5,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Myanmar military air strike kills civilians",
+      "blurb": "A Myanmar military air strike on a village gathering killed multiple civilians, according to local monitors."
+    },
+    {
+      "page": 7,
+      "index": 6,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Iranian man charged with murder plot in U.S.",
+      "blurb": "U.S. prosecutors charged an Iranian national with plotting to kill a dissident on American soil."
+    },
+    {
+      "page": 7,
+      "index": 7,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Austria avalanche injures hikers near Daniel Craig property",
+      "blurb": "An avalanche in Austria injured hikers near property owned by actor Daniel Craig; rescue teams evacuated the group."
+    },
+    {
+      "page": 7,
+      "index": 8,
+      "kind": "news",
+      "scope": "international",
+      "headline": "China slams Taiwan leader’s Japan visit",
+      "blurb": "Beijing condemned Taiwan’s leader for visiting Japan, calling it a separatist provocation."
+    },
+    {
+      "page": 7,
+      "index": 9,
+      "kind": "news",
+      "scope": "international",
+      "headline": "U.S. says 82 nations back statement on Gaza",
+      "blurb": "Washington said 82 countries endorsed a statement calling for unimpeded humanitarian access in Gaza."
+    },
+    {
+      "page": 7,
+      "index": 10,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Nepal FM says leaders recognise common threat",
+      "blurb": "Nepal’s foreign minister said regional leaders recognised a common security threat from transnational crime networks."
+    },
+    {
+      "page": 7,
+      "index": 11,
+      "kind": "news",
+      "scope": "international",
+      "headline": "White House completes solar installation",
+      "blurb": "The White House completed a rooftop solar installation project started under a prior administration."
+    },
+    {
+      "page": 7,
+      "index": 12,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Maduro links Russian base talks to Trump outreach",
+      "blurb": "Venezuelan President Nicolás Maduro linked negotiations on a Russian naval facility to outreach from former U.S. President Donald Trump."
+    },
+    {
+      "page": 7,
+      "index": 13,
+      "kind": "opinion",
+      "scope": "india",
+      "headline": "Our Military-Industrial Complex (Opinion)",
+      "blurb": "A columnist argued India’s defence procurement still rewards imports over domestic innovation despite Atmanirbhar rhetoric."
+    },
+    {
+      "page": 7,
+      "index": 14,
+      "kind": "opinion",
+      "scope": "india",
+      "headline": "Smoke on Water, Kanha on Wheels (Opinion)",
+      "blurb": "Sudhir Suryawanshi wrote on tourism pressures in Kanha National Park and the need for regulated safaris."
+    },
+    {
+      "page": 7,
+      "index": 15,
+      "kind": "opinion",
+      "scope": "india",
+      "headline": "Families at War (Opinion)",
+      "blurb": "Shekhar Gupta’s column examined feuding political dynasties ahead of state elections."
+    },
+    {
+      "page": 8,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Kejriwal alleges illegal detention in Jahangirpuri case",
+      "blurb": "AAP leader Arvind Kejriwal alleged illegal detention of party workers during a Jahangirpuri demolition protest."
+    },
+    {
+      "page": 8,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Four Maoists surrender in Madhya Pradesh",
+      "blurb": "Four Maoists surrendered before police in Madhya Pradesh citing disillusionment with the armed movement."
+    },
+    {
+      "page": 8,
+      "index": 3,
+      "kind": "news",
+      "scope": "international",
+      "headline": "MH370 search resumes off Australia",
+      "blurb": "Malaysia and Australia resumed seabed mapping for missing flight MH370 in a new search corridor."
+    },
+    {
+      "page": 8,
+      "index": 4,
+      "kind": "news",
+      "scope": "international",
+      "headline": "SC refuses extension of remand for Filipino maid in Thailand",
+      "blurb": "India’s Supreme Court refused to extend remand for a Filipino maid embroiled in a diplomatic custody dispute in Thailand."
+    },
+    {
+      "page": 8,
+      "index": 5,
+      "kind": "news",
+      "scope": "international",
+      "headline": "U.S. approves firefighting equipment sale to Israel",
+      "blurb": "The U.S. State Department approved sale of firefighting equipment to Israel for border blaze response."
+    },
+    {
+      "page": 8,
+      "index": 6,
+      "kind": "news",
+      "scope": "international",
+      "headline": "U.S. experts question China virus gain-of-function research",
+      "blurb": "U.S. congressional experts questioned oversight of gain-of-function virus research collaborations with Chinese labs."
+    },
+    {
+      "page": 8,
+      "index": 7,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Signs of thaw in U.S.–North Korea contacts",
+      "blurb": "Analysts noted quiet diplomatic contacts suggesting a limited thaw between Washington and Pyongyang."
+    },
+    {
+      "page": 8,
+      "index": 8,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Israel military probing abuse claims in detention",
+      "blurb": "Israel’s military police opened probes into abuse claims by Palestinian detainees."
+    },
+    {
+      "page": 8,
+      "index": 9,
+      "kind": "news",
+      "scope": "international",
+      "headline": "African football chief charged with corruption",
+      "blurb": "The head of a continental football body was charged with corruption over broadcast rights deals."
+    },
+    {
+      "page": 8,
+      "index": 10,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Projection mapping show lights up Hampi monuments",
+      "blurb": "A projection mapping show illuminated Hampi monuments as part of a tourism festival."
+    },
+    {
+      "page": 8,
+      "index": 11,
+      "kind": "news",
+      "scope": "international",
+      "headline": "British Museum faces renewed Greek marbles demand",
+      "blurb": "Greece renewed calls for return of Parthenon marbles displayed at the British Museum."
+    },
+    {
+      "page": 8,
+      "index": 12,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Residents rally for ₹1,000 monthly Arakere Lake upkeep",
+      "blurb": "Bengaluru residents rallied for a ₹1,000 monthly citizen contribution to maintain Arakere Lake."
+    },
+    {
+      "page": 8,
+      "index": 13,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Troops foil infiltration bid in Handwara",
+      "blurb": "Army troops foiled an infiltration bid along the Line of Control near Handwara, Jammu and Kashmir."
+    },
+    {
+      "page": 8,
+      "index": 14,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "HC questions blanket ban on solar panels on flats",
+      "blurb": "The Karnataka High Court questioned civic rules banning rooftop solar panels on apartment blocks."
+    },
+    {
+      "page": 8,
+      "index": 15,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "AC bus shelters planned for Bengaluru",
+      "blurb": "Bengaluru Metropolitan Transport Corporation announced air-conditioned bus shelters at major junctions."
+    },
+    {
+      "page": 8,
+      "index": 16,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Going Green: rich compost from Nayandanahalli plant",
+      "blurb": "BBMP showcased compost from Nayandanahalli processing plant for urban gardening programmes."
+    },
+    {
+      "page": 8,
+      "index": 17,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Bus shelters to get Wi-Fi broadband",
+      "blurb": "A pilot will equip select Bengaluru bus shelters with free Wi-Fi broadband."
+    },
+    {
+      "page": 8,
+      "index": 18,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Demand for steel flyover at Cantonment Metro station",
+      "blurb": "Commuters demanded a steel flyover connecting Cantonment Metro station to ease peak-hour traffic."
+    },
+    {
+      "page": 9,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Army chief outlines 2045 vision for future wars",
+      "blurb": "Chief of Army Staff General Upendra Dwivedi outlined a 2045 modernisation vision stressing drones, cyber and joint theatre commands."
+    },
+    {
+      "page": 9,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Father on wrong side of law even after apology, court told",
+      "blurb": "Prosecutors told a court that a father remained liable for assault despite apologising to his daughter in a domestic violence case."
+    },
+    {
+      "page": 9,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Policies timed for Lok Sabha polls, HC observes",
+      "blurb": "A High Court observed that several welfare policies appeared timed for Lok Sabha elections, calling for non-partisan rollout."
+    },
+    {
+      "page": 9,
+      "index": 4,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Home Ministry orders crypto arrest in Nipun Sakya case",
+      "blurb": "The Union Home Ministry directed enforcement agencies to arrest accused in the Nipun Sakya crypto fraud case."
+    },
+    {
+      "page": 9,
+      "index": 5,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Nitish seeks early setting of Bihar Assembly",
+      "blurb": "Bihar Chief Minister Nitish Kumar sought an early winter session of the Assembly to pass pending bills."
+    },
+    {
+      "page": 9,
+      "index": 6,
+      "kind": "news",
+      "scope": "kerala",
+      "headline": "35 Kerala pilgrims injured in bus accident",
+      "blurb": "Thirty-five pilgrims from Kerala were injured when their bus overturned on a highway in Tamil Nadu."
+    },
+    {
+      "page": 9,
+      "index": 7,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Aid groups say Israel restricted Gaza entry",
+      "blurb": "Humanitarian agencies said Israel restricted their entry into Gaza despite ceasefire talks."
+    },
+    {
+      "page": 9,
+      "index": 8,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Australia to sell air-to-air missiles to Italy",
+      "blurb": "Australia approved export of air-to-air missiles to Italy under a defence cooperation pact."
+    },
+    {
+      "page": 9,
+      "index": 9,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Anthropologists study ancestry claims in Thiruneliyile",
+      "blurb": "Anthropologists began a study of oral ancestry claims in Thiruneliyile village in Kerala."
+    },
+    {
+      "page": 9,
+      "index": 10,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Handloom worker stabbed in Bhadohi",
+      "blurb": "A handloom worker was stabbed in Bhadohi, Uttar Pradesh, during a wage dispute."
+    },
+    {
+      "page": 9,
+      "index": 11,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Chennai researchers map idli-chutney rice bowl",
+      "blurb": "Chennai researchers mapped microbial diversity in the classic idli-chutney breakfast combination."
+    },
+    {
+      "page": 9,
+      "index": 12,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Morbi observes 48-hour bandh over AAP accused",
+      "blurb": "Morbi observed a 48-hour bandh demanding action against an AAP leader accused in a bridge collapse case."
+    },
+    {
+      "page": 9,
+      "index": 13,
+      "kind": "news",
+      "scope": "india",
+      "headline": "SGNP leopards test clear for tuberculosis",
+      "blurb": "Leopards at Sanjay Gandhi National Park tested clear for tuberculosis after a screening drive."
+    },
+    {
+      "page": 9,
+      "index": 14,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Tina McKenzie to lead NI loyalist party",
+      "blurb": "Tina McKenzie was elected leader of a Northern Ireland loyalist party ahead of assembly talks."
+    },
+    {
+      "page": 9,
+      "index": 15,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Bharat Hudani folk event in Mangaluru",
+      "blurb": "Folk artists performed Bharat Hudani songs at a cultural event in Mangaluru celebrating coastal traditions."
+    },
+    {
+      "page": 10,
+      "index": 1,
+      "kind": "news",
+      "scope": "kerala",
+      "headline": "Toddy, policy on drain: how UDF cleaned Kerala",
+      "blurb": "The UDF in Kerala highlighted toddy-tapper welfare and drain-cleaning drives as part of its local governance pitch."
+    },
+    {
+      "page": 10,
+      "index": 2,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "HC order on tree felling in Bengaluru",
+      "blurb": "The Karnataka High Court restricted tree felling for road widening until compensatory planting targets are met."
+    },
+    {
+      "page": 10,
+      "index": 3,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "IPL’s UpMove to deploy 4,000 sustainable autos",
+      "blurb": "IPL franchise UpMove said it would deploy 4,000 CNG autos for fan transport during home games."
+    },
+    {
+      "page": 10,
+      "index": 4,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Biker rams students in Amalapur; three injured",
+      "blurb": "Three students were injured when a speeding biker rammed them outside a college in Amalapur, Andhra Pradesh."
+    },
+    {
+      "page": 10,
+      "index": 5,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Youth Congress rally in Karnataka over Rajya Sabha MPs",
+      "blurb": "Karnataka Youth Congress held a rally demanding clarity on Rajya Sabha nominations from the State."
+    },
+    {
+      "page": 10,
+      "index": 6,
+      "kind": "news",
+      "scope": "india",
+      "headline": "SC seeks Railways’ response on TTE assault case",
+      "blurb": "The Supreme Court sought the Railways’ response after a TTE allegedly assaulted a passenger."
+    },
+    {
+      "page": 10,
+      "index": 7,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Ukraine drone strike hits Moscow suburb",
+      "blurb": "Ukraine claimed responsibility for a drone strike on a Moscow suburb that damaged a warehouse."
+    },
+    {
+      "page": 10,
+      "index": 8,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Bangladesh coup report roils markets",
+      "blurb": "A Wall Street Journal report on coup fears in Bangladesh roiled Dhaka markets before officials denied imminent risk."
+    },
+    {
+      "page": 10,
+      "index": 9,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Ex-chairperson’s wife dies by suicide in Punjab trust case",
+      "blurb": "The wife of a former Punjab trust chairperson died by suicide amid an ongoing fraud investigation."
+    },
+    {
+      "page": 10,
+      "index": 10,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Police detain gang over cosplay event in Manila",
+      "blurb": "Manila police detained a gang accused of robbing attendees at a cosplay convention."
+    },
+    {
+      "page": 10,
+      "index": 11,
+      "kind": "news",
+      "scope": "international",
+      "headline": "German brewery ends decade-long guessing contest",
+      "blurb": "A Bavarian brewery ended a decade-long contest after no one guessed its secret ingredient combination."
+    },
+    {
+      "page": 10,
+      "index": 12,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Youth dies of electrocution in Haveri",
+      "blurb": "A youth died of electrocution while repairing a pump in Haveri district."
+    },
+    {
+      "page": 10,
+      "index": 13,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "WFI chief suspended after wrestlers’ protest",
+      "blurb": "The Wrestling Federation of India chief was suspended following renewed protests by athletes."
+    },
+    {
+      "page": 11,
+      "index": 1,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "HC notice on Dalit discrimination on buses",
+      "blurb": "The Karnataka High Court issued notice in a suo motu plea on Dalit workers barred from bus crew rooms."
+    },
+    {
+      "page": 11,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Global investors eye Noida real estate",
+      "blurb": "Global funds committed to Noida residential projects after Uttar Pradesh eased land aggregation rules."
+    },
+    {
+      "page": 11,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Finance Ministry panel recommends crypto ban",
+      "blurb": "A Finance Ministry panel recommended banning private cryptocurrencies while allowing a digital rupee."
+    },
+    {
+      "page": 11,
+      "index": 4,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Coal Ministry clears Afghan coal imports via Pakistan",
+      "blurb": "The Coal Ministry cleared limited Afghan coal imports routed through Pakistan for northern power plants."
+    },
+    {
+      "page": 11,
+      "index": 5,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Probe into death of 17-year-old Agniveer in Bihar",
+      "blurb": "The Army ordered a probe into the death of a 17-year-old Agniveer recruit at a Bihar training centre."
+    },
+    {
+      "page": 11,
+      "index": 6,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Tribal groups seek vaccine routing autonomy",
+      "blurb": "Tribal autonomy groups sought control over vaccine delivery in remote hamlets."
+    },
+    {
+      "page": 11,
+      "index": 7,
+      "kind": "news",
+      "scope": "india",
+      "headline": "SC orders PM Awas Gramin compensation",
+      "blurb": "The Supreme Court directed timely compensation under PM Awas Gramin for families whose houses collapsed in floods."
+    },
+    {
+      "page": 11,
+      "index": 8,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Undertrial killed in Rohini court shootout",
+      "blurb": "An undertrial was killed in a shootout inside a Rohini courtroom after an accused grabbed a gun."
+    },
+    {
+      "page": 11,
+      "index": 9,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Yasin Malik fundamental rights plea in J&K HC",
+      "blurb": "Jammu and Kashmir High Court heard JKLF leader Yasin Malik’s plea on fundamental rights in detention."
+    },
+    {
+      "page": 11,
+      "index": 10,
+      "kind": "news",
+      "scope": "kerala",
+      "headline": "103-year-old disabled voter casts ballot in Kerala",
+      "blurb": "A 103-year-old disabled voter cast her ballot with assistance in a Kerala local body election."
+    },
+    {
+      "page": 11,
+      "index": 11,
+      "kind": "news",
+      "scope": "india",
+      "headline": "NLC India plans stake sell-off",
+      "blurb": "NLC India said it would sell a minority stake in a renewable subsidiary to fund expansion."
+    },
+    {
+      "page": 11,
+      "index": 12,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Belgium, France march for war memory",
+      "blurb": "Belgium and France held joint marches commemorating World War memory sites."
+    },
+    {
+      "page": 11,
+      "index": 13,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Virginia deploys troops near protest site",
+      "blurb": "Virginia deployed National Guard troops near a protest site after clashes during a political rally."
+    },
+    {
+      "page": 11,
+      "index": 14,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "EPS slams Tamil Nadu LoP relocation plan",
+      "blurb": "AIADMK’s Edappadi K. Palaniswami criticised a plan to relocate the Tamil Nadu Leader of Opposition’s office."
+    },
+    {
+      "page": 11,
+      "index": 15,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Two comedians detained in Manila",
+      "blurb": "Two comedians were detained in Manila over a satirical skit deemed offensive to authorities."
+    },
+    {
+      "page": 12,
+      "index": 1,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "New Mangaluru Port traffic rises, Minister says",
+      "blurb": "Minister M.B. Patil said cargo traffic at New Mangaluru Port rose year-on-year after berth upgrades."
+    },
+    {
+      "page": 12,
+      "index": 2,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Fake degree racket: Kasargod man held",
+      "blurb": "Police arrested a Kasargod man running a fake degree racket targeting Gulf job seekers."
+    },
+    {
+      "page": 12,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Proposal to tax Kisan Credit Card loans shelved",
+      "blurb": "The Union government shelved a proposal to tax Kisan Credit Card loans after farmer protests."
+    },
+    {
+      "page": 12,
+      "index": 4,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Tumakuru commissioner faces tree-cutting probe",
+      "blurb": "Tumakuru municipal commissioner faces probe over unauthorised tree cutting for a road project."
+    },
+    {
+      "page": 12,
+      "index": 5,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Mangaluru police cyber cell busts lockup POCSO case leak",
+      "blurb": "Mangaluru cyber police arrested staff accused of leaking POCSO case details from a station lockup."
+    },
+    {
+      "page": 12,
+      "index": 6,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Congress walkout over Dalit bus contractor issue",
+      "blurb": "Congress MLAs walked out of the Assembly demanding action in the Mangaluru Dalit bus worker case."
+    },
+    {
+      "page": 12,
+      "index": 7,
+      "kind": "news",
+      "scope": "india",
+      "headline": "ST status plea for Madiga, Meitei communities",
+      "blurb": "Delegations sought Scheduled Tribe status for Madiga and Meitei communities before a parliamentary panel."
+    },
+    {
+      "page": 12,
+      "index": 8,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Turkish MAC College hosts education fairs",
+      "blurb": "Mangaluru’s Turkish MAC College hosted education fairs for overseas admissions."
+    },
+    {
+      "page": 12,
+      "index": 9,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Balmaran panchayat gets sewerage treatment plant",
+      "blurb": "Balmaran gram panchayat commissioned a small sewerage treatment plant with State grants."
+    },
+    {
+      "page": 12,
+      "index": 10,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Saligrama health camp after poison liquor scare",
+      "blurb": "Health officials ran camps in Saligrama after a poison liquor scare hospitalized several workers."
+    },
+    {
+      "page": 12,
+      "index": 11,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "KRVU Horata demands second PU exam centres",
+      "blurb": "KRVU Horata activists demanded more second PU examination centres in rural Karnataka."
+    },
+    {
+      "page": 12,
+      "index": 12,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Anti-drug awareness programme in Sullia college",
+      "blurb": "Sullia college students attended an anti-drug awareness programme with police counsellors."
+    },
+    {
+      "page": 12,
+      "index": 13,
+      "kind": "news",
+      "scope": "india",
+      "headline": "GST collections rise in September on energy sales",
+      "blurb": "GST collections rose in September driven by energy and festival-season consumer sales."
+    },
+    {
+      "page": 12,
+      "index": 14,
+      "kind": "news",
+      "scope": "international",
+      "headline": "U.S. Chips Act board to penalise non-compliance",
+      "blurb": "The U.S. CHIPS Act board said it would penalise fabs that miss domestic production milestones."
+    },
+    {
+      "page": 12,
+      "index": 15,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Microsoft appeals UK CMA ruling on Activision",
+      "blurb": "Microsoft appealed a UK competition ruling blocking aspects of its Activision acquisition."
+    },
+    {
+      "page": 13,
+      "index": 1,
+      "kind": "news",
+      "scope": "international",
+      "headline": "U.S. Democrats push abortion pill access abroad",
+      "blurb": "U.S. Democrats introduced legislation to protect mailing abortion pills to patients abroad."
+    },
+    {
+      "page": 13,
+      "index": 2,
+      "kind": "news",
+      "scope": "kerala",
+      "headline": "Kerala HC hears triple talaq challenge",
+      "blurb": "Kerala High Court heard a challenge to triple talaq penal provisions in a matrimonial dispute."
+    },
+    {
+      "page": 13,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Ladakh activist Sonam Wangchuk detained again",
+      "blurb": "Climate activist Sonam Wangchuk was detained again during a march demanding Ladakh statehood."
+    },
+    {
+      "page": 13,
+      "index": 4,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Yemen Huthis convert soccer stadium to weapons store",
+      "blurb": "Yemen’s Huthis converted a soccer stadium into a weapons storage site, satellite images showed."
+    },
+    {
+      "page": 13,
+      "index": 5,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Cairo talks on Gaza ceasefire resume",
+      "blurb": "Egypt hosted renewed Cairo talks between Israeli and Hamas negotiators on a Gaza ceasefire."
+    },
+    {
+      "page": 14,
+      "index": 1,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Minister promises HTML access at Hubballi airport for Mangaluru flyers",
+      "blurb": "Civil aviation officials promised better HTML connectivity at Hubballi airport for Mangaluru-bound passengers."
+    },
+    {
+      "page": 14,
+      "index": 2,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Acting on fake degree racket in Kasargod",
+      "blurb": "Police expanded raids on the Kasargod fake degree racket with arrests in Mangaluru."
+    },
+    {
+      "page": 14,
+      "index": 3,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Heavy rain fills reservoirs 130% above normal",
+      "blurb": "Karnataka reservoirs held 130% above normal storage after heavy rain in the catchment."
+    },
+    {
+      "page": 14,
+      "index": 4,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Gas pipeline row: Minister warns landowners",
+      "blurb": "Minister Manohar Patil warned landowners obstructing a sanctioned gas pipeline in north Karnataka."
+    },
+    {
+      "page": 14,
+      "index": 5,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Private University Bill faces constitutionality challenge",
+      "blurb": "Advocates filed challenges to the Private University Bill’s constitutionality in High Court."
+    },
+    {
+      "page": 14,
+      "index": 6,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Child rights panel hears Mangaluru bus contractor case",
+      "blurb": "The child rights commission heard the Mangaluru municipality bus contractor discrimination case."
+    },
+    {
+      "page": 14,
+      "index": 7,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Temple repairs after rain in Somanahalli, Kulai",
+      "blurb": "Hindu religious trusts began repairs at rain-damaged temples in Somanahalli and Kulai."
+    },
+    {
+      "page": 14,
+      "index": 8,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Talapady police submit Tanish death report",
+      "blurb": "Talapady police submitted a parental neglect report in toddler Tanish’s death to child welfare officials."
+    },
+    {
+      "page": 14,
+      "index": 9,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Centre-back Kaufman anchors defence for club",
+      "blurb": "Profile of centre-back Kaufman, who anchors his club’s defence in a European league."
+    },
+    {
+      "page": 14,
+      "index": 10,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "5G services launched at DCC Bank Brahmavara",
+      "blurb": "5G connectivity was launched at Dakshina Kannada Central Cooperative Bank’s Brahmavara branch."
+    },
+    {
+      "page": 15,
+      "index": 1,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Yettinahole areas host health funfairs",
+      "blurb": "Funfairs with health screenings continued in Yettinahole project villages."
+    },
+    {
+      "page": 15,
+      "index": 2,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Udupi MP reviews Urja water supply missions",
+      "blurb": "Udupi MP reviewed Urja drinking water supply missions in coastal taluks."
+    },
+    {
+      "page": 15,
+      "index": 3,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Dharmasthala scholarships for 8,000 students",
+      "blurb": "The Dharmasthala trust announced scholarships for 8,000 students from coastal districts."
+    },
+    {
+      "page": 15,
+      "index": 4,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "Documentary Chasing Paradise screens in Mangaluru",
+      "blurb": "Roopa Barua’s documentary Chasing Paradise screened in Mangaluru on migrant workers in the Gulf."
+    },
+    {
+      "page": 15,
+      "index": 5,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "ICC T20 WC semi-final teams train",
+      "blurb": "T20 World Cup semi-finalists held closed training sessions ahead of knockout games."
+    },
+    {
+      "page": 15,
+      "index": 6,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Gujarat post 351/4 in Vijay Hazare clash",
+      "blurb": "Gujarat scored 351/4 against Vidarbha in a Vijay Hazare Trophy league match."
+    },
+    {
+      "page": 16,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Navy begins bilateral exercise with Indonesia",
+      "blurb": "The Indian Navy began a bilateral exercise with Indonesia focusing on anti-submarine warfare."
+    },
+    {
+      "page": 16,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "NGT panel to inspect check dams in Western Ghats",
+      "blurb": "A National Green Tribunal panel will inspect check dams alleged to harm Western Ghats streams."
+    },
+    {
+      "page": 16,
+      "index": 3,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "NSS volunteers promote trumpet society in Bandipur",
+      "blurb": "NSS volunteers campaigned for trumpet society conservation near Bandipur National Park."
+    },
+    {
+      "page": 16,
+      "index": 4,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Hungary’s Krasznahorkai wins Nobel literature prize",
+      "blurb": "Hungarian writer László Krasznahorkai won the Nobel Prize in Literature."
+    },
+    {
+      "page": 16,
+      "index": 5,
+      "kind": "news",
+      "scope": "india",
+      "headline": "HC hears tampering allegations in Atharv case",
+      "blurb": "Karnataka High Court heard allegations of evidence tampering in the Atharv murder trial."
+    },
+    {
+      "page": 16,
+      "index": 6,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Mangaluru varsity course blends beadwork and entrepreneurship",
+      "blurb": "Mangalore University launched a course combining traditional beadwork with entrepreneurship training."
+    },
+    {
+      "page": 16,
+      "index": 7,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Differently abled entrepreneur expands Vikramapura unit",
+      "blurb": "A differently abled entrepreneur expanded a packaging unit in Vikramapura with bank support."
+    },
+    {
+      "page": 16,
+      "index": 8,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "DN Guruprasad takes charge as CFTRI director",
+      "blurb": "DN Guruprasad took charge as director of CFTRI in Mysuru."
+    },
+    {
+      "page": 17,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Centre extends runway at Biju Patnaik Airport",
+      "blurb": "The Centre approved runway extension at Biju Patnaik Airport in Bhubaneswar for wide-body aircraft."
+    },
+    {
+      "page": 17,
+      "index": 2,
+      "kind": "news",
+      "scope": "kerala",
+      "headline": "Kerala CM faces corruption case hearing",
+      "blurb": "Kerala Chief Minister appeared before an inquiry in a corruption case linked to lottery agency contracts."
+    },
+    {
+      "page": 17,
+      "index": 3,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Bengaluru Traffic Management Centre inaugurated",
+      "blurb": "Bruhat Bengaluru Mahanagara Palike inaugurated a traffic management centre with live camera feeds."
+    },
+    {
+      "page": 17,
+      "index": 4,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Zero FIR filed after Bengaluru woman assaulted by brother",
+      "blurb": "Police registered a zero FIR after a Bengaluru woman was assaulted by her brother; she was hospitalised."
+    },
+    {
+      "page": 17,
+      "index": 5,
+      "kind": "news",
+      "scope": "india",
+      "headline": "SC cold-shoulders plea on ‘Vote Chori’",
+      "blurb": "The Supreme Court declined urgent hearing on a ‘Vote Chori’ plea seeking roll revision safeguards."
+    },
+    {
+      "page": 17,
+      "index": 6,
+      "kind": "news",
+      "scope": "india",
+      "headline": "PM flags off statue project of Rama and Sita in MP",
+      "blurb": "Prime Minister Modi flagged off a statue installation project of Rama and Sita in Madhya Pradesh."
+    },
+    {
+      "page": 17,
+      "index": 7,
+      "kind": "news",
+      "scope": "international",
+      "headline": "U.S. partners Taiwan on solar factories",
+      "blurb": "Washington partnered with Taiwan firms to build solar component factories in the United States."
+    },
+    {
+      "page": 17,
+      "index": 8,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Turkey jails journalist for insulting Erdogan",
+      "blurb": "A Turkish court jailed a journalist for insulting President Recep Tayyip Erdogan in a column."
+    },
+    {
+      "page": 17,
+      "index": 9,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Trump speaks on rare disease leadership award",
+      "blurb": "Donald Trump addressed recipients of a rare disease leadership award in Washington."
+    },
+    {
+      "page": 17,
+      "index": 10,
+      "kind": "news",
+      "scope": "international",
+      "headline": "France, UK summit focuses on migrant crossings",
+      "blurb": "French and British leaders met to curb small-boat migrant crossings in the Channel."
+    },
+    {
+      "page": 17,
+      "index": 11,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Nobel Peace Prize highlights Machado’s Venezuela work",
+      "blurb": "Nobel Peace Prize commentators highlighted María Corina Machado’s democracy activism in Venezuela."
+    },
+    {
+      "page": 17,
+      "index": 12,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Oscar Isaac promotes Frankenstein on Netflix",
+      "blurb": "Actor Oscar Isaac promoted Guillermo del Toro’s Frankenstein adaptation on Netflix."
+    },
+    {
+      "page": 18,
+      "index": 1,
+      "kind": "opinion",
+      "scope": "india",
+      "headline": "Doing well in halting measles spread (Opinion)",
+      "blurb": "Editorial praised India’s measles vaccination drives while warning against complacency in low-coverage districts."
+    },
+    {
+      "page": 18,
+      "index": 2,
+      "kind": "opinion",
+      "scope": "international",
+      "headline": "Bid not law of jungle in Gaza (Opinion)",
+      "blurb": "Editorial argued ceasefire bids in Gaza must respect humanitarian law, not power politics alone."
+    },
+    {
+      "page": 18,
+      "index": 3,
+      "kind": "opinion",
+      "scope": "india",
+      "headline": "U.S. trade war hits scholarship pipelines (Opinion)",
+      "blurb": "Columnist said U.S.–China trade tensions were squeezing STEM scholarships for Indian students."
+    },
+    {
+      "page": 18,
+      "index": 4,
+      "kind": "opinion",
+      "scope": "lifestyle",
+      "headline": "Staying high on fitness at Melon Festival (Opinion)",
+      "blurb": "Feature essay on fitness trends showcased at a melon festival in north Karnataka."
+    },
+    {
+      "page": 18,
+      "index": 5,
+      "kind": "opinion",
+      "scope": "lifestyle",
+      "headline": "Sitar exponent pays tribute to guru (Opinion)",
+      "blurb": "A sitar player’s tribute essay recalled training under a late guru."
+    },
+    {
+      "page": 18,
+      "index": 6,
+      "kind": "opinion",
+      "scope": "india",
+      "headline": "Golden leaf containers and ITC (Opinion)",
+      "blurb": "Op-ed discussed ITC’s sustainable packaging using golden leaf fibre composites."
+    },
+    {
+      "page": 18,
+      "index": 7,
+      "kind": "opinion",
+      "scope": "india",
+      "headline": "Dropping subjects should stay optional (Opinion)",
+      "blurb": "Shekhar Gupta argued school subject drops should remain optional to reduce dropout pressure."
+    },
+    {
+      "page": 19,
+      "index": 1,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "Celebrity fitness routines in Delhi’s drought summer",
+      "blurb": "Delhi trainers shared how celebrities adapted workouts during a drought-related water rationing summer."
+    },
+    {
+      "page": 19,
+      "index": 2,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Turkey impressionist paintings head to Sotheby’s auction",
+      "blurb": "Impressionist works from Turkish collections will feature in a Sotheby’s auction."
+    },
+    {
+      "page": 19,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "IIM Bangalore opens IIMABX applications",
+      "blurb": "IIM Bangalore opened applications for the IIMABX executive programme."
+    },
+    {
+      "page": 19,
+      "index": 4,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "Toda tribe embroidery revival near Kodaikanal",
+      "blurb": "Artisans revived Toda embroidery motifs near Kodaikanal with tourism cooperative support."
+    },
+    {
+      "page": 19,
+      "index": 5,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Drug offences added to POCSO case in Mangaluru",
+      "blurb": "Mangaluru police added drug offences to an ongoing POCSO case after forensic reports."
+    },
+    {
+      "page": 20,
+      "index": 1,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Russian strike hits Kharkiv apartment block",
+      "blurb": "A Russian strike on a Kharkiv apartment block killed civilians and wounded dozens."
+    },
+    {
+      "page": 20,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "LRA sets 15% farmers’ income benchmark under NPM",
+      "blurb": "The Lok Sabha research arm set a 15% income benchmark for farmers adopting natural farming under NPM."
+    },
+    {
+      "page": 20,
+      "index": 3,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Karnataka targets renewable generation by 2030",
+      "blurb": "Karnataka announced a 2030 renewable generation target doubling solar capacity."
+    },
+    {
+      "page": 20,
+      "index": 4,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Tamil Nadu CM launches micro-irrigation push",
+      "blurb": "Tamil Nadu Chief Minister launched a micro-irrigation subsidy drive for delta farmers."
+    },
+    {
+      "page": 20,
+      "index": 5,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Himachal clears hydro projects after monsoon review",
+      "blurb": "Himachal Pradesh cleared stalled hydro projects after a monsoon safety review."
+    },
+    {
+      "page": 20,
+      "index": 6,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Wearable shirt battery charges phones",
+      "blurb": "Researchers demonstrated a shirt with woven batteries that charge phones on the move."
+    },
+    {
+      "page": 20,
+      "index": 7,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Nassau mission to study gut microbiome in space",
+      "blurb": "A Nassau laboratory mission will study astronaut gut microbiomes aboard the space station."
+    },
+    {
+      "page": 20,
+      "index": 8,
+      "kind": "news",
+      "scope": "international",
+      "headline": "SpaceX catches Starship booster again",
+      "blurb": "SpaceX caught a Starship booster with launch tower arms on a test flight."
+    },
+    {
+      "page": 20,
+      "index": 9,
+      "kind": "news",
+      "scope": "international",
+      "headline": "James Webb maps TRAPPIST planets",
+      "blurb": "James Webb Space Telescope released spectra of TRAPPIST-1 system planets."
+    },
+    {
+      "page": 20,
+      "index": 10,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Woman jailed for uttering counterfeit Elizabeth coins",
+      "blurb": "A UK court jailed a woman for uttering counterfeit coins bearing Queen Elizabeth’s effigy."
+    },
+    {
+      "page": 21,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "UGC launches common counselling portal for NEET",
+      "blurb": "UGC launched a common counselling portal integrating NEET PG seat allotments."
+    },
+    {
+      "page": 21,
+      "index": 2,
+      "kind": "news",
+      "scope": "international",
+      "headline": "U.S. defence pact reaffirms India Pacific role",
+      "blurb": "A U.S. defence statement reaffirmed India’s role in Indo-Pacific security partnerships."
+    },
+    {
+      "page": 21,
+      "index": 3,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Israeli cabinet votes to dissolve Gaza plan panel",
+      "blurb": "Israel’s cabinet voted to dissolve a panel overseeing a contested Gaza reconstruction plan."
+    },
+    {
+      "page": 21,
+      "index": 4,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Gene tweak may control parasitic plant",
+      "blurb": "Scientists identified a gene tweak that may control a problematic parasitic plant in crops."
+    },
+    {
+      "page": 21,
+      "index": 5,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Teensy quantum light detector unveiled",
+      "blurb": "Physicists unveiled a quantum light detector small enough for smartphone spectrometers."
+    },
+    {
+      "page": 21,
+      "index": 6,
+      "kind": "news",
+      "scope": "india",
+      "headline": "IIT Delhi maps wildlife in urban sanctuaries",
+      "blurb": "IIT Delhi researchers mapped wildlife corridors inside urban sanctuary fragments."
+    },
+    {
+      "page": 21,
+      "index": 7,
+      "kind": "news",
+      "scope": "kerala",
+      "headline": "Mathrubhumi litfest opens in Kozhikode",
+      "blurb": "Mathrubhumi’s literature festival opened in Kozhikode with regional language panels."
+    },
+    {
+      "page": 21,
+      "index": 8,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Jr World Boxing silver for Kshetrimayum",
+      "blurb": "India’s Kshetrimayum won silver at the Junior World Boxing Championships."
+    },
+    {
+      "page": 21,
+      "index": 9,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "Mindhunter returns on OTT, creators say",
+      "blurb": "Streaming executives said Mindhunter may return for a limited revival season."
+    },
+    {
+      "page": 21,
+      "index": 10,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Ayurveda scientists study skin microbiome",
+      "blurb": "Ayurveda researchers published a study on skin microbiome changes after herbal therapies."
+    },
+    {
+      "page": 22,
+      "index": 1,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Brazil’s Lula sets COP30 agenda",
+      "blurb": "Brazilian President Luiz Inácio Lula da Silva outlined COP30 climate finance priorities."
+    },
+    {
+      "page": 22,
+      "index": 2,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Hyundai recalls Ioniq 5 over software bug",
+      "blurb": "Hyundai recalled Ioniq 5 vehicles over a software bug affecting battery management."
+    },
+    {
+      "page": 22,
+      "index": 3,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Japan PM signs civil nuclear deal in U.S.",
+      "blurb": "Japan’s Prime Minister signed a civil nuclear cooperation agreement in Washington."
+    },
+    {
+      "page": 22,
+      "index": 4,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Brazil reports leprosy drug resistance",
+      "blurb": "Brazil reported rising antimicrobial resistance in leprosy treatments in the Amazon."
+    },
+    {
+      "page": 22,
+      "index": 5,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Nobel literature translator of Le Guin honoured",
+      "blurb": "Translators of Ursula K. Le Guin were honoured at a Nobel literature week event."
+    },
+    {
+      "page": 22,
+      "index": 6,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Ukrainian ‘letter soup’ art remembers abuse",
+      "blurb": "Ukrainian artists used letter soup motifs in an installation remembering wartime abuse survivors."
+    },
+    {
+      "page": 22,
+      "index": 7,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Study links smartphone use to teen mental health",
+      "blurb": "A longitudinal study linked heavy smartphone use to anxiety spikes among teenagers."
+    },
+    {
+      "page": 22,
+      "index": 8,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Webb images Tigris galaxy MCSc 6976",
+      "blurb": "Webb telescope released images of spiral galaxy MCSc 6976 dubbed the Tigris galaxy."
+    },
+    {
+      "page": 22,
+      "index": 9,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Tabby cat migrations shaped Europe’s wildcats",
+      "blurb": "Geneticists said tabby cat migrations historically shaped Europe’s wildcat populations."
+    },
+    {
+      "page": 23,
+      "index": 1,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Red-letter day for Nurture farm in Bengaluru",
+      "blurb": "Nurture farm in Bengaluru marked a milestone harvest sold directly to consumers."
+    },
+    {
+      "page": 23,
+      "index": 2,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Eatopia adventure park opens outside Bengaluru",
+      "blurb": "Eatopia adventure park opened with zip lines and farm-to-table dining outside Bengaluru."
+    },
+    {
+      "page": 23,
+      "index": 3,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "CII women’s conclave on leadership",
+      "blurb": "CII’s Bengaluru chapter hosted a women’s leadership conclave on board diversity."
+    },
+    {
+      "page": 23,
+      "index": 4,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Garden City College hosts inter-college fest",
+      "blurb": "Garden City College hosted an inter-college cultural fest with music and debate events."
+    },
+    {
+      "page": 24,
+      "index": 1,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "A GATEway to learning",
+      "blurb": "Metro Plus feature on using graduate aptitude tests as a gateway to interdisciplinary learning."
+    },
+    {
+      "page": 24,
+      "index": 2,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "Choosing goals that stick",
+      "blurb": "Column on choosing realistic fitness and career goals with habit-tracking tips."
+    },
+    {
+      "page": 24,
+      "index": 3,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "Soundscape of entertainment",
+      "blurb": "Review of new spatial-audio concerts in Indian metros."
+    },
+    {
+      "page": 24,
+      "index": 4,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "Digital detox weekends",
+      "blurb": "Feature on digital detox retreats gaining popularity among Bengaluru professionals."
+    },
+    {
+      "page": 24,
+      "index": 5,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "Staying high on fitness",
+      "blurb": "Workout trends combining dance and strength training in city studios."
+    },
+    {
+      "page": 24,
+      "index": 6,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "Cast in a critical role",
+      "blurb": "Interview with a theatre actor on playing morally complex characters."
+    },
+    {
+      "page": 24,
+      "index": 7,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "Alive with the sound of music",
+      "blurb": "Preview of a travelling Broadway musical stopping in Mumbai."
+    },
+    {
+      "page": 24,
+      "index": 8,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "Happiness cafe opens in Chennai",
+      "blurb": "A happiness cafe in Chennai offers talk circles and art therapy sessions."
+    },
+    {
+      "page": 24,
+      "index": 9,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "For a good night’s sleep",
+      "blurb": "Sleep specialists shared tips on circadian routines for shift workers."
+    },
+    {
+      "page": 24,
+      "index": 10,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "Art-inspired story for children",
+      "blurb": "Author discussed a children’s book inspired by miniature paintings."
+    }
+  ]
+}

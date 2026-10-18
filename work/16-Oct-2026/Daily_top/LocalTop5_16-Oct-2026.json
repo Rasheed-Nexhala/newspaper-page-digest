@@ -1,0 +1,518 @@
+{
+  "date": "Friday, 16 October 2026",
+  "date_slug": "16-Oct-2026",
+  "papers_scanned": [
+    {
+      "paper": "Deccan Herald",
+      "edition": "Mangaluru",
+      "path": "work/16-Oct-2026/Deccan_Herald/DeccanHerald_Mangaluru_16-Oct-2026_PageDigest.json",
+      "total_articles": 113
+    },
+    {
+      "paper": "News Trail",
+      "edition": "Mangaluru",
+      "path": "work/16-Oct-2026/News_Trail/NewsTrail_Mangaluru_16-Oct-2026_PageDigest.json",
+      "total_articles": 93
+    },
+    {
+      "paper": "The Hindu",
+      "edition": "Mangaluru",
+      "path": "work/16-Oct-2026/The_Hindu/TheHindu_Mangaluru_16-Oct-2026_PageDigest.json",
+      "total_articles": 282
+    }
+  ],
+  "buckets": {
+    "mangaluru": {
+      "label": "Top 5 — Mangaluru",
+      "candidate_count": 51,
+      "selected_count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "headline": "Hospitals fined Rs 1 lakh for operating without renewing their registration",
+          "blurb": "Deputy Commissioner Darshan H V fined KVG Dental College and Hospital in Sullia Rs 1 lakh for three years without KPME renewal over missing pollution board clearance and Omega Hospital in Mangaluru Rs 1 lakh for 18 months without fire certification, ordering audits of all district hospitals.",
+          "kind": "news",
+          "scope": "mangaluru",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 4,
+              "index": 7
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "75-year-old woman loses Rs 2 crore to digital arrest scam",
+          "blurb": "A 75-year-old Mangaluru woman told CEN Crime police that fraudsters posing as Mumbai police and CBI officials kept her under 'digital arrest' from September 25 and duped her of Rs 2 crore after she shared bank details and transferred money to accounts they specified.",
+          "kind": "news",
+          "scope": "mangaluru",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 2,
+              "index": 10
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "Chemical leak at Mangaluru factory kills one",
+          "blurb": "One worker died and others were affected after a chemical leak at a factory in Mangaluru; emergency teams contained the leak and police registered a case as authorities began a safety inspection.",
+          "kind": "news",
+          "scope": "mangaluru",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 2,
+              "index": 2
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "We will continue to oppose SIR, says DKS",
+          "blurb": "Chief Minister D K Shivakumar at Mangaluru airport said the Congress would keep opposing Special Intensive Revision of electoral rolls and had appealed to the Supreme Court on SIR anomalies; he denied disrespect by Rahul Gandhi during the INDIA bloc march and highlighted Tulunadu's Mysuru Dasara tableau.",
+          "kind": "news",
+          "scope": "mangaluru",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 4,
+              "index": 5
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "Railway, a fitting reply to age-old demand for a separate coach in Mangaluru-SC train",
+          "blurb": "South Western Railway attached a dedicated coach on the Mangaluru–Secunderabad express, meeting a long-standing demand from coastal passengers for reserved accommodation.",
+          "kind": "news",
+          "scope": "mangaluru",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 6,
+              "index": 3
+            }
+          ]
+        }
+      ]
+    },
+    "coastal_karnataka": {
+      "label": "Top 5 — Coastal Karnataka",
+      "candidate_count": 59,
+      "selected_count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "headline": "CM appeals to sugarcane farmers not to take law into their hands",
+          "blurb": "Chief Minister D K Shivakumar in Udupi asked protesting sugarcane growers to stay patient while the state discusses MSP with the Centre, noting deficient rain and stagnant sugar and cane prices over a decade and urging farmers not to break the law.",
+          "kind": "news",
+          "scope": "coastal_karnataka",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 4,
+              "index": 1
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "Tanish death: Parental neglect suspected in Talapady",
+          "blurb": "Police in Talapady suspected parental neglect in the death of toddler Tanish and referred the case to child welfare authorities for inquiry.",
+          "kind": "news",
+          "scope": "coastal_karnataka",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 3,
+              "index": 9
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "Govt will develop coastal K'taka into world-class tourism hub: CM",
+          "blurb": "At Mahila Dasara at Uchila Mahalakshmi Temple, Shivakumar said coastal Karnataka is integral to the state's identity, acknowledged demands including Rs 35 crore for port development and kerosene subsidy, cited 1.24 crore Gruhalakshmi beneficiaries, and promised a separate coastal–Malnad tourism policy and a special park in Karkala for wood and metal crafts.",
+          "kind": "news",
+          "scope": "coastal_karnataka",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 4,
+              "index": 2
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "Kannada Rajyotsava celebrated at SKBR College Sullia",
+          "blurb": "SKBR College, Sullia, marked Karnataka Rajyotsava with flag hoisting, Kannada literary competitions and honours for meritorious students.",
+          "kind": "news",
+          "scope": "coastal_karnataka",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 11,
+              "index": 3
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "Villagers up in arms against railway fencing",
+          "blurb": "Villagers protested new railway fencing that blocks traditional paths to fields in Dakshina Kannada. They demanded gates at crossing points. Railway officials said fencing improves safety.",
+          "kind": "news",
+          "scope": "coastal_karnataka",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 13,
+              "index": 2
+            }
+          ]
+        }
+      ]
+    },
+    "karnataka": {
+      "label": "Top 5 — Karnataka",
+      "candidate_count": 98,
+      "selected_count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "headline": "State Cabinet okays Rs 729-crore Int'l Film City in Nanjangud",
+          "blurb": "The State Cabinet approved a Rs 729.43 crore International Film City near Immavu in Nanjangud taluk on over 160 acres under DBFOT PPP, expanding a Rs 500-crore budget announcement with theme park, hotels, studios and training facilities.",
+          "kind": "news",
+          "scope": "karnataka",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 3,
+              "index": 10
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "State RTC, BMTC bus fares set to rise",
+          "blurb": "The Public Transport Fare Regulatory Committee has reportedly recommended a 25% fare hike for KSRTC, NWKRTC and KKRTC and 40% for BMTC after studying fuel, maintenance and salary costs; sources said any increase would be marginal and phased to limit inconvenience.",
+          "kind": "news",
+          "scope": "karnataka",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 3,
+              "index": 3
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "Farmers block Mys-B'luru highway against Cauvery Aarti",
+          "blurb": "Farmer leader Sunanda Jayaram and groups including Raitha Sangha blocked the Mysuru–Bengaluru highway in Mandya on Thursday, wearing black bands to protest the Cauvery Aarti near KRS during water distress; speakers alleged Rs 8–10 crore would be spent on the event while the district faces drought.",
+          "kind": "news",
+          "scope": "karnataka",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 2,
+              "index": 5
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "Man convicted for rape on minor",
+          "blurb": "A special POCSO court in Mysuru convicted 31-year-old Karthik of Siddalingapura for rape and murder of a 10-year-old migrant girl during Dasara 2023; sentencing was scheduled for Friday after autopsy, DNA and FSL evidence.",
+          "kind": "news",
+          "scope": "karnataka",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 2,
+              "index": 9
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "Protesters clash with police during anti-SIR demonstration in Madikeri",
+          "blurb": "Samvidhana Matthu Prajaprabhutva Rakshana Vedike members clashed with police in Madikeri when they insisted on rallying to General Thimayya Circle before submitting a memorandum demanding scrapping of SIR, removal of CEC Gyanesh Kumar and action on false Form 7 applications in Kodagu.",
+          "kind": "news",
+          "scope": "karnataka",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 2,
+              "index": 12
+            }
+          ]
+        }
+      ]
+    },
+    "india": {
+      "label": "Top 5 — India",
+      "candidate_count": 126,
+      "selected_count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "headline": "Delhi HC no to stopping CJP protest",
+          "blurb": "The Delhi High Court declined to restrain Citizens for Justice and Peace and Abhijeet Dipke from protesting at Connaught Place's Central Park on October 16 while recording police assurance that steps would be taken to regulate the demonstration.",
+          "kind": "news",
+          "scope": "india",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 3,
+              "index": 2
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "SC strikes down Yes Bank's AT-1 bond write-off",
+          "blurb": "The Supreme Court upheld a Bombay High Court order quashing the Yes Bank administrator's March 2020 write-off of Additional Tier 1 bonds worth Rs 8,415 crore.",
+          "kind": "news",
+          "scope": "india",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 3,
+              "index": 11
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "Cyber fraud of Rs 11.88 lakh, SBI manager under lens",
+          "blurb": "Bihar police registered a case over an alleged ₹11.88 lakh cyber fraud, questioning an SBI branch manager about delayed blocking of a suspicious transaction.",
+          "kind": "news",
+          "scope": "india",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 10,
+              "index": 3
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "Probe into death of 17-year-old Agniveer in Bihar",
+          "blurb": "The Army ordered a probe into the death of a 17-year-old Agniveer recruit at a Bihar training centre.",
+          "kind": "news",
+          "scope": "india",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 11,
+              "index": 5
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "Bajrang Dal activists claim Kozhikode idols taken away to temple",
+          "blurb": "Bajrang Dal workers in Kozhikode alleged that idols from a local temple were removed and taken elsewhere, demanding action and staging protests over the claim.",
+          "kind": "news",
+          "scope": "india",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 1,
+              "index": 3
+            }
+          ]
+        }
+      ]
+    },
+    "international": {
+      "label": "Top 5 — International",
+      "candidate_count": 97,
+      "selected_count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "headline": "Remove adhan from mosques in U.K., says former British PM",
+          "blurb": "Former British Prime Minister Tony Blair said mosques in the United Kingdom should stop broadcasting the adhan over loudspeakers, arguing that Britain is a Christian country and that the call to prayer should not be amplified publicly; the remarks drew criticism from Muslim leaders and commentators who defended religious expression within legal noise limits.",
+          "kind": "news",
+          "scope": "international",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 1,
+              "index": 1
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "Over 5,500 lives lost globally in October disasters",
+          "blurb": "UN agencies estimated more than 5,500 deaths worldwide from disasters in October, including floods and earthquakes. Relief funding appeals were launched. Climate adaptation remains underfunded, officials said.",
+          "kind": "news",
+          "scope": "international",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 8,
+              "index": 1
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "Woman survives 800-ft fall at Arizona",
+          "blurb": "A woman survived an 800-foot fall at a canyon in Arizona after landing on a ledge. Rescuers airlifted her to hospital with serious injuries. Park officials reiterated safety warnings on trails.",
+          "kind": "news",
+          "scope": "international",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 8,
+              "index": 5
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "Virginia deploys troops near protest site",
+          "blurb": "Virginia deployed National Guard troops near a protest site after clashes during a political rally.",
+          "kind": "news",
+          "scope": "international",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 11,
+              "index": 13
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "China to promote domestic chip makers",
+          "blurb": "Beijing outlined fresh policy support to promote domestic semiconductor manufacturers as China seeks to reduce reliance on foreign chip supplies amid tightening U.S. export controls.",
+          "kind": "news",
+          "scope": "international",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 1,
+              "index": 3
+            }
+          ]
+        }
+      ]
+    },
+    "sports": {
+      "label": "Top 5 — Sports",
+      "candidate_count": 28,
+      "selected_count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "headline": "India eye spin advantage in third Test against Australia",
+          "blurb": "The Indian team prepared to lean on spin bowlers for the third Test against Australia on a turning track.",
+          "kind": "news",
+          "scope": "sports",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 2,
+              "index": 18
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "Dodgers advance in NLCS",
+          "blurb": "The Los Angeles Dodgers advanced in the National League Championship Series after a comeback win.",
+          "kind": "news",
+          "scope": "sports",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 4,
+              "index": 15
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "Tharoor’s 103 powers Kerala to 357/3",
+          "blurb": "Rohan Tharoor scored 103 as Kerala posted 357/3 against Services in the Vijay Hazare Trophy.",
+          "kind": "news",
+          "scope": "sports",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 7,
+              "index": 1
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "R Ashwin enjoying county stint",
+          "blurb": "R Ashwin said he is enjoying his English county stint and learning conditions that differ from subcontinental tracks. He took key wickets in his latest match. India selectors are monitoring his form.",
+          "kind": "news",
+          "scope": "sports",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 7,
+              "index": 3
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "Axar likely to be rested",
+          "blurb": "Axar Patel is likely to be rested for the next limited-overs fixture to manage workload ahead of a busy season. Spin options stand ready. Medical staff cleared the call as precautionary.",
+          "kind": "news",
+          "scope": "sports",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 7,
+              "index": 4
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
