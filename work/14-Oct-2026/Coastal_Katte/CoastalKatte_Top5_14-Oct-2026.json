@@ -1,0 +1,100 @@
+{
+  "date": "Wednesday, 14 October 2026",
+  "date_slug": "14-Oct-2026",
+  "channel": "coastal_katte",
+  "source_local_top5": "work/14-Oct-2026/Daily_top/LocalTop5_14-Oct-2026.json",
+  "candidate_count": 15,
+  "selected_count": 5,
+  "items": [
+    {
+      "rank": 1,
+      "headline": "Report sought on delay in UGD project in Kundapur",
+      "blurb": "Balakrishna ordered a report on the 11-year delay in Kundapur’s ₹56.54 crore underground drainage project.",
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "source_bucket": "coastal_karnataka",
+      "local_top_rank": 1,
+      "sources": [
+        {
+          "paper": "Deccan Herald",
+          "edition": "Mangaluru",
+          "page": 6,
+          "index": 3
+        }
+      ],
+      "why_channel": "Hard coastal infra with ₹56.54 crore and an 11-year delay — classic conversion hook for Kundapur viewers."
+    },
+    {
+      "rank": 2,
+      "headline": "DC warns hospitals against denying initial treatment to snakebite victims",
+      "blurb": "Dakshina Kannada Deputy Commissioner Darshan H V warned hospitals of legal action for denying immediate snakebite care; the district recorded 365 cases in 2023 and 527 through September 2025.",
+      "kind": "news",
+      "scope": "mangaluru",
+      "source_bucket": "mangaluru",
+      "local_top_rank": 1,
+      "sources": [
+        {
+          "paper": "Deccan Herald",
+          "edition": "Mangaluru",
+          "page": 6,
+          "index": 5
+        }
+      ],
+      "why_channel": "Public-health / snakebite safety warning from the DC — high saves and personal-stakes local utility."
+    },
+    {
+      "rank": 3,
+      "headline": "2 die of electrocution while fishing in DK",
+      "blurb": "Bharath (28) of Kalmadka and Ramesh alias Ganesh (36) of Guruvayanakere died of electrocution while fishing with a minor at Holakere in Kalmadka, Sullia taluk, on October 12; Bellare police registered a case against plantation owner Madhusoodan Bhat for an alleged unauthorised electric connection.",
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "source_bucket": "coastal_karnataka",
+      "local_top_rank": 2,
+      "sources": [
+        {
+          "paper": "News Trail",
+          "edition": "Mangaluru",
+          "page": 3,
+          "index": 4
+        }
+      ],
+      "why_channel": "Sullia electrocution deaths — coastal safety story with clear personal risk."
+    },
+    {
+      "rank": 4,
+      "headline": "MCC to take up drive from today to issue pending birth and death certificates",
+      "blurb": "Mangaluru City Corporation will run a drive from October 14 to October 17 to issue pending birth and death certificates, with applicants told to book slots through the corporation’s online portal.",
+      "kind": "news",
+      "scope": "mangaluru",
+      "source_bucket": "mangaluru",
+      "local_top_rank": 3,
+      "sources": [
+        {
+          "paper": "The Hindu",
+          "edition": "Mangaluru",
+          "page": 4,
+          "index": 1
+        }
+      ],
+      "why_channel": "Actionable MCC certificate drive with Oct 14–17 window — WhatsApp-forward deadline."
+    },
+    {
+      "rank": 5,
+      "headline": "Tourist taxi drivers reiterate demand for 8-minute free pick and drop facility at airport",
+      "blurb": "Taxi associations at Mangaluru International Airport renewed demands for an eight-minute free pick-up and drop window and protested a ₹50 entry fee for commercial vehicles.",
+      "kind": "news",
+      "scope": "mangaluru",
+      "source_bucket": "mangaluru",
+      "local_top_rank": 5,
+      "sources": [
+        {
+          "paper": "The Hindu",
+          "edition": "Mangaluru",
+          "page": 5,
+          "index": 4
+        }
+      ],
+      "why_channel": "Airport taxi fee and free pick-up demand — Mangaluru daily-life money and commute hook."
+    }
+  ]
+}

@@ -1,0 +1,530 @@
+{
+  "paper": "News Trail",
+  "edition": "Mangaluru",
+  "date": "Wednesday, 14 October 2026",
+  "date_slug": "14-Oct-2026",
+  "total_pages": 9,
+  "total_articles": 65,
+  "articles": [
+    {
+      "page": 1,
+      "index": 1,
+      "headline": "IRON FIST ON THE STREETS",
+      "blurb": "Security personnel in New Delhi detain National Students' Union of India (NSUI) activists during a protest demanding the immediate resignation of CEC Gyanesh Kumar.",
+      "kind": "news",
+      "scope": "india"
+    },
+    {
+      "page": 1,
+      "index": 2,
+      "headline": "Amid naming row, MEA snubs China on Ladakh claims",
+      "blurb": "India rejected China's objection to New Delhi assigning standard names to 28 places and features in Ladakh. MEA spokesperson Randhir Jaiswal said the Union Territory is an \"integral and inalienable\" part of India and that the naming is a sovereign exercise on the Survey of India map.",
+      "kind": "news",
+      "scope": "international"
+    },
+    {
+      "page": 1,
+      "index": 3,
+      "headline": "No parallel protests, INDIA vows united fight",
+      "blurb": "The opposition INDIA bloc and civil society in New Delhi vowed a united fight for 'restoration of the democratic process,' with Rahul Gandhi saying there were no parallel protests but a single movement with a common mission after talks at his residence.",
+      "kind": "news",
+      "scope": "india"
+    },
+    {
+      "page": 1,
+      "index": 4,
+      "headline": "Shah shields PM, warns Rahul of 2029 defeat",
+      "blurb": "Union Home Minister Amit Shah criticised Congress leader Rahul Gandhi over opposition protests against CEC Gyanesh Kumar, defended Prime Minister Narendra Modi and the NDA, and said the Congress should prepare for a \"crushing defeat\" in 2029.",
+      "kind": "news",
+      "scope": "india"
+    },
+    {
+      "page": 1,
+      "index": 5,
+      "headline": "JK Waqf board's uniform sermon bid put off",
+      "blurb": "After backlash over discussions of uniform Friday sermons in the Valley, Jammu and Kashmir Waqf Board chairperson Darakshan Andrabi said no such directions were passed. Chief Minister Omar Abdullah called the proposal unacceptable; Mehbooba Mufti and the Mutahida Majlis-e-Ulema also criticised the move.",
+      "kind": "news",
+      "scope": "india"
+    },
+    {
+      "page": 1,
+      "index": 6,
+      "headline": "Union minister Murugan quits, to move to TN politics",
+      "blurb": "Union Minister of State L Murugan resigned from the Modi government saying he wanted to return to Tamil Nadu to strengthen the BJP. It was the third MoS resignation after George Kurian and Ravneet Singh Bittu quit earlier in 2026.",
+      "kind": "news",
+      "scope": "india"
+    },
+    {
+      "page": 1,
+      "index": 7,
+      "headline": "'No double standards': CM backs right to protest",
+      "blurb": "Karnataka Chief Minister D K Shivakumar sought a detailed report into police action against protesters in Bengaluru, defended the right to peaceful protest, and said the same democratic standards must apply across India with accountability if unnecessary force was used.",
+      "kind": "news",
+      "scope": "karnataka"
+    },
+    {
+      "page": 1,
+      "index": 8,
+      "headline": "Amid protests, UPI MDR on backburner",
+      "blurb": "NPCI deferred a planned 0.4 per cent Merchant Discount Rate on Person-to-Merchant UPI payments above Rs 2,000 that had been due from October 15, saying implementation will be notified separately after Diwali.",
+      "kind": "news",
+      "scope": "india"
+    },
+    {
+      "page": 1,
+      "index": 9,
+      "headline": "Nilekani pitches AI-generated exam papers",
+      "blurb": "At the Bloomberg New Economy Forum 2026 in Bengaluru, Nandan Nilekani, who heads a task force on exam reforms, called for AI-generated questions and computer-based testing to curb paper leaks in high-stakes exams, calling the problem solvable with technology.",
+      "kind": "news",
+      "scope": "india"
+    },
+    {
+      "page": 2,
+      "index": 1,
+      "headline": "Fresh controversy in Sowjanya case; questions raised over money",
+      "blurb": "High Court advocate Amruthesh questioned financial dealings around the campaign for justice in the Sowjanya rape and murder case, alleged the victim's parents had benefited financially, released an audio clip involving uncle Vitthal Gowda, and called for greater clarity about money spent in the campaign.",
+      "kind": "news",
+      "scope": "coastal_karnataka"
+    },
+    {
+      "page": 2,
+      "index": 2,
+      "headline": "KPSC probe: SC nod to replace SIT chief",
+      "blurb": "The Supreme Court allowed the Karnataka government to replace DGP Alok Kumar and DIG Divya Gopinath as heads of the High Court-constituted SIT probing the KPSC recruitment scam, directing the state to submit alternative officers to the High Court; Kapil Sibal appeared for the state.",
+      "kind": "news",
+      "scope": "karnataka"
+    },
+    {
+      "page": 2,
+      "index": 3,
+      "headline": "2 held for transporting ganja to Kerala via Bengaluru",
+      "blurb": "Police arrested two people on October 12 after intercepting a self-drive rental car near Eidgah Ground in Kambipura, Bengaluru, and recovering about 317 kg of ganja valued at Rs 1.78 crore (market value estimated at Rs 3.17 crore) allegedly being taken from Odisha to Kerala under the NDPS Act.",
+      "kind": "news",
+      "scope": "karnataka"
+    },
+    {
+      "page": 2,
+      "index": 4,
+      "headline": "Karnataka sets 2030 target to lead in disaster preparedness",
+      "blurb": "Deputy Chief Minister G Parameshwara, inaugurating the State Platform for Disaster Risk Reduction on the International Day for Disaster Risk Reduction, set a 2030 target for Karnataka to lead nationally in disaster prevention and preparedness, citing the UN Sendai Framework.",
+      "kind": "news",
+      "scope": "karnataka"
+    },
+    {
+      "page": 2,
+      "index": 5,
+      "headline": "Freedom Park rent: LoP seeks details of CJP protest",
+      "blurb": "Leader of Opposition R. Ashoka alleged unpaid rent for a Citizens for Justice and Peace protest at Bengaluru's Freedom Park on October 8 against the ECI's SIR exercise, saying organisers should have paid Rs 1 lakh and asking CM D.K. Shivakumar whether other groups get similar concessions.",
+      "kind": "news",
+      "scope": "karnataka"
+    },
+    {
+      "page": 3,
+      "index": 1,
+      "headline": "FIGHTING WATER CRISIS THE WAY NITK DOES IT",
+      "blurb": "NITK Surathkal has operationalised NITKere, a 30-million-litre rainwater harvesting reservoir created in 2025 and linked by an 850-metre pipeline to a one-million-litre-per-day purification plant commissioned in February 2026, presented as a model for institutional water security during summer shortages.",
+      "kind": "news",
+      "scope": "coastal_karnataka"
+    },
+    {
+      "page": 3,
+      "index": 2,
+      "headline": "Bhatkal faces rainfall deficit, inflow into dam declines",
+      "blurb": "Bhatkal in Uttara Kannada is seeing a sharply deficient monsoon versus its normal annual rainfall of 4,152.3 mm, with falling inflow into the Kadavinakatte dam raising concerns for drinking water, about 2,000–2,500 hectares of paddy, and livestock fodder.",
+      "kind": "news",
+      "scope": "coastal_karnataka"
+    },
+    {
+      "page": 3,
+      "index": 3,
+      "headline": "BJP MLA condemns police handling of student protest over Dasara exams",
+      "blurb": "Mangaluru City South MLA Vedavyas Kamath condemned police handling of ABVP-backed students protesting degree exams scheduled around Dasara, alleging rough treatment including of a student who chanted Bharat Mata Ki Jai, and said he secured the students' release after intervening at the station.",
+      "kind": "news",
+      "scope": "mangaluru"
+    },
+    {
+      "page": 3,
+      "index": 4,
+      "headline": "2 die of electrocution while fishing in DK",
+      "blurb": "Bharath (28) of Kalmadka and Ramesh alias Ganesh (36) of Guruvayanakere died of electrocution while fishing with a minor at Holakere in Kalmadka, Sullia taluk, on October 12; Bellare police registered a case against plantation owner Madhusoodan Bhat for an alleged unauthorised electric connection.",
+      "kind": "news",
+      "scope": "coastal_karnataka"
+    },
+    {
+      "page": 3,
+      "index": 5,
+      "headline": "Yenepoya Trust opens Global Teacher Awards for 2026 with ₹25,000 prizes",
+      "blurb": "The Yenepoya Moideen Kunhi Memorial Educational & Charitable Trust launched the Yenepoya Teacher Awards 2026 with four categories, each carrying a ₹25,000 cash prize, open to educators with at least three years' continuous service.",
+      "kind": "news",
+      "scope": "mangaluru"
+    },
+    {
+      "page": 3,
+      "index": 6,
+      "headline": "CISF director-general inaugurates Veer Sadan barracks",
+      "blurb": "CISF Director-General Praveer Ranjan inaugurated Veer Sadan, new residential barracks for Airport Security Group personnel at Mangaluru International Airport on Adyapady Road, Kaikamba.",
+      "kind": "news",
+      "scope": "mangaluru"
+    },
+    {
+      "page": 3,
+      "index": 7,
+      "headline": "Mangaluru airport guard secures lost bracelet",
+      "blurb": "MSF Security Guard Sagar Herimath found a yellow metal bracelet in the LGF area of Mangaluru International Airport, immediately informed CISF, and the item was cleared and handed to the Terminal Manager for safekeeping.",
+      "kind": "news",
+      "scope": "mangaluru"
+    },
+    {
+      "page": 3,
+      "index": 8,
+      "headline": "Sixth Dasara multilingual poetry meet to be held at Mulyadi tomorrow",
+      "blurb": "The Karnataka Tulu Sahitya Academy and Tulu Parishat will hold the sixth Dasara multilingual poetry meet at Mulyadi in Udupi district on October 15 at 2.30 pm, with Dr. Vasudeva Belle to inaugurate and Vijayakumar B Hebbarbettu to preside.",
+      "kind": "news",
+      "scope": "coastal_karnataka"
+    },
+    {
+      "page": 3,
+      "index": 9,
+      "headline": "Karwar DC directs departments to utilise SC/ST scheme funds",
+      "blurb": "Uttara Kannada Deputy Commissioner K. Lakshmi Priya directed departments at a District-Level Vigilance and Monitoring Committee meeting in Karwar to fully utilise SC/ST scheme funds on target, respond promptly to atrocity cases, and act against encroachments on land earmarked for SC/ST welfare.",
+      "kind": "news",
+      "scope": "coastal_karnataka"
+    },
+    {
+      "page": 4,
+      "index": 1,
+      "headline": "Bombay High Court declines blanket protection for anti-CEC protesters",
+      "blurb": "The Bombay High Court refused blanket orders against police detentions of people protesting CEC Gyanesh Kumar, saying it would act on specific illegalities; it adjourned advocate Sagar Devre's petition to October 19 after hearing claims that Mumbai police detained hundreds of peaceful marchers on October 10–11.",
+      "kind": "news",
+      "scope": "india"
+    },
+    {
+      "page": 4,
+      "index": 2,
+      "headline": "‘Conversion push not insult to religious beliefs’",
+      "blurb": "The Nagpur bench of the Bombay High Court quashed a case against four people accused of pressuring a couple to convert to Christianity, holding that promoting religion or insisting on conversion does not by itself insult religious beliefs or outrage religious feelings, in an order dated October 6.",
+      "kind": "news",
+      "scope": "india"
+    },
+    {
+      "page": 4,
+      "index": 3,
+      "headline": "Absence from draft SIR roll doesn’t mean deletion of name, ECI tells high court",
+      "blurb": "The ECI told the Goa bench of the Bombay High Court that absence from a draft Special Intensive Revision roll is not automatic deletion because SIR is a de novo preparation of the electoral roll; the court reserved judgment on a St Cruz family's writ petition.",
+      "kind": "news",
+      "scope": "india"
+    },
+    {
+      "page": 4,
+      "index": 4,
+      "headline": "Is waving tricolour a crime in India: Dipke",
+      "blurb": "Cockroach Janta Party founder Abhijeet Dipke alleged that CJP leaders including Saurav Das and Ashutosh Ranka were illegally detained by Delhi Police after reaching Jantar Mantar and unfurling the tricolour, and that lawyers were not being allowed to meet them.",
+      "kind": "news",
+      "scope": "india"
+    },
+    {
+      "page": 4,
+      "index": 5,
+      "headline": "‘Drift from Hindutva’: Dubey quits Sena (UBT)",
+      "blurb": "Shiv Sena (UBT) spokesperson Anand Dubey resigned citing a departure from Hindutva ideology and differences over the party's direction and proximity to Congress, saying he could no longer articulate the party's official line.",
+      "kind": "news",
+      "scope": "india"
+    },
+    {
+      "page": 4,
+      "index": 6,
+      "headline": "Telangana announces ₹596 crore profit share for Singareni workers",
+      "blurb": "Telangana Deputy Chief Minister Mallu Bhatti Vikramarka announced that 38,737 permanent Singareni Collieries employees would get an average profit share of Rs 1,53,912 for Dasara from a Rs 596 crore distribution of 34 per cent of the company's Rs 1,754 crore net profit; 29,717 contract workers get Rs 5,500 each.",
+      "kind": "news",
+      "scope": "india"
+    },
+    {
+      "page": 4,
+      "index": 7,
+      "headline": "Telangana man buys ₹1.23L scooter with ₹10 coins saved over 3 years",
+      "blurb": "B Ravi Joseph of Luxettipet in Mancherial district bought a Honda Activa worth Rs 1.23 lakh entirely with Rs 10 coins he had saved from everyday transactions over three years after a showroom agreed to accept the coins.",
+      "kind": "news",
+      "scope": "india"
+    },
+    {
+      "page": 4,
+      "index": 8,
+      "headline": "Women better at understanding others’ emotions, men at managing their own",
+      "blurb": "An analysis of nearly 1,280 research papers covering about 6,09,280 people across 76 countries, published in Emotion, found women tend to score higher on recognising and understanding others' emotions while men score higher on managing their own feelings.",
+      "kind": "news",
+      "scope": "lifestyle"
+    },
+    {
+      "page": 4,
+      "index": 9,
+      "headline": "POLITICAL PARLEYS",
+      "blurb": "A photograph shows Tamil Nadu Chief Minister Joseph Vijay meeting Andhra Pradesh Chief Minister N. Chandrababu Naidu with state Minister Nara Lokesh and others in Andhra Pradesh.",
+      "kind": "news",
+      "scope": "india"
+    },
+    {
+      "page": 4,
+      "index": 10,
+      "headline": "T'gana to help bring body of man who died in Ukraine",
+      "blurb": "Telangana Chief Minister A Revanth Reddy sanctioned Rs six lakh from the Chief Minister's Relief Fund to repatriate the mortal remains of Avula Sudarshan of Jagtial district, who died in a Russian rocket attack in Ukraine on September 1.",
+      "kind": "news",
+      "scope": "international"
+    },
+    {
+      "page": 5,
+      "index": 1,
+      "headline": "Priyank orders review of police acts at B'luru stir, stresses on right to dissent",
+      "blurb": "Karnataka Home Minister Priyank Kharge ordered a review of Bengaluru Police handling of protesters detained while marching toward the Chief Electoral Officer's office seeking CEC Gyanesh Kumar's resignation, and directed that peaceful demonstrations not be disrupted.",
+      "kind": "news",
+      "scope": "karnataka"
+    },
+    {
+      "page": 5,
+      "index": 2,
+      "headline": "Accountability will follow if excess used: CM on police action",
+      "blurb": "Chief Minister D K Shivakumar sought a full report on police action against Bengaluru protesters and media, saying if unnecessary force or excess was used accountability would follow and there would be no double standards on the right to peaceful protest.",
+      "kind": "news",
+      "scope": "karnataka"
+    },
+    {
+      "page": 5,
+      "index": 3,
+      "headline": "K'taka BJP slams Rahul over viral video showing CM Shivakumar being pushed during march",
+      "blurb": "Karnataka BJP attacked Rahul Gandhi over a viral video from the October 12 'March for Democracy' in New Delhi showing CM D K Shivakumar being pushed aside in the crowd; state president B Y Vijayendra called it an insult to Karnataka.",
+      "kind": "news",
+      "scope": "karnataka"
+    },
+    {
+      "page": 5,
+      "index": 4,
+      "headline": "Siddaramaiah moves court against 'false publicity' on social media; son Yathindra calls video fake",
+      "blurb": "Former Chief Minister Siddaramaiah approached a court seeking an injunction against 'false publicity' on social media; his son and minister Yathindra Siddaramaiah called the circulating video fake and a conspiracy to tarnish his father's image, not a genuine sting.",
+      "kind": "news",
+      "scope": "karnataka"
+    },
+    {
+      "page": 5,
+      "index": 5,
+      "headline": "CM: Ready to hand over papers for sting probe",
+      "blurb": "Chief Minister D K Shivakumar said in New Delhi he was ready to provide documents for any inquiry after JD(S) leaders alleged a sting operation targeting ministers and demanded a CBI probe.",
+      "kind": "news",
+      "scope": "karnataka"
+    },
+    {
+      "page": 5,
+      "index": 6,
+      "headline": "K'taka Cabinet to discuss HC verdict on SC/ST quota: Parameshwara",
+      "blurb": "Deputy CM G Parameshwara said the Cabinet would discuss the High Court verdict striking down a 2022 law that raised SC reservation from 15% to 17% and ST from 3% to 7%, and would consider options including approaching the Supreme Court.",
+      "kind": "news",
+      "scope": "karnataka"
+    },
+    {
+      "page": 5,
+      "index": 7,
+      "headline": "HDK seeks CBI probe into 'sting' operation targeting Siddaramaiah",
+      "blurb": "Union Minister H D Kumaraswamy demanded a CBI probe into an alleged sting operation targeting former CM Siddaramaiah, calling it part of a larger attempt to target political opponents and linking it to Siddaramaiah approaching court over false publicity.",
+      "kind": "news",
+      "scope": "karnataka"
+    },
+    {
+      "page": 5,
+      "index": 8,
+      "headline": "Rly projects worth Rs. 52,000 crore underway: Somanna",
+      "blurb": "Union Minister of State for Railways V. Somanna said about Rs 52,000 crore of railway projects are underway in Karnataka, cited Rs 9,000 crore for Konkan Railway and other works, and said the Shivamogga-Shikaripura-Ranebennur tender would be cancelled and re-tendered.",
+      "kind": "news",
+      "scope": "karnataka"
+    },
+    {
+      "page": 6,
+      "index": 1,
+      "headline": "Engage, don't crush protesters",
+      "blurb": "The editorial criticises the heavy police mobilisation in Delhi that blocked demonstrators from reaching Jantar Mantar over CEC Gyanesh Kumar and the SIR exercise, arguing the right to peaceful protest is inalienable and that students should be answered with dialogue, not detention.",
+      "kind": "opinion",
+      "scope": "india"
+    },
+    {
+      "page": 6,
+      "index": 2,
+      "headline": "Why Chirag is vocal on Modi govt since Gen Z protests",
+      "blurb": "Soroor Ahmed analyses why Union minister Chirag Paswan has spoken up about the Modi government's handling of October 10 protests, placing him alongside Abhijeet Dipke and Chandrashekhar Azad amid Dalit political unease in Bihar, Maharashtra and elsewhere.",
+      "kind": "opinion",
+      "scope": "india"
+    },
+    {
+      "page": 6,
+      "index": 3,
+      "headline": "Why India must focus on growth",
+      "blurb": "Renuka V Sane argues from World Bank income data that India's richest 10% remain modest by global standards and that broad-based growth creating jobs must accompany concerns about inequality; the piece is sourced from The Print.",
+      "kind": "opinion",
+      "scope": "india"
+    },
+    {
+      "page": 6,
+      "index": 4,
+      "headline": "AI-generated bond claims CJP leader barred from protests",
+      "blurb": "TRUTH TRAIL reports that a purported bond claiming CJP founder Abhijeet Dipke promised not to protest for a year is fake; Boom fact-checkers found misspellings such as a garbled 'Satyameva Jayate' seal and AI-detection signals, while police said bonds were for peace and good behaviour, not an explicit protest ban.",
+      "kind": "news",
+      "scope": "india"
+    },
+    {
+      "page": 6,
+      "index": 5,
+      "headline": "Protest continues, venues shift",
+      "blurb": "In a letter from Bengaluru, Ashok Jain notes that protest venues have been denotified over time, recalls the Boat Club ban after 1993, and says the opposition should strengthen protests rather than only mourn Jantar Mantar restrictions.",
+      "kind": "opinion",
+      "scope": "india"
+    },
+    {
+      "page": 6,
+      "index": 6,
+      "headline": "Campaign against open borewells",
+      "blurb": "Krishna Kumar of Bengaluru welcomes the statewide 'Open Borewell-Free Karnataka' campaign and calls for strict legal accountability on property owners and drilling contractors who leave abandoned borewells uncapped.",
+      "kind": "opinion",
+      "scope": "karnataka"
+    },
+    {
+      "page": 7,
+      "index": 1,
+      "headline": "BEYOND BURNOUT: The impact of long work hours on your heart",
+      "blurb": "A wellness feature cites research on about 85,000 adults linking 55-plus-hour work weeks to a 42% higher risk of atrial fibrillation versus 35–40 hour weeks, describes AFib symptoms, and advises micro-breaks, boundaries and 7–8 hours of sleep.",
+      "kind": "news",
+      "scope": "lifestyle"
+    },
+    {
+      "page": 7,
+      "index": 2,
+      "headline": "Remedies to get relief from painful mumps",
+      "blurb": "The article describes mumps as a contagious viral infection causing salivary-gland swelling and lists remedies mentioned on the page including ginger, Haritaki, Aloe vera, black pepper, banyan leaves with ghee, turmeric paste and cold compresses.",
+      "kind": "news",
+      "scope": "lifestyle"
+    },
+    {
+      "page": 7,
+      "index": 3,
+      "headline": "Look Less Tired Fast: Simple tricks to refresh your under-eyes",
+      "blurb": "Tips for under-eye puffiness and dark circles include chilled caffeinated tea bags for 15–30 minutes, topical retinol, sleeping with the head elevated, reducing salt, collagen-rich foods and a neti pot for sinus-related swelling.",
+      "kind": "news",
+      "scope": "lifestyle"
+    },
+    {
+      "page": 7,
+      "index": 4,
+      "headline": "Health Benefits: Senna",
+      "blurb": "Senna is presented as a natural laxative for constipation and bowel prep, with FDA-noted doses of 8.5 mg for children and 17.2 mg for adults, a caution against use beyond two weeks, and a warning about improper use in weight-loss aids.",
+      "kind": "news",
+      "scope": "lifestyle"
+    },
+    {
+      "page": 8,
+      "index": 1,
+      "headline": "Prison, plays and rebirth",
+      "blurb": "Mahmood Farooqui recounts spending 18 months in Tihar Jail between 2015 and 2017, organising inmate theatre including Swadesh Deepak's Court Martial, in his Juggernaut memoir The Tihar Players; he says the term re-booted him as an artist beyond dastangoi.",
+      "kind": "opinion",
+      "scope": "india"
+    },
+    {
+      "page": 8,
+      "index": 2,
+      "headline": "A RELATIONSHIP WE WILL ALWAYS CHERISH",
+      "blurb": "Crossword Bookstores director Nidhi Gupta reminisces about Jeffrey Archer's visits to Crossword stores in India, including Kemps Corner in Mumbai, and the author's enduring popularity with novels such as Kane and Abel and The Clifton Chronicles.",
+      "kind": "opinion",
+      "scope": "india"
+    },
+    {
+      "page": 8,
+      "index": 3,
+      "headline": "In conversation with the 'Lord' himself!",
+      "blurb": "A 2012 interview with Jeffrey Archer during an India visit for The Sins of the Father covers his Clifton Chronicles writing, admiration for R.K. Narayan and Vikram Seth, and the primacy of a page-turning narrative.",
+      "kind": "opinion",
+      "scope": "international"
+    },
+    {
+      "page": 9,
+      "index": 1,
+      "headline": "India’s power-hitters eye one more run feast, series win",
+      "blurb": "After Abhishek Sharma's 65 off 30 helped post 229, India aim for a 3–0 lead in the five-match T20 series against the West Indies in a match listed for 7 PM, with Tilak Varma, Nitish Kumar Reddy and Sanju Samson among those named.",
+      "kind": "news",
+      "scope": "india"
+    },
+    {
+      "page": 9,
+      "index": 2,
+      "headline": "Teen talent inspires Coventry to emphatic win over Newcastle",
+      "blurb": "Teenager Salki Cherif scored and assisted as Coventry City beat Newcastle United 4–1 for their first Premier League win of the season, climbing three places to two points above the relegation zone.",
+      "kind": "news",
+      "scope": "international"
+    },
+    {
+      "page": 9,
+      "index": 3,
+      "headline": "Australia strike twice as South Africa cling on in tense last-day chase",
+      "blurb": "Chasing 421 at Kingsmead, South Africa reached 103 for 4 on the final day with Aiden Markram 69 not out after early breakthroughs by Mitchell Starc and Josh Hazlewood.",
+      "kind": "news",
+      "scope": "international"
+    },
+    {
+      "page": 9,
+      "index": 4,
+      "headline": "Shubman Gill, Shafali Verma ICC players of month",
+      "blurb": "Shubman Gill and Shafali Verma were named ICC Players of the Month for September, the fifth time since 2021 Indian players have swept both awards, for ODI series and Asian Games performances respectively.",
+      "kind": "news",
+      "scope": "india"
+    },
+    {
+      "page": 9,
+      "index": 5,
+      "headline": "Barcelona, Real Madrid soccer legends to face-off in Kolkata on November 25",
+      "blurb": "West Bengal Sports Minister Arup Biswas announced an exhibition match of Barcelona and Real Madrid legends at Kolkata's Salt Lake Stadium on November 25.",
+      "kind": "news",
+      "scope": "india"
+    },
+    {
+      "page": 9,
+      "index": 6,
+      "headline": "Al-Nassr match in AFC Champions League delayed",
+      "blurb": "Al-Nassr versus Neftchi Fergana in Riyadh was delayed an hour after a security alert over explosions; the Saudi-led coalition said three ballistic missiles were intercepted and at least 12 people were reported injured.",
+      "kind": "news",
+      "scope": "international"
+    },
+    {
+      "page": 9,
+      "index": 7,
+      "headline": "Ticket ballot for WC 2027 gets 1.5 crore applications",
+      "blurb": "The ICC said more than 1.5 crore ticket applications were received in a 12-day window that closed October 12 for the 2027 Men's World Cup co-hosted by South Africa, Zimbabwe and Namibia.",
+      "kind": "news",
+      "scope": "international"
+    },
+    {
+      "page": 9,
+      "index": 8,
+      "headline": "Champions League: Man United under pressure; Barcelona aim to end barren run",
+      "blurb": "Match preview coverage notes Manchester United facing Atlético Madrid under domestic pressure and Barcelona seeking a first Champions League win since 2015 against Galatasaray.",
+      "kind": "news",
+      "scope": "international"
+    },
+    {
+      "page": 9,
+      "index": 9,
+      "headline": "F1 announces return to Africa with grand prix in Rwanda",
+      "blurb": "Formula 1 announced a 10-year Grand Prix deal for Bugesera, Rwanda, from the early 2030s, marking a return to Africa after about four decades; President Paul Kagame welcomed the move.",
+      "kind": "news",
+      "scope": "international"
+    },
+    {
+      "page": 9,
+      "index": 10,
+      "headline": "Mumbai crush Chandigarh by an innings and 155 runs",
+      "blurb": "Mumbai scored 626 and beat Chandigarh by an innings and 155 runs in their Ranji Trophy opener at Wankhede after Chandigarh made 72 and 196; a related note says Ayush Mhatre has a grade 4 right-hamstring tear and is out for at least three months.",
+      "kind": "news",
+      "scope": "india"
+    },
+    {
+      "page": 9,
+      "index": 11,
+      "headline": "Thyagarajan, Siraj shine as Hyderabad drub Tripura",
+      "blurb": "Hyderabad took seven points with a seven-wicket Elite Group B Ranji win over Tripura after Tanay Thyagarajan's 5/52 and Mohammed Siraj's 2/19 helped dismiss Tripura for 161 and 120.",
+      "kind": "news",
+      "scope": "india"
+    }
+  ]
+}

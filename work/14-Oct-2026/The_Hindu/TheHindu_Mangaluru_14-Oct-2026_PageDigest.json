@@ -1,0 +1,862 @@
+{
+  "paper": "The Hindu",
+  "edition": "Mangaluru",
+  "date": "Wednesday, 14 October 2026",
+  "total_pages": 22,
+  "total_articles": 106,
+  "pages_with_no_articles": [
+    1,
+    2,
+    17
+  ],
+  "articles": [
+    {
+      "page": 3,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Resistance will go on, says Rahul after meeting allies",
+      "blurb": "Congress leader and Leader of the Opposition in the Lok Sabha Rahul Gandhi met INDIA bloc members, student leaders and activists in New Delhi to plan continued agitation against the Chief Election Commissioner and the Special Intensive Revision of electoral rolls, telling reporters that resistance would go on."
+    },
+    {
+      "page": 3,
+      "index": 2,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Court issues gag order on airing videos on Siddaramaiah",
+      "blurb": "A Bengaluru civil court issued an interim injunction restraining YouTube channels from broadcasting defamatory videos about former Karnataka Chief Minister Siddaramaiah, including items titled “Karnataka Honey Trap Nexus Part 1” and “Live: Biggest CD Blast in Karnataka Politics”."
+    },
+    {
+      "page": 3,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "13 children killed in Bihar boat capsize",
+      "blurb": "At least 13 children died when a boat capsized in the Ganga in Vaishali district, Bihar, according to reports from Patna."
+    },
+    {
+      "page": 3,
+      "index": 4,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Sugarcane farmers block highway seeking better prices, resignation of Union Minister",
+      "blurb": "Farmers in Belagavi blocked the Pune–Bengaluru National Highway demanding higher sugarcane prices and the resignation of Union Minister Pralhad Joshi."
+    },
+    {
+      "page": 3,
+      "index": 5,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Decked up",
+      "blurb": "The Kudroli Sri Gokarnanatha temple in Mangaluru was illuminated for Dasara celebrations, as shown in a photograph credited to H.S. Manjunath."
+    },
+    {
+      "page": 4,
+      "index": 1,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "MCC to take up drive from today to issue pending birth and death certificates",
+      "blurb": "Mangaluru City Corporation will run a drive from October 14 to October 17 to issue pending birth and death certificates, with applicants told to book slots through the corporation’s online portal."
+    },
+    {
+      "page": 4,
+      "index": 2,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "IAS officer booked for assault on police",
+      "blurb": "Police booked Andhra Pradesh cadre IAS officer Vikas Marmat, special officer of the Koppal Area Development Authority, and three others for allegedly assaulting a police inspector and personnel at a bar on Residency Road, Bengaluru."
+    },
+    {
+      "page": 4,
+      "index": 3,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Two electrocuted, minor injured in Sullia",
+      "blurb": "Two persons, Bharath (28) and Ramesh (35), died and a minor boy suffered burns after contact with a live wire fence at farmland in Sullia taluk."
+    },
+    {
+      "page": 5,
+      "index": 1,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Govt. suppressing voice of students through police: Mangaluru City MLAs",
+      "blurb": "Mangaluru City MLAs Vedavyasa Kamath and Bharat Shetty alleged police manhandled students peacefully seeking postponement of exams during Dasara, including at St. Agnes College where a memorandum was not accepted."
+    },
+    {
+      "page": 5,
+      "index": 2,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Minister to conduct meeting in Bengaluru to decide on completing drainage project in Kundapur",
+      "blurb": "Municipal Administration Minister H.C. Balakrishna will hold a Bengaluru meeting on completing Kundapur’s underground drainage project, pending for 11 years over land acquisition and technical hurdles."
+    },
+    {
+      "page": 5,
+      "index": 3,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Private schools body demands separate Bill to protect teachers",
+      "blurb": "The Associated Management of Primary and Secondary Schools in Karnataka (KAMS) demanded a separate law to protect teachers from harassment by parents or organised groups, citing parallels with protections for medical professionals."
+    },
+    {
+      "page": 5,
+      "index": 4,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Tourist taxi drivers reiterate demand for 8-minute free pick and drop facility at airport",
+      "blurb": "Taxi associations at Mangaluru International Airport renewed demands for an eight-minute free pick-up and drop window and protested a ₹50 entry fee for commercial vehicles."
+    },
+    {
+      "page": 5,
+      "index": 5,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Pourakarmikas demand allotment of housing sites",
+      "blurb": "Sanitation workers in Mangaluru demanded Mangaluru City Corporation allot housing sites previously identified for pourakarmikas."
+    },
+    {
+      "page": 5,
+      "index": 6,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Mescom camps in Udupi district from today",
+      "blurb": "Mangaluru Electricity Supply Company Ltd. will hold Seva Sethu camps in Udupi district from October 14 to address consumer grievances and provide information on solar power systems."
+    },
+    {
+      "page": 6,
+      "index": 1,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "HDK seeks CBI probe into ‘sting operation’",
+      "blurb": "Union Minister H.D. Kumaraswamy demanded a CBI probe into a sting-operation video on social media, calling it a conspiracy against him and saying former Chief Minister Siddaramaiah was also targeted."
+    },
+    {
+      "page": 6,
+      "index": 2,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Gag order on airing videos on ex-CM",
+      "blurb": "A court order continued to bar broadcast or sharing of certain videos about a former Karnataka Chief Minister, citing reputation and privacy concerns."
+    },
+    {
+      "page": 6,
+      "index": 3,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Karnataka to explore legal options to challenge verdict",
+      "blurb": "The Karnataka government said it would explore legal options after the High Court struck down enhancement of reservation quotas for Scheduled Castes and Scheduled Tribes, with Deputy CM D.K. Shivakumar and Home Minister G. Parameshwara involved in discussions."
+    },
+    {
+      "page": 6,
+      "index": 4,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "‘Anna Seva’ app to be available from today",
+      "blurb": "Karnataka launched the Anna Seva mobile app for Public Distribution System beneficiaries to complete e-KYC."
+    },
+    {
+      "page": 6,
+      "index": 5,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "MLC accuses Rahul of ‘insulting’ Kannadigas",
+      "blurb": "BJP MLC N. Ravi Kumar accused Congress leader Rahul Gandhi of insulting Kannadigas by allegedly pushing Chief Minister Siddaramaiah during a Delhi protest."
+    },
+    {
+      "page": 6,
+      "index": 6,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "SC/ST voices condemn High Court order",
+      "blurb": "Dalit and tribal groups condemned the High Court order striking down increased SC/ST reservation quotas and demanded the law be placed in the Ninth Schedule of the Constitution."
+    },
+    {
+      "page": 7,
+      "index": 1,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "108 ambulance workers threaten strike from tonight",
+      "blurb": "Health Minister U.T. Khader said only about 350 of 750 required 108 ambulances were operational and urged the public not to depend solely on the service for two months as the 108 Ambulance Workers’ Union threatened a strike over wages, staffing and safety."
+    },
+    {
+      "page": 7,
+      "index": 2,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Shivakumar seeks report on police action at SIR protest",
+      "blurb": "Karnataka Chief Minister D.K. Shivakumar sought a report on police action against Bengaluru protesters opposing the special intensive revision of electoral rolls, saying peaceful protest must be allowed; Home Minister Priyank Kharge said police were told to keep order without creating fear."
+    },
+    {
+      "page": 7,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Life-saving drugs in short supply in Kerala govt. hospitals: Opposition",
+      "blurb": "Kerala Opposition MLA K.V. Sumesh moved an adjournment motion alleging medicine shortages in government hospitals; Health Minister Veena George denied the claim and said supply was under control."
+    },
+    {
+      "page": 8,
+      "index": 1,
+      "kind": "opinion",
+      "scope": "india",
+      "headline": "Spiralling food prices",
+      "blurb": "Retail inflation hit a two-year high with rural households facing the steepest food-price pressure; the editorial cites vegetable costs, RBI rate choices and global oil prices."
+    },
+    {
+      "page": 8,
+      "index": 2,
+      "kind": "opinion",
+      "scope": "india",
+      "headline": "Sound and fiery",
+      "blurb": "The editorial argues ‘green crackers’ have done little to curb Delhi-NCR air and noise pollution despite Supreme Court limits on conventional firecrackers."
+    },
+    {
+      "page": 8,
+      "index": 3,
+      "kind": "opinion",
+      "scope": "india",
+      "headline": "India’s problem of overtreatment, overmedication",
+      "blurb": "Physician Chandrakant Lahariya writes that unnecessary tests, prescriptions and procedures are driving overtreatment and calls for clinical reasoning over volume-based care."
+    },
+    {
+      "page": 8,
+      "index": 4,
+      "kind": "opinion",
+      "scope": "india",
+      "headline": "India-U.S. ties and the hurdle of American unilateralism",
+      "blurb": "Rajeev Agarwal examines India–U.S. ties through H-1B PERM suspension, trade imbalances and defence cooperation including F404 engines for Tejas."
+    },
+    {
+      "page": 8,
+      "index": 5,
+      "kind": "opinion",
+      "scope": "karnataka",
+      "headline": "Young voices, new politics",
+      "blurb": "Pavan Kumar H.R. of Shivamogga, in a letter, urges greater youth participation in politics."
+    },
+    {
+      "page": 8,
+      "index": 6,
+      "kind": "opinion",
+      "scope": "india",
+      "headline": "Visual indictment",
+      "blurb": "R. Sivakumar of Chennai comments on an editorial cartoon about the Election Commission."
+    },
+    {
+      "page": 8,
+      "index": 7,
+      "kind": "opinion",
+      "scope": "india",
+      "headline": "A day for dam safety",
+      "blurb": "V. Abdul Basheer of Hyderabad writes on Srisailam dam safety and resilience."
+    },
+    {
+      "page": 9,
+      "index": 1,
+      "kind": "opinion",
+      "scope": "india",
+      "headline": "Why Congress must not smear CJP",
+      "blurb": "Historian Vanya Vaidehi Bhargav argues mutual criticism is democratic but smear campaigns against the Congress Janhit Party will be read as petty insecurity."
+    },
+    {
+      "page": 9,
+      "index": 2,
+      "kind": "opinion",
+      "scope": "india",
+      "headline": "Nobel lesson: value of stabilisation models",
+      "blurb": "Economist Sushanta Kumar Mahapatra links the Nobel for Wilson and Milgrom to central-bank credibility and communication on interest rates."
+    },
+    {
+      "page": 9,
+      "index": 3,
+      "kind": "opinion",
+      "scope": "india",
+      "headline": "Legal aid cuts jail time for undertrials, but help often arrives late",
+      "blurb": "Indulekha Gulati and Trisha Chandra report legal-aid programmes can shorten pre-trial detention in Maharashtra but delays at intake reduce wage-loss gains."
+    },
+    {
+      "page": 10,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "SC gives Centre more time to reply to pleas against detentions, transport shutdown",
+      "blurb": "The Supreme Court, led by CJI Surya Kant, gave the Union government more time to file an affidavit on petitions challenging detentions and public-transport shutdowns during Delhi’s anti-CEC-SIR protests."
+    },
+    {
+      "page": 10,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Shah slams SIR protests, tells Rahul to be ready for defeat in 2029 polls",
+      "blurb": "Union Home Minister Amit Shah criticised protests against the Special Intensive Revision and told Rahul Gandhi to prepare for a fourth consecutive Lok Sabha defeat in 2029."
+    },
+    {
+      "page": 10,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Congress is living in denial over election defeats: BJP, JD(U)",
+      "blurb": "BJP and JD(U) leaders including Piyush Goyal accused Congress of undermining constitutional institutions after electoral losses."
+    },
+    {
+      "page": 10,
+      "index": 4,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Top court registers Rahul’s plea on SIR, CEC",
+      "blurb": "The Supreme Court registered Rahul Gandhi’s petition seeking a court-monitored probe into the SIR and Chief Election Commissioner appointment process."
+    },
+    {
+      "page": 10,
+      "index": 5,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Use of Form 6 to re-enlist voters is an anomaly, says plea",
+      "blurb": "Activists petitioned the Supreme Court challenging the requirement that voters wrongfully deleted from rolls use Form 6 meant for first-time enrolment to return."
+    },
+    {
+      "page": 10,
+      "index": 6,
+      "kind": "news",
+      "scope": "international",
+      "headline": "India and Canada together contributing to prosperous, stable world: Modi to Carney",
+      "blurb": "Prime Minister Narendra Modi told Canadian Prime Minister Mark Carney their countries would jointly contribute to a prosperous, stable world, discussing trade, technology and security."
+    },
+    {
+      "page": 11,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Muslims disproportionately flagged in Delhi SIR",
+      "blurb": "Analysis of Delhi’s draft SIR rolls found Muslims at 13.6% of electors but 20.3% of those flagged for logical discrepancies and 30% under family-size indicators, authors Pon Vasanth B.A. and Srinivasan Ramani report."
+    },
+    {
+      "page": 11,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Injured protesters denied medico-legal case details by police",
+      "blurb": "Protesters injured in Delhi demonstrations said police and hospitals withheld medico-legal case summaries needed for legal action over police conduct."
+    },
+    {
+      "page": 11,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "‘Meticulous planning’ helped Congress mobilise massive crowd for INDIA bloc march",
+      "blurb": "Congress organisers brought large numbers to Delhi for the March for Democracy despite barricades and detentions, Sobhana K. Nair reports."
+    },
+    {
+      "page": 11,
+      "index": 4,
+      "kind": "news",
+      "scope": "india",
+      "headline": "WhatsApp polls used for surveillance, say protesters",
+      "blurb": "Protesters alleged police used attendance polls in WhatsApp groups to identify and preemptively detain demonstrators."
+    },
+    {
+      "page": 11,
+      "index": 5,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Delhi Police book 14 CJP members after Jantar Mantar entry",
+      "blurb": "Delhi Police detained 14 Congress Janhit Party members attempting to enter the prohibited Jantar Mantar protest site."
+    },
+    {
+      "page": 11,
+      "index": 6,
+      "kind": "news",
+      "scope": "india",
+      "headline": "PCI slams crackdown on journalists",
+      "blurb": "The Press Council of India and media bodies condemned alleged harassment and detention of journalists covering the protests."
+    },
+    {
+      "page": 12,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "China says ‘never recognised’ U.T. of Ladakh; India hits back",
+      "blurb": "China opposed the Survey of India standardising names in Ladakh and said it never recognised the Union Territory; India said no denial could change established facts, Suhasini Haidar and Ananth Krishnan report."
+    },
+    {
+      "page": 12,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Murugan’s exit from Ministry intensifies Cabinet rejig buzz",
+      "blurb": "Union Minister of State L. Murugan resigned, intensifying speculation about a Cabinet reshuffle, Nistula Hebbar reports from New Delhi."
+    },
+    {
+      "page": 12,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "BIMSTEC adopts ‘Delhi Declaration’ on terrorism",
+      "blurb": "Home ministers of BIMSTEC countries adopted the Delhi Declaration to counter radicalisation and terrorism, with Amit Shah attending the meeting."
+    },
+    {
+      "page": 12,
+      "index": 4,
+      "kind": "news",
+      "scope": "india",
+      "headline": "UPI fee rollout put off beyond Deepavali on traders’ appeal",
+      "blurb": "NPCI postponed merchant discount rate charges on UPI beyond Deepavali after traders’ appeals, T.C.A. Sharad Raghavan reports."
+    },
+    {
+      "page": 12,
+      "index": 5,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Don’t give nod to Starlink, RSS affiliate urges Centre",
+      "blurb": "Swadeshi Jagran Manch urged the Centre to deny Elon Musk-owned Starlink permission for commercial broadband in India."
+    },
+    {
+      "page": 12,
+      "index": 6,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Sitaram Yechury Foundation invites abstracts for essays",
+      "blurb": "The Sitaram Yechury Foundation invited undergraduate and postgraduate students to submit abstracts for essays on imperialism in the present age."
+    },
+    {
+      "page": 12,
+      "index": 7,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "Efficacy of Purattasi",
+      "blurb": "A Faith column discusses religious discipline and significance associated with the Purattasi month."
+    },
+    {
+      "page": 13,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Hyundai Motor to invest $15.5 bn in India by 2032",
+      "blurb": "Hyundai Motor Group announced $15.5 billion investment in India by 2032 to expand manufacturing, R&D and localisation across Hyundai Motor India and Kia India."
+    },
+    {
+      "page": 13,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Vantrock unveils warehousing, industrial, logistics parks plan",
+      "blurb": "Vantrock Real Estate plans 11.5 million sq. ft of warehousing and logistics parks with ₹4,200 crore gross development value, construction from 2027 in NCR, Bengaluru and Pune."
+    },
+    {
+      "page": 13,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Adani defers Mumbai to Navi Mumbai plan",
+      "blurb": "The Adani Group deferred shifting 30% of international flight slots from Mumbai to Navi Mumbai International Airport to the summer schedule beginning March 28, 2027 after airline pushback."
+    },
+    {
+      "page": 13,
+      "index": 4,
+      "kind": "news",
+      "scope": "india",
+      "headline": "‘Will keenly hear views on LTCG, STT’",
+      "blurb": "Finance Minister Nirmala Sitharaman said she would listen to views on long-term capital gains tax and securities transaction tax ahead of Budget 2027 without confirming changes."
+    },
+    {
+      "page": 13,
+      "index": 5,
+      "kind": "news",
+      "scope": "india",
+      "headline": "India does not grow at anybody’s expense: PM",
+      "blurb": "Prime Minister Narendra Modi said India’s reforms are driven by conviction, citing 7.4% first-quarter growth as a trusted pillar for the global economy."
+    },
+    {
+      "page": 13,
+      "index": 6,
+      "kind": "news",
+      "scope": "india",
+      "headline": "OPEC cuts India’s 2026 oil demand growth forecast to 40,000 bpd",
+      "blurb": "OPEC lowered its 2026 India oil demand growth forecast to 40,000 barrels per day from 60,000 bpd, citing transportation fuels."
+    },
+    {
+      "page": 14,
+      "index": 1,
+      "kind": "news",
+      "scope": "international",
+      "headline": "French unions say 480,000 people took part in pro-student protests",
+      "blurb": "Unions in Paris said about 480,000 people joined pro-student demonstrations."
+    },
+    {
+      "page": 14,
+      "index": 2,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Palestinians displaced from refugee camp will not return: Netanyahu",
+      "blurb": "Israeli Prime Minister Benjamin Netanyahu said Palestinians displaced from a refugee camp would not return."
+    },
+    {
+      "page": 14,
+      "index": 3,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Six killed, 40 injured as passenger train derails in Pakistan’s Punjab",
+      "blurb": "Six people died and 40 were injured when a passenger train derailed in Punjab, Pakistan."
+    },
+    {
+      "page": 14,
+      "index": 4,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Hezbollah announces aid for those displaced in Lebanon due to war",
+      "blurb": "Hezbollah announced aid for people displaced by fighting in Lebanon."
+    },
+    {
+      "page": 14,
+      "index": 5,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Saudi Arabia strikes oil facility in Yemen’s capital, say Houthis",
+      "blurb": "Houthi forces said Saudi Arabia struck an oil facility in Sanaa and threatened Riyadh airport and Aramco sites."
+    },
+    {
+      "page": 14,
+      "index": 6,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Iran trying to hit military sites in U.K., says intel chief",
+      "blurb": "MI5 head Ken McCallum said Iran was trying to hit military sites in the United Kingdom."
+    },
+    {
+      "page": 14,
+      "index": 7,
+      "kind": "news",
+      "scope": "international",
+      "headline": "11 sailors go missing after drone sinks ship off Bulgaria’s coast",
+      "blurb": "Eleven sailors were missing after a drone attack sank a ship off Bulgaria’s coast."
+    },
+    {
+      "page": 14,
+      "index": 8,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Russia hits no energy targets in Ukraine for the first time since Trump’s ‘ceasefire’",
+      "blurb": "Russia struck no energy targets in Ukraine for the first time since a Trump-brokered ceasefire, reports said."
+    },
+    {
+      "page": 14,
+      "index": 9,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Trump says he does not believe China, Russia helping Iran",
+      "blurb": "Former U.S. President Donald Trump said he did not believe China and Russia were helping Iran."
+    },
+    {
+      "page": 14,
+      "index": 10,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Delhi HC asks AITA and petitioners to file replies",
+      "blurb": "The Delhi High Court asked the All India Tennis Association and petitioners to file replies in a pending plea."
+    },
+    {
+      "page": 14,
+      "index": 11,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Hazlewood bowls Australia to victory",
+      "blurb": "Josh Hazlewood’s bowling helped Australia beat South Africa in a limited-overs match."
+    },
+    {
+      "page": 14,
+      "index": 12,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Atal’s fighting ton helps Afghanistan save Test",
+      "blurb": "Atal’s century helped Afghanistan save a Test against Bangladesh in Abu Dhabi."
+    },
+    {
+      "page": 14,
+      "index": 13,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Goalkeeper Pathak returns, Asiad core retained for ACT",
+      "blurb": "Hockey selectors retained the Asian Games core and recalled goalkeeper Pathak for the Asian Champions Trophy squad."
+    },
+    {
+      "page": 15,
+      "index": 1,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "Medical students, professors should be asked to take AI course: expert",
+      "blurb": "At The Hindu Sustainability Dialogues in Chennai, experts including Dr. Abdul Ghafur and Dr. K. Ganapathy said medical students and faculty should take AI courses while warning against unchecked reliance on tools like ChatGPT."
+    },
+    {
+      "page": 15,
+      "index": 2,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "Sustainability means making healthcare affordable to all, says SIMATS chancellor",
+      "blurb": "SIMATS founder-chancellor N.M. Veeraiyan said sustainable healthcare requires affordability and accessibility, citing institute research including an app to distinguish gastric and cardiac symptoms."
+    },
+    {
+      "page": 15,
+      "index": 3,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "AI can improve disease detection but human oversight is needed: experts",
+      "blurb": "Panelists at SIMATS said AI can aid cancer and oral-lesion screening in rural areas but clinicians must convey diagnoses to patients."
+    },
+    {
+      "page": 16,
+      "index": 1,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Until the umpire signals a four, I will keep running: Tilak",
+      "blurb": "Tilak Varma said he would keep running until the umpire signals four after a run-out incident in Indore when the ball rebounded from an advertising board."
+    },
+    {
+      "page": 16,
+      "index": 2,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Our players need to adapt when the pressure is on: Sammy",
+      "blurb": "West Indies coach Daren Sammy urged batters beyond Shai Hope to perform under pressure in the T20I series."
+    },
+    {
+      "page": 16,
+      "index": 3,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Gill wins a record fifth ICC PotM award; Shafali, too, tops",
+      "blurb": "Shubman Gill won a record fifth ICC Men’s Player of the Month award and Shafali Verma took the women’s award after Asia Cup performances."
+    },
+    {
+      "page": 16,
+      "index": 4,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Yuvraj appointed Delhi Capitals assistant and batting coach",
+      "blurb": "Yuvraj Singh joined Delhi Capitals as assistant and batting coach for the 2027 IPL under head coach Sourav Ganguly."
+    },
+    {
+      "page": 16,
+      "index": 5,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "India and WI willow-wielders glove up for another blast",
+      "blurb": "India and West Indies meet in Hyderabad one win from sealing the T20I series after Shreyas Iyer’s century and Arshdeep Singh’s three wickets in Indore."
+    },
+    {
+      "page": 16,
+      "index": 6,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "‘You can’t hit from the first ball in T20s’",
+      "blurb": "Tilak Varma said batters need a few deliveries to read the wicket before attacking in T20 cricket."
+    },
+    {
+      "page": 16,
+      "index": 7,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "We have to win both PowerPlays: Sammy",
+      "blurb": "Daren Sammy said West Indies must win both PowerPlay phases to stay competitive in the series."
+    },
+    {
+      "page": 16,
+      "index": 8,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "‘Fitness and form should be the criteria for selection, not age’",
+      "blurb": "BCCI president Mithali Raj said fitness and form, not age, should decide selection for senior players including Virat Kohli and Rohit Sharma ahead of the 2027 ODI World Cup."
+    },
+    {
+      "page": 16,
+      "index": 9,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Gibson does it for Royals; Marathas, Knights shine",
+      "blurb": "Rajasthan Royals rallied in the Archery Premier League in Hyderabad while Mighty Marathas and Kakatiya Knights posted wins."
+    },
+    {
+      "page": 16,
+      "index": 10,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "There’s nothing you can’t achieve: Rai senior’s advice",
+      "blurb": "Golfer Aaron Rai, fresh from PGA Championship success, credited his father Amrik’s advice as he returned for the Hero Indian Open in the National Capital Region."
+    },
+    {
+      "page": 18,
+      "index": 1,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Steely Karun stands between Andhra and an outright win",
+      "blurb": "Karun Nair’s unbeaten 81 helped Karnataka erase a 144-run first-innings deficit against Andhra in the Ranji Trophy at Vijayawada."
+    },
+    {
+      "page": 18,
+      "index": 2,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Unnathi knocks out top seed Deepthi; Ribhav progresses",
+      "blurb": "Unnathi knocked out top seed Deepthi at the 31st Fenesta Open National Tennis championship."
+    },
+    {
+      "page": 18,
+      "index": 3,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Chinnaswamy Stadium cleared to host India-WI T20I",
+      "blurb": "Karnataka State Cricket Association received clearance to host the India–West Indies T20I at M. Chinnaswamy Stadium."
+    },
+    {
+      "page": 18,
+      "index": 4,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Yunus suspended for alleged anti-doping violation",
+      "blurb": "Athlete Mohammad Yunus Khan was suspended for an alleged anti-doping violation."
+    },
+    {
+      "page": 18,
+      "index": 5,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Hamstring injury rules Mhatre out for six weeks",
+      "blurb": "Mumbai batter Ayush Mhatre was ruled out for six weeks with a hamstring injury."
+    },
+    {
+      "page": 18,
+      "index": 6,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "166 athletes make the cut for Para Asian Games",
+      "blurb": "The sports ministry selected 166 athletes for the Para Asian Games in Aichi-Nagoya, Japan."
+    },
+    {
+      "page": 18,
+      "index": 7,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Coventry shocks Newcastle, makes it two in a row",
+      "blurb": "Coventry City beat Newcastle United with teenager Sidiki Cherif scoring in the Premier League."
+    },
+    {
+      "page": 18,
+      "index": 8,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Dasara CM Cup sports meet: six new meet records in athletics",
+      "blurb": "Athletes set six new records at the Dasara CM Cup sports meet; Vishwanath and V. Hitaishi were among champions."
+    },
+    {
+      "page": 18,
+      "index": 9,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Varun’s double helps Vidarbha rack up a huge total",
+      "blurb": "Varun Bista’s double century (209) powered Vidarbha against Karnataka at Alur Grounds."
+    },
+    {
+      "page": 19,
+      "index": 1,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "A leader who took India to uncharted terrains",
+      "blurb": "P.K. Ajith Kumar profiles Harmanpreet Kaur’s captaincy as she steps down, citing World Cup and Test wins and mentorship of players such as Shafali Verma and Smriti Mandhana."
+    },
+    {
+      "page": 20,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "India’s water plants are failing to catch elusive ‘forever chemicals’",
+      "blurb": "Rohan Singh reports PFAS contamination found in multiple states while conventional treatment cannot remove the compounds and India lacks specific drinking-water limits."
+    },
+    {
+      "page": 20,
+      "index": 2,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Rogue AI: deficient design?",
+      "blurb": "More than 200 AI researchers including Geoffrey Hinton and Yoshua Bengio urged safeguards such as air-gapping models to prevent rogue behaviour risking critical infrastructure."
+    },
+    {
+      "page": 20,
+      "index": 3,
+      "kind": "news",
+      "scope": "international",
+      "headline": "BIG SHOT",
+      "blurb": "Women inspect young mangroves planted to restore Mida Creek near Watamu, Kenya, ahead of the UN Biodiversity Conference."
+    },
+    {
+      "page": 21,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "What is preventive detention?",
+      "blurb": "Rizmi Lia M. explains preventive detention versus prohibitory orders under the BNSS, tracing laws from the Rowlatt Act to the NSA and citing the Supreme Court’s October 11 order on Delhi protests and Article 22 safeguards."
+    },
+    {
+      "page": 21,
+      "index": 2,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Healthy life-years saved by limiting global warming",
+      "blurb": "News in Numbers cites 1.89 billion life-years that could be saved by limiting warming to 1.8°C instead of 4.4°C."
+    },
+    {
+      "page": 21,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Increase in power demand in T.N. due to El Niño heat",
+      "blurb": "Tamil Nadu power demand rose 30% amid El Niño heat; Minister Thangam Thennarasu defended short-term power tenders."
+    },
+    {
+      "page": 21,
+      "index": 4,
+      "kind": "news",
+      "scope": "international",
+      "headline": "IMF's lowered forecast of China's economic growth this year",
+      "blurb": "The IMF cut China’s growth forecast to 4.5% citing West Asia conflict energy prices and weak domestic spending."
+    },
+    {
+      "page": 21,
+      "index": 5,
+      "kind": "news",
+      "scope": "international",
+      "headline": "The value of hydrocarbons Russia exported to Europe",
+      "blurb": "Russia exported $320 billion in hydrocarbons to Europe from 2022 to the present, News in Numbers reports."
+    },
+    {
+      "page": 21,
+      "index": 6,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Farmers on third list for Maharashtra crop loan waiver",
+      "blurb": "3.51 lakh farmers were named on the third list under the Puneashlok Ahilyadevi Holkar Loan Waiver Scheme."
+    },
+    {
+      "page": 22,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Why is Musk taking on Mukesh Ambani over Starlink in India?",
+      "blurb": "Sahana Venugopal reports Elon Musk accused Mukesh Ambani of blocking Starlink to protect Jio as the satellite service awaits security clearances amid Jio’s IPO preparations."
+    },
+    {
+      "page": 22,
+      "index": 2,
+      "kind": "opinion",
+      "scope": "lifestyle",
+      "headline": "Know Your English",
+      "blurb": "S. Upendran explains “hook, line, and sinker,” cost versus price, and aftermath, republished from the April 2, 2002 column."
+    },
+    {
+      "page": 22,
+      "index": 3,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "The Daily Quiz",
+      "blurb": "V.V. Ramanan sets eight Winnie-the-Pooh centenary questions and lists prior-day quiz answers and Early Birds winners."
+    }
+  ]
+}
