@@ -1,0 +1,714 @@
+{
+  "paper": "News Trail",
+  "edition": "Mangaluru",
+  "date": "Thursday, 15 October 2026",
+  "total_pages": 12,
+  "total_articles": 88,
+  "pages_with_no_articles": [],
+  "articles": [
+    {
+      "page": 1,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "WAVING TRICOLOUR A CRIME IN INDIA?",
+      "blurb": "The Opposition condemned Delhi Police arrests of Cockroach Janta Party leaders Ashutosh Ranka, Saurav Das and Ajinkya Shinde after a Jantar Mantar protest; Ranka and Das got five days' judicial custody. Rahul Gandhi said waving the tricolour at a peaceful protest is not a crime."
+    },
+    {
+      "page": 1,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Injured protesters, flute and message of love",
+      "blurb": "At Rahul Gandhi's press conference, students alleged custodial assault during protests seeking CEC Gyanesh Kumar's resignation, including DU student Athira and an NSUI activist naming constable Chanchal Yadav. Protester Samar played Vaishnava Jana To on flute and alleged beatings and phones seized."
+    },
+    {
+      "page": 1,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "CJP's Dipke calls for 'Lehra Do Tiranga' on Oct 16",
+      "blurb": "CJP founder Abhijeet Dipke called patriots to gather Friday at Central Park, Connaught Place, with the national flag after Das and Ranka were sent to five-day custody, and urged tiranga marches elsewhere."
+    },
+    {
+      "page": 1,
+      "index": 4,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Double-digit inflation! WPI inflation at record 11.39% in Sept",
+      "blurb": "WPI inflation hit a series-high 11.39% in September from 9.92% in August on food, manufactures and fuel; food inflation rose to 8.66%. ICRA expects WPI near 12% in October; retail inflation was earlier at a 23-month high of 5.54%."
+    },
+    {
+      "page": 1,
+      "index": 5,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Centre to sell 60.7% stake in IDBI Bank to Canada firm",
+      "blurb": "The Centre and LIC will sell a 60.7% stake in IDBI Bank for ₹52,878 crore to Fairfax Financial Holdings, called the largest FDI in India's financial sector so far, leaving about 15% with the government and 19% with LIC."
+    },
+    {
+      "page": 1,
+      "index": 6,
+      "kind": "news",
+      "scope": "india",
+      "headline": "After stir, summons to YouTuber Rathee",
+      "blurb": "A Delhi court issued fresh summons to YouTuber Dhruv Rathee in a 2018 defamation case filed by BJP IT Cell member Vikas Pandey, noting he has lived in Austria and returned for protests."
+    },
+    {
+      "page": 1,
+      "index": 7,
+      "kind": "news",
+      "scope": "india",
+      "headline": "NCPCR summons Google over AI 'kiss & hug' apps",
+      "blurb": "NCPCR summoned Google over Play Store AI apps that can make non-consensual intimate visuals from photos, and plans December guidelines with age assurance and reporting controls for social media, gaming and AI platforms."
+    },
+    {
+      "page": 1,
+      "index": 8,
+      "kind": "news",
+      "scope": "india",
+      "headline": "'Why are courts allowing this?' Retd SC judge Lokur questions SC, HC on police action",
+      "blurb": "Retired Supreme Court judge Madan Lokur told The Print that constitutional courts are failing amid Delhi police overreach and illegal preventive detentions of protesters, journalists and lawyers, and urged suo motu action by the SC and Delhi HC."
+    },
+    {
+      "page": 1,
+      "index": 9,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Rain likely across Karnataka",
+      "blurb": "The Karnataka Meteorological Department forecast rainfall in coastal Karnataka from October 16–20 and scattered rain across many other districts, including Bengaluru and Mysuru, from October 15–20."
+    },
+    {
+      "page": 2,
+      "index": 1,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "DGP Alok tells Chief Secy no CBI probe pending against him",
+      "blurb": "DGP (Prison) Alok Kumar wrote to Chief Secretary Shalini Rajneesh seeking correction of a Supreme Court submission that a CBI probe was pending against him, saying the telephone-tapping case was closed with a court-accepted report on February 13, 2024. The Supreme Court had stayed the High Court SIT order naming him on October 1."
+    },
+    {
+      "page": 2,
+      "index": 2,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "'Prashantha' to carry howdah in Mysuru Dasara",
+      "blurb": "Tusker Prashantha, a long-time Dasara participant, was chosen to carry the 750-kg golden howdah in Mysuru's Jamboo Savari. Dhananjaya is reserve; Abhimanyu will lead; Kaveri and Roopa will flank the howdah carrier."
+    },
+    {
+      "page": 2,
+      "index": 3,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Cops arrest man accused of using fake AI accident video",
+      "blurb": "Byatarayanapura police arrested Venkatesh for allegedly cheating 62-year-old Shanthamma of about ₹40 lakh in gold jewellery, using a fake AI-generated accident video; he was caught in Andhra Pradesh."
+    },
+    {
+      "page": 2,
+      "index": 4,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "KSRTC detects 4,310 ticket pilferage cases in September",
+      "blurb": "KSRTC checked 42,784 buses in September, detecting 4,310 ticket pilferage cases and pilferage worth ₹1,12,019, and finding 4,382 passengers travelling without tickets."
+    },
+    {
+      "page": 3,
+      "index": 1,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "No water to drink, so why hold Dasara Kambala: Ramaswamy",
+      "blurb": "A.T. Ramaswamy urged coastal buffalo owners to skip Dasara Kambala amid drought, citing reports of over 118 trees felled for the track and 2,500 of 3,111 lakes dried up, with some areas getting drinking water only weekly."
+    },
+    {
+      "page": 3,
+      "index": 2,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Missing vote-counting footage puts poll body under SC scrutiny",
+      "blurb": "The Supreme Court is pressing the Election Commission over missing 2023 Sringeri vote-counting videos in Congress candidate T.D. Rajegowda's challenge to BJP's D.N. Jeevaraj (won by 201 votes), warning of adverse inference if footage is not produced."
+    },
+    {
+      "page": 3,
+      "index": 3,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "DASARA-THEMED ARCH AT M'LURU AIRPORT",
+      "blurb": "A Dasara-themed welcome arch was installed at Mangaluru International Airport to greet arriving passengers during the festival."
+    },
+    {
+      "page": 3,
+      "index": 4,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Consultation on DK name change starts",
+      "blurb": "Karnataka began a 30-day public consultation on renaming Dakshina Kannada district to Mangaluru district, with suggestions and objections to be filed with the District Collector or Revenue Department."
+    },
+    {
+      "page": 3,
+      "index": 5,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Prasad Netralaya eye care in Bhatkal",
+      "blurb": "Udupi's Prasad Netralaya opened an eye-care unit at Nayak Health Centre in Bhatkal, inaugurated by Pejawar Math's Vishwaprasanna Tirtha Swamiji."
+    },
+    {
+      "page": 3,
+      "index": 6,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Udupi cops arrest 4 for illegal cattle transport bid",
+      "blurb": "Kota police in Udupi arrested four men—Puneet, Krishnappa, Srinivas and Ganesh—for allegedly transporting cattle illegally on NH-66 in a Bolero for slaughter."
+    },
+    {
+      "page": 3,
+      "index": 7,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Teachers must embrace changing technology: Vivek Alva",
+      "blurb": "At a Generative AI for Teachers programme in Moodbidri, Alva's trustee Vivek Alva said educators must adapt to AI tools to stay ahead in guiding students."
+    },
+    {
+      "page": 3,
+      "index": 8,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "CM in M'luru today for Women's Dasara in Uchila",
+      "blurb": "CM Siddaramaiah was due in Udupi and Dakshina Kannada on October 15 for Women's Dasara at Uchila's Mahalakshmi Temple (4:30 PM) and Mangaluru Dasara at Kudroli (6:30 PM)."
+    },
+    {
+      "page": 3,
+      "index": 9,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Missing Kadebarke resident's body found",
+      "blurb": "Shirva police recovered the body of 32-year-old Suresh Shetty of Kadebarke, missing since October 12, from a river near Ennehole Bridge; preliminary findings pointed to possible suicide."
+    },
+    {
+      "page": 4,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "AIMIM leader Owaisi moves SC challenging SIR, alleges lapses",
+      "blurb": "AIMIM chief Asaduddin Owaisi moved the Supreme Court challenging Special Intensive Revision of electoral rolls, alleging eligible voters were wrongly deleted; he also said in Hyderabad his party would work to stop BJP's return in 2029."
+    },
+    {
+      "page": 4,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "85% Maha 'drought-hit'; farmers to get Rs 5,000 aid before Diwali",
+      "blurb": "Maharashtra CM Devendra Fadnavis said 85% of the state is drought-hit, with drought-hit talukas at 205 of 358 after adding 40, and farmers to get an initial ₹5,000 relief before Diwali."
+    },
+    {
+      "page": 4,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "T'gana CM urges youth to build start-ups, become owners of global firms",
+      "blurb": "Telangana CM A. Revanth Reddy urged youth at FTCCI to build startups and become owners of global firms, citing Hyderabad-origin CEOs and a $10 trillion India goal by 2047."
+    },
+    {
+      "page": 4,
+      "index": 4,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Influencer held for 'raping' woman, conversion bid",
+      "blurb": "Palghar police arrested influencer-gym trainer Adil Ayub Shaikh (22) for allegedly raping a 23-year-old woman and attempting forced religious conversion under a marriage pretext."
+    },
+    {
+      "page": 4,
+      "index": 5,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Man murdered over failure to return mobile",
+      "blurb": "Mumbra (Thane) police booked five people for the alleged murder of Iiyaz Ahmed Qureshi (34), beaten after failing to return a mobile phone and later dying of injuries."
+    },
+    {
+      "page": 4,
+      "index": 6,
+      "kind": "news",
+      "scope": "india",
+      "headline": "50% EV adoption in India can drop $ rate by ₹20: Fadnavis",
+      "blurb": "At a Pune EV plant inauguration, Devendra Fadnavis said 50% EV adoption in transport could cut oil imports enough to potentially lower the dollar rate by ₹20."
+    },
+    {
+      "page": 5,
+      "index": 1,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Record 2.04 cr employment days provided under VB-G RAM G",
+      "blurb": "Karnataka generated 2.04 crore person-days under VB-G RAM G from July 1 to October 13; Minister Eshwar Khandre said Vijayapura employment rose 240%, with 67,164 new job cards issued this year."
+    },
+    {
+      "page": 5,
+      "index": 2,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Ashoka urges Rahul Gandhi to visit drought-hit Karnataka and seek higher compensation",
+      "blurb": "LoP R. Ashoka asked Rahul Gandhi to visit drought-hit Karnataka, citing a 35% monsoon rainfall deficit and crop losses of ₹6,334.50 crore, and criticised the state response."
+    },
+    {
+      "page": 5,
+      "index": 3,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "CM urges Czech firms to invest beyond B'luru, explore aerospace",
+      "blurb": "Deputy CM D.K. Shivakumar met Czech Deputy PM Marian Jurecka and Trade Minister Karel Havlicek, inviting aerospace, energy and auto-component investment beyond Bengaluru."
+    },
+    {
+      "page": 5,
+      "index": 4,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "K'taka drought-hit taluks rise to 226; relief memo in a week, says Parameshwara",
+      "blurb": "Home Minister G. Parameshwara said drought-hit taluks rose to 226 and a Central relief memo would be ready in a week; the cabinet will also discuss SC internal reservation legal options."
+    },
+    {
+      "page": 5,
+      "index": 5,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Probe into sting op targeting ex-CM will go as per law: Kharge",
+      "blurb": "Minister Priyank Kharge said the probe into a sting targeting former CM Siddaramaiah would follow the law after two people were detained over a defamatory video."
+    },
+    {
+      "page": 5,
+      "index": 6,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Yatnal claims sting op CD was shown to Siddaramaiah",
+      "blurb": "BJP MLA Basanagouda Patil Yatnal alleged a sting-operation CD involving Congress leaders was shown to Siddaramaiah and discussed with Rahul Gandhi."
+    },
+    {
+      "page": 5,
+      "index": 7,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Snare, remains of jumbo found in Bandipur region",
+      "blurb": "Forest officials found a snare and elephant remains in Bandipur's Maddur range on October 10 and are probing a possible link to a Kerala poaching case."
+    },
+    {
+      "page": 5,
+      "index": 8,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Anjanadri Hill row: Priest Vidyadasa Baba booked on Tahsildar's complaint",
+      "blurb": "Gangavathi Rural police booked priest Vidyadasa Baba for allegedly obstructing officials at Anjanadri Hill after a Tahsildar complaint over temple access."
+    },
+    {
+      "page": 6,
+      "index": 1,
+      "kind": "opinion",
+      "scope": "india",
+      "headline": "Removing CEC not enough (Opinion)",
+      "blurb": "An editorial argues removing CEC Gyanesh Kumar alone will not fix SIR-linked voter deletions and ECI process flaws, and that opposition must sustain street protests to keep pressure on the government."
+    },
+    {
+      "page": 6,
+      "index": 2,
+      "kind": "opinion",
+      "scope": "india",
+      "headline": "How Indians came to lose the right to protest (Opinion)",
+      "blurb": "Praveen Swami traces curtailment of protest rights from early post-Independence West Bengal crackdowns and preventive detention laws to present Delhi policing, contrasting Indian authoritarianism with European fascism after World War I."
+    },
+    {
+      "page": 6,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Old West Bengal video linked to Delhi Police crackdown",
+      "blurb": "A Truth Trail fact-check found a video of stacked police uniforms claimed to be for RSS/BJP during Delhi protests was actually West Bengal footage of uniforms for newly recruited state police constables."
+    },
+    {
+      "page": 6,
+      "index": 4,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "IIT Alumni Centre Bengaluru is a giant brain bank, turns products into companies",
+      "blurb": "IITACB in Bommanahalli, set up 15 years ago in a ~33,000 sq ft centre, connects IIT alumni with industry and startups; about 23 IITs funded it with roughly ₹34 crore in contributions."
+    },
+    {
+      "page": 6,
+      "index": 5,
+      "kind": "opinion",
+      "scope": "karnataka",
+      "headline": "A protest paradox (Opinion)",
+      "blurb": "Reader Dr Zahiruddin Ahmed notes Congress leaders protesting electoral-roll revisions in Delhi while similar protests face suppression in Bengaluru."
+    },
+    {
+      "page": 6,
+      "index": 6,
+      "kind": "opinion",
+      "scope": "international",
+      "headline": "Can't trust China (Opinion)",
+      "blurb": "Reader Syed Abdul Hussain cites border tensions in Galwan, Ladakh and Arunachal Pradesh and the 1962 war in arguing distrust of China."
+    },
+    {
+      "page": 7,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "DUJ moves SC over detention, assault of journalists covering Delhi protests",
+      "blurb": "The Delhi Union of Journalists petitioned the Supreme Court alleging journalists covering October 9–10 Delhi protests were detained and assaulted, and challenged a Delhi Police advisory restricting reporting without government accreditation."
+    },
+    {
+      "page": 7,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Modi will soon become ex-PM; why can't CEC resign: Sachin Pilot",
+      "blurb": "Congress leader Sachin Pilot called PM Modi a soon-to-be ex-prime minister and asked why CEC Gyanesh Kumar has not resigned, citing an INDIA bloc Supreme Court petition on vote-count issues."
+    },
+    {
+      "page": 7,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "CEC probe: Lapse of time doesn't make crime go, says Chennithala",
+      "blurb": "Ramesh Chennithala said a decades-old vigilance matter against CEC Gyanesh Kumar from his PWD secretary days—alleging a road project approved about ₹700 crore above estimates—does not lapse with time, and alleged mass electoral-roll deletions."
+    },
+    {
+      "page": 7,
+      "index": 4,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Stop misleading country: BJP tells Rahul Gandhi",
+      "blurb": "The BJP accused Rahul Gandhi of misleading the country over police action on Congress workers at Jantar Mantar, saying the right to protest does not include breaking the law."
+    },
+    {
+      "page": 7,
+      "index": 5,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Bihar boat capsize: Rescue underway; toll remains at 13",
+      "blurb": "Rescue continued after a Ganga boat capsize in Bihar's Vaishali district left 13 dead, many of them children; about six people were rescued as residents returned from a feast."
+    },
+    {
+      "page": 7,
+      "index": 6,
+      "kind": "news",
+      "scope": "india",
+      "headline": "TVK will take a call if AIADMK MLAs switch sides: Arunraj",
+      "blurb": "Tamil Nadu minister K.N. Arunraj said TVK will not solicit AIADMK defections but will decide if MLAs switch sides after rejecting their leadership."
+    },
+    {
+      "page": 7,
+      "index": 7,
+      "kind": "news",
+      "scope": "india",
+      "headline": "PM to inaugurate 5 projects of Rs 3k cr in Ladakh today",
+      "blurb": "PM Modi was to inaugurate five Ladakh projects worth ₹3,000 crore, including a Leh airport passenger terminal and the Sindhu Cultural Center, spanning connectivity, energy and heritage."
+    },
+    {
+      "page": 7,
+      "index": 8,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Akhilesh: Irregularities in voter-list, remain vigilant",
+      "blurb": "SP chief Akhilesh Yadav alleged BJP-linked voter-list deletions targeting backward classes, Dalits and minorities ahead of the 2027 UP polls and urged workers to stay vigilant at booths."
+    },
+    {
+      "page": 8,
+      "index": 1,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "What chronic acidity says about your health",
+      "blurb": "A wellness feature links chronic acidity to issues such as LES dysfunction, delayed emptying, microbiome imbalance and conditions including GERD, hiatal hernia and H. pylori, and outlines endoscopy and related tests plus lifestyle-plus-medical management."
+    },
+    {
+      "page": 8,
+      "index": 2,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "Regenerative medicine and electro neurorehabilitation",
+      "blurb": "The piece outlines regenerative cellular/exosome approaches and electro neurorehabilitation tools such as rTMS, tDCS, NMES and EMG biofeedback for cerebral palsy care aimed at better function and quality of life."
+    },
+    {
+      "page": 8,
+      "index": 3,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "How to tell if an egg is fresh or stale",
+      "blurb": "Five home tests—water float, plate/crack, shake, candling and sniff—are listed to distinguish fresh eggs from stale or spoiled ones."
+    },
+    {
+      "page": 8,
+      "index": 4,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "Revive damaged hair with a cholesterol hair treatment",
+      "blurb": "Cholesterol hair masks with lipids, fatty acids and lanolin are described for damaged or high-porosity hair, applied with heat for 15–20 minutes, and not advised for thin, oily or protein-sensitive hair."
+    },
+    {
+      "page": 9,
+      "index": 1,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Iran increases threat to Strait of Hormuz shipping",
+      "blurb": "Reports said Iran appears to be targeting ship-to-ship oil transfers near the Strait of Hormuz; UK Maritime Trade Operations reported a US-based tanker hit by unidentified projectiles, while Mohsen Rezaei said Iran is monitoring smuggling ships."
+    },
+    {
+      "page": 9,
+      "index": 2,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Congo's confirmed Ebola cases exceed 9,000",
+      "blurb": "Congo's Ebola outbreak surpassed 9,000 cases and 4,300 deaths across seven provinces, with dozens of new cases reported recently."
+    },
+    {
+      "page": 9,
+      "index": 3,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Japanese journalist arrested in Russia",
+      "blurb": "A Japanese journalist was arrested on Sakhalin Island on spying suspicion; Russia's FSB released video of the detention and deportation."
+    },
+    {
+      "page": 9,
+      "index": 4,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Diaspora in UK convene 'Emergency Protest'",
+      "blurb": "Diaspora groups including the South Asia Solidarity Group protested outside India's High Commission in London against Hindutva and seeking removal of certain Indian political figures."
+    },
+    {
+      "page": 9,
+      "index": 5,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Saudi-led coalition strikes Yemen's Sanaa",
+      "blurb": "The Saudi-led coalition struck Houthi-held Sanaa; Houthi spokesman Yahya Saree vowed a painful response."
+    },
+    {
+      "page": 9,
+      "index": 6,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Zelenskyy slams Russia over energy strikes",
+      "blurb": "President Zelenskyy criticised Russian strikes on Ukraine's energy grid amid fuel shortages, saying Moscow has not confirmed any energy ceasefire."
+    },
+    {
+      "page": 9,
+      "index": 7,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Indonesia opposes Bocelli concerts",
+      "blurb": "Indonesia's top Islamic council opposed Andrea Bocelli concerts in Jakarta and at Borobudur, citing his support for Israel."
+    },
+    {
+      "page": 10,
+      "index": 1,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "Want better work from AI? Ask it to disagree",
+      "blurb": "A Tech Trail feature says knowledge workers get better AI results by creating friction—asking tools to contradict their views—to spark stronger insights."
+    },
+    {
+      "page": 10,
+      "index": 2,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "Smart home range",
+      "blurb": "Apple is set to expand HomeKit with LG-branded smart home hardware including a hub, doorbells, locks, thermostats and cameras to compete with Amazon and Google."
+    },
+    {
+      "page": 10,
+      "index": 3,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "HANDS-FREE SOS",
+      "blurb": "Google is testing an Android Emergency SOS feature triggered by saying 'Help' three times, enabling hands-free alerts."
+    },
+    {
+      "page": 10,
+      "index": 4,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "vivo X Fold 4, V60 / S2 FE and Primebook 3 Max launches",
+      "blurb": "vivo launched the X Fold 4 in India at ₹2,19,999 and V60 from ₹62,999, plus a V60 S2 FE; Primebook 3 Max laptop starts at ₹18,499."
+    },
+    {
+      "page": 10,
+      "index": 5,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "Free ChatGPT plugins you must know",
+      "blurb": "A roundup lists free ChatGPT plugins including Tarot, Spotify, Canva, MakeMyTrip, Coursera and virtual try-on."
+    },
+    {
+      "page": 11,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "BHEL Q2 net profit jumps over two-fold to Rs 821 cr",
+      "blurb": "BHEL's consolidated Q2 net profit rose to ₹820.64 crore from ₹374.88 crore a year earlier, with total income up 24% to ₹7,553.81 crore."
+    },
+    {
+      "page": 11,
+      "index": 2,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Can't slow down AI, instead focus on strengthening security, defences: Cisco CEO",
+      "blurb": "Cisco CEO Chuck Robbins said AI progress is unlikely to slow and urged matching or faster investment in security and defences."
+    },
+    {
+      "page": 11,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Tata Trusts: Noel, Neville file caveats",
+      "blurb": "Noel Tata and Neville Tata filed caveats in Bombay High Court and Mumbai City Civil Court after complaints to the Maharashtra Charity Commissioner."
+    },
+    {
+      "page": 11,
+      "index": 4,
+      "kind": "news",
+      "scope": "india",
+      "headline": "WB mobilised $36 bn to support job creation in India",
+      "blurb": "The World Bank Group mobilised $36 billion over four years for India, including $11.6 billion for MSMEs, with private capital mobilisation rising to $14.5 billion in FY26."
+    },
+    {
+      "page": 11,
+      "index": 5,
+      "kind": "news",
+      "scope": "india",
+      "headline": "FM Sitharaman on 4-day official visit to Thailand",
+      "blurb": "Finance Minister Nirmala Sitharaman began a four-day Thailand visit for IMF–World Bank annual meetings and talks with G20 and G7 finance officials."
+    },
+    {
+      "page": 11,
+      "index": 6,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Mittal says ahead of Musk's Starlink",
+      "blurb": "Sunil Bharti Mittal said Eutelsat OneWeb is significantly ahead of Starlink in the queue for launching satellite services in India."
+    },
+    {
+      "page": 11,
+      "index": 7,
+      "kind": "news",
+      "scope": "india",
+      "headline": "India's Russian oil imports fall to 1.82 mln bpd in September",
+      "blurb": "India's Russian crude imports fell to 1.82 million bpd in September from 2.11 million bpd in June, cutting Russia's share to 38% from 45%."
+    },
+    {
+      "page": 11,
+      "index": 8,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Canara Bank Q2 profit rises 8% to Rs 5,175 cr",
+      "blurb": "Canara Bank's Q2 net profit rose 8% to ₹5,175 crore, with total income ₹42,021 crore and Gross NPAs down to 3.91% from 4.76% a year earlier."
+    },
+    {
+      "page": 11,
+      "index": 9,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Revise social discount rate upward to 9.23% for long-term infra projects: Study",
+      "blurb": "A NITI Aayog-commissioned study recommended raising the social discount rate to 9.23% from 8% for 30-year infrastructure projects."
+    },
+    {
+      "page": 11,
+      "index": 10,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Govt to launch national electricity data sharing",
+      "blurb": "Power Secretary Pankaj Agarwal said a National Electricity Data Sharing Framework will launch in October to unify generation, transmission and distribution data."
+    },
+    {
+      "page": 11,
+      "index": 11,
+      "kind": "news",
+      "scope": "india",
+      "headline": "AI to help in power grid management, forecast",
+      "blurb": "Union Minister Manohar Lal Khattar said the government is pushing AI-enabled grids toward about 70 GW of AI-integrated capacity on a path to 900 GW installed generation."
+    },
+    {
+      "page": 11,
+      "index": 12,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Haier eyes No. 2 position in appliance segments",
+      "blurb": "Haier Appliances India aims to become No. 2 in refrigerators, washing machines and ACs within two years, with a third South India plant and a 2028 revenue-doubling target."
+    },
+    {
+      "page": 11,
+      "index": 13,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Govt mulls tightening of FDI norms for tobacco",
+      "blurb": "The government is considering banning FDI in tobacco franchise and trademark licensing to curb smuggling, beyond the existing manufacturing FDI ban."
+    },
+    {
+      "page": 12,
+      "index": 1,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "India need to hunt for wickets, not contain West Indies, says Tilak",
+      "blurb": "With India leading West Indies 2-1 in the T20Is, vice-captain Tilak Varma said bowlers must hunt wickets rather than only contain, citing hitters like Nicholas Pooran and crediting coach Gautam Gambhir."
+    },
+    {
+      "page": 12,
+      "index": 2,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Lisandro Martinez blasts Man United hierarchy after Champions League loss",
+      "blurb": "After Manchester United's 2-0 Champions League loss to Atletico Madrid, Lisandro Martinez criticised the club hierarchy as stagnant despite heavy spending and poor recent league form."
+    },
+    {
+      "page": 12,
+      "index": 3,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "ICC 'Player of the Month' honour for Gill, Shafali",
+      "blurb": "Shubman Gill won ICC Men's Player of the Month for September for a record fifth time after an ODI series including 223 off 133; Shafali Verma took the Women's award."
+    },
+    {
+      "page": 12,
+      "index": 4,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Yuvraj Singh appointed Delhi Capitals assistant and batting coach",
+      "blurb": "Former India cricketer Yuvraj Singh was appointed Delhi Capitals assistant and batting coach."
+    },
+    {
+      "page": 12,
+      "index": 5,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Hazlewood cleans up South Africa as Aus pass Durban test",
+      "blurb": "Josh Hazlewood's 6-48 led Australia past South Africa at Kingsmead as SA were bowled out for 208 chasing 264, despite Aiden Markram's 103."
+    },
+    {
+      "page": 12,
+      "index": 6,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Pranav Adani makes 'personal' visit to S'pore GP",
+      "blurb": "Pranav Adani attended the Singapore GP personally; with Adani linked to Buddh International Circuit via Jaypee assets, Karan Adani voiced interest in bringing F1 back to India."
+    },
+    {
+      "page": 12,
+      "index": 7,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Bengal thrash Delhi to begin campaign with big win",
+      "blurb": "Bengal beat Delhi by nine wickets in their Ranji Trophy Group C opener after Delhi collapsed for 88 in the second innings; Abishek Porel scored 80 and Ayush Badoni made 134 for Delhi."
+    },
+    {
+      "page": 12,
+      "index": 8,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Nair stands firm to keep Karnataka afloat",
+      "blurb": "Karun Nair's unbeaten 81 steered Karnataka to 178/4 against Andhra's 274 in the Ranji Trophy, after Mayank Agarwal fell for 12."
+    },
+    {
+      "page": 12,
+      "index": 9,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Thyagarajan, Siraj shine as Hyd drub Tripura by innings and 49 runs",
+      "blurb": "Hyderabad beat Tripura by an innings and 49 runs in the Ranji Trophy, with Thyagarajan taking 5/31 as Tripura were bowled out for 120 and 105."
+    }
+  ]
+}

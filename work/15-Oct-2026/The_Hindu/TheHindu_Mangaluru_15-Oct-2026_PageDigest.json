@@ -1,0 +1,937 @@
+{
+  "paper": "The Hindu",
+  "edition": "Mangaluru",
+  "date": "Thursday, 15 October 2026",
+  "total_pages": 26,
+  "total_articles": 115,
+  "pages_with_no_articles": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "articles": [
+    {
+      "page": 7,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Many held as SIR protests rock capital for fifth day",
+      "blurb": "Youth and student groups including Youth Congress, SFI and DYFI marched in central Delhi on Wednesday demanding scrapping of the special intensive revision (SIR) of electoral rolls, resignation of Chief Election Commissioner Gyanesh Kumar, and reinstatement of Jantar Mantar as a protest site; protesters alleged beatings as police detained demonstrators on the fifth consecutive day."
+    },
+    {
+      "page": 7,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "SC agrees to 'take care' of Delhi voters whose names were removed",
+      "blurb": "A Supreme Court Bench headed by Chief Justice of India Surya Kant on Wednesday agreed to intervene for Delhi voters deleted from the electoral roll under SIR who are being asked by the Election Commission to file declarations as fresh applicants; advocate Prashant Bhushan said the court should allow Form 8 or create a new form, and the CJI advanced hearing to October 28."
+    },
+    {
+      "page": 8,
+      "index": 1,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "'NITK-EMPRI can develop projects to reduce emissions'",
+      "blurb": "Karnataka Net Zero Task Force vice-chairperson Upendra Tripathy said EMPRI, Bengaluru, and NIT-K Surathkal could develop west-coast pilot projects aiming to cut half a million tonnes of carbon emissions over five years, speaking at a blue-carbon/mangrove workshop at NIT-K where an MoU with EMPRI was signed."
+    },
+    {
+      "page": 8,
+      "index": 2,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "MP asks BSNL to set up towers at 39 sites in Udupi district",
+      "blurb": "Udupi-Chikkamagaluru MP Kota Srinivas Poojary, at a Manipal review, directed BSNL to install towers on 39 sites allotted by the Udupi district administration, upgrade 3G to 4G, clear trees at the Kukkundi site in Perdoor, and arrange diesel generators and power at facilities including Kapu and Kamalashile."
+    },
+    {
+      "page": 8,
+      "index": 3,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "22-year-old loses ₹2.37 lakh in escort service fraud",
+      "blurb": "A 22-year-old Mangaluru resident lost ₹2.37 lakh between October 7 and 8 after responding to an Instagram ad for “Royal Escort Girls,” transferring money via QR/UPI to an Airtel Payments Bank account for deposits and fees; a complaint was filed at the Cyber, Economic and Narcotics Crime Police Station."
+    },
+    {
+      "page": 8,
+      "index": 4,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "30 vehicle operators booked",
+      "blurb": "The Transport Department booked 30 vehicle operators in Mangaluru for ferrying school students without authorisation and issued notices asking owners to explain why registrations should not be cancelled, citing student safety."
+    },
+    {
+      "page": 8,
+      "index": 5,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Conference on infectious diseases begins",
+      "blurb": "A three-day MAHE conference, “Meeting the challenges of infectious diseases in a changing world,” began at Manipal with participants from 20 countries; Vice-Chancellor Sharath K. Rao stressed global health security, AMR, pandemic preparedness and One Health."
+    },
+    {
+      "page": 8,
+      "index": 6,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "ABVP seeks action against ACP for slapping student",
+      "blurb": "ABVP State joint secretary Suvith Shetty said ACP Ravish Naik slapped student Nikith during a Monday protest at St. Agnes College over Dasara exam dates (October 19 and 21) and threatened agitation if there is no apology; NSUI DK president Suhan Alva condemned ABVP interference, while Police Commissioner Sudheer Kumar Reddy said police acted to prevent a breach of peace after a college complaint."
+    },
+    {
+      "page": 9,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "NHAI introduces mechanism to ensure clean toilets at toll plazas",
+      "blurb": "NHAI will inspect toll-plaza toilets and user facilities at least weekly, issue show-cause notices for deficiencies, and declare agencies “non-performers” (barred from NHAI bids for 15 days or until fixed) if unresolved deficiencies reach 10% of plazas; a Clean Toilet Picture Challenge on the Rajamargyatra app can yield a ₹1,000 FASTag reward. Photo: Santhana/Gundmi plaza on NH-66, Udupi."
+    },
+    {
+      "page": 9,
+      "index": 2,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Good response to MCC drive to clear birth, death certificate applications",
+      "blurb": "Mangaluru City Corporation began a four-day drive (Wednesday–Saturday) to clear pending birth/death certificate applications after SIR deputation delays; about 500 applications filed July 1–September 30 are being taken up, with priority for Class 10 students, and the cell has cleared nearly 4,000 applications in two months."
+    },
+    {
+      "page": 9,
+      "index": 3,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Stationary rail coaches catch fire",
+      "blurb": "Two unoccupied railway coaches parked near Rajanukunte railway station were damaged in a fire around 10:30 a.m. Tuesday; no casualties were reported and the blaze was controlled by about 11:30 a.m.; cause unknown amid vegetation and no CCTV."
+    },
+    {
+      "page": 9,
+      "index": 4,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Sugarcane growers in Haveri and Dharwad dists. withdraw blockades",
+      "blurb": "Sugarcane growers demanding remunerative prices withdrew second-day blockades on the Pune–Bengaluru highway at Bankapur Toll (Haveri) and Yarikoppa Cross (Dharwad) on Wednesday night after talks with officials, then launched a Hubballi Chalo foot march toward Dharwad."
+    },
+    {
+      "page": 9,
+      "index": 5,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "SWR to operate special train between Bengaluru, Karwar",
+      "blurb": "South Western Railway will run Train No. 06591 Yeshvantpur–Madgaon Express Special (depart Friday 11:55 p.m.) and return 06592 Madgaon–Bengaluru Cantonment (Sunday 8:40 a.m.) for Navarathri rush, with coastal stops including Surathkal, Mulki, Udupi, Kundapura, Byndoor, Karwar and Canacona."
+    },
+    {
+      "page": 9,
+      "index": 6,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Media should uphold ethical values, says M. Mohan Alva",
+      "blurb": "Alva’s Education Foundation chairman M. Mohan Alva, inaugurating renovated Akshara Sabhaangana at Patrika Bhavan in Mangaluru, said media must uphold ethical responsibility amid erosion of values in politics, education, health and religion."
+    },
+    {
+      "page": 9,
+      "index": 7,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "CM to visit Uchchila and Kudroli today",
+      "blurb": "Chief Minister D.K. Shivakumar is due in Mangaluru on Thursday for Dasara: arrive Mangaluru International Airport 4:10 p.m., inaugurate Mahila Dasara at Uchchila Mahalakshmi Temple at 4:40 p.m., attend Navaratri at Kudroli Gokarnanatha Temple at 6:30 p.m., then leave for Bengaluru."
+    },
+    {
+      "page": 10,
+      "index": 1,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "State adds nine more taluks to drought-hit list; tally now 226",
+      "blurb": "Deputy Chief Minister and Revenue Minister G. Parameshwara said nine more taluks were declared drought-affected (total 226), including Sakleshpur (Hassan), Khanapur (Belagavi), Hosanagara and Sagar (Shivamogga), Puttur, Moodbidri and Mulki (Dakshina Kannada), and Joida and Dandeli (Uttara Kannada); a Centre relief memorandum is due within a week."
+    },
+    {
+      "page": 10,
+      "index": 2,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Govt. logs record 2.04 cr. person-days since July",
+      "blurb": "Rural Development Minister Eshwar B. Khandre said Karnataka generated a record 2.04 crore person-days under VB-G RAM G from July 1 to October 13 (vs 1.71 crore under MGNREGS last year), with Raichur leading at 24 lakh person-days amid rainfall deficit; 87,164 new job cards were issued."
+    },
+    {
+      "page": 10,
+      "index": 3,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "CCB detains two in ‘sting’ video case",
+      "blurb": "Bengaluru CCB cybercrime police detained two persons for questioning over allegedly defamatory videos targeting former Chief Minister Siddaramaiah circulating on social media, after his complaint to the city police commissioner."
+    },
+    {
+      "page": 10,
+      "index": 4,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Ramesh Jarkiholi calls on ex-Chief Minister",
+      "blurb": "Former Minister and BJP leader Ramesh Jarkiholi met Siddaramaiah at his Mysuru residence, calling it a “private” visit; JD(S) State president H.D. Kumaraswamy alleged police detained JD(S) social-media team members without cases."
+    },
+    {
+      "page": 10,
+      "index": 5,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Prashanth makes the cut, to carry golden howdah at Jamboo Savari",
+      "blurb": "Fifty-four-year-old tusker Prashanth was selected at Mysuru Palace to carry the 750-kg golden howdah in the Vijayadashami Jamboo Savari on October 21, succeeding Abhimanyu (retired at 60 after six years); shortlisted with Dhananjaya, Sugreeva and Ekalavya."
+    },
+    {
+      "page": 10,
+      "index": 6,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Priyank rules out CBI probe into Siddaramaiah video row",
+      "blurb": "Home Minister Priyank Kharge ruled out a CBI probe into the Siddaramaiah video controversy, saying State police can handle the investigation."
+    },
+    {
+      "page": 11,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Three from Keralam die in apartment fire in Germany",
+      "blurb": "Three people from Kerala—Anjali Sheela Joy (Kollam), Sivin Johny (Ernakulam) and Nova Sabu (Idukki)—died in an apartment fire in Bochum, Germany; Minister P.C. Vishnunath said the government is coordinating with NORKA and the Indian Embassy to bring the bodies home."
+    },
+    {
+      "page": 11,
+      "index": 2,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "108 ambulance workers defer strike after talks with officials",
+      "blurb": "108 Arogya Kavacha employees deferred a strike planned from 10 p.m. Wednesday after Health Department assurances; demands include annual pay revision, uniform wages, a three-shift system, and ₹50 lakh compensation for death or permanent disability on duty."
+    },
+    {
+      "page": 11,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "LDF, UDF trade barbs over power situation",
+      "blurb": "The Kerala Assembly saw heated exchanges over monsoon power cuts and a scrapped long-term power purchase deal, with the Opposition blaming the government and the ruling side blaming past inefficiency."
+    },
+    {
+      "page": 11,
+      "index": 4,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Migrant workers in Bengaluru caught in SIR maze",
+      "blurb": "Migrant workers from West Bengal in Bengaluru’s Varthur-Balagere area reported names deleted or stuck under SIR adjudication despite documents, with some asked to file Form-6 for re-inclusion."
+    },
+    {
+      "page": 11,
+      "index": 5,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Karnataka will strengthen finances of local bodies: CM",
+      "blurb": "Chief Minister D.K. Shivakumar said the State will strengthen gram panchayat finances and decentralised governance, including reviewing Fifth State Finance Commission recommendations."
+    },
+    {
+      "page": 11,
+      "index": 6,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Czech Deputy PM inaugurates aerospace facility in Hoskote",
+      "blurb": "Czech Deputy Prime Minister Karel Havlicek inaugurated a Gopalan Aerospace India production facility in Hoskote; five MoUs cover UAVs and related collaboration, with CM Shivakumar present."
+    },
+    {
+      "page": 11,
+      "index": 7,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "RTE: High Court moved on delay in reimbursement of spending on students",
+      "blurb": "The Karnataka High Court issued notice on a petition by school management associations over delay in revising Per Child Expenditure for RTE students, unchanged since 2017-18."
+    },
+    {
+      "page": 11,
+      "index": 8,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Aravana production resumes at Sabarimala",
+      "blurb": "Travancore Devaswom Board resumed Aravana (rice-jaggery offering) production at Sabarimala after plant renovation that had halted output during last month’s puja."
+    },
+    {
+      "page": 11,
+      "index": 9,
+      "kind": "news",
+      "scope": "india",
+      "headline": "A.P. SEC announces poll schedule for local bodies",
+      "blurb": "Andhra Pradesh State Election Commissioner Anil Chandra Punetha announced local-body polls for territorial constituencies and gram panchayats, with the Model Code of Conduct in force."
+    },
+    {
+      "page": 11,
+      "index": 10,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Private bus operators to begin hunger strike from October 27",
+      "blurb": "Kerala State Private Bus Operators Federation will begin an indefinite hunger strike from October 27 seeking measures over the Priyadarshini free-travel scheme for students."
+    },
+    {
+      "page": 12,
+      "index": 1,
+      "kind": "opinion",
+      "scope": "india",
+      "headline": "Illogical reasons (Opinion)",
+      "blurb": "The editorial argues ECI “logical discrepancy” flags in Delhi’s SIR disproportionately targeted Muslim electors and that opaque criteria undermine the right to vote."
+    },
+    {
+      "page": 12,
+      "index": 2,
+      "kind": "opinion",
+      "scope": "india",
+      "headline": "Drugs and bullets (Opinion)",
+      "blurb": "The editorial discusses Punjab’s drug-trafficking and targeted-killing crisis, including the arrest of alleged kingpin Parvinder Singh Jhotta and enforcement challenges."
+    },
+    {
+      "page": 12,
+      "index": 3,
+      "kind": "opinion",
+      "scope": "india",
+      "headline": "A split verdict, faltering remedies and people's power (Opinion)",
+      "blurb": "Lawyer Kaleeswaram Raj analyses the Supreme Court’s September 23, 2026 split verdict in Dr. Jaya Thakur on the 2023 CEC/EC appointment law, arguing executive-dominated selection undermines ECI independence and that public vigilance remains essential."
+    },
+    {
+      "page": 12,
+      "index": 4,
+      "kind": "opinion",
+      "scope": "india",
+      "headline": "India’s China+1 lessons lie within its own States (Opinion)",
+      "blurb": "P.S. Srinivas and Amita Sircar argue China-plus-one manufacturing follows State ecosystems such as Tamil Nadu and Karnataka (land, power, supplier base) more than a single national pitch."
+    },
+    {
+      "page": 13,
+      "index": 1,
+      "kind": "opinion",
+      "scope": "india",
+      "headline": "Satyagraha for Constitution-as-commons (Opinion)",
+      "blurb": "Kalpana Kannabiran writes on citizenship and constitutional justice amid protests, contrasting “lawful protest” under democracy with authoritarian framing of dissent, referencing cases including Umar Khalid and Sharjeel Imam."
+    },
+    {
+      "page": 13,
+      "index": 2,
+      "kind": "opinion",
+      "scope": "india",
+      "headline": "The myth of 'unskilled' labour (Opinion)",
+      "blurb": "Vasudevan Mukunth cites Safe in India Foundation data that lower-paid automotive workers lose more fingers on average than higher-paid skilled peers, arguing the unskilled/skilled wage classification masks real skill and safety risk."
+    },
+    {
+      "page": 13,
+      "index": 3,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "What 107 innings reveal about the Smriti-Shafali opening pair",
+      "blurb": "Data Point analysis of Smriti Mandhana and Shafali Verma’s T20I opening: about 4,080 partnership runs at 38.2 per dismissal and 8.34 runs per over, with recent 15-innings strike rates above 150 and 170 respectively."
+    },
+    {
+      "page": 14,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Centre seeks public input on demographic changes",
+      "blurb": "The Home Ministry demography panel chaired by former Supreme Court judge Prakash Prabhakar Naolekar launched a portal for government bodies, NGOs, international organisations and citizens to submit views on demographic change impacts since around 2011."
+    },
+    {
+      "page": 14,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "₹53,428 cr. cleared for social assistance scheme till 2030-31",
+      "blurb": "The Union Cabinet approved ₹53,428 crore for NSAP for 2026-27 to 2030-31, renaming it under Pradhan Mantri Samajik Sahayata Yojana and dropping the Indira Gandhi prefix from old-age, widow and disability pensions."
+    },
+    {
+      "page": 14,
+      "index": 3,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Canadian Minister highlights scope for closer ties with India",
+      "blurb": "Canadian Foreign Minister Anita Anand met External Affairs Minister S. Jaishankar in New Delhi, discussing trade and conflicts including West Asia and Ukraine."
+    },
+    {
+      "page": 14,
+      "index": 4,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Boat that capsized in Bihar had a hole and was overloaded, say police",
+      "blurb": "Police said the boat that capsized in the Ganga in Vaishali district, killing 11, was overloaded and had a pre-existing hole; families mourned victims after Tuesday’s accident."
+    },
+    {
+      "page": 14,
+      "index": 5,
+      "kind": "news",
+      "scope": "india",
+      "headline": "India’s exports to China grow 40%, deficit crosses $100 bn",
+      "blurb": "In Jan.–Sept. 2026, India’s exports to China rose about 40.7% to $12.39 billion while imports rose 25.4% to $114.41 billion, pushing the trade deficit above $100 billion ($102.02 billion)."
+    },
+    {
+      "page": 14,
+      "index": 6,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Rajnath calls for deeper India-ASEAN defence ties",
+      "blurb": "Defence Minister Rajnath Singh, at the ASEAN-India Defence Think Tank Forum, urged stronger maritime security and defence-technology cooperation."
+    },
+    {
+      "page": 14,
+      "index": 7,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Court makes arrest protection given to journalist 'absolute'",
+      "blurb": "The Supreme Court made absolute the arrest protection granted to journalist Abhishek Upadhyay in a case linked to reports on alleged Ram Temple donation theft."
+    },
+    {
+      "page": 15,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Don't stand in the way of students: Rahul to govt.",
+      "blurb": "Leader of the Opposition Rahul Gandhi asked PM Modi and Home Minister Amit Shah not to obstruct protesting students after NSUI members were injured in protests against CEC Gyanesh Kumar; he accused the government of an “unofficial Emergency.”"
+    },
+    {
+      "page": 15,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "CJP leaders jailed for entering Jantar Mantar",
+      "blurb": "Police registered FIRs against 14 CJP members; leaders Ajinkya Shinde, Saurav Das and Ashutosh Ranka were remanded in judicial custody for five days after alleged trespass and obstruction at Jantar Mantar."
+    },
+    {
+      "page": 15,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Denotifying Jantar Mantar pushes dissent ‘out of sight, out of mind’, says plea in SC",
+      "blurb": "A Supreme Court petition challenges denotification of Jantar Mantar as a designated protest site, arguing relocation to distant venues diminishes visibility and practical impact of dissent."
+    },
+    {
+      "page": 15,
+      "index": 4,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Delhi Metro network was ‘fully functional’ on Oct. 10, says DMRC",
+      "blurb": "In a Supreme Court affidavit, DMRC said metro operations were not halted on October 10, citing about 32 lakh passengers and roughly 98% of the network operational that day."
+    },
+    {
+      "page": 15,
+      "index": 5,
+      "kind": "news",
+      "scope": "india",
+      "headline": "SC to hear Opposition's plea on SIR, CEC today",
+      "blurb": "The Supreme Court is to hear an Opposition plea seeking disclosure of Election Commission files, agendas, minutes and objections relating to SIR and the CEC."
+    },
+    {
+      "page": 15,
+      "index": 6,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Questions raised over police’s failure to make prohibitory orders public",
+      "blurb": "Legal experts questioned Delhi Police for not publicly announcing Section 163 BNSS prohibitory orders before detaining protesters."
+    },
+    {
+      "page": 15,
+      "index": 7,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Cong. slams Shah over ‘infiltrators’ remark",
+      "blurb": "Congress challenged Home Minister Amit Shah to provide data on infiltrators allegedly detected and deported amid electoral-roll claims."
+    },
+    {
+      "page": 15,
+      "index": 8,
+      "kind": "news",
+      "scope": "india",
+      "headline": "In battle of cultural narratives, Rahul blends Puranic lore and pop culture idioms",
+      "blurb": "News analysis by Anuj Kumar examines Rahul Gandhi’s recent rhetoric mixing religious imagery and pop-culture references, including a viral Instagram AMA session."
+    },
+    {
+      "page": 16,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "No order yet on extra 50 days of work for FRA title holders",
+      "blurb": "Adivasi FRA title holders entitled to 50 extra MGNREGA days under the new VB-G RAM G framework (125 days per household) still lack a clarifying notification; implementation has been patchy, with Andhra Pradesh cited as performing better."
+    },
+    {
+      "page": 16,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Bauxite mining proposal in Odisha's Balda hills threatens future of rare ground gecko",
+      "blurb": "A proposed bauxite mine covering about 147 hectares in Koraput’s Balda hills threatens habitat of the rare Jeypore ground gecko (Cyrtodactylus jeyporensis), rediscovered in 2010."
+    },
+    {
+      "page": 16,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Railway staff to get bonus equivalent to 78 days’ wages",
+      "blurb": "The Union Cabinet approved a productivity-linked bonus of 78 days’ wages totalling about ₹2,009.61 crore for over 11 lakh non-gazetted railway employees for 2025-26."
+    },
+    {
+      "page": 16,
+      "index": 4,
+      "kind": "news",
+      "scope": "india",
+      "headline": "SC mandates insurance on offline railway tickets too",
+      "blurb": "The Supreme Court directed railways to offer travel insurance on counter tickets identical to online bookings, effective October 27, 2026."
+    },
+    {
+      "page": 16,
+      "index": 5,
+      "kind": "news",
+      "scope": "india",
+      "headline": "ED seizes assets worth ₹2,032 cr. of Reliance Power",
+      "blurb": "The Enforcement Directorate seized assets worth about ₹2,032.81 crore of Reliance Power and subsidiaries under PMLA in a probe linked to overseas investments and advances."
+    },
+    {
+      "page": 16,
+      "index": 6,
+      "kind": "news",
+      "scope": "india",
+      "headline": "BJP women’s wing asks for NCW action on Cong. MP",
+      "blurb": "A BJP Mahila Morcha delegation met the NCW seeking action against a Congress MP and a JNU professor in an alleged sexual harassment matter."
+    },
+    {
+      "page": 16,
+      "index": 7,
+      "kind": "news",
+      "scope": "india",
+      "headline": "4 Indian airlines cancel flights to Saudi Arabia till October 17",
+      "blurb": "IndiGo, Air India Express, Air India and Akasa Air cancelled flights to Riyadh, Jeddah, Dammam and Madinah until October 17 amid the evolving Gulf situation, with refunds offered."
+    },
+    {
+      "page": 16,
+      "index": 8,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Power bank model banned on flights after fire incident",
+      "blurb": "DGCA banned the MORBIKS MK-PB-04 power bank on flights after a fire involving a power bank in an IndiGo overhead bin."
+    },
+    {
+      "page": 17,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Cabinet okays IDBI Bank sale to Fairfax for ₹52,878 cr.",
+      "blurb": "The Union Cabinet approved strategic restructuring of IDBI Bank with Fairfax Financial Holdings acquiring a stake for ₹52,878 crore (bid ₹81/share); government stake falls to 15% and LIC’s to 19%, billed as the largest FDI deal in India’s financial sector."
+    },
+    {
+      "page": 17,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Centre to unveil national power data sharing framework",
+      "blurb": "Power Secretary Pankaj Agarwal said the National Electricity Data Sharing Framework will roll out to enable structured power-sector data sharing, with a CEA-chaired national data governance committee."
+    },
+    {
+      "page": 17,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Govt. to roll out BS-VII norms for new cars from April 2029",
+      "blurb": "MoRTH’s October 12 draft proposes BS-VII emission standards for new cars/SUVs in three phases from April 2029 to April 2035."
+    },
+    {
+      "page": 17,
+      "index": 4,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Jio Platforms to launch ‘India’s biggest ever’ ₹30,213-cr. IPO",
+      "blurb": "Jio Platforms plans an IPO of about ₹30,213 crore—larger than Hyundai Motor India’s ₹27,856 crore—opening October 21 and closing October 23, 2026."
+    },
+    {
+      "page": 17,
+      "index": 5,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Tata Trusts row: Noel, Neville move courts with caveats",
+      "blurb": "Tata Trusts chairman Noel Tata and Neville Tata filed caveats in Mumbai City Civil Court seeking to be heard before orders on potential actions involving Venu Srinivasan and Vijay Singh."
+    },
+    {
+      "page": 17,
+      "index": 6,
+      "kind": "news",
+      "scope": "india",
+      "headline": "BoB tanks 3.5% as NMC founder sues it for $15 bn",
+      "blurb": "Bank of Baroda shares fell about 3.5% after NMC Health founder B.R. Shetty filed a $15-billion Bombay High Court suit alleging fund siphoning; the bank said it is pursuing about ₹2,800 crore recovery."
+    },
+    {
+      "page": 17,
+      "index": 7,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Hyundai Pune unit to get ₹4,000 cr. more",
+      "blurb": "Hyundai Motor India will invest an additional ₹4,000 crore in its Pune plant, taking total investment to about ₹6,000 crore and aiming for 3.20 lakh units capacity."
+    },
+    {
+      "page": 17,
+      "index": 8,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Food, fuel nudge wholesale inflation in Sept. to 11.4%",
+      "blurb": "WPI inflation rose to 11.4% in September, a multi-year high, with food inflation at 8.1% and fuel and power at 25.85%."
+    },
+    {
+      "page": 17,
+      "index": 9,
+      "kind": "news",
+      "scope": "india",
+      "headline": "SEBI targets 4 lakh accredited investors via expanded AIF",
+      "blurb": "SEBI is expanding the Alternative Investment Funds framework aiming to grow accredited investors from about 1 lakh to 4 lakh."
+    },
+    {
+      "page": 17,
+      "index": 10,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Panel to study issues of sugarcane farmers",
+      "blurb": "The Centre set up a four-member panel chaired by former NITI Aayog member Ramesh Chand to examine sugarcane farmers’ issues and sugar ex-mill MSP."
+    },
+    {
+      "page": 18,
+      "index": 1,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Netanyahu says he is not seeking to attack Iran before Israel election",
+      "blurb": "Israeli PM Benjamin Netanyahu said he does not favour a pre-emptive strike on Iran before Israel’s October 27 election, while warning Tehran and proxies against attacks on Israel."
+    },
+    {
+      "page": 18,
+      "index": 2,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Russian diesel deal ‘not for us’, but for world markets, says Trump",
+      "blurb": "President Donald Trump said a diesel deal involving Russian fuel is meant to stabilise world markets hit by high prices, not for U.S. domestic release."
+    },
+    {
+      "page": 18,
+      "index": 3,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Israeli settlers set fire to mosque, graffiti outside walls in West Bank",
+      "blurb": "Israeli settlers set fire to a mosque and sprayed graffiti on its walls in the occupied West Bank village of Mikhmas; a Palestinian National Council official called it a dangerous escalation."
+    },
+    {
+      "page": 18,
+      "index": 4,
+      "kind": "news",
+      "scope": "international",
+      "headline": "U.S. judge backs CNN, MS Now, Politico access to White House",
+      "blurb": "U.S. District Judge Timothy Kelly blocked the White House from barring CNN, MS Now and Politico journalists, ordering access after Trump’s ban."
+    },
+    {
+      "page": 18,
+      "index": 5,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Houthis vow more strikes on Saudi airports, oil sites after Aramco hit",
+      "blurb": "Yemen’s Houthis vowed further strikes on Saudi airports and oil facilities after an attack on Aramco’s Dhahran headquarters caused a limited fire; Saudi officials said operations continued and claimed interceptions."
+    },
+    {
+      "page": 18,
+      "index": 6,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Ukraine accuses U.S. of aiding Russia amid strikes",
+      "blurb": "Ukraine accused the U.S. of failing to warn of incoming missile strikes and slowing Starlink, as Russian strikes hit Kyiv energy and residential targets for consecutive nights."
+    },
+    {
+      "page": 18,
+      "index": 7,
+      "kind": "news",
+      "scope": "international",
+      "headline": "UN wants Lebanon stability as UNIFIL mandate nears end",
+      "blurb": "UN official Jean-Pierre Lacroix reaffirmed commitment to Lebanon’s stability as UNIFIL’s mandate approaches its December 31 expiry."
+    },
+    {
+      "page": 18,
+      "index": 8,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Iran says a ship sank after hitting a mine in Strait of Hormuz",
+      "blurb": "Iran’s Revolutionary Guards said a ship—suspected to be GSL Pride—caught fire and sank in the Strait of Hormuz after hitting a mine."
+    },
+    {
+      "page": 18,
+      "index": 9,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Saudi top court sets aside Sri Lankan migrant worker’s death sentence",
+      "blurb": "Saudi Arabia’s Supreme Court overturned the death sentence of Sri Lankan migrant worker Anojan Sivaranjan in a blasphemy case linked to a Facebook post."
+    },
+    {
+      "page": 19,
+      "index": 1,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Hope becomes first Windies batter with three tons in men’s T20Is",
+      "blurb": "Shai Hope became the first West Indies batter—and fifth overall—with three men’s T20I hundreds, each an identical 102 not out."
+    },
+    {
+      "page": 19,
+      "index": 2,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Parthiv doesn’t apply, Ojha set to be full-time chairman",
+      "blurb": "Parthiv Patel did not apply for the BCCI senior men’s selection committee West Zone slot, paving the way for Pragyan Ojha to continue as chairman."
+    },
+    {
+      "page": 19,
+      "index": 3,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Hope rested for West Indies’ Test tour of Bangladesh",
+      "blurb": "Shai Hope was rested from West Indies’ two-Test Bangladesh tour; the squad includes Roston Chase (capt.) and others listed by the board."
+    },
+    {
+      "page": 19,
+      "index": 4,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Natarajan returns to SRH, Zeeshan joins DC after player trade",
+      "blurb": "T. Natarajan returned to Sunrisers Hyderabad for a revised fee of ₹5 crore while Zeeshan Ansari moved to Delhi Capitals at his existing ₹40 lakh fee."
+    },
+    {
+      "page": 19,
+      "index": 5,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Hope and Paul sizzle as West Indies trumps India",
+      "blurb": "West Indies beat India by 24 runs in Hyderabad: WI 247/5 (Hope 102*), India 223 in 19.3 overs (Samson 82, Tilak 72; Keemo Paul 5/32)."
+    },
+    {
+      "page": 19,
+      "index": 6,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "The bowlers are trying to catch up: Santner",
+      "blurb": "New Zealand white-ball captain Mitchell Santner said T20 bowlers must adapt with variations against aggressive batting on small grounds and flat pitches."
+    },
+    {
+      "page": 19,
+      "index": 7,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Lot of areas to improve in T20s, says Smriti",
+      "blurb": "India captain Smriti Mandhana, ahead of a T20I series against Zimbabwe in Raipur, said India still has areas to improve in the T20 format."
+    },
+    {
+      "page": 19,
+      "index": 8,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Knights, Marathas continue to excel",
+      "blurb": "Kakatiya Knights and Mighty Marathas led Archery Premier League Season 2 with 10 points each after Kakatiya beat Rajputana Royals and Chola Chiefs."
+    },
+    {
+      "page": 19,
+      "index": 9,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Bouli’s brace helps Punjab edge Odisha",
+      "blurb": "Raphael Messi Bouli scored twice on debut as Punjab FC beat Odisha FC 2-1 in the ISL at Jawaharlal Nehru Stadium."
+    },
+    {
+      "page": 20,
+      "index": 1,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Rahul, Revanth thwart Karnataka’s victory push",
+      "blurb": "Andhra held Karnataka to a Ranji Trophy draw at Mulapadu after young batters and veteran Karun Nair’s unbeaten century rescued the visitors; Karnataka’s push for an outright win faded."
+    },
+    {
+      "page": 20,
+      "index": 2,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Karnataka coach Vinay all praise for Karun",
+      "blurb": "Karnataka coach R. Vinay Kumar praised Karun Nair’s batting even as Andhra secured a draw for three points, also noting young players’ efforts."
+    },
+    {
+      "page": 20,
+      "index": 3,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Harsh packs off Lakshya; Monodip stuns Paranjay",
+      "blurb": "At the Fenesta Open National tennis championships in New Delhi, Harsh Marwaha upset second seed Lakshya and Monodip Dey beat third-seeded Paranjay Siwach."
+    },
+    {
+      "page": 20,
+      "index": 4,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Sindhu, Lakshya exit in first round; Srikanth, Tanvi win",
+      "blurb": "P.V. Sindhu and Lakshya Sen exited the Denmark Open first round while K. Srikanth and Tanvi Sharma advanced."
+    },
+    {
+      "page": 20,
+      "index": 5,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Ankur, Diya reign supreme in National ranking table tennis",
+      "blurb": "Ankur Bhattacharjee and Diya Chitale won the men’s and women’s titles at the National ranking table tennis tournament in Panchkula."
+    },
+    {
+      "page": 20,
+      "index": 6,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "BCCI steps in to halt forfeitures by Arunachal",
+      "blurb": "The BCCI intervened to stop Arunachal Pradesh from forfeiting matches amid selection-trial disputes."
+    },
+    {
+      "page": 20,
+      "index": 7,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Dasara CM Cup sports meet: Bengaluru City emerges overall champion",
+      "blurb": "Bengaluru City scored 805 points to win the overall championship at Chamundi Vihar stadium in Mysuru; Mysuru (644) and Belagavi (473) followed."
+    },
+    {
+      "page": 20,
+      "index": 8,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Karnataka women beat Mizoram",
+      "blurb": "Karnataka won by 46 runs against Mizoram in the BCCI U-19 women’s T20 Trophy at Rajkot."
+    },
+    {
+      "page": 20,
+      "index": 9,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "BFI’s internal battle intensifies",
+      "blurb": "Boxing Federation of India president Ajay Singh suspended Secretary General Pramod Kumar, who had moved a no-confidence motion against Singh."
+    },
+    {
+      "page": 20,
+      "index": 10,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Power Of Beauty primed to deliver",
+      "blurb": "Mysuru races preview tipped Power Of Beauty among leading prospects for the day’s main event."
+    },
+    {
+      "page": 21,
+      "index": 1,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Arsenal, Barcelona cruise; Atletico stumps United",
+      "blurb": "Champions League results included Arsenal 3-0 Lille, Barcelona 4-1 Galatasaray, Atletico Madrid 2-0 Manchester United, Club Brugge 1-0 Inter, and other listed scores."
+    },
+    {
+      "page": 21,
+      "index": 2,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "How Jyothi turned her disappointment into a gold for India",
+      "blurb": "Compound archer Jyothi Surekha said her early Asian Games individual exit was unexpected but India still topped archery with multiple medals including team gold; she praised the overall campaign."
+    },
+    {
+      "page": 21,
+      "index": 3,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "WA president Coe upbeat about 2029 Worlds",
+      "blurb": "World Athletics president Sebastian Coe said Kenya hosting the 2029 World Championships should help combat doping; about 140 Kenyan athletes are suspended."
+    },
+    {
+      "page": 21,
+      "index": 4,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Kusal Mendis finds form, helps Lanka avoid a whitewash",
+      "blurb": "Sri Lanka beat Pakistan by eight wickets in the final T20I at Rawalpindi; Kusal Mendis scored an unbeaten 87 as Lanka chased 168 in 17.5 overs."
+    },
+    {
+      "page": 22,
+      "index": 1,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "McIlroy, Fleetwood and Rai headline star-studded field",
+      "blurb": "The DP World India Championship at Delhi Golf Club features Rory McIlroy, Tommy Fleetwood, Aaron Rai and other majors winners, with Indian hopes including Saptak Talwar, Khalin Joshi, Veer Ahlawat and Shubhankar Sharma."
+    },
+    {
+      "page": 22,
+      "index": 2,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Pranavi gets to meet ‘ultimate hero’ McIlroy",
+      "blurb": "Asian Games gold medallist Pranavi Urs met Rory McIlroy at the Delhi Golf Club ahead of the championship."
+    },
+    {
+      "page": 22,
+      "index": 3,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "McIlroy speaks of desire to win Race to Dubai",
+      "blurb": "Rory McIlroy backed the DP World Tour’s decision to bar LIV Golf signees from its events next year and spoke of chasing another Race to Dubai title."
+    },
+    {
+      "page": 23,
+      "index": 1,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "I would love to push myself to try and win another Major",
+      "blurb": "In a New Delhi interview ahead of the DP World India Championship, 13-time PGA Tour winner Justin Rose discussed adapting to modern power golf, India’s growing golf scene, and his ambition to win another Major after a strong Masters finish."
+    },
+    {
+      "page": 24,
+      "index": 1,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "Old doubts linger, yet new Microsoft quantum chip raises the stakes",
+      "blurb": "Vasudevan Mukunth reports on Microsoft’s Majorana 2 quantum-chip claims and lingering scientific scepticism after earlier Majorana controversies and a retracted 2018 Nature paper."
+    },
+    {
+      "page": 24,
+      "index": 2,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Thailand floods villages to save capital, economic hubs",
+      "blurb": "Thai authorities diverted Chao Phraya floodwaters into riverside villages near Ayutthaya to protect Bangkok and industrial hubs; a $780-million diversion canal is due by 2030."
+    },
+    {
+      "page": 24,
+      "index": 3,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "The Science Quiz: Movie names that are also scientific concepts",
+      "blurb": "A Science Quiz by Vasudevan Mukunth links film titles such as Event Horizon, The Butterfly Effect, Heat, The Matrix and Vertigo to scientific concepts."
+    },
+    {
+      "page": 25,
+      "index": 1,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Why is Spain facing a housing crisis?",
+      "blurb": "Explainer by Sonikka Loganathan: Spanish rents rose about 84% over a decade amid a roughly 7,50,000-home shortfall, short-term tourist rentals and investment funds; after Congress rejected housing measures, PM Pedro Sánchez called a snap election for November 29."
+    },
+    {
+      "page": 25,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "How has the SC strengthened arrest safeguards?",
+      "blurb": "Former IPS officer R.K. Vij explains the Supreme Court ruling that written grounds of arrest must be given in a language the accused understands at least two hours before remand, with re-arrest needing magistrate permission if violated."
+    },
+    {
+      "page": 25,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "News in Numbers",
+      "blurb": "Data briefs: 44 lakh Rajasthan households awaiting tap connections; India’s China trade deficit $105.93 billion Jan–Sept; 11 lakh railway employees cleared for bonus; World Bank mobilised $36 billion for Indian job creation over four years; 53% lived with mental-health struggles."
+    },
+    {
+      "page": 26,
+      "index": 1,
+      "kind": "opinion",
+      "scope": "international",
+      "headline": "Why the debate between Keynesian and orthodox economics matters (Opinion)",
+      "blurb": "Rohit Azad and Indranil Chowdhury contrast Keynes-Kalecki demand-led growth with orthodox supply-side/RBC views, linking inflation targeting to falling wage shares, with charts on U.S. industrial production, inflation and GDP cycles."
+    },
+    {
+      "page": 26,
+      "index": 2,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "Know your English / Word of the day",
+      "blurb": "S. Upendran explains “to live the life of Riley,” “sixth sense,” and “No admission” vs “No admittance”; Word of the day is mendacity (tendency to be untruthful)."
+    }
+  ]
+}

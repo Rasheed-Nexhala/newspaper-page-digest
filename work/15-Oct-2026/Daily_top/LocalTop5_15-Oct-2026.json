@@ -1,0 +1,518 @@
+{
+  "date": "Thursday, 15 October 2026",
+  "date_slug": "15-Oct-2026",
+  "papers_scanned": [
+    {
+      "paper": "News Trail",
+      "edition": "Mangaluru",
+      "path": "work/15-Oct-2026/News_Trail/NewsTrail_Mangaluru_15-Oct-2026_PageDigest.json",
+      "total_articles": 88
+    },
+    {
+      "paper": "Deccan Herald",
+      "edition": "Mangaluru",
+      "path": "work/15-Oct-2026/Deccan_Herald/DeccanHerald_Mangaluru_15-Oct-2026_PageDigest.json",
+      "total_articles": 108
+    },
+    {
+      "paper": "The Hindu",
+      "edition": "Mangaluru",
+      "path": "work/15-Oct-2026/The_Hindu/TheHindu_Mangaluru_15-Oct-2026_PageDigest.json",
+      "total_articles": 115
+    }
+  ],
+  "buckets": {
+    "mangaluru": {
+      "label": "Top 5 — Mangaluru",
+      "candidate_count": 8,
+      "selected_count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "headline": "Traffic restrictions in view of CM's visit to Kudroli",
+          "blurb": "Mangaluru City Police warned of congestion on Thursday evening as Chief Minister D K Shivakumar is scheduled to visit Kudroli Gokarnanatha Temple for Mangaluru Dasara. Traffic between New Chitra Junction and Durgamahal Junction should be avoided from 4 pm to 8 pm; Kudroli main road will not be available for vehicles or parking, and visitors were told to park in the Mannagudda–Gandhinagar area.",
+          "kind": "news",
+          "scope": "mangaluru",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 8,
+              "index": 2
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "Taxi Men's Assn sets deadline for MIA to withdraw toll fee",
+          "blurb": "Dakshina Kannada Taxi Men's and Maxicab Association set a 10-day deadline for Mangaluru International Airport to withdraw the Rs 50 toll on commercial vehicles entering airport premises. Honorary president and former MLA K Raghupathi Bhat warned of an indefinite relay hunger strike if the fee is not withdrawn.",
+          "kind": "news",
+          "scope": "mangaluru",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 8,
+              "index": 8
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "Good response to MCC drive to clear birth, death certificate applications",
+          "blurb": "Mangaluru City Corporation began a four-day drive (Wednesday–Saturday) to clear pending birth/death certificate applications after SIR deputation delays; about 500 applications filed July 1–September 30 are being taken up, with priority for Class 10 students, and the cell has cleared nearly 4,000 applications in two months.",
+          "kind": "news",
+          "scope": "mangaluru",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 9,
+              "index": 2
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "22-year-old loses ₹2.37 lakh in escort service fraud",
+          "blurb": "A 22-year-old Mangaluru resident lost ₹2.37 lakh between October 7 and 8 after responding to an Instagram ad for “Royal Escort Girls,” transferring money via QR/UPI to an Airtel Payments Bank account for deposits and fees; a complaint was filed at the Cyber, Economic and Narcotics Crime Police Station.",
+          "kind": "news",
+          "scope": "mangaluru",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 8,
+              "index": 3
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "ABVP seeks action against ACP for slapping student",
+          "blurb": "ABVP State joint secretary Suvith Shetty said ACP Ravish Naik slapped student Nikith during a Monday protest at St. Agnes College over Dasara exam dates (October 19 and 21) and threatened agitation if there is no apology; NSUI DK president Suhan Alva condemned ABVP interference, while Police Commissioner Sudheer Kumar Reddy said police acted to prevent a breach of peace after a college complaint.",
+          "kind": "news",
+          "scope": "mangaluru",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 8,
+              "index": 6
+            }
+          ]
+        }
+      ]
+    },
+    "coastal_karnataka": {
+      "label": "Top 5 — Coastal Karnataka",
+      "candidate_count": 8,
+      "selected_count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "headline": "Govt invites public suggestions/objections on renaming DK dist as M'luru",
+          "blurb": "The state government proposed renaming Dakshina Kannada district as Mangaluru district and invited suggestions and objections within 30 days of Gazette publication. Additional Chief Secretary (Revenue) Rajender Kumar Kataria's October 1 notification cited public demand and administrative convenience; representations can go to the CM's Secretariat, Revenue Department, or the DK Deputy Commissioner.",
+          "kind": "news",
+          "scope": "coastal_karnataka",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 8,
+              "index": 7
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "BSNL officials told to expedite works on towers",
+          "blurb": "Udupi-Chikmagalur MP Kota Srinivasa Poojary directed BSNL officials at a progress review to upgrade facilities from 3G to 4G, maintain DG sets and batteries, and expedite new towers on 39 allotted sites. He flagged network problems at the Deputy Commissioner's office in Manipal, nearby hospitals, and tourist spots such as Kaup and Kamalashile.",
+          "kind": "news",
+          "scope": "coastal_karnataka",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 8,
+              "index": 5
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "SWR to operate special train between Bengaluru, Karwar",
+          "blurb": "South Western Railway will run Train No. 06591 Yeshvantpur–Madgaon Express Special (depart Friday 11:55 p.m.) and return 06592 Madgaon–Bengaluru Cantonment (Sunday 8:40 a.m.) for Navarathri rush, with coastal stops including Surathkal, Mulki, Udupi, Kundapura, Byndoor, Karwar and Canacona.",
+          "kind": "news",
+          "scope": "coastal_karnataka",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 9,
+              "index": 5
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "NHAI introduces mechanism to ensure clean toilets at toll plazas",
+          "blurb": "NHAI will inspect toll-plaza toilets and user facilities at least weekly, issue show-cause notices for deficiencies, and declare agencies “non-performers” (barred from NHAI bids for 15 days or until fixed) if unresolved deficiencies reach 10% of plazas; a Clean Toilet Picture Challenge on the Rajamargyatra app can yield a ₹1,000 FASTag reward. Photo: Santhana/Gundmi plaza on NH-66, Udupi.",
+          "kind": "news",
+          "scope": "india",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 9,
+              "index": 1
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "'NITK-EMPRI can develop projects to reduce emissions'",
+          "blurb": "Karnataka Net Zero Task Force vice-chairperson Upendra Tripathy said EMPRI, Bengaluru, and NIT-K Surathkal could develop west-coast pilot projects aiming to cut half a million tonnes of carbon emissions over five years, speaking at a blue-carbon/mangrove workshop at NIT-K where an MoU with EMPRI was signed.",
+          "kind": "news",
+          "scope": "coastal_karnataka",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 8,
+              "index": 1
+            }
+          ]
+        }
+      ]
+    },
+    "karnataka": {
+      "label": "Top 5 — Karnataka",
+      "candidate_count": 8,
+      "selected_count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "headline": "State adds nine more taluks to drought-hit list; tally now 226",
+          "blurb": "Deputy Chief Minister and Revenue Minister G. Parameshwara said nine more taluks were declared drought-affected (total 226), including Sakleshpur (Hassan), Khanapur (Belagavi), Hosanagara and Sagar (Shivamogga), Puttur, Moodbidri and Mulki (Dakshina Kannada), and Joida and Dandeli (Uttara Kannada); a Centre relief memorandum is due within a week.",
+          "kind": "news",
+          "scope": "karnataka",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 10,
+              "index": 1
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "DGP Alok tells Chief Secy no CBI probe pending against him",
+          "blurb": "DGP (Prison) Alok Kumar wrote to Chief Secretary Shalini Rajneesh seeking correction of a Supreme Court submission that a CBI probe was pending against him, saying the telephone-tapping case was closed with a court-accepted report on February 13, 2024. The Supreme Court had stayed the High Court SIT order naming him on October 1.",
+          "kind": "news",
+          "scope": "karnataka",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 2,
+              "index": 1
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "Govt. logs record 2.04 cr. person-days since July",
+          "blurb": "Rural Development Minister Eshwar B. Khandre said Karnataka generated a record 2.04 crore person-days under VB-G RAM G from July 1 to October 13 (vs 1.71 crore under MGNREGS last year), with Raichur leading at 24 lakh person-days amid rainfall deficit; 87,164 new job cards were issued.",
+          "kind": "news",
+          "scope": "karnataka",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 10,
+              "index": 2
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "Cops arrest man accused of using fake AI accident video",
+          "blurb": "Byatarayanapura police arrested Venkatesh for allegedly cheating 62-year-old Shanthamma of about ₹40 lakh in gold jewellery, using a fake AI-generated accident video; he was caught in Andhra Pradesh.",
+          "kind": "news",
+          "scope": "karnataka",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 2,
+              "index": 3
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "KSRTC detects 4,310 ticket pilferage cases in September",
+          "blurb": "KSRTC checked 42,784 buses in September, detecting 4,310 ticket pilferage cases and pilferage worth ₹1,12,019, and finding 4,382 passengers travelling without tickets.",
+          "kind": "news",
+          "scope": "karnataka",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 2,
+              "index": 4
+            }
+          ]
+        }
+      ]
+    },
+    "india": {
+      "label": "Top 5 — India",
+      "candidate_count": 8,
+      "selected_count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "headline": "Two CJP leaders sent to jail over Jantar Mantar stir",
+          "blurb": "Cockroach Janta Party co-convenors Saurav Das and Ashutosh Ranka were remanded to five-day judicial custody over the Jantar Mantar protest.",
+          "kind": "news",
+          "scope": "india",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 1,
+              "index": 1
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "Double-digit inflation! WPI inflation at record 11.39% in Sept",
+          "blurb": "WPI inflation hit a series-high 11.39% in September from 9.92% in August on food, manufactures and fuel; food inflation rose to 8.66%. ICRA expects WPI near 12% in October; retail inflation was earlier at a 23-month high of 5.54%.",
+          "kind": "news",
+          "scope": "india",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 1,
+              "index": 4
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "Cabinet okays IDBI Bank sale to Fairfax for ₹52,878 cr.",
+          "blurb": "The Union Cabinet approved strategic restructuring of IDBI Bank with Fairfax Financial Holdings acquiring a stake for ₹52,878 crore (bid ₹81/share); government stake falls to 15% and LIC’s to 19%, billed as the largest FDI deal in India’s financial sector.",
+          "kind": "news",
+          "scope": "india",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 17,
+              "index": 1
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "Many held as SIR protests rock capital for fifth day",
+          "blurb": "Youth and student groups including Youth Congress, SFI and DYFI marched in central Delhi on Wednesday demanding scrapping of the special intensive revision (SIR) of electoral rolls, resignation of Chief Election Commissioner Gyanesh Kumar, and reinstatement of Jantar Mantar as a protest site; protesters alleged beatings as police detained demonstrators on the fifth consecutive day.",
+          "kind": "news",
+          "scope": "india",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 7,
+              "index": 1
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "Centre to unveil national power data sharing framework",
+          "blurb": "Power Secretary Pankaj Agarwal said the National Electricity Data Sharing Framework will roll out to enable structured power-sector data sharing, with a CEA-chaired national data governance committee.",
+          "kind": "news",
+          "scope": "india",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 17,
+              "index": 2
+            }
+          ]
+        }
+      ]
+    },
+    "international": {
+      "label": "Top 5 — International",
+      "candidate_count": 8,
+      "selected_count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "headline": "Iran says a ship sank after hitting a mine in Strait of Hormuz",
+          "blurb": "Iran’s Revolutionary Guards said a ship—suspected to be GSL Pride—caught fire and sank in the Strait of Hormuz after hitting a mine.",
+          "kind": "news",
+          "scope": "international",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 18,
+              "index": 8
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "Houthis vow more strikes on Saudi airports, oil sites after Aramco hit",
+          "blurb": "Yemen’s Houthis vowed further strikes on Saudi airports and oil facilities after an attack on Aramco’s Dhahran headquarters caused a limited fire; Saudi officials said operations continued and claimed interceptions.",
+          "kind": "news",
+          "scope": "international",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 18,
+              "index": 5
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "Ukraine accuses U.S. of aiding Russia amid strikes",
+          "blurb": "Ukraine accused the U.S. of failing to warn of incoming missile strikes and slowing Starlink, as Russian strikes hit Kyiv energy and residential targets for consecutive nights.",
+          "kind": "news",
+          "scope": "international",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 18,
+              "index": 6
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "Iran increases threat to Strait of Hormuz shipping",
+          "blurb": "Reports said Iran appears to be targeting ship-to-ship oil transfers near the Strait of Hormuz; UK Maritime Trade Operations reported a US-based tanker hit by unidentified projectiles, while Mohsen Rezaei said Iran is monitoring smuggling ships.",
+          "kind": "news",
+          "scope": "international",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 9,
+              "index": 1
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "Congo's confirmed Ebola cases exceed 9,000",
+          "blurb": "Congo's Ebola outbreak surpassed 9,000 cases and 4,300 deaths across seven provinces, with dozens of new cases reported recently.",
+          "kind": "news",
+          "scope": "international",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 9,
+              "index": 2
+            }
+          ]
+        }
+      ]
+    },
+    "sports": {
+      "label": "Top 5 — Sports",
+      "candidate_count": 8,
+      "selected_count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "headline": "Windies' Hope comes to fruition",
+          "blurb": "Captain Shai Hope's unbeaten 102 and Keemo Paul's five for 41 helped West Indies beat India by 24 runs in the fourth T20I at Hyderabad, levelling the five-match series 2-2. India fell short chasing 247 despite contributions including Sanju Samson's 56; the fifth T20I is at Bengaluru's M Chinnaswamy Stadium on Saturday.",
+          "kind": "news",
+          "scope": "sports",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 15,
+              "index": 1
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "Gritty Andhra thwart Karnataka's late charge",
+          "blurb": "In the Ranji Trophy at Alur, Andhra held on for a draw despite Karun Nair's unbeaten 155 for Karnataka, with Andhra taking three points on first-innings lead.",
+          "kind": "news",
+          "scope": "sports",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 15,
+              "index": 2
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "Yuvraj Singh appointed Delhi Capitals assistant and batting coach",
+          "blurb": "Former India cricketer Yuvraj Singh was appointed Delhi Capitals assistant and batting coach.",
+          "kind": "news",
+          "scope": "sports",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 12,
+              "index": 4
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "India need to hunt for wickets, not contain West Indies, says Tilak",
+          "blurb": "With India leading West Indies 2-1 in the T20Is, vice-captain Tilak Varma said bowlers must hunt wickets rather than only contain, citing hitters like Nicholas Pooran and crediting coach Gautam Gambhir.",
+          "kind": "news",
+          "scope": "sports",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 12,
+              "index": 1
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "Hazlewood cleans up South Africa as Aus pass Durban test",
+          "blurb": "Josh Hazlewood's 6-48 led Australia past South Africa at Kingsmead as SA were bowled out for 208 chasing 264, despite Aiden Markram's 103.",
+          "kind": "news",
+          "scope": "sports",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 12,
+              "index": 5
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
