@@ -10,11 +10,13 @@ Installed as normal Cursor components under `.cursor/` (not as a marketplace plu
 | Skill | `.cursor/skills/daily-local-top/` |
 | Skill | `.cursor/skills/daily-full-paper/` |
 | Skill | `.cursor/skills/daily-after-digest/` |
+| Skill | `.cursor/skills/daily-local-coastal-top5/` |
 | Skill | `.cursor/skills/coastal-katte-top5/` |
 | Skill | `.cursor/skills/coastal-katte-script/` |
 | Skill | `.cursor/skills/coastal-katte-youtube/` |
 | Command | `.cursor/commands/digest-newspaper.md` |
 | Command | `.cursor/commands/daily-after-digest.md` |
+| Command | `.cursor/commands/daily-local-coastal-top5.md` |
 | Command | `.cursor/commands/daily-local-top.md` |
 | Command | `.cursor/commands/daily-full-paper.md` |
 | Command | `.cursor/commands/coastal-katte-top5.md` |
@@ -28,11 +30,13 @@ The same paths are linked into your user Cursor home so they work in **any** pro
 - `~/.cursor/skills/daily-local-top`
 - `~/.cursor/skills/daily-full-paper`
 - `~/.cursor/skills/daily-after-digest`
+- `~/.cursor/skills/daily-local-coastal-top5`
 - `~/.cursor/skills/coastal-katte-top5`
 - `~/.cursor/skills/coastal-katte-script`
 - `~/.cursor/skills/coastal-katte-youtube`
 - `~/.cursor/commands/digest-newspaper.md`
 - `~/.cursor/commands/daily-after-digest.md`
+- `~/.cursor/commands/daily-local-coastal-top5.md`
 - `~/.cursor/commands/daily-local-top.md`
 - `~/.cursor/commands/daily-full-paper.md`
 - `~/.cursor/commands/coastal-katte-top5.md`
@@ -101,13 +105,17 @@ Run **`/coastal-katte-youtube`** after Coastal Katte Top 5 exists. One 4–6 min
 
 ## Usage (new chat)
 
+**Preferred daily pack:** attach or name that day’s PDFs and run **`/daily-local-coastal-top5`** — digests every paper, builds Local Top 5 + Coastal Katte Top 5, verifies the UI, lands on `main` for Firebase Hosting, and notifies you when deploy completes (skips Full Paper, Shorts, YouTube).
+
+Standalone steps still work:
+
 1. Open any Agent chat.
 2. Attach a combined newspaper PDF (or give its path).
 3. Run **`/digest-newspaper`** once **per paper**.
-4. When every paper for the day is digested, run **`/daily-after-digest`**. That one command builds Local Top 5, Coastal Katte Top 5, Full Paper, and the YouTube briefing. It does **not** write the 1-minute reel script.
+4. When every paper for the day is digested, run **`/daily-after-digest`** for Local Top 5 + Coastal Katte Top 5 only (Full Paper, YouTube, and reel scripts are disabled).
 5. Run **`/coastal-katte-script`** only when you pick a story (e.g. `#1 from 30-Aug-2026` or a pasted full article).
 
-Standalone commands still work if you only want one product: `/daily-local-top`, `/daily-full-paper`, `/coastal-katte-top5`, `/coastal-katte-youtube`.
+Other one-offs: `/daily-local-top`, `/daily-full-paper`, `/coastal-katte-top5`, `/coastal-katte-youtube`, `/daily-full-pipeline`.
 
 If the slash command is missing, reload the Cursor window once.
 
