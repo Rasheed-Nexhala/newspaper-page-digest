@@ -1,170 +1,262 @@
 # Deccan Herald — Mangaluru — Page-by-Page Digest
-**Date:** Monday, 12 October 2026  |  **Total pages:** 14  |  **Total articles:** 91
+**Date:** Monday, 12 October 2026  |  **Total pages:** 14  |  **Total articles:** 109
 
 ---
 
 ## Page 1
 
-<!-- npd:article page="1" index="1" kind="news" scope="mangaluru" -->
-### Mangaluru bank employee sweeps top honours at kho kho nationals
+<!-- npd:article page="1" index="1" kind="news" scope="india" -->
+### SC: No illegal detention, ensure net not disrupted
 
-Canara Bank employee Sushma K from Mangaluru won Best Attacker and Best Player at the 39th Senior National Kho Kho Championship in Indore as Karnataka finished runners-up to Maharashtra; she had also been Best Attacker at the 38th nationals in Tiruchirappalli in 2024.
+The Supreme Court, amid anti-CEC protests in New Delhi, sought normal metro operations and directed that there be no illegal detention and that internet services not be disrupted; around 200 people were detained on Sunday, with notice to the Centre in a contempt plea.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="1" index="2" kind="news" scope="karnataka" -->
+### Over 340 acres of forest converted into revenue land in Kolar dist
+
+An Assistant Commissioner’s order converting over 340 acres of forest into revenue land in Kolar district, including the Abbi Mini Forest area, could legalise encroachments, the report said.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="1" index="3" kind="news" scope="karnataka" -->
+### Shivakumar met person involved in sting operation: HDK
+
+Union Minister H.D. Kumaraswamy accused Chief Minister D.K. Shivakumar of meeting a middleman linked to a sting operation at a five-star hotel.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="1" index="4" kind="news" scope="karnataka" -->
+### B’luru sees first grassroots protest against new flyovers
+
+Residents held a human-chain protest against the Raghupathi–Kanakapura Main Road elevated corridor project under B-SMILE in Bengaluru.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="1" index="5" kind="news" scope="international" -->
+### Indian among 13 killed in attack on Saudi’s Riyadh airport
+
+An Indian was among 13 killed in a drone attack on Riyadh’s King Khalid International Airport, attributed to Houthi rebels.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="1" index="6" kind="news" scope="karnataka" -->
+### Grand start to Dasara
+
+Mysuru Dasara opened with ceremonies at Chamundeshwari temple atop Chamundi Hill, with Chief Minister D.K. Shivakumar and a pontiff among those present.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="1" index="7" kind="news" scope="karnataka" -->
+### K’taka plans paid consultancy to share governance models
+
+Karnataka plans paid consultancy to other states on e-governance models such as FRUITS and Kutumba, with IT/BT Minister Priyank Kharge cited.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="1" index="8" kind="news" scope="sports" -->
+### India outlast Windies in high-scoring clash
+
+Abhishek Sharma set up India’s win and Arshdeep Singh took three wickets as India beat West Indies in a high-scoring T20 clash.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="1" index="9" kind="news" scope="india" -->
+### Starlink competition will benefit Indian consumers: Musk
+
+Elon Musk said Starlink competition would benefit Indian consumers.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="1" index="10" kind="news" scope="india" -->
+### Punjab woman held for spying
+
+A Punjab woman was held in a spying case, the Nation brief reported.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="1" index="11" kind="news" scope="india" -->
+### Nana Patekar died of heart attack: Autopsy
+
+An autopsy found actor Nana Patekar died of a heart attack.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="1" index="12" kind="news" scope="india" -->
+### IndiGo flight diverted
+
+A Chennai-bound IndiGo flight from Delhi was diverted to Hyderabad after smoke was reported onboard.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="1" index="13" kind="news" scope="karnataka" -->
+### Online date turns into AI-enabled sextortion bid
+
+A 23-year-old in Bengaluru lost ₹1.65 lakh in an AI-enabled sextortion attempt after an online date, a Quickly item said.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="1" index="14" kind="news" scope="international" -->
+### 139 migrants die after boat capsizes off Djibouti
+
+About 139 migrants died after a boat capsized off Djibouti.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="1" index="15" kind="news" scope="india" -->
+### PM vows support to TN
+
+Prime Minister Narendra Modi, at a Chennai Metro Phase-II event with Tamil Nadu CM M.K. Stalin, vowed support to Tamil Nadu.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="1" index="16" kind="news" scope="international" -->
+### 5 people missing as flash floods hit Nepal
+
+Five people were missing after flash floods in Nepal.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="1" index="17" kind="news" scope="india" -->
+### Sixth POCSO case against TN granite baron
+
+A sixth POCSO case was registered against Tamil Nadu granite baron R. Veeramani, a Quickly item said.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="1" index="18" kind="news" scope="india" -->
+### Beyond assembly: Yaanendriya aims to own autonomy IP
+
+A Business brief flagged deeptech startup Yaanendriya’s push to own autonomy IP (full report inside).
 <!-- /npd:article -->
 
 ---
 
 ## Page 2
 
-<!-- npd:article page="2" index="1" kind="news" scope="karnataka" -->
-### Bengaluru schools battle dengue surge
-
-Bengaluru schools face a dengue surge with about 1,500 city cases in the past month; BBMP issued guidelines for daily checks and stagnant-water removal, and the health department set up fever clinics in all eight zones.
-<!-- /npd:article -->
-
----
-
-<!-- npd:article page="2" index="2" kind="news" scope="india" -->
-### Fuel price hike, 17th since April
-
-Petrol rose 35 paise and diesel 32 paise per litre in Delhi on Saturday, the 17th hike since April, taking petrol to ₹106.39 and diesel to ₹94.67 amid higher global crude and a weaker rupee.
-<!-- /npd:article -->
-
----
-
-<!-- npd:article page="2" index="3" kind="news" scope="lifestyle" -->
-### A rare chance to love
-
-Bengaluru couple Ravi and Priya adopted a child with Down syndrome through the Karnataka State Council for Child Welfare after years of IVF treatment, and urge more families to consider adoption of children with special needs.
-<!-- /npd:article -->
-
----
-
-<!-- npd:article page="2" index="4" kind="news" scope="karnataka" -->
-### Who says women aren't safe?
-
-The report cites Bengaluru women using self-defence training, pepper spray and safety apps after recent crimes, quoting IT professional Ananya Sharma and noting police measures including the Nirbhaya app and SHE teams.
-<!-- /npd:article -->
-
----
-
-<!-- npd:article page="2" index="5" kind="news" scope="karnataka" -->
-### Are you a victim of Key Indicators?
-
-The piece explains Karnataka's Key Indicators survey on health, education and livelihood, and warns that fraudsters use fake surveys to collect personal data from residents who should verify official portals.
-<!-- /npd:article -->
-
----
-
-<!-- npd:article page="2" index="6" kind="news" scope="karnataka" -->
-### 15 houses knocked down in RR Nagar
-
-BBMP demolished 15 unauthorised houses in Rajarajeshwari Nagar on Friday on storm-water drain land after residents failed to produce valid documents despite prior notice.
-<!-- /npd:article -->
-
----
-
-<!-- npd:article page="2" index="7" kind="news" scope="karnataka" -->
-### Minister sets 15-day deadline for pothole-free roads
-
-Bengaluru Development Minister K J George gave BBMP 15 days to make major roads pothole-free, threatening action against engineers who miss targets and directing use of cold-mix technology.
-<!-- /npd:article -->
-
----
-
-<!-- npd:article page="2" index="8" kind="news" scope="sports" -->
-### Is playing with damaged balls putting players at risk?
-
-Karnataka coaches and players say worn balls in local cricket tournaments raise injury risk, citing a recent district match where a batsman was hit, and seek BCCI and KSCA ball-quality guidelines.
-<!-- /npd:article -->
-
----
-
-<!-- npd:article page="2" index="9" kind="news" scope="international" -->
-### Egypt, Gaza agree to new US ceasefire plan
-
-Egypt and Hamas agreed to a US-backed Gaza ceasefire plan involving phased hostage releases and more aid, US officials said, while Israel said it was studying the proposal.
-<!-- /npd:article -->
+*(no reportable articles)*
 
 ---
 
 ## Page 3
 
-<!-- npd:article page="3" index="1" kind="news" scope="karnataka" -->
-### Probe ordered into BBMP Grade-1 employee recruitment
+<!-- npd:article page="3" index="1" kind="news" scope="international" -->
+### 139 migrants, including 15 kids, die after boat overturns off Djibouti
 
-The state ordered a probe into BBMP's recruitment of 120 Grade-1 employees after complaints of manipulated merit lists and bribes, with the Urban Development Department referring the matter to the Lokayukta.
+An overcrowded boat heading to Yemen overturned off Djibouti, killing 139 migrants including 15 children, with 64 still missing; IOM workers assisted survivors.
 <!-- /npd:article -->
 
 ---
 
-<!-- npd:article page="3" index="2" kind="news" scope="india" -->
-### Crypto investment scam: ED recovers ₹34 cr
+<!-- npd:article page="3" index="2" kind="news" scope="international" -->
+### Nepal flash floods sweep away houses, five people missing
 
-The ED recovered ₹34 crore in a crypto scam that duped investors via fake trading platforms, with searches in Bengaluru, Mumbai and Delhi and several arrests.
+Flash floods in central Nepal swept away houses after debris blocked a river, with five people missing.
 <!-- /npd:article -->
 
 ---
 
-<!-- npd:article page="3" index="3" kind="news" scope="india" -->
-### Muzaffarpur shelter home case: CBI chargesheets 21
+<!-- npd:article page="3" index="3" kind="news" scope="international" -->
+### Russia, Ukraine agreed to ‘energy truce’, claims Trump
 
-The CBI chargesheeted 21 people including politicians and officials in the Muzaffarpur shelter home abuse case, alleging abuse of minor girls and cover-up between 2015 and 2018.
+Donald Trump claimed Russia and Ukraine agreed to an energy truce; Volodymyr Zelenskyy said he was unaware of any such development, as Kyiv targeted Moscow’s tech infrastructure.
 <!-- /npd:article -->
 
 ---
 
 <!-- npd:article page="3" index="4" kind="news" scope="international" -->
-### Indian man who saved passengers in Boston train stabbing honoured
+### Poland PM’s ‘assassination’ suspect held
 
-Pune-born engineer Ashwin Narayan, who helped stop a Boston train attacker in September, received a bravery award from the Massachusetts governor.
+A suspect was detained over an alleged assassination attempt on the Polish prime minister.
 <!-- /npd:article -->
 
 ---
 
-<!-- npd:article page="3" index="5" kind="news" scope="lifestyle" -->
-### Don't trust anyone: Doctors on breast cancer
+<!-- npd:article page="3" index="5" kind="news" scope="international" -->
+### Pope to be operated on for lump on lung
 
-Bengaluru oncologists urged women not to ignore lumps or pain and to screen regularly, saying late detection drives mortality and mammograms after 40 aid early treatment.
+Pope Leo XIV was scheduled for surgery for a lung lump at Gemelli Hospital.
 <!-- /npd:article -->
 
 ---
 
-<!-- npd:article page="3" index="6" kind="news" scope="india" -->
-### PM inaugurates AI Impact Summit
+<!-- npd:article page="3" index="6" kind="news" scope="international" -->
+### 72 killed in airstrike on gold mine on Sudan-Egypt border
 
-Prime Minister Narendra Modi opened the AI Impact Summit in New Delhi, calling for responsible AI and affordable Indian solutions at the three-day event with global tech leaders.
+An Egyptian military aircraft strike on a gold mine on the Sudan–Egypt border killed 72 people, the report said.
 <!-- /npd:article -->
 
 ---
 
-<!-- npd:article page="3" index="7" kind="news" scope="karnataka" -->
-### Self-driving taxi trial in Bengaluru
+<!-- npd:article page="3" index="7" kind="news" scope="international" -->
+### UN officials call for urgent, science-backed systemic solutions to heat crisis
 
-A firm began a limited self-driving taxi trial on a private Bengaluru campus while officials said public-road tests need state safety clearance.
+UN officials urged urgent, science-backed systemic solutions to the heat crisis.
 <!-- /npd:article -->
 
 ---
 
-<!-- npd:article page="3" index="8" kind="news" scope="karnataka" -->
-### Tech firms' US visit narrative
+<!-- npd:article page="3" index="8" kind="news" scope="india" -->
+### Give priority to Godavari-Cauvery interlinking: Vijay to PM
 
-IT Minister Priyank Kharge said a Karnataka tech delegation to the US drew investment interest, disputing opposition claims the trip lacked outcomes.
+Tamil Nadu Chief Minister C. Joseph Vijay, at Chennai project launches worth over ₹13,000 crore with PM Modi, sought priority for Godavari–Cauvery interlinking and an interstate Hosur–Bengaluru metro corridor.
 <!-- /npd:article -->
 
 ---
 
 <!-- npd:article page="3" index="9" kind="news" scope="india" -->
-### LV Prasad Eye Institute unveils AI tool for eye screening
+### Modi opens Chennai Metro corridor, vows support to TN
 
-LV Prasad Eye Institute launched an AI tool for diabetic retinopathy and glaucoma screening aimed at rural camps under the digital health mission.
+Prime Minister Narendra Modi opened a Chennai Metro Phase-II corridor and vowed continued support to Tamil Nadu.
 <!-- /npd:article -->
 
 ---
 
-<!-- npd:article page="3" index="10" kind="news" scope="lifestyle" -->
-### Prepare your kids for AI-driven future
+<!-- npd:article page="3" index="10" kind="news" scope="india" -->
+### Starlink competition will benefit Indian consumers: Musk
 
-Experts at a Bengaluru conclave told parents and schools to teach critical thinking with AI tools and not let chatbots replace understanding.
+Elon Musk said Starlink’s entry and competition would benefit Indian consumers versus existing players.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="3" index="11" kind="news" scope="india" -->
+### Chennai-bound flight diverted after ‘smoke’ onboard
+
+An IndiGo Delhi–Chennai flight diverted to Hyderabad after smoke was detected from a passenger’s electronic device.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="3" index="12" kind="news" scope="india" -->
+### Pressure mounts on Keralam government to resume Wayanad tunnel project
+
+Pressure mounted on the Kerala government to resume the contested 8.1 km Meppadi–Aanakkampoyil Wayanad tunnel road project.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="3" index="13" kind="news" scope="india" -->
+### Patekar died of heart attack: Autopsy
+
+An autopsy at a Goa hospital found actor Nana Patekar died of acute myocardial infarction.
 <!-- /npd:article -->
 
 ---
@@ -172,419 +264,471 @@ Experts at a Bengaluru conclave told parents and schools to teach critical think
 ## Page 4
 
 <!-- npd:article page="4" index="1" kind="news" scope="mangaluru" -->
-### Mangaluru corporator among three detained over alleged ISIS plot
+### HC bench: ‘DC-headed panel will be set up to prepare infra assessment checklist’
 
-Police detained three people including a corporator in an alleged ISIS-linked plot, searched premises and seized devices after intelligence inputs.
+District in-charge Minister U.T. Khader said a Deputy Commissioner-headed panel would prepare an infrastructure assessment checklist for a High Court circuit or permanent bench in Mangaluru, and that efforts would be made to build consensus among districts.
 <!-- /npd:article -->
 
 ---
 
 <!-- npd:article page="4" index="2" kind="news" scope="mangaluru" -->
-### BJP promises early police chief post to Mangaluru
+### MUDA chairman inspects sites for cricket stadium
 
-The BJP promised a Mangaluru police commissioner soon if it wins local polls, accusing Congress of delaying the post and weakening law and order.
+MUDA Chairman Sadashiv Ullal inspected sites including Bangra, Bondel, Mullur, Kannuru and Kenjar for a well-equipped cricket stadium sought by the Karnataka State Cricket Association.
 <!-- /npd:article -->
 
 ---
 
 <!-- npd:article page="4" index="3" kind="news" scope="mangaluru" -->
-### Road blockade over fast-track mangrove removal process
+### 1,128 passengers take KSRTC Dasara package tours on launch day
 
-Activists and fishermen blocked a Mangaluru road protesting fast-track mangrove removal for port expansion, demanding impact studies and consultation.
+KSRTC Mangaluru Division’s special Dasara package tours carried 1,128 passengers on launch day from Bejai bus stand to temples and tourist destinations.
 <!-- /npd:article -->
 
 ---
 
-<!-- npd:article page="4" index="4" kind="news" scope="karnataka" -->
-### Govt to act on cases involving Congress members with 'campaign money'
+<!-- npd:article page="4" index="4" kind="news" scope="mangaluru" -->
+### Navaratri celebrations off to grand, colourful note
 
-The government said it would examine Dakshina Kannada cases involving Congress members accused of misusing campaign funds after BJP complaints.
+Mangaluru Dasara began at Sri Gokarnanatha Temple, Kudroli, with Navadurga idol installation, Alpana art, processions and Huli Vesha performances on the first day.
 <!-- /npd:article -->
 
 ---
 
-<!-- npd:article page="4" index="5" kind="news" scope="mangaluru" -->
-### Mobility centres to be restored soon
+<!-- npd:article page="4" index="5" kind="news" scope="coastal_karnataka" -->
+### Conspiracy underway to deprive indigenous communities of voting rights
 
-MCC officials said mobility centres for seniors and persons with disabilities would reopen within weeks after councillors flagged closed ward facilities.
+Jina Prakash Swamiji of Udupi alleged a conspiracy to deprive indigenous communities of voting rights.
 <!-- /npd:article -->
 
 ---
 
 <!-- npd:article page="4" index="6" kind="news" scope="mangaluru" -->
-### Hundreds rally against Namo Brigade march
+### Police issue traffic advisory in view of Dasara
 
-Hundreds protested in Mangaluru against a proposed Namo Brigade march; police imposed restrictions and said permits would follow law-and-order review.
+Mangaluru City Police issued a traffic and parking advisory for Dasara near Kudroli temple.
 <!-- /npd:article -->
 
 ---
 
-<!-- npd:article page="4" index="7" kind="news" scope="karnataka" -->
-### Karnataka tops in organ donations
+<!-- npd:article page="4" index="7" kind="news" scope="coastal_karnataka" -->
+### Fifth edition of Uchila Dasara begins
 
-Health department data said Karnataka led states in organ donations in 2025 so far, with Bengaluru hospitals prominent in live and cadaver donations.
+Dakshina Kannada Deputy Commissioner Swaroopa T.K. flagged off the fifth Uchila Dasara Mahotsava at Uchila Mahalakshmi Temple, Padubidri.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="4" index="8" kind="news" scope="mangaluru" -->
+### Swachh M’luru Abhiyan volunteers clean rly station rd
+
+Ramakrishna Mission’s Swachh Mangaluru Abhiyan volunteers cleaned Railway Station Road.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="4" index="9" kind="news" scope="mangaluru" -->
+### Dasara Poets’ Meet today
+
+A Dasara Poets’ Meet was scheduled at Sri Gokarnanatha Temple.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="4" index="10" kind="news" scope="mangaluru" -->
+### Student’s body traced
+
+The body of 21-year-old student Akash, missing after entering the sea at Periwal Beach, was traced.
 <!-- /npd:article -->
 
 ---
 
 ## Page 5
 
-<!-- npd:article page="5" index="1" kind="news" scope="mangaluru" -->
-### Mangaluru civic body gears up for two-day mega health check-up camp
+<!-- npd:article page="5" index="1" kind="news" scope="karnataka" -->
+### No double-jeopardy benefit for repeated mining sans nod: HC
 
-MCC will hold a two-day Town Hall health camp with free diabetes, hypertension and cancer-marker screening targeting 5,000 residents with hospital and NCC support.
+The Karnataka High Court held a Bagalkot man who mined ruby-red granite on his own land without nod could not claim double-jeopardy protection for repeated offences, citing CrPC and constitutional provisions.
 <!-- /npd:article -->
 
 ---
 
-<!-- npd:article page="5" index="2" kind="news" scope="mangaluru" -->
-### Soon, traffic wardens to man junctions
+<!-- npd:article page="5" index="2" kind="news" scope="karnataka" -->
+### Elderly man orders dry fruits online, cheated of Rs 2.86L
 
-MCC and police plan traffic wardens at Kadri, Pumpwell and Lady Hill junctions until permanent signal upgrades.
+An 80-year-old resident of Telecom Layout, Bengaluru, lost ₹2.86 lakh in a Facebook-ad dry-fruit cyber fraud via UPI.
 <!-- /npd:article -->
 
 ---
 
 <!-- npd:article page="5" index="3" kind="news" scope="karnataka" -->
-### Leave encashment for govt employees up from 300 to 480 days
+### 300 organisations, 80 artistes sign up for Bengaluru Jatre
 
-The cabinet raised maximum leave encashment at retirement from 300 to 480 days for state employees, with an estimated ₹800 crore extra liability over five years.
+About 300 organisations and 80 artistes signed up for Bengaluru’s Namma Jatre, with Greener Bengaluru Development Minister Krishna Byre Gowda among those cited.
 <!-- /npd:article -->
 
 ---
 
-<!-- npd:article page="5" index="4" kind="news" scope="mangaluru" -->
-### Kalika Chetana Vedike leaders meet Shah over Nagara Sundara works
+<!-- npd:article page="5" index="4" kind="news" scope="karnataka" -->
+### Form 7 FIRs: BYV warns of laying siege to police stations
 
-Kalika Chetana Vedike leaders met Amit Shah in Delhi on delays in Mangaluru Nagara Sundara scheme works tied to smart-city projects.
+BJP state president B.Y. Vijayendra warned of laying siege to police stations over FIRs against BJP workers linked to Form 7 objections.
 <!-- /npd:article -->
 
 ---
 
 <!-- npd:article page="5" index="5" kind="news" scope="karnataka" -->
-### Govt employees give bandh call on Dec 4 over minimum wages
+### Online date turns into AI-enabled sextortion bid
 
-Government employee unions called a December 4 statewide bandh for minimum-wage and pension demands, threatening strikes if finance talks fail.
+A 23-year-old Bengaluru man lost money after being threatened with an AI-manipulated obscene video; the state reported 57 sextortion cases till August.
 <!-- /npd:article -->
 
 ---
 
-<!-- npd:article page="5" index="6" kind="news" scope="india" -->
-### Equities end lower; rupee depreciates
+<!-- npd:article page="5" index="6" kind="news" scope="karnataka" -->
+### Panel to study rationalisation of tiger reserve buffer zones
 
-The Sensex fell 412 points on Friday and the rupee weakened 8 paise to 84.52 per dollar on outflows and weak global cues.
+A technical committee set up by the State Board of Wildlife, chaired by Chief Minister Siddaramaiah, will review buffer zones for Bandipur and Bhadra tiger reserves.
 <!-- /npd:article -->
 
 ---
 
-<!-- npd:article page="5" index="7" kind="news" scope="karnataka" -->
-### Tourists pay respects at St Philomena temple
+<!-- npd:article page="5" index="7" kind="news" scope="india" -->
+### Kharge accuses Centre of imposing undeclared Emergency
 
-Weekend crowds visited St Philomena's Church in Mysuru during pilgrimage season with added security and facilities arranged by church authorities.
+AICC president Mallikarjun Kharge, speaking in Kalaburagi, accused the Centre of imposing an undeclared Emergency.
 <!-- /npd:article -->
 
 ---
 
-<!-- npd:article page="5" index="8" kind="news" scope="coastal_karnataka" -->
-### Probe launched into fake doctors, kidney racket in Udupi
+<!-- npd:article page="5" index="8" kind="news" scope="karnataka" -->
+### Centre tarnishing India’s reputation for democracy, says Shivakumar
 
-Udupi police probed fake doctors and kidney-racket allegations after a patient complaint, raiding two clinics and detaining three people.
+Deputy Chief Minister D.K. Shivakumar said the Centre was tarnishing India’s democratic reputation, citing the Special Intensive Revision exercise.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="5" index="9" kind="news" scope="karnataka" -->
+### BMTC to launch 5 dedicated feeder buses for Pink Line metro stations
+
+BMTC planned five dedicated feeder buses for Pink Line stations including Hulimavu, Tavarekere, Jayanagar and JP Nagar 4th Phase.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="5" index="10" kind="news" scope="karnataka" -->
+### Notice to Indira Canteen contractor for menu violations
+
+BBMP officials issued a notice to an Indira Canteen contractor after inspections found menu violations.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="5" index="11" kind="news" scope="karnataka" -->
+### B’luru GPO sees huge interest from stamp collectors for philately passports
+
+Bengaluru GPO saw heavy demand from stamp collectors for philately passports.
 <!-- /npd:article -->
 
 ---
 
 ## Page 6
 
-<!-- npd:article page="6" index="1" kind="news" scope="mangaluru" -->
-### Bogus websites scamming people in name of IOB
+<!-- npd:article page="6" index="1" kind="news" scope="karnataka" -->
+### Gavi Mutt seer calls upon people to preserve legacy of harmony
 
-Mangaluru Cyber Economic and Narcotics police warned of fake IOB sites such as ioBMangalore.com and ioBMangalore.net used to phish customers, with cases registered after losses.
+Koppal Gavi Mutt pontiff Gaviddeshwara Swamy inaugurated Mysuru Dasara, recalling Wadiyars’ contributions, with CM D.K. Shivakumar and ministers present.
 <!-- /npd:article -->
 
 ---
 
-<!-- npd:article page="6" index="2" kind="news" scope="mangaluru" -->
-### Sand extraction from Netravathi riverbed
+<!-- npd:article page="6" index="2" kind="news" scope="karnataka" -->
+### Dasara begins at Mysuru Palace with private durbar
 
-The DK Fishermen's Forum opposed sand removal from the Netravathi near Adyar-Kannur, saying 28 truckloads were taken and rainwater-harvesting pits were damaged.
+Yaduveer Krishnadatta Chamaraja Wadiyar held a private durbar at Mysuru Palace as Dasara began for a selected audience.
 <!-- /npd:article -->
 
 ---
 
-<!-- npd:article page="6" index="3" kind="news" scope="india" -->
-### Meghalaya temple collapse toll rises to 31
+<!-- npd:article page="6" index="3" kind="news" scope="karnataka" -->
+### HDK continues ‘sting’ attack, accuses Shivakumar of meeting person involved in ops
 
-The Meghalaya temple collapse death toll reached 31 after worshippers with oil lamps were among those killed when a wall gave way during a festival.
+H.D. Kumaraswamy continued accusing D.K. Shivakumar of meeting a person linked to sting operations.
 <!-- /npd:article -->
 
 ---
 
 <!-- npd:article page="6" index="4" kind="news" scope="karnataka" -->
-### Saudi court confirms death sentence for Karnataka man
+### More elderly women face abuse within family than senior men: Data
 
-A Saudi court confirmed a Karnataka man's death sentence in a drug case; the external affairs ministry said consular help and appeals were being pursued.
+Elderline Helpline and Nightingales Medical Trust data showed more elderly women than senior men face abuse within families in Bengaluru.
 <!-- /npd:article -->
 
 ---
 
 <!-- npd:article page="6" index="5" kind="news" scope="karnataka" -->
-### BBMP to lift building ban in some zones
+### Three killed, nine injured as lorry rear-ends tractor
 
-BBMP will lift a building-plan moratorium in 52 wards where sewer and water upgrades are done while high-stress zones remain banned pending STP work.
+Three people were killed and nine injured when a lorry rear-ended a tractor carrying a Durga Devi idol on NH-48 near Hukkeri, Belagavi district.
 <!-- /npd:article -->
 
 ---
 
 <!-- npd:article page="6" index="6" kind="news" scope="karnataka" -->
-### Karnataka chalks out mega education fest
+### Over 340 acres of forest converted into revenue land
 
-The school education department planned a statewide Vidyotsava fest in December with district science and cultural winners competing in Bengaluru.
+A continuation from page 1 covered conversion of over 340 acres of forest into revenue land in Kolar district.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="6" index="7" kind="news" scope="karnataka" -->
+### Former GP member killed by unidentified assailants
+
+Former gram panchayat member Madivalappa Madiwalappa Madivalar was killed by unidentified assailants in Gadag.
 <!-- /npd:article -->
 
 ---
 
 ## Page 7
 
-<!-- npd:article page="7" index="1" kind="news" scope="karnataka" -->
-### Post mortem conducted on deceased accused Venugopal
+<!-- npd:article page="7" index="1" kind="news" scope="india" -->
+### Detentions don’t deter protesters; bigger mobilisation likely today
 
-Forensic experts led by Dr Rajesh conducted post mortem on Venugopal, 45, who died in judicial custody at Valpadi after arrest by RG Halli police; his brother Basavaraj demanded an inquiry into the death.
+Detention of Constitutional Justice Party protesters in Delhi did not stop the stir; INDIA bloc leaders including Mallikarjun Kharge and Rahul Gandhi planned to march to the Supreme Court with a memorandum for the CJI.
 <!-- /npd:article -->
 
 ---
 
-<!-- npd:article page="7" index="2" kind="news" scope="sports" -->
-### Women's cricket World Cup: India shine
+<!-- npd:article page="7" index="2" kind="news" scope="india" -->
+### Keralam CM to move resolution against CEC in Assembly today
 
-India beat Pakistan by 57 runs in the Women's World Cup as Harmanpreet Kaur hit 73 off 38 balls and Shafali Verma 87 in India's 291 for 3, with Renuka Thakur taking four wickets.
+Kerala Chief Minister Pinarayi Vijayan was set to move an Assembly resolution seeking removal of CEC Gyanesh Kumar, with LDF and UDF expected to support and BJP to oppose.
 <!-- /npd:article -->
 
 ---
 
 <!-- npd:article page="7" index="3" kind="news" scope="india" -->
-### Bill to boost domestic coal output introduced
+### Deploying 40k cops proof that stir was successful: PK
 
-The BJP and a government ally introduced the Coal Bearing Areas (Acquisition and Development) Amendment Bill, 2025 to ease mining-lease rules and allow leases up to 80 years from 50 in coal-bearing areas.
+Jan Suraaj founder Prashant Kishor said deploying about 40,000 police at Jantar Mantar proved the anti-CEC agitation’s impact.
 <!-- /npd:article -->
 
 ---
 
 <!-- npd:article page="7" index="4" kind="news" scope="india" -->
-### CCI probes exclusivity in cab hailing
+### Four held, but saffron-clad groups remain on Delhi streets
 
-The CCI opened a probe into Uber, Ola, Rapido, Zepto and Blinkit over alleged exclusive arrangements with partners ahead of the Digital Competition Bill.
+Four men were arrested over an assault linked to tensions between protesters and saffron-clad groups in Delhi.
 <!-- /npd:article -->
 
 ---
 
-<!-- npd:article page="7" index="5" kind="news" scope="coastal_karnataka" -->
-### Udupi former ZP member gets five-year RI
+<!-- npd:article page="7" index="5" kind="news" scope="india" -->
+### Journalists detained despite credentials
 
-A court sentenced former Udupi Zilla Panchayat member Prabhakar Mendon to five years rigorous imprisonment over disproportionate assets of ₹6.91 crore.
+At least a dozen journalists covering the protests were detained by Delhi Police despite press credentials; press bodies condemned the action.
 <!-- /npd:article -->
 
 ---
 
 <!-- npd:article page="7" index="6" kind="news" scope="india" -->
-### Psychosocial factors in workplace safety
+### Delhi Police have lost their sense of justice: Brittas
 
-India's tripartite review of the 2004 Occupational Safety and Health Convention noted psychosocial risks from workload, harassment and climate disruptions, urging ILO Convention 187 ratification.
+CPI(M) MP John Brittas said he was detained and manhandled at Connaught Place and nearly choked in a police van.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="7" index="7" kind="news" scope="india" -->
+### ‘An embarrassment to India’: CJP trains guns on PM
+
+CJP criticised Prime Minister Narendra Modi over the crackdown; co-conveners Saurav Das and Ashutosh Ranka were released from preventive detention.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="7" index="8" kind="news" scope="india" -->
+### I was not detained; I was kidnapped: Dhruv Rathee
+
+YouTuber Dhruv Rathee said about 20 plainclothes persons took him from his Gurugram residence and held him about 22 hours without lawyer or phone access.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="7" index="9" kind="news" scope="india" -->
+### Deport actor Imran Khan: BJP leader
+
+BJP leader Kirit Somaiya called for deporting actor Imran Khan, alleging he is a US citizen who joined illegal protests.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="7" index="10" kind="news" scope="india" -->
+### Thackeray cousins join anti-CEC protests in Mumbai
+
+Aaditya, Tejas and Amit Thackeray joined anti-CEC protests in Mumbai at Dadar and outside Vashi police station.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="7" index="11" kind="news" scope="india" -->
+### CJP has shifted its focus to electoral politics, claims BJP
+
+BJP spokesperson Sudhanshu Trivedi accused CJP of shifting into electoral politics.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="7" index="12" kind="news" scope="india" -->
+### Sikh body files police complaint against Kejriwal, AAP
+
+DSGMC filed a police complaint against Arvind Kejriwal and AAP over alleged misleading videos on the anti-CEC protests.
 <!-- /npd:article -->
 
 ---
 
 ## Page 8
 
-<!-- npd:article page="8" index="1" kind="news" scope="mangaluru" -->
-### Satya Sai idol procession draws devotees
+<!-- npd:article page="8" index="1" kind="opinion" scope="india" -->
+### An authoritarian reflex in the national capital (Opinion)
 
-Thousands joined a Satya Sai Baba idol procession in Mangaluru with police managing traffic from Car Street to Kudroli.
+The editorial criticised the Union government’s crackdown on Delhi protests after CEC-related unrest, citing Section 144, metro shutdowns and heavy security deployment.
 <!-- /npd:article -->
 
 ---
 
-<!-- npd:article page="8" index="2" kind="news" scope="india" -->
-### No tax returns for super senior citizens
+<!-- npd:article page="8" index="2" kind="opinion" scope="karnataka" -->
+### A vital democratic space reopens (Opinion)
 
-The Income Tax Department said super senior citizens above 80 with only pension and interest income need not file returns if tax is deducted at source.
+The editorial welcomed the return of student union elections in Karnataka colleges after 37 years, citing Lyngdoh Committee norms and warning against political patronage.
 <!-- /npd:article -->
 
 ---
 
-<!-- npd:article page="8" index="3" kind="news" scope="india" -->
-### MEA rebuffs Rahul's claim on China border
+<!-- npd:article page="8" index="3" kind="opinion" scope="international" -->
+### Geography returns as conflicts grow (Opinion)
 
-The MEA rejected Rahul Gandhi's China border territory claims as incorrect and harmful to security discourse.
+Raghu Gururaj argued geopolitics and weaponised trade are restoring physical geography’s centrality, citing Ukraine, the South China Sea and the Arctic.
 <!-- /npd:article -->
 
 ---
 
-<!-- npd:article page="8" index="4" kind="news" scope="karnataka" -->
-### Kaiga nuclear plant 220 MW unit shut for maintenance
+<!-- npd:article page="8" index="4" kind="opinion" scope="lifestyle" -->
+### The stories books carry (Opinion)
 
-Kaiga Atomic Power Station Unit 1 shut for about three weeks of maintenance; NPCIL said other sources would cover supply.
+Sanjeev Gandhi’s essay reflected on how books preserve memories of people who gifted or shared them.
 <!-- /npd:article -->
 
 ---
 
-<!-- npd:article page="8" index="5" kind="news" scope="karnataka" -->
-### BBMP salaries pending for contract workers
+<!-- npd:article page="8" index="5" kind="opinion" scope="india" -->
+### The era of easy money is over (Opinion)
 
-BBMP contract sanitation workers protested over two months of unpaid wages; the commissioner promised payment within a week.
-<!-- /npd:article -->
-
----
-
-<!-- npd:article page="8" index="6" kind="news" scope="karnataka" -->
-### Namma Metro takes up Mansarovar track work
-
-BMRCL began Purple Line track work near Mansarovar, causing weekend delays and feeder-bus advisories.
-<!-- /npd:article -->
-
----
-
-<!-- npd:article page="8" index="7" kind="news" scope="india" -->
-### Geological Survey searches for coal in new blocks
-
-GSI sped up exploration in newly allotted central and eastern India coal blocks to meet production targets.
-<!-- /npd:article -->
-
----
-
-<!-- npd:article page="8" index="8" kind="news" scope="india" -->
-### Baby girl kidnapped from Kerala hospital
-
-Kerala police hunted suspects after a newborn was taken from a Kozhikode hospital, with CCTV showing a woman leaving with the infant.
+Vasant G. Hegde analysed the RBI MPC’s 25-basis-point repo-rate rise to 5.25% amid inflation and global policy tightening.
 <!-- /npd:article -->
 
 ---
 
 ## Page 9
 
-*(no reportable articles)*
+<!-- npd:article page="9" index="1" kind="opinion" scope="india" -->
+### The Shastri standard and the diminishing culture of accountability (Opinion)
+
+A. Ravindra contrasted Lal Bahadur Shastri’s resignation after a rail accident with weaker modern accountability, citing NEET-leak and Karnataka Valmiki Corporation controversies.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="9" index="2" kind="opinion" scope="karnataka" -->
+### Plantations are not failed forests (Opinion)
+
+Jagmohan Sharma defended Karnataka Forest Department plantation strategy, citing ISFR 2023 and FAO distinctions between natural forests and managed plantations.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="9" index="3" kind="news" scope="international" -->
+### Wringing hope from the rubble of Gaza
+
+Aaron Boxerman (NYT) reported on Gazans, including injured children, rebuilding lives amid war rubble.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="9" index="4" kind="opinion" scope="lifestyle" -->
+### Patience breeds success (Opinion)
+
+Surendra Pai’s Oasis essay used a Buddha parable about a muddy stream to argue patience brings clarity.
+<!-- /npd:article -->
 
 ---
 
 ## Page 10
 
-<!-- npd:article page="10" index="1" kind="news" scope="coastal_karnataka" -->
-### Explore project on pumping water from Netravathi
+<!-- npd:article page="10" index="1" kind="news" scope="india" -->
+### India’s lab-grown diamond dreams shine beyond the stones
 
-The DyCM told Surathkal MLA M T Vasudev a ₹452 crore Yettinahole-linked project would explore pumping 12 MLD to Sullia and 40 MLD to Belthangady, using treated UGD water for farmers along 173.48 km of pipes amid river-course concerns.
+India aims to move from cutting and polishing lab-grown diamonds to technology, brands and retail; wholesale prices fell sharply while markets project strong growth, the report said.
 <!-- /npd:article -->
 
 ---
 
-<!-- npd:article page="10" index="2" kind="news" scope="coastal_karnataka" -->
-### Cong MLA says will oppose project, KRRS to protest Feb 19
+<!-- npd:article page="10" index="2" kind="news" scope="india" -->
+### Mis-selling not widespread in general insurance segment: IFFCO-TOKIO director
 
-UT Khader said Congress would oppose the project in the legislature; Belthangady MLA Harish Poonja and KRRS planned a February 19 Dharmasthala protest and indefinite agitation if it proceeds.
+IFFCO-TOKIO director Alpana Singh said mis-selling is not widespread in general insurance and the company will expand retail auto and health portfolios.
 <!-- /npd:article -->
 
 ---
 
-<!-- npd:article page="10" index="3" kind="news" scope="coastal_karnataka" -->
-### Frustration as Nethravathi phase 2 road work again at standstill
+<!-- npd:article page="10" index="3" kind="news" scope="karnataka" -->
+### Beyond assembly: Yaanendriya aims to own autonomy IP
 
-Puttur Municipal Council chair B Ramakrishna said ₹32 lakh phase-2 road work awarded in November 2024 stopped after drainage and speed-breaker disputes, with a fresh tender only in November 2026.
-<!-- /npd:article -->
-
----
-
-<!-- npd:article page="10" index="4" kind="news" scope="karnataka" -->
-### NDA stirs hornet's nest with Lingayat separate religion remarks
-
-Former CM Basavaraj Bommai's claim that Lingayat seers did not want separate religion status drew backlash from Congress and seer groups ahead of local polls.
-<!-- /npd:article -->
-
----
-
-<!-- npd:article page="10" index="5" kind="news" scope="karnataka" -->
-### BJP yatra pass sparks row
-
-Opposition questioned VIP passes for a BJP yatra while Mangaluru North MLA Bharath Shetty cited passport-office work at Thokur; BJP said passes were for workers.
-<!-- /npd:article -->
-
----
-
-<!-- npd:article page="10" index="6" kind="news" scope="mangaluru" -->
-### CITU women's wing meeting on labour rights
-
-CITU women will meet at Neermarga on November 6, led by M Esther, on equal wages and maternity benefits for port and fish-processing workers.
-<!-- /npd:article -->
-
----
-
-<!-- npd:article page="10" index="7" kind="news" scope="coastal_karnataka" -->
-### Forest dept seizes vehicles for illegal sand mining
-
-Forest staff seized six trucks and fined offenders ₹2 lakh for illegal sand mining at Panja sand ghetto in Bantwal.
-<!-- /npd:article -->
-
----
-
-<!-- npd:article page="10" index="8" kind="news" scope="mangaluru" -->
-### Nurse Honey gets US patent for wound-care device
-
-Mangaluru nurse Honey D'Souza won a US patent for a jaundice light device developed from 2019 Yenepoya research; KMC congratulated her.
+Bengaluru deeptech startup Yaanendriya, founded in 2023 and incubated at ARTIPARK, IISc, raised seed funding to build autonomy stacks for drones and aerospace rather than assembly alone.
 <!-- /npd:article -->
 
 ---
 
 ## Page 11
 
-<!-- npd:article page="11" index="1" kind="news" scope="karnataka" -->
-### Night-time restrictions as jumbos enter coffee estates
+<!-- npd:article page="11" index="1" kind="news" scope="india" -->
+### GST overhaul: Lighter penalties, more certainty
 
-Kodagu imposed night traffic curbs on estate roads after elephants damaged coffee crops and blocked highways.
+Prabhakar K.S. outlined GST Council changes including lighter penalties, registration reforms, late-fee waivers, faster refunds and a higher arrest threshold of ₹5 crore.
 <!-- /npd:article -->
 
 ---
 
-<!-- npd:article page="11" index="2" kind="news" scope="india" -->
-### GST revision for construction materials
+<!-- npd:article page="11" index="2" kind="news" scope="karnataka" -->
+### State planters seek Rs 50L relief for wildlife deaths
 
-GST on cement and steel was cut from 28% to 5% and on paints, panels and tiles from 18% to 5%, effective November 22.
+The Karnataka Planters’ Association sought ₹50 lakh compensation for loss of life in human–wildlife conflict in Kodagu, Hassan and Chikkamagaluru, alongside coffee production estimates.
 <!-- /npd:article -->
 
 ---
 
-<!-- npd:article page="11" index="3" kind="news" scope="coastal_karnataka" -->
-### HAM radio enthusiasts help during rains
+<!-- npd:article page="11" index="3" kind="news" scope="india" -->
+### Consolidation likely this week
 
-Mangaluru Amateur Radio Club operators relayed flood messages in June–July when mobile networks failed, using the KC4MCR beacon and club secretary VU2MUS Pradeep Kumar.
+Market columnist Siddharta Khemka expected consolidation, listing key events including India CPI/WPI and major Q2 earnings.
 <!-- /npd:article -->
 
 ---
 
-<!-- npd:article page="11" index="4" kind="news" scope="karnataka" -->
-### DyCM asks officials to adopt villages hit by rain
+<!-- npd:article page="11" index="4" kind="news" scope="india" -->
+### Infosys sees no material impact from PERM move
 
-Deputy Chief Minister D K Shivakumar directed ministers and officials to adopt rain-affected Malnad and coastal villages for relief work.
+Infosys said a possible US Labor Department suspension of new PERM applications would have no material impact given its US local workforce.
 <!-- /npd:article -->
 
 ---
 
-<!-- npd:article page="11" index="5" kind="news" scope="coastal_karnataka" -->
-### Adichunchanagiri group to train students for competitive exams
+<!-- npd:article page="11" index="5" kind="news" scope="india" -->
+### AI should amplify human potential, not replace it, says Infosys Chief HR Officer Mathew
 
-Adichunchanagiri Group of Educational Institutions will hold IIT-JEE, NEET and CET training at Adichunchanagiri Kshetra on November 8 for SSLC and II PUC students.
-<!-- /npd:article -->
-
----
-
-<!-- npd:article page="11" index="6" kind="news" scope="coastal_karnataka" -->
-### Alva's Nudisiri from December 27
-
-Alva's Nudisiri 2025 will run December 27–30 at Vidyagiri in Moodbidri with literary and cultural programmes.
-<!-- /npd:article -->
-
----
-
-<!-- npd:article page="11" index="7" kind="news" scope="mangaluru" -->
-### Surathkal SFS holds talks on women's progress
-
-St Francis School Surathkal hosted St Aloysius Pre-University speakers Ruksana and Rishal on women's progress, with principal Fr Stany D'Souza celebrating Mass for St Francis.
+Infosys CHRO Shaji Mathew said AI should amplify human potential through re-skilling and Human+AI decision-making, not replace people.
 <!-- /npd:article -->
 
 ---
@@ -592,178 +736,178 @@ St Francis School Surathkal hosted St Aloysius Pre-University speakers Ruksana a
 ## Page 12
 
 <!-- npd:article page="12" index="1" kind="news" scope="india" -->
-### BSF rescues 21 Bangladeshi citizens from border area
+### In Dharashiv, the soybean harvest that never came
 
-BSF rescued 21 Bangladeshi citizens near the West Bengal border and handed them to Bangladesh after medical checks.
+Maharashtra Marathwada farmers in Dharashiv (Tuljapur) said no fresh rain can salvage the failed kharif soybean harvest, comparing conditions to the 1972 drought.
 <!-- /npd:article -->
 
 ---
 
 <!-- npd:article page="12" index="2" kind="news" scope="india" -->
-### Bird flu strikes poultry farms in Kerala
+### Punjab woman held, 2 Army personnel under probe for spying
 
-Kerala culled birds in Kottayam and Alappuzha after outbreaks and restricted poultry transport from affected zones.
+Punjab Counter Intelligence arrested a woman for allegedly sending Army installation information to Pakistan’s ISI; two Army personnel were under probe.
 <!-- /npd:article -->
 
 ---
 
 <!-- npd:article page="12" index="3" kind="news" scope="india" -->
-### Cyrus Mistry death anniversary observed
+### Kashmir’s pesticide-free apple claim puts breast-milk exposure question in focus
 
-Business leaders and family marked the anniversary of Cyrus Mistry's road-death with tributes in Mumbai.
-<!-- /npd:article -->
-
----
-
-<!-- npd:article page="12" index="4" kind="news" scope="india" -->
-### Kerala man detained for suspected ISIS links
-
-NIA detained a Malappuram man on suspected ISIS links after digital-evidence searches and court production.
-<!-- /npd:article -->
-
----
-
-<!-- npd:article page="12" index="5" kind="news" scope="india" -->
-### Delhi air quality in 'very poor' category
-
-Delhi's AQI turned 'very poor' with stubble burning and weather trapping pollutants; CAQM urged GRAP stage-II steps.
-<!-- /npd:article -->
-
----
-
-<!-- npd:article page="12" index="6" kind="news" scope="international" -->
-### Endangered snow leopard in focus at G20 culture meet
-
-A G20 culture side event photo essay highlighted snow leopard conservation in India's Himalayan habitats.
+A SKUAST-K study finding pesticide residues in human milk raised questions about Kashmir’s pesticide-free apple claims and food-safety exposure.
 <!-- /npd:article -->
 
 ---
 
 ## Page 13
 
-<!-- npd:article page="13" index="1" kind="news" scope="coastal_karnataka" -->
-### Helpline for Shiradi Ghat road issues
+<!-- npd:article page="13" index="1" kind="news" scope="sports" -->
+### Abhishek fires with bat before Arshdeep checks the chase
 
-MP Capt Brijesh Chowta and officials opened a Konkan Railway helpline for Shiradi Ghat issues as NHAI surveys a 73 km Periyashanti–Guddethota upgrade at ₹555 crore with a ₹175 crore tunnel target of June 2027.
+Abhishek Sharma’s 69 and Arshdeep Singh’s three wickets paved the way for India’s 14-run win over West Indies in the third T20I at Indore; India led the five-match series 2–1.
 <!-- /npd:article -->
 
 ---
 
-<!-- npd:article page="13" index="2" kind="news" scope="mangaluru" -->
-### Mangaluru standing panel queries on inferior items
+<!-- npd:article page="13" index="2" kind="news" scope="sports" -->
+### Smaran holds Karnataka together
 
-MCC standing committee member Veena Lobo questioned assistant engineer Vijaynath over inferior drain materials in wards 15 and 22 and sought contractor blacklisting.
+Stand-in skipper Smaran R scored 125 as Karnataka posted 274 all out against Andhra in the Ranji Trophy opener in Bengaluru; Andhra were 16/2 at stumps.
 <!-- /npd:article -->
 
 ---
 
-<!-- npd:article page="13" index="3" kind="news" scope="karnataka" -->
-### Metro project fate with Karnataka govt change
+<!-- npd:article page="13" index="3" kind="news" scope="sports" -->
+### Menno’s India adventure begins a rollercoaster ride
 
-BMRCL said Mangaluru's delayed 5.43 km NETRAAVA Phase I to 2028 at ₹1,713.65 crore revised estimate depends on state funding after the October 14, 2024 cabinet approval, with tunnels 55% done.
+Dutch defender Menno Koch of Bengaluru FC scored on debut in the 32nd minute against SC Delhi in the ISL.
 <!-- /npd:article -->
 
 ---
 
-<!-- npd:article page="13" index="4" kind="news" scope="mangaluru" -->
-### Vanishing wells in Mangaluru worry residents
+<!-- npd:article page="13" index="4" kind="news" scope="sports" -->
+### New Zealand name split ODI squad for India series
 
-Historian Rohan D'Souza told a Villanova College lecture that Surathkal Shetra Mutt's well and city open wells fell from 64 to 22 and 685 to 185 over 44 years as construction filled them.
+New Zealand named a split ODI squad for the India series from November 4, with Rachin Ravindra returning and Tom Latham to captain the first three matches.
 <!-- /npd:article -->
 
 ---
 
-<!-- npd:article page="13" index="5" kind="news" scope="mangaluru" -->
-### Cong conducts workshop on civic polls code
+<!-- npd:article page="13" index="5" kind="news" scope="sports" -->
+### Aus take charge as Smith grabs record
 
-Congress held a Mangaluru workshop for councillors on the model code before January 2026 civic polls, with B M Farooq and lawyer P H Sharath briefing candidates.
+Steve Smith equalled the world record for catches by a fielder (20) on day three of the first Test against South Africa in Durban.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="13" index="6" kind="news" scope="sports" -->
+### Sinchal clears golden hurdle
+
+Sinchal Kaveramma won gold in the women’s 400m hurdles at the National Open Athletics Championships in New Delhi in 58.40s.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="13" index="7" kind="news" scope="sports" -->
+### India A score consolation win
+
+India A beat Australia A by 49 runs in Puducherry, with Suryakumar Yadav (66) and Ruturaj Gaikwad (58) starring.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="13" index="8" kind="news" scope="sports" -->
+### Udhayveer claims gold
+
+Udhayveer Sidhu won gold in the men’s 25m pistol at the ISSF World Cup in Cairo.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="13" index="9" kind="news" scope="sports" -->
+### Jaandaar bags Pune Derby
+
+Jaandaar won the Pune Derby, the racing brief reported.
+<!-- /npd:article -->
+
+---
+
+<!-- npd:article page="13" index="10" kind="news" scope="sports" -->
+### Tanishka adds another feather to her cap
+
+Tanishka Kanthilal finished runner-up in the U-17 category at the Asian Junior Tennis Championships.
 <!-- /npd:article -->
 
 ---
 
 ## Page 14
 
-<!-- npd:article page="14" index="1" kind="news" scope="karnataka" -->
-### CM announces panel for IPS promotion grievances
+<!-- npd:article page="14" index="1" kind="news" scope="sports" -->
+### Forest get lost in Palace
 
-CM Siddaramaiah on November 19 formed a three-member panel with Maheshappa DM and R N Shetty to hear IPS promotion grievances after senior officers met him.
+Crystal Palace beat Nottingham Forest 3–1; Yeremy Pino was among the scorers.
 <!-- /npd:article -->
 
 ---
 
-<!-- npd:article page="14" index="2" kind="news" scope="india" -->
-### PJ Narayanan Oration highlights ISRO milestones
+<!-- npd:article page="14" index="2" kind="news" scope="sports" -->
+### Hull fight back after falling behind to deny Everton; Spurs frustrate United
 
-IIIT Hyderabad's December 27 PJ Narayanan Oration will feature ISRO chairman Dr V Narayanan on zero-debris goals after the February 3 PSLV milestone.
+Hull City drew 2–2 with Everton and Manchester United drew 1–1 with Tottenham Hotspur.
 <!-- /npd:article -->
 
 ---
 
-<!-- npd:article page="14" index="3" kind="news" scope="india" -->
-### Row over encryption order for messaging platforms
+<!-- npd:article page="14" index="3" kind="news" scope="sports" -->
+### Barca extend perfect streak
 
-Critics including Rahul Gandhi attacked a proposed IT Act 69(2) order with a January 19 deadline for WhatsApp, Telegram and Signal to share data and 24-hour logs with Cert-In as authoritarian.
+Barcelona beat Getafe 2–0 to extend their perfect streak.
 <!-- /npd:article -->
 
 ---
 
-<!-- npd:article page="14" index="4" kind="news" scope="mangaluru" -->
-### KREIS schools distribute bicycles in Mangaluru
+<!-- npd:article page="14" index="4" kind="news" scope="sports" -->
+### Zheng reigns supreme at home
 
-KREIS distributed bicycles to girl students in Mangaluru residential schools among 17,583 cycles for 1,651 pre-matric hostels statewide.
+Qinwen Zheng won the China Open title, defeating Mirra Andreeva.
 <!-- /npd:article -->
 
 ---
 
-<!-- npd:article page="14" index="5" kind="news" scope="karnataka" -->
-### B.Ed counselling dates announced
+<!-- npd:article page="14" index="5" kind="news" scope="sports" -->
+### Gea stuns Shelton
 
-KEA announced B.Ed counselling from October 20 with online option entry for thousands of rank holders.
+French player Arthur Gea defeated Ben Shelton at the Shanghai Masters.
 <!-- /npd:article -->
 
 ---
 
-<!-- npd:article page="14" index="6" kind="news" scope="karnataka" -->
-### Ex-CM Yediyurappa discharged from hospital
+<!-- npd:article page="14" index="6" kind="news" scope="sports" -->
+### It's two in two for Verstappen
 
-B S Yediyurappa left a Bengaluru hospital after respiratory infection treatment with two weeks' rest advised.
+Max Verstappen won the Singapore Grand Prix, with Charles Leclerc second and Lewis Hamilton third.
 <!-- /npd:article -->
 
 ---
 
-<!-- npd:article page="14" index="7" kind="news" scope="karnataka" -->
-### Woman throws acid on ex in Mysuru
+<!-- npd:article page="14" index="7" kind="news" scope="sports" -->
+### Ishaan, Krishay share honours
 
-Mysuru police arrested a woman who allegedly threw acid on her former partner; the victim was hospitalised with burns.
+Ishaan Madesh (Bengaluru) and Krishay Gade (Mumbai) shared honours in round three of the MRF Indian National Racing Championship at the Madras International Circuit.
 <!-- /npd:article -->
 
 ---
 
-<!-- npd:article page="14" index="8" kind="news" scope="india" -->
-### Court acquits accused in Lakshmi Vilas Bank fraud case
+<!-- npd:article page="14" index="8" kind="news" scope="sports" -->
+### Kipchoge ends 3-year wait
 
-A special court acquitted three in a Lakshmi Vilas Bank fraud case for insufficient evidence; CBI will study an appeal.
-<!-- /npd:article -->
-
----
-
-<!-- npd:article page="14" index="9" kind="news" scope="karnataka" -->
-### Drug peddler arrested in Bengaluru
-
-CCB arrested a peddler with MDMA and cannabis worth ₹12 lakh near MG Road.
-<!-- /npd:article -->
-
----
-
-<!-- npd:article page="14" index="10" kind="news" scope="lifestyle" -->
-### Multi-lingual dictionary launched for coastal schools
-
-A Tulu-Kannada-English school dictionary launched in Mangaluru backs multilingual education in coastal Karnataka.
+Eliud Kipchoge ended a three-year wait with a marathon victory in Melbourne.
 <!-- /npd:article -->
 
 ---
 
 ## Summary
 - Pages processed: 14
-- Articles extracted: 91
-- Pages with no reportable articles (full-page ads, notices only): 9
+- Articles extracted: 109
+- Pages with no reportable articles (full-page ads, notices only): 2

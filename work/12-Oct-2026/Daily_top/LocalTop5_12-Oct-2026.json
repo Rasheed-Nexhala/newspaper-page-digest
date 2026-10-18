@@ -5,45 +5,30 @@
     {
       "paper": "Deccan Herald",
       "edition": "Mangaluru",
-      "path": "work/12-Oct-2026/Deccan_Herald/DeccanHerald_Mangaluru_12-Oct-2026_PageDigest.json",
-      "total_articles": 91
+      "path": "/workspace/work/12-Oct-2026/Deccan_Herald/DeccanHerald_Mangaluru_12-Oct-2026_PageDigest.json",
+      "total_articles": 109
     },
     {
       "paper": "News Trail",
       "edition": "Mangaluru",
-      "path": "work/12-Oct-2026/News_Trail/NewsTrail_Mangaluru_12-Oct-2026_PageDigest.json",
+      "path": "/workspace/work/12-Oct-2026/News_Trail/NewsTrail_Mangaluru_12-Oct-2026_PageDigest.json",
       "total_articles": 94
     },
     {
       "paper": "The Hindu",
       "edition": "Mangaluru",
-      "path": "work/12-Oct-2026/The_Hindu/TheHindu_Mangaluru_12-Oct-2026_PageDigest.json",
+      "path": "/workspace/work/12-Oct-2026/The_Hindu/TheHindu_Mangaluru_12-Oct-2026_PageDigest.json",
       "total_articles": 109
     }
   ],
   "buckets": {
     "mangaluru": {
       "label": "Top 5 — Mangaluru",
-      "candidate_count": 28,
+      "candidate_count": 17,
       "selected_count": 5,
       "items": [
         {
           "rank": 1,
-          "headline": "Mangaluru corporator among three detained over alleged ISIS plot",
-          "blurb": "Police detained three people including a corporator in an alleged ISIS-linked plot, searched premises and seized devices after intelligence inputs.",
-          "kind": "news",
-          "scope": "mangaluru",
-          "sources": [
-            {
-              "paper": "Deccan Herald",
-              "edition": "Mangaluru",
-              "page": 4,
-              "index": 1
-            }
-          ]
-        },
-        {
-          "rank": 2,
           "headline": "₹2,459-cr. Ponzi scheme: ED files prosecution complaint",
           "blurb": "The Enforcement Directorate filed a prosecution complaint before the III Additional District and Sessions Judge, Mangaluru, on Friday seeking conviction of Shivananda, associates and M/s Shivan Associates in a ₹2,459-crore money laundering case linked to a Ponzi scheme probed after a Malappuram police FIR.",
           "kind": "news",
@@ -58,22 +43,7 @@
           ]
         },
         {
-          "rank": 3,
-          "headline": "Road blockade over fast-track mangrove removal process",
-          "blurb": "Activists and fishermen blocked a Mangaluru road protesting fast-track mangrove removal for port expansion, demanding impact studies and consultation.",
-          "kind": "news",
-          "scope": "mangaluru",
-          "sources": [
-            {
-              "paper": "Deccan Herald",
-              "edition": "Mangaluru",
-              "page": 4,
-              "index": 3
-            }
-          ]
-        },
-        {
-          "rank": 4,
+          "rank": 2,
           "headline": "Khader asks officials to prepare presentation ahead of High Court panel's visit",
           "blurb": "Dakshina Kannada in-charge Minister U.T. Khader asked Deputy Commissioner H.V. Darshan to ready a checklist of infrastructure needed for a permanent High Court bench as a three-member judicial panel visits Mangaluru; he said Chief Minister D.K. Shivakumar supports the bench.",
           "kind": "news",
@@ -88,9 +58,9 @@
           ]
         },
         {
-          "rank": 5,
-          "headline": "Hundreds rally against Namo Brigade march",
-          "blurb": "Hundreds protested in Mangaluru against a proposed Namo Brigade march; police imposed restrictions and said permits would follow law-and-order review.",
+          "rank": 3,
+          "headline": "Navaratri celebrations off to grand, colourful note",
+          "blurb": "Mangaluru Dasara began at Sri Gokarnanatha Temple, Kudroli, with Navadurga idol installation, Alpana art, processions and Huli Vesha performances on the first day.",
           "kind": "news",
           "scope": "mangaluru",
           "sources": [
@@ -98,7 +68,37 @@
               "paper": "Deccan Herald",
               "edition": "Mangaluru",
               "page": 4,
-              "index": 6
+              "index": 4
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "MUDA chairman inspects sites for cricket stadium",
+          "blurb": "MUDA Chairman Sadashiv Ullal inspected sites including Bangra, Bondel, Mullur, Kannuru and Kenjar for a well-equipped cricket stadium sought by the Karnataka State Cricket Association.",
+          "kind": "news",
+          "scope": "mangaluru",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 4,
+              "index": 2
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "1,128 passengers take KSRTC Dasara package tours on launch day",
+          "blurb": "KSRTC Mangaluru Division’s special Dasara package tours carried 1,128 passengers on launch day from Bejai bus stand to temples and tourist destinations.",
+          "kind": "news",
+          "scope": "mangaluru",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 4,
+              "index": 3
             }
           ]
         }
@@ -106,56 +106,26 @@
     },
     "coastal_karnataka": {
       "label": "Top 5 — Coastal Karnataka",
-      "candidate_count": 16,
+      "candidate_count": 8,
       "selected_count": 5,
       "items": [
         {
           "rank": 1,
-          "headline": "Probe launched into fake doctors, kidney racket in Udupi",
-          "blurb": "Udupi police probed fake doctors and kidney-racket allegations after a patient complaint, raiding two clinics and detaining three people.",
+          "headline": "Fifth edition of Uchila Dasara begins",
+          "blurb": "Dakshina Kannada Deputy Commissioner Swaroopa T.K. flagged off the fifth Uchila Dasara Mahotsava at Uchila Mahalakshmi Temple, Padubidri.",
           "kind": "news",
           "scope": "coastal_karnataka",
           "sources": [
             {
               "paper": "Deccan Herald",
               "edition": "Mangaluru",
-              "page": 5,
-              "index": 8
-            }
-          ]
-        },
-        {
-          "rank": 2,
-          "headline": "Explore project on pumping water from Netravathi",
-          "blurb": "The DyCM told Surathkal MLA M T Vasudev a ₹452 crore Yettinahole-linked project would explore pumping 12 MLD to Sullia and 40 MLD to Belthangady, using treated UGD water for farmers along 173.48 km of pipes amid river-course concerns.",
-          "kind": "news",
-          "scope": "coastal_karnataka",
-          "sources": [
-            {
-              "paper": "Deccan Herald",
-              "edition": "Mangaluru",
-              "page": 10,
-              "index": 1
-            }
-          ]
-        },
-        {
-          "rank": 3,
-          "headline": "Forest dept seizes vehicles for illegal sand mining",
-          "blurb": "Forest staff seized six trucks and fined offenders ₹2 lakh for illegal sand mining at Panja sand ghetto in Bantwal.",
-          "kind": "news",
-          "scope": "coastal_karnataka",
-          "sources": [
-            {
-              "paper": "Deccan Herald",
-              "edition": "Mangaluru",
-              "page": 10,
+              "page": 4,
               "index": 7
             }
           ]
         },
         {
-          "rank": 4,
+          "rank": 2,
           "headline": "Dasara celebrations begin; CM postpones visit to Mangaluru and Udupi",
           "blurb": "Navaratri began along the coast with Kudroli Gokarnanatha Temple events and traditional Huli Vesha performances; Chief Minister D.K. Shivakumar postponed a scheduled visit to Mangaluru and Udupi.",
           "kind": "news",
@@ -170,16 +140,46 @@
           ]
         },
         {
-          "rank": 5,
-          "headline": "Udupi former ZP member gets five-year RI",
-          "blurb": "A court sentenced former Udupi Zilla Panchayat member Prabhakar Mendon to five years rigorous imprisonment over disproportionate assets of ₹6.91 crore.",
+          "rank": 3,
+          "headline": "KSRTC operates 25 buses under 10-day Dasara Darshan tour package",
+          "blurb": "KSRTC ran 25 buses on a 10-day Dasara Darshan package from Mangaluru and Udupi to temples across the region, using BS-VI fleet buses; 1,028 passengers travelled on the first day.",
           "kind": "news",
           "scope": "coastal_karnataka",
           "sources": [
             {
-              "paper": "Deccan Herald",
+              "paper": "The Hindu",
               "edition": "Mangaluru",
-              "page": 7,
+              "page": 4,
+              "index": 2
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "SDPI warns of siege at Belthangady over form-7 misuse claims",
+          "blurb": "SDPI's Sa Kadambu warned of gheraoing the Belthangady tehsildar's office unless authorities act on alleged Form-7 misuse under SIR; a march from Santekatte demanded transparent voter-list revision and action on false applications.",
+          "kind": "news",
+          "scope": "coastal_karnataka",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 3,
+              "index": 9
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "MAHE V-C Ramdas Pai gets FICCI award",
+          "blurb": "Manipal Academy of Higher Education chancellor Dr. Ramdas M. Pai received the FICCI Legendary Institution Builder Award 2020 at a ceremony where former Union Minister Murali Manohar Joshi presented the honour.",
+          "kind": "news",
+          "scope": "coastal_karnataka",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 4,
               "index": 5
             }
           ]
@@ -188,87 +188,81 @@
     },
     "karnataka": {
       "label": "Top 5 — Karnataka",
-      "candidate_count": 69,
+      "candidate_count": 66,
       "selected_count": 5,
       "items": [
         {
           "rank": 1,
-          "headline": "Renukaswamy murder case: Departmental inquiry ordered into alleged investigation lapses",
-          "blurb": "Bengaluru police ordered an internal inquiry after activist Snehamayi Krishna alleged lapses in the Renukaswamy murder probe involving actor Darshan, including claims against PSI Vinay and ACP Chandan Kumar; approver Pradosh S completed court statements and witnesses Chikkanna and Yashas Surya were summoned.",
-          "kind": "news",
-          "scope": "karnataka",
-          "sources": [
-            {
-              "paper": "News Trail",
-              "edition": "Mangaluru",
-              "page": 2,
-              "index": 1
-            }
-          ]
-        },
-        {
-          "rank": 2,
-          "headline": "29,000 forms seeking SIR deletions in Karnataka not available on portals of ECI",
-          "blurb": "While Karnataka’s CEO said 1,10,654 Form 7 applications were received by October 8, only 81,822 appear on Election Commission portals, leaving about 29,000 deletion requests without public scrutiny details, report Rishita Khanna and Pon Vasanth B.A.",
-          "kind": "news",
-          "scope": "karnataka",
-          "sources": [
-            {
-              "paper": "The Hindu",
-              "edition": "Mangaluru",
-              "page": 7,
-              "index": 1
-            }
-          ]
-        },
-        {
-          "rank": 3,
-          "headline": "SIR: Death certificates used to seek deletion of similar names of living voters",
-          "blurb": "In Belagavi, investigators found death certificates being used in Form 7 objections to remove living voters with similar names from rolls; the report ties large batches of objections to a BJP leader, Basanagouda R. Patil Yatnal.",
-          "kind": "news",
-          "scope": "karnataka",
-          "sources": [
-            {
-              "paper": "The Hindu",
-              "edition": "Mangaluru",
-              "page": 3,
-              "index": 5
-            },
-            {
-              "paper": "The Hindu",
-              "edition": "Mangaluru",
-              "page": 7,
-              "index": 2
-            }
-          ]
-        },
-        {
-          "rank": 4,
-          "headline": "Mysuru Dasara begins on a grand note with CM Shivakumar, seers in attendance",
-          "blurb": "The 11-day Mysuru Dasara opened as pontiff Abhinava Gavisiddeshwara Swamiji inaugurated festivities at Chamundeshwari temple atop Chamundi Hills with Chief Minister D K Shivakumar and ministers present amid Vedic rituals.",
-          "kind": "news",
-          "scope": "karnataka",
-          "sources": [
-            {
-              "paper": "News Trail",
-              "edition": "Mangaluru",
-              "page": 1,
-              "index": 8
-            }
-          ]
-        },
-        {
-          "rank": 5,
-          "headline": "Bengaluru schools battle dengue surge",
-          "blurb": "Bengaluru schools face a dengue surge with about 1,500 city cases in the past month; BBMP issued guidelines for daily checks and stagnant-water removal, and the health department set up fever clinics in all eight zones.",
+          "headline": "Over 340 acres of forest converted into revenue land in Kolar dist",
+          "blurb": "An Assistant Commissioner’s order converting over 340 acres of forest into revenue land in Kolar district, including the Abbi Mini Forest area, could legalise encroachments, the report said.",
           "kind": "news",
           "scope": "karnataka",
           "sources": [
             {
               "paper": "Deccan Herald",
               "edition": "Mangaluru",
-              "page": 2,
+              "page": 1,
+              "index": 2
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "Gavi Mutt seer calls upon people to preserve legacy of harmony",
+          "blurb": "Koppal Gavi Mutt pontiff Gaviddeshwara Swamy inaugurated Mysuru Dasara, recalling Wadiyars’ contributions, with CM D.K. Shivakumar and ministers present.",
+          "kind": "news",
+          "scope": "karnataka",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 6,
               "index": 1
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "Grand start to Dasara",
+          "blurb": "Mysuru Dasara opened with ceremonies at Chamundeshwari temple atop Chamundi Hill, with Chief Minister D.K. Shivakumar and a pontiff among those present.",
+          "kind": "news",
+          "scope": "karnataka",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 1,
+              "index": 6
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "Three killed, nine injured as lorry rear-ends tractor",
+          "blurb": "Three people were killed and nine injured when a lorry rear-ended a tractor carrying a Durga Devi idol on NH-48 near Hukkeri, Belagavi district.",
+          "kind": "news",
+          "scope": "karnataka",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 6,
+              "index": 5
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "B’luru sees first grassroots protest against new flyovers",
+          "blurb": "Residents held a human-chain protest against the Raghupathi–Kanakapura Main Road elevated corridor project under B-SMILE in Bengaluru.",
+          "kind": "news",
+          "scope": "karnataka",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 1,
+              "index": 4
             }
           ]
         }
@@ -276,70 +270,43 @@
     },
     "india": {
       "label": "Top 5 — India",
-      "candidate_count": 100,
+      "candidate_count": 116,
       "selected_count": 5,
       "items": [
         {
           "rank": 1,
-          "headline": "Stop illegal detentions, says SC amid crackdown in Delhi",
-          "blurb": "The Supreme Court ordered restoration of metro, train, internet and movement services in Delhi and barred illegal detentions of peaceful protesters, hearing contempt and habeas corpus petitions over closures during protests against the CEC; further hearings were scheduled.",
+          "headline": "SC: No illegal detention, ensure net not disrupted",
+          "blurb": "The Supreme Court, amid anti-CEC protests in New Delhi, sought normal metro operations and directed that there be no illegal detention and that internet services not be disrupted; around 200 people were detained on Sunday, with notice to the Centre in a contempt plea.",
           "kind": "news",
           "scope": "india",
           "sources": [
             {
-              "paper": "The Hindu",
-              "edition": "Mangaluru",
-              "page": 3,
-              "index": 1
-            },
-            {
-              "paper": "News Trail",
+              "paper": "Deccan Herald",
               "edition": "Mangaluru",
               "page": 1,
-              "index": 4
-            },
-            {
-              "paper": "The Hindu",
-              "edition": "Mangaluru",
-              "page": 3,
               "index": 1
             }
           ]
         },
         {
           "rank": 2,
-          "headline": "Meghalaya temple collapse toll rises to 31",
-          "blurb": "The Meghalaya temple collapse death toll reached 31 after worshippers with oil lamps were among those killed when a wall gave way during a festival.",
+          "headline": "Detentions don’t deter protesters; bigger mobilisation likely today",
+          "blurb": "Detention of Constitutional Justice Party protesters in Delhi did not stop the stir; INDIA bloc leaders including Mallikarjun Kharge and Rahul Gandhi planned to march to the Supreme Court with a memorandum for the CJI.",
           "kind": "news",
           "scope": "india",
           "sources": [
             {
               "paper": "Deccan Herald",
               "edition": "Mangaluru",
-              "page": 6,
-              "index": 3
-            }
-          ]
-        },
-        {
-          "rank": 3,
-          "headline": "Manipur CM calls for peace as clashes leave nine dead",
-          "blurb": "Chief Minister Yumnam Khemchand Singh directed authorities to control violence after nine deaths in two days of Kuki-Naga clashes; over 50 have died in such fighting since February, bureau reports from Guwahati.",
-          "kind": "news",
-          "scope": "india",
-          "sources": [
-            {
-              "paper": "The Hindu",
-              "edition": "Mangaluru",
-              "page": 12,
+              "page": 7,
               "index": 1
             }
           ]
         },
         {
-          "rank": 4,
-          "headline": "PM inaugurates AI Impact Summit",
-          "blurb": "Prime Minister Narendra Modi opened the AI Impact Summit in New Delhi, calling for responsible AI and affordable Indian solutions at the three-day event with global tech leaders.",
+          "rank": 3,
+          "headline": "Give priority to Godavari-Cauvery interlinking: Vijay to PM",
+          "blurb": "Tamil Nadu Chief Minister C. Joseph Vijay, at Chennai project launches worth over ₹13,000 crore with PM Modi, sought priority for Godavari–Cauvery interlinking and an interstate Hosur–Bengaluru metro corridor.",
           "kind": "news",
           "scope": "india",
           "sources": [
@@ -347,22 +314,37 @@
               "paper": "Deccan Herald",
               "edition": "Mangaluru",
               "page": 3,
-              "index": 6
+              "index": 8
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "Starlink competition will benefit Indian consumers: Musk",
+          "blurb": "Elon Musk said Starlink’s entry and competition would benefit Indian consumers versus existing players.",
+          "kind": "news",
+          "scope": "india",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 3,
+              "index": 10
             }
           ]
         },
         {
           "rank": 5,
-          "headline": "Muzaffarpur shelter home case: CBI chargesheets 21",
-          "blurb": "The CBI chargesheeted 21 people including politicians and officials in the Muzaffarpur shelter home abuse case, alleging abuse of minor girls and cover-up between 2015 and 2018.",
+          "headline": "GST overhaul: Lighter penalties, more certainty",
+          "blurb": "Prabhakar K.S. outlined GST Council changes including lighter penalties, registration reforms, late-fee waivers, faster refunds and a higher arrest threshold of ₹5 crore.",
           "kind": "news",
           "scope": "india",
           "sources": [
             {
               "paper": "Deccan Herald",
               "edition": "Mangaluru",
-              "page": 3,
-              "index": 3
+              "page": 11,
+              "index": 1
             }
           ]
         }
@@ -370,99 +352,81 @@
     },
     "international": {
       "label": "Top 5 — International",
-      "candidate_count": 30,
+      "candidate_count": 39,
       "selected_count": 5,
       "items": [
         {
           "rank": 1,
-          "headline": "139 migrants dead, 84 missing as boat capsizes off Djibouti: UN",
-          "blurb": "The UN said 139 migrants died and 84 were missing after a boat capsized off Djibouti.",
-          "kind": "news",
-          "scope": "international",
-          "sources": [
-            {
-              "paper": "The Hindu",
-              "edition": "Mangaluru",
-              "page": 14,
-              "index": 4
-            },
-            {
-              "paper": "News Trail",
-              "edition": "Mangaluru",
-              "page": 1,
-              "index": 6
-            }
-          ]
-        },
-        {
-          "rank": 2,
-          "headline": "Riyadh airport struck again a day after 12 killed in Houthi escalation",
-          "blurb": "Saudi Arabia extended closure of its main international airport after a Houthi missile strike on Riyadh killed 12 people and wounded more than 300, with victims including Saudi, Bangladeshi and other nationals; Donald Trump said he was weighing response options.",
-          "kind": "news",
-          "scope": "international",
-          "sources": [
-            {
-              "paper": "News Trail",
-              "edition": "Mangaluru",
-              "page": 1,
-              "index": 5
-            },
-            {
-              "paper": "The Hindu",
-              "edition": "Mangaluru",
-              "page": 14,
-              "index": 5
-            }
-          ]
-        },
-        {
-          "rank": 3,
-          "headline": "Nepal flash floods sweep away houses, five people missing",
-          "blurb": "Flash floods in Nepal destroyed houses and left five people missing, Kathmandu reports said.",
-          "kind": "news",
-          "scope": "international",
-          "sources": [
-            {
-              "paper": "The Hindu",
-              "edition": "Mangaluru",
-              "page": 14,
-              "index": 2
-            },
-            {
-              "paper": "News Trail",
-              "edition": "Mangaluru",
-              "page": 9,
-              "index": 2
-            }
-          ]
-        },
-        {
-          "rank": 4,
-          "headline": "Egypt, Gaza agree to new US ceasefire plan",
-          "blurb": "Egypt and Hamas agreed to a US-backed Gaza ceasefire plan involving phased hostage releases and more aid, US officials said, while Israel said it was studying the proposal.",
+          "headline": "Pope to be operated on for lump on lung",
+          "blurb": "Pope Leo XIV was scheduled for surgery for a lung lump at Gemelli Hospital.",
           "kind": "news",
           "scope": "international",
           "sources": [
             {
               "paper": "Deccan Herald",
               "edition": "Mangaluru",
-              "page": 2,
-              "index": 9
+              "page": 3,
+              "index": 5
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "Indian among 13 killed in attack on Saudi’s Riyadh airport",
+          "blurb": "An Indian was among 13 killed in a drone attack on Riyadh’s King Khalid International Airport, attributed to Houthi rebels.",
+          "kind": "news",
+          "scope": "international",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 1,
+              "index": 5
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "72 killed in airstrike on gold mine on Sudan-Egypt border",
+          "blurb": "An Egyptian military aircraft strike on a gold mine on the Sudan–Egypt border killed 72 people, the report said.",
+          "kind": "news",
+          "scope": "international",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 3,
+              "index": 6
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "Nepal flash floods sweep away houses, five people missing",
+          "blurb": "Flash floods in central Nepal swept away houses after debris blocked a river, with five people missing.",
+          "kind": "news",
+          "scope": "international",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 3,
+              "index": 2
             }
           ]
         },
         {
           "rank": 5,
-          "headline": "India acknowledged Katchatheevu is ours, says Sri Lankan PM",
-          "blurb": "Sri Lankan Prime Minister said India has acknowledged Katchatheevu belongs to Sri Lanka, Meera Srinivasan reports from Colombo.",
+          "headline": "Russia, Ukraine agreed to ‘energy truce’, claims Trump",
+          "blurb": "Donald Trump claimed Russia and Ukraine agreed to an energy truce; Volodymyr Zelenskyy said he was unaware of any such development, as Kyiv targeted Moscow’s tech infrastructure.",
           "kind": "news",
           "scope": "international",
           "sources": [
             {
-              "paper": "The Hindu",
+              "paper": "Deccan Herald",
               "edition": "Mangaluru",
-              "page": 14,
-              "index": 7
+              "page": 3,
+              "index": 3
             }
           ]
         }
@@ -470,87 +434,81 @@
     },
     "sports": {
       "label": "Top 5 — Sports",
-      "candidate_count": 31,
+      "candidate_count": 48,
       "selected_count": 5,
       "items": [
         {
           "rank": 1,
-          "headline": "Women's cricket World Cup: India shine",
-          "blurb": "India beat Pakistan by 57 runs in the Women's World Cup as Harmanpreet Kaur hit 73 off 38 balls and Shafali Verma 87 in India's 291 for 3, with Renuka Thakur taking four wickets.",
+          "headline": "Abhishek fires with bat before Arshdeep checks the chase",
+          "blurb": "Abhishek Sharma’s 69 and Arshdeep Singh’s three wickets paved the way for India’s 14-run win over West Indies in the third T20I at Indore; India led the five-match series 2–1.",
           "kind": "news",
           "scope": "sports",
           "sources": [
             {
               "paper": "Deccan Herald",
               "edition": "Mangaluru",
-              "page": 7,
-              "index": 2
-            }
-          ]
-        },
-        {
-          "rank": 2,
-          "headline": "Abhishek, Arshdeep shine as India wins a run-fest",
-          "blurb": "India beat West Indies by 14 runs in the third T20I at Indore—223 for six to 209 for seven—with Abhishek Sharma scoring 69 off 30 and Arshdeep Singh taking three wickets to lead the series 2-1.",
-          "kind": "news",
-          "scope": "sports",
-          "sources": [
-            {
-              "paper": "The Hindu",
-              "edition": "Mangaluru",
-              "page": 15,
+              "page": 13,
               "index": 1
             }
           ]
         },
         {
-          "rank": 3,
-          "headline": "Udhayveer claims 10m air pistol gold at Cairo ISSF WC",
-          "blurb": "Udhayveer Sidhu won 10m air pistol gold at the ISSF World Cup in Cairo.",
+          "rank": 2,
+          "headline": "Smaran holds Karnataka together",
+          "blurb": "Stand-in skipper Smaran R scored 125 as Karnataka posted 274 all out against Andhra in the Ranji Trophy opener in Bengaluru; Andhra were 16/2 at stumps.",
           "kind": "news",
           "scope": "sports",
           "sources": [
             {
-              "paper": "The Hindu",
+              "paper": "Deccan Herald",
               "edition": "Mangaluru",
-              "page": 16,
-              "index": 4
-            },
+              "page": 13,
+              "index": 2
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "It's two in two for Verstappen",
+          "blurb": "Max Verstappen won the Singapore Grand Prix, with Charles Leclerc second and Lewis Hamilton third.",
+          "kind": "news",
+          "scope": "sports",
+          "sources": [
             {
-              "paper": "News Trail",
+              "paper": "Deccan Herald",
               "edition": "Mangaluru",
-              "page": 12,
-              "index": 3
+              "page": 14,
+              "index": 6
             }
           ]
         },
         {
           "rank": 4,
-          "headline": "Verstappen finally wins the Singapore GP",
-          "blurb": "Max Verstappen won the Singapore Grand Prix from pole, his first victory at Marina Bay, AFP reports.",
+          "headline": "New Zealand name split ODI squad for India series",
+          "blurb": "New Zealand named a split ODI squad for the India series from November 4, with Rachin Ravindra returning and Tom Latham to captain the first three matches.",
           "kind": "news",
           "scope": "sports",
           "sources": [
             {
-              "paper": "The Hindu",
+              "paper": "Deccan Herald",
               "edition": "Mangaluru",
-              "page": 15,
-              "index": 8
+              "page": 13,
+              "index": 4
             }
           ]
         },
         {
           "rank": 5,
-          "headline": "City routs Liverpool",
-          "blurb": "Manchester City beat Liverpool 3-0 at Anfield in the Premier League, AFP reports from Liverpool.",
+          "headline": "Menno’s India adventure begins a rollercoaster ride",
+          "blurb": "Dutch defender Menno Koch of Bengaluru FC scored on debut in the 32nd minute against SC Delhi in the ISL.",
           "kind": "news",
           "scope": "sports",
           "sources": [
             {
-              "paper": "The Hindu",
+              "paper": "Deccan Herald",
               "edition": "Mangaluru",
-              "page": 15,
-              "index": 9
+              "page": 13,
+              "index": 3
             }
           ]
         }
