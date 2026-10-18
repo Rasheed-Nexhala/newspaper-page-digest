@@ -1,0 +1,100 @@
+{
+  "date": "Monday, 12 October 2026",
+  "date_slug": "12-Oct-2026",
+  "channel": "coastal_katte",
+  "source_local_top5": "work/12-Oct-2026/Daily_top/LocalTop5_12-Oct-2026.json",
+  "candidate_count": 15,
+  "selected_count": 5,
+  "items": [
+    {
+      "rank": 1,
+      "headline": "Mangaluru corporator among three detained over alleged ISIS plot",
+      "blurb": "Police detained three people including a corporator in an alleged ISIS-linked plot, searched premises and seized devices after intelligence inputs.",
+      "kind": "news",
+      "scope": "mangaluru",
+      "source_bucket": "mangaluru",
+      "local_top_rank": 1,
+      "sources": [
+        {
+          "paper": "Deccan Herald",
+          "edition": "Mangaluru",
+          "page": 4,
+          "index": 1
+        }
+      ],
+      "why_channel": "Hyper-local safety and elected-representative accountability — high stranger share potential."
+    },
+    {
+      "rank": 2,
+      "headline": "₹2,459-cr. Ponzi scheme: ED files prosecution complaint",
+      "blurb": "The Enforcement Directorate filed a prosecution complaint before the III Additional District and Sessions Judge, Mangaluru, on Friday seeking conviction of Shivananda, associates and M/s Shivan Associates in a ₹2,459-crore money laundering case linked to a Ponzi scheme probed after a Malappuram police FIR.",
+      "kind": "news",
+      "scope": "mangaluru",
+      "source_bucket": "mangaluru",
+      "local_top_rank": 2,
+      "sources": [
+        {
+          "paper": "The Hindu",
+          "edition": "Mangaluru",
+          "page": 5,
+          "index": 1
+        }
+      ],
+      "why_channel": "Massive ₹ figure plus Mangaluru court action — corruption/accountability hook with local stakes."
+    },
+    {
+      "rank": 3,
+      "headline": "Probe launched into fake doctors, kidney racket in Udupi",
+      "blurb": "Udupi police probed fake doctors and kidney-racket allegations after a patient complaint, raiding two clinics and detaining three people.",
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "source_bucket": "coastal_karnataka",
+      "local_top_rank": 1,
+      "sources": [
+        {
+          "paper": "Deccan Herald",
+          "edition": "Mangaluru",
+          "page": 5,
+          "index": 8
+        }
+      ],
+      "why_channel": "Coastal public-health and safety scare — personal “could happen to you” stakes."
+    },
+    {
+      "rank": 4,
+      "headline": "Explore project on pumping water from Netravathi",
+      "blurb": "The DyCM told Surathkal MLA M T Vasudev a ₹452 crore Yettinahole-linked project would explore pumping 12 MLD to Sullia and 40 MLD to Belthangady, using treated UGD water for farmers along 173.48 km of pipes amid river-course concerns.",
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "source_bucket": "coastal_karnataka",
+      "local_top_rank": 2,
+      "sources": [
+        {
+          "paper": "Deccan Herald",
+          "edition": "Mangaluru",
+          "page": 10,
+          "index": 1
+        }
+      ],
+      "why_channel": "Hard infra with ₹452 cr and water/farmer daily-life impact across DK belt."
+    },
+    {
+      "rank": 5,
+      "headline": "Khader asks officials to prepare presentation ahead of High Court panel's visit",
+      "blurb": "Dakshina Kannada in-charge Minister U.T. Khader asked Deputy Commissioner H.V. Darshan to ready a checklist of infrastructure needed for a permanent High Court bench as a three-member judicial panel visits Mangaluru; he said Chief Minister D.K. Shivakumar supports the bench.",
+      "kind": "news",
+      "scope": "mangaluru",
+      "source_bucket": "mangaluru",
+      "local_top_rank": 4,
+      "sources": [
+        {
+          "paper": "The Hindu",
+          "edition": "Mangaluru",
+          "page": 4,
+          "index": 1
+        }
+      ],
+      "why_channel": "Signature Mangaluru civic demand with an imminent judicial panel visit — infra and access hook."
+    }
+  ]
+}
