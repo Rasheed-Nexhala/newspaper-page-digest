@@ -1,0 +1,124 @@
+{
+  "date": "Sunday, 18 October 2026",
+  "date_slug": "18-Oct-2026",
+  "channel": "coastal_katte",
+  "source_local_top5": "work/18-Oct-2026/Daily_top/LocalTop5_18-Oct-2026.json",
+  "candidate_count": 15,
+  "selected_count": 5,
+  "items": [
+    {
+      "rank": 1,
+      "headline": "MRPL blast: Another victim succumbs to injuries at hospital",
+      "blurb": "Rajesh D'Silva, in his 40s, died on Saturday from injuries sustained in the 30 September explosion at MRPL’s Coker Hydrotreater unit, raising the toll to two after Manish Karkada of Mulky died on the day of the accident; MRPL expressed condolences and announced ₹90 lakh compensation and other deliverables, totalling ₹1.20 crore for the family.",
+      "kind": "news",
+      "scope": "mangaluru",
+      "source_bucket": "mangaluru",
+      "local_top_rank": 1,
+      "sources": [
+        {
+          "paper": "Deccan Herald",
+          "edition": "Mangaluru",
+          "page": 6,
+          "index": 1
+        },
+        {
+          "paper": "News Trail",
+          "edition": "Mangaluru",
+          "page": 3,
+          "index": 4
+        },
+        {
+          "paper": "The Hindu",
+          "edition": "Mangaluru",
+          "page": 1,
+          "index": 3
+        }
+      ],
+      "why_channel": "Industrial safety and ₹1.20 crore compensation at MRPL — high local stakes and stranger-share potential."
+    },
+    {
+      "rank": 2,
+      "headline": "Old kitchens await repairs, renovations in schools",
+      "blurb": "Naina J A reports many Dakshina Kannada school kitchens serving Akshara Dasoha midday meals to 1.37 lakh students in 1,312 schools are dilapidated or lack space, while workers' association leaders demand renovation grants stalled since 2012 and timely honorarium payments.",
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "source_bucket": "coastal_karnataka",
+      "local_top_rank": 1,
+      "sources": [
+        {
+          "paper": "Deccan Herald",
+          "edition": "Mangaluru",
+          "page": 5,
+          "index": 1
+        }
+      ],
+      "why_channel": "Midday-meal kitchen crisis affecting 1.37 lakh DK students — public health and school safety hook."
+    },
+    {
+      "rank": 3,
+      "headline": "State plans standardisation of private hospital charges",
+      "blurb": "The Karnataka Health Department is considering uniform pricing for surgeries and procedures at private hospitals after preliminary talks with PHANA, as patients in Bengaluru, Hubballi and Mangaluru report the same treatment costing from about ₹10,000 at one facility to ₹50,000 or up to ₹1 lakh at corporate hospitals; officials may decide on a mechanism as early as next week.",
+      "kind": "news",
+      "scope": "karnataka",
+      "source_bucket": "karnataka",
+      "local_top_rank": 3,
+      "sources": [
+        {
+          "paper": "News Trail",
+          "edition": "Mangaluru",
+          "page": 2,
+          "index": 3
+        }
+      ],
+      "why_channel": "Uniform private-hospital pricing with Mangaluru cost examples (₹10k–₹1L) — money and healthcare accountability."
+    },
+    {
+      "rank": 4,
+      "headline": "MLA raises objections to moving old beds, cots to new district hospital",
+      "blurb": "Udupi MLA Yashpal Suvarna criticised the government's plan to shift old equipment from Udupi Taluk Hospital to the new district hospital building without adequate new infrastructure or sufficient doctors and technicians. The Hindu Bureau reports from Mangaluru.",
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "source_bucket": "coastal_karnataka",
+      "local_top_rank": 2,
+      "sources": [
+        {
+          "paper": "The Hindu",
+          "edition": "Mangaluru",
+          "page": 3,
+          "index": 1
+        }
+      ],
+      "why_channel": "Udupi district hospital equipment shift without staff/infra — coastal healthcare daily-life impact."
+    },
+    {
+      "rank": 5,
+      "headline": "Pilinalike-11 to be held in Mangaluru on October 20; winner to get ₹10 lakh",
+      "blurb": "The 11th Pilinalike tiger-dance competition organised by the Pilinalike Foundation and Namma TV will be held at Karavali Utsav Grounds near Mangala Stadium from 10 am on 20 October, with nine teams expected; the winner gets ₹10 lakh and a trophy, second ₹5 lakh, third ₹3 lakh, category prizes of ₹50,000 each, ₹50,000 per team incentive, and Dinesh Karthik and The Great Khali among expected guests.",
+      "kind": "news",
+      "scope": "mangaluru",
+      "source_bucket": "mangaluru",
+      "local_top_rank": 4,
+      "sources": [
+        {
+          "paper": "Deccan Herald",
+          "edition": "Mangaluru",
+          "page": 5,
+          "index": 4
+        },
+        {
+          "paper": "News Trail",
+          "edition": "Mangaluru",
+          "page": 3,
+          "index": 5
+        },
+        {
+          "paper": "The Hindu",
+          "edition": "Mangaluru",
+          "page": 3,
+          "index": 6
+        }
+      ],
+      "why_channel": "Fixed date (20 Oct) plus ₹10 lakh winner prize — strong WhatsApp-forward event hook."
+    }
+  ]
+}

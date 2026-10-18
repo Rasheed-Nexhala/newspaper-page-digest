@@ -1,0 +1,813 @@
+{
+  "paper": "The Hindu",
+  "edition": "Mangaluru",
+  "date": "Sunday, 18 October 2026",
+  "total_pages": 18,
+  "total_articles": 100,
+  "pages_with_no_articles": [
+    4,
+    18
+  ],
+  "articles": [
+    {
+      "page": 1,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "17 killed, 25 injured in Kolkata puja stampede",
+      "blurb": "A stampede at the Chore Bagan Durga Puja pandal in north Kolkata on Saturday left 17 people dead and 25 injured; West Bengal Chief Minister Mamata Banerjee blamed a misleading announcement by organisers for the crush. Shrabana Chatterjee and Shiv Sahay Singh report from Kolkata."
+    },
+    {
+      "page": 1,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Dipke, Neha released as protests continue",
+      "blurb": "Delhi Police released activist Abhijeet Dipke and AISA president Neha Bora after detaining them during protests linked to the “Lehra Do Tiranga” march and demonstrations over electoral roll revision. Lavpreet Kaur reports from New Delhi."
+    },
+    {
+      "page": 1,
+      "index": 3,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "MRPL blast: Another worker succumbs",
+      "blurb": "Contract employee Rajesh A. D'Silva, 42, died of injuries from the September 30 fire at Mangalore Refinery and Petrochemicals Ltd's hydrocracker unit; MRPL announced a total compensation package of ₹1.2 crore for the family. The Hindu Bureau reports from Mangaluru."
+    },
+    {
+      "page": 2,
+      "index": 1,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "'Govt. schemes must be delivered more effectively to farmers'",
+      "blurb": "Udupi-Chikkamagaluru MP Shobha Karandlaje said at the inauguration of an agriculture and horticulture fair at the Agriculture and Horticulture Research Centre, Brahmavar, that many farmers have improved livelihoods by growing multiple crops alongside horticulture and called for more effective delivery of government schemes. The Hindu Bureau reports from Mangaluru."
+    },
+    {
+      "page": 2,
+      "index": 2,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Man sentenced to two years in prison for harassing sister",
+      "blurb": "The First Additional Senior Civil Judge and JMFC, Puttur, sentenced Arun Kumar to two years' imprisonment for trespassing on his sister Asha Rani Bhandary's property and assaulting her and her husband Uday Kumar at Kuria village, Puttur taluk, on December 27, 2022. The Hindu Bureau reports from Mangaluru."
+    },
+    {
+      "page": 2,
+      "index": 3,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Minimum Wage Board chief seeks two new commissions",
+      "blurb": "Karnataka State Minimum Wage Advisory Board chairman T.M. Shahid Thekkil called for establishing “Vayo-jana Ayoga” and “Yuvajana Ayoga” in the State and advocated a minimum wage of ₹18,000 for rural workers and ₹22,000 for urban workers. The Hindu Bureau reports from Mangaluru."
+    },
+    {
+      "page": 3,
+      "index": 1,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "MLA raises objections to moving old beds, cots to new district hospital",
+      "blurb": "Udupi MLA Yashpal Suvarna criticised the government's plan to shift old equipment from Udupi Taluk Hospital to the new district hospital building without adequate new infrastructure or sufficient doctors and technicians. The Hindu Bureau reports from Mangaluru."
+    },
+    {
+      "page": 3,
+      "index": 2,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Praja Seva aims to take govt. closer to the people: Khader",
+      "blurb": "Dakshina Kannada district in-charge Minister U.T. Khader launched the Praja Seva initiative at Mangalore University campus, Konaje, to streamline administration and ensure welfare schemes reach eligible beneficiaries; he received 209 petitions at the event. The Hindu Bureau reports from Mangaluru."
+    },
+    {
+      "page": 3,
+      "index": 3,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Konkan Railway to switch to non-monsoon schedule from Wednesday across its network",
+      "blurb": "Konkan Railway Corporation Ltd will revert to regular non-monsoon timings from Wednesday, October 21, with revised arrival and departure times for trains including Matsyagandha Express and Vande Bharat Express across its network. The Hindu Bureau reports from Mangaluru."
+    },
+    {
+      "page": 3,
+      "index": 4,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "KRCL marks foundation day",
+      "blurb": "Konkan Railway Corporation Ltd observed its 37th foundation day, reporting net profit of ₹138.62 crore in 2023-24 and projects worth ₹22,552 crore under execution. The Hindu Bureau reports from Mangaluru."
+    },
+    {
+      "page": 3,
+      "index": 5,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "MRPL blast: Another worker succumbs",
+      "blurb": "Manish Karkada, 30, became the third worker to die of injuries from the September 30 blast at MRPL's hydrocracker unit; the company announced ₹1.2 crore compensation for the family. The Hindu Bureau reports from Mangaluru."
+    },
+    {
+      "page": 3,
+      "index": 6,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "11th edition of Pili Nalike to be held on Tuesday at Karavali Utsava grounds",
+      "blurb": "Pili Nalike Pratishthana will host its 11th tiger dance competition on October 20 at Karavali Utsava grounds with nine teams competing for cash prizes; president Mithun Rai said celebrities including Rishab Shetty, Raj B. Shetty and Sunil Shetty are expected. The Hindu Bureau reports from Mangaluru."
+    },
+    {
+      "page": 5,
+      "index": 1,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "We want fair share in sugar and ethanol revenues: Cane farmers",
+      "blurb": "Sugarcane farmers undertaking the ‘Hubballi Chalo’ padayatra blocked national highways for two days, renewing demands including fair and remunerative price of ₹3,500 per tonne, scientific weighing, and relief from debt; Karnataka Rajya Raitha Sangha and Hasiru Sene backed the protest. Girish Pattanashetti and Rishikesh Bahadur Desai report from Belagavi and Hubballi."
+    },
+    {
+      "page": 5,
+      "index": 2,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "DKS promises meeting of all stakeholders after Dasara",
+      "blurb": "Chief Minister D.K. Shivakumar promised a meeting after Dasara with Union and State officials, sugar factory owners and farmer leaders to resolve cane growers' issues following his talks with protesters in Kittur. The Hindu Bureau reports from Hubballi."
+    },
+    {
+      "page": 5,
+      "index": 3,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Return home for festival, says Joshi",
+      "blurb": "Union Minister Pralhad Joshi urged protesting sugarcane farmers to return home for the festival, saying the Centre is considering their demands. The Hindu Bureau reports."
+    },
+    {
+      "page": 5,
+      "index": 4,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "HDK seeks SIT probe into alleged sting video",
+      "blurb": "Union Minister and JD(S) leader H.D. Kumaraswamy demanded a Special Investigation Team probe into a purported sting video on social media, alleging a conspiracy to target political leaders. The Hindu Bureau reports from Bengaluru."
+    },
+    {
+      "page": 5,
+      "index": 5,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Chief Minister announces funds for Mekedatu project in next Budget",
+      "blurb": "Chief Minister D.K. Shivakumar said funds for the Mekedatu balancing reservoir project will be allocated in the next State budget. The Hindu Bureau reports from Mysuru."
+    },
+    {
+      "page": 5,
+      "index": 6,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Sowmya Reddy quits as State Mahila Cong. chief",
+      "blurb": "Former Congress MLA Sowmya Reddy resigned as president of Karnataka Pradesh Mahila Congress, with the report citing her displeasure over the absence of a woman legislator in the State Cabinet headed by D.K. Shivakumar. The Hindu Bureau reports from Bengaluru."
+    },
+    {
+      "page": 6,
+      "index": 1,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Law is shaped by voices that do not always harmonise: CJI",
+      "blurb": "Chief Justice of India Surya Kant told the 34th convocation of NLSIU, Bengaluru, that law is a living conversation shaped by diverse perspectives and that lawyers would find joy in service and honour in upholding the Constitution; the convocation had been postponed over students' support for NALSAR counterparts. The Hindu Bureau reports from Bengaluru."
+    },
+    {
+      "page": 6,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "ED pastes notice outside Pinarayi's residence",
+      "blurb": "The Enforcement Directorate served a summons at Kerala Chief Minister Pinarayi Vijayan's residence for his son-in-law P.A. Mohammed Riyas in the CMRL-Exalogic pay-off case. Press Trust of India reports from Thiruvananthapuram."
+    },
+    {
+      "page": 6,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Lord Malayappa rides Hanumantha Vahanam",
+      "blurb": "On the sixth day of Navaratri Brahmotsavams at Tirumala, Lord Malayappa Swamy was taken in procession on the Hanumantha Vahanam. The Hindu Bureau reports from Tirumala."
+    },
+    {
+      "page": 6,
+      "index": 4,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Police fire in the air as YSRCP, TDP cadres clash while filing papers for A.P. civic polls",
+      "blurb": "YSRCP and Telugu Desam Party workers clashed in Punganur and Rayachoti, Andhra Pradesh, during nominations for local body elections, and police fired in the air to disperse crowds. The Hindu Bureau reports from Kadapa."
+    },
+    {
+      "page": 7,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Centre committed to meeting demands of Ladakh: official",
+      "blurb": "Ladakh Chief Secretary Ashish Kundra called for dialogue on a Union Home Ministry proposal for a customised constitutional model for Ladakh under Article 240 and possibly Article 371, and expressed surprise that Ladakh groups rejected the proposal within two hours. Peerzada Ashiq reports from Srinagar."
+    },
+    {
+      "page": 7,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Panel investigating violence to focus on use of pellet guns",
+      "blurb": "A Supreme Court-appointed panel probing violence near Jantar Mantar in New Delhi will examine pellet gun use, targeted violence against women and harassment; a portal was launched for victims to register complaints. Vijaita Singh reports from New Delhi."
+    },
+    {
+      "page": 7,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Congress terms Census enumerator posts for private persons an 'RSS employment scheme'",
+      "blurb": "Congress leader Jairam Ramesh alleged that allowing private persons including NGO workers as census enumerators is an RSS and BJP employment scheme rather than using government staff as in the past. Vijaita Singh reports from New Delhi."
+    },
+    {
+      "page": 7,
+      "index": 4,
+      "kind": "news",
+      "scope": "india",
+      "headline": "BJP wants to be in power forever, says Opposition",
+      "blurb": "Opposition parties led by Congress criticised new electoral rules and the special intensive revision of electoral rolls, accusing the BJP of seeking to remain in power indefinitely through manipulation of democratic processes. The Hindu Bureau reports from New Delhi."
+    },
+    {
+      "page": 7,
+      "index": 5,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Eight killed as van veers off expressway in Rajasthan",
+      "blurb": "A van carrying people home from a temple fell into a 15-foot drain on the Delhi-Mumbai Expressway in Dholpur district, killing eight people and injuring 15. Press Trust of India reports from Dholpur."
+    },
+    {
+      "page": 7,
+      "index": 6,
+      "kind": "news",
+      "scope": "india",
+      "headline": "VSR Ventures faced safety red flags before Ajit Pawar crash, finds probe",
+      "blurb": "The Aircraft Accident Investigation Bureau found safety lapses, missing maintenance records and regulatory non-compliance at operator VSR Ventures before a 2023 private jet crash involving Maharashtra Deputy CM Ajit Pawar. Jagriti Chandra reports from New Delhi."
+    },
+    {
+      "page": 7,
+      "index": 7,
+      "kind": "news",
+      "scope": "india",
+      "headline": "One killed, four hurt in attack on Kuki village in Manipur",
+      "blurb": "Armed men attacked a Kuki village near the Indo-Myanmar border in Kamjong district, killing one person and injuring four; the Kuki National Army (B) operates in the region. Rahul Karmakar reports from Guwahati."
+    },
+    {
+      "page": 8,
+      "index": 1,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Over 1.28 lakh Form 7s filed just before Karnataka SIR; 45,878 by third parties",
+      "blurb": "More than 1.28 lakh Form 7 deletion requests were filed between announcement of the special intensive revision and freezing of rolls in at least 28 Assembly constituencies, with third-party applications making up 35.6% of deletions; Belagavi North saw 4,750 processed Form 7s. Rishika Khanna and P.S. Vasanth B.A. report from Bengaluru and Chennai."
+    },
+    {
+      "page": 8,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Congress names 208 observers for anti-SIR campaign",
+      "blurb": "Congress appointed 208 observers for its “save vote, save country” campaign to monitor voter list revision and protest alleged mass deletions. The Hindu Bureau reports from New Delhi."
+    },
+    {
+      "page": 8,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Bengal BJP president calls for fresh round of SIR",
+      "blurb": "West Bengal BJP president Sukanta Majumdar called for a new round of special intensive revision citing protests and alleged irregularities in the voter roll update. Shiv Sahay Singh reports from Kolkata."
+    },
+    {
+      "page": 8,
+      "index": 4,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Actor Imran Khan moves HC against 'illegal' notice to leave India",
+      "blurb": "Actor Imran Khan petitioned the Bombay High Court challenging a Foreigners Regional Registration Office notice asking him to leave India, calling it illegal and politically motivated. Vinaya Deshpande Pandit reports from Mumbai."
+    },
+    {
+      "page": 8,
+      "index": 5,
+      "kind": "news",
+      "scope": "india",
+      "headline": "SC to hear plea against preventive detention",
+      "blurb": "The Supreme Court agreed to hear academic Apoorvanand Jha's petition challenging preventive detention of people participating in peaceful protests. Krishnadas Rajagopal reports from New Delhi."
+    },
+    {
+      "page": 8,
+      "index": 6,
+      "kind": "news",
+      "scope": "india",
+      "headline": "10 FIRs registered against right-wing activists over assaults on protesters",
+      "blurb": "Delhi Police registered 10 FIRs against alleged right-wing activists who attacked people protesting voter revision; police said CCTV footage is being examined. Jagpreet Kaur reports from New Delhi."
+    },
+    {
+      "page": 8,
+      "index": 7,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Teja Singh Samundri's legacy drives BJP's pro-Sikh push in Punjab",
+      "blurb": "Ahead of Punjab's 2027 elections, the BJP is reaching out to Sikhs by honouring figures such as Teja Singh Samundri and addressing community grievances while trying to shed an anti-farmer image. Vikas Vasudeva reports from Chandigarh."
+    },
+    {
+      "page": 9,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "In Delhi's Titarpur, Ravana mirrors politics of the day",
+      "blurb": "Craftsmen in Titarpur, West Delhi, are shaping Ravana effigies for Dussehra that reflect current political and social themes, including Jantar Mantar protests and public health concerns such as dengue. Luvpreet Kaur reports from New Delhi."
+    },
+    {
+      "page": 9,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Children have fundamental right to access Internet: SC",
+      "blurb": "The Supreme Court held that children have a fundamental right to access the internet and that blanket bans are disproportionate, calling for parental oversight, age-appropriate safeguards and a dedicated child mode from tech stakeholders. Krishnadas Rajagopal reports from New Delhi."
+    },
+    {
+      "page": 9,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "CRPF may bring back Naik ranks to boost morale",
+      "blurb": "The Central Reserve Police Force is considering reintroducing Lance Naik and Naik ranks abolished in 1997 to address promotion stagnation in the paramilitary force. Press Trust of India reports from New Delhi."
+    },
+    {
+      "page": 9,
+      "index": 4,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Air India, AI Express cancel Saudi Arabia flights till Oct. 24",
+      "blurb": "Air India and Air India Express suspended flights to Jeddah, Riyadh and Dammam until October 24 amid escalating West Asia tensions and Houthi attacks on Saudi targets."
+    },
+    {
+      "page": 9,
+      "index": 5,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Vigilance officials arrest Odisha engineer for graft",
+      "blurb": "Vigilance officials arrested a superintending engineer in Odisha and seized unaccounted cash worth ₹1.88 lakh during a raid."
+    },
+    {
+      "page": 9,
+      "index": 6,
+      "kind": "news",
+      "scope": "india",
+      "headline": "5 killed in blast at chemical unit in Gujarat's Bharuch",
+      "blurb": "Five people died and several were injured in a blast at Syndoxal Pharma intermediates unit in the Saykha GIDC area of Bharuch district, Gujarat."
+    },
+    {
+      "page": 9,
+      "index": 7,
+      "kind": "news",
+      "scope": "india",
+      "headline": "NCB busts two synthetic drug labs in Greater Noida; 2 held",
+      "blurb": "The Narcotics Control Bureau dismantled two synthetic drug manufacturing labs in Greater Noida and arrested two people including a foreign national."
+    },
+    {
+      "page": 9,
+      "index": 8,
+      "kind": "news",
+      "scope": "india",
+      "headline": "FSSAI proposes pesticide residue restrictions for tea",
+      "blurb": "The Food Safety and Standards Authority of India proposed maximum residue limits for pesticides acetamiprid and imidacloprid in tea. The Hindu Bureau reports from New Delhi."
+    },
+    {
+      "page": 9,
+      "index": 9,
+      "kind": "news",
+      "scope": "india",
+      "headline": "FSSAI moves to ban added sugar in infant food items",
+      "blurb": "FSSAI proposed prohibiting addition of sucrose and fructose in foods for infants up to six months to limit early exposure to added sugars. Bindu Shajan Perappadan reports from New Delhi."
+    },
+    {
+      "page": 9,
+      "index": 10,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Govt. caps trade margins on 137 drugs against cancer",
+      "blurb": "The National Pharmaceutical Pricing Authority capped trade margins at 30% on 137 non-scheduled anti-cancer drugs to improve affordability of cancer treatment. Bindu Shajan Perappadan reports from New Delhi."
+    },
+    {
+      "page": 10,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "India adapts fast as West Asia simmers",
+      "blurb": "Kepler data show Iraqi crude exports to India tripled in September over August as Indian refiners diversified purchases amid West Asia tensions; shipping sources said large parcels were bought from multiple origins and the strategy would continue if Gulf disruptions persisted in October. M. Kalyanaraman reports from Chennai."
+    },
+    {
+      "page": 10,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "NMDC inks pact with GAIL arm for gas supply to pellet plant",
+      "blurb": "State-owned NMDC signed an agreement with GAIL for natural gas supply to its iron ore pellet plant at Nagarnar, Chhattisgarh, including a 130-km pipeline from Dhamra Port to Damanjodi. N. Ravi Kumar reports from Hyderabad."
+    },
+    {
+      "page": 10,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "FDA names Reliance, Blinkit executives in expired food probe",
+      "blurb": "Maharashtra food safety authorities named officials from Reliance Retail and units of Blinkit and Hyperpure for allegedly reintroducing expired food into the supply chain; a police complaint was filed and a McDonald's outlet permit was suspended. Reuters reports from New Delhi."
+    },
+    {
+      "page": 10,
+      "index": 4,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Indian IT exports: Deliver code, chase cash",
+      "blurb": "Small IT exporters are struggling to recover cross-border payments; Thiyagu Ganesan of Tiviyic Technologies Pvt Ltd is seeking help for $6,72,932 (about ₹5.6 crore) stuck for over 19 months. Balasubramanyam C.P. reports from Chennai."
+    },
+    {
+      "page": 10,
+      "index": 5,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Axis Bank posts Q2 net profit of ₹7,003 cr., up 38%",
+      "blurb": "Axis Bank reported second-quarter net profit of ₹7,003 crore, up 38%, with net interest income up 12% year on year and gross NPAs at 1.48%. Gowri Lakshmi B. reports from Mumbai."
+    },
+    {
+      "page": 10,
+      "index": 6,
+      "kind": "news",
+      "scope": "india",
+      "headline": "HDFC Bank Q2 net profit grows 4.7% to ₹19,510 crore",
+      "blurb": "HDFC Bank posted second-quarter net profit of ₹19,510 crore, up 4.7%, marginally missing analyst estimates amid leadership transition as Sashidhar Jagdishan takes charge. Lalatendu Mishra reports from Mumbai."
+    },
+    {
+      "page": 10,
+      "index": 7,
+      "kind": "news",
+      "scope": "india",
+      "headline": "ICICI Bank Q2 PAT rises 20.1% to ₹14,843 crore",
+      "blurb": "ICICI Bank's profit after tax rose 20.1% to ₹14,843 crore in the second quarter, with net interest margin at 4.18% and provisions at ₹2,101 crore. Lalatendu Mishra reports from Mumbai."
+    },
+    {
+      "page": 10,
+      "index": 8,
+      "kind": "news",
+      "scope": "india",
+      "headline": "IDBI Q2 net profit slips 39% on operating expenses, provision",
+      "blurb": "IDBI Bank reported second-quarter net profit of ₹1,135 crore, down 39%, on higher operating expenses and provisions."
+    },
+    {
+      "page": 10,
+      "index": 9,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Central Bank of India Q2 net jumps 21% to ₹1,469 crore",
+      "blurb": "Central Bank of India posted second-quarter net profit of ₹1,469 crore, up 21%, helped by improved core income and lower bad assets."
+    },
+    {
+      "page": 10,
+      "index": 10,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Yes Bank Q2 net profit rises 6.3% to ₹1,084 crore",
+      "blurb": "Yes Bank reported consolidated second-quarter net profit of ₹1,084 crore, up 6.3%."
+    },
+    {
+      "page": 11,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "IISER researchers make solid material that releases two fuel gases",
+      "blurb": "Scientists at IISER Thiruvananthapuram developed a solid compound that releases hydrogen and methane when moderately heated, aiding storage and transport of the gases; findings were published in Science Advances on October 7. Vasudevan Mukunth reports."
+    },
+    {
+      "page": 11,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "As inscrutable AI proofs emerge, mathematicians wait in the dark",
+      "blurb": "Mathematicians including Fields Medalist Hugo Duminil-Copin and Chandrashekhar Khare voiced concern over OpenAI models that produce machine-checked proofs humans struggle to verify, fearing impact on training and openness in mathematics. Jacob Koshy reports."
+    },
+    {
+      "page": 11,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "The tree bridges that help gibbons 'cross' highways",
+      "blurb": "Habitat fragmentation from roads and railways threatens Hoolock gibbons in Northeast India; conservationists are planting trees to form canopy bridges so gibbons can cross safely. D. Balasubramanian writes in Speaking of Science."
+    },
+    {
+      "page": 11,
+      "index": 4,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Dead elephants' bodies are a boon for local ecosystems",
+      "blurb": "Research in South Africa's Kruger National Park shows elephant carcasses create nutrient hotspots that boost plant growth and attract herbivores for over seven years."
+    },
+    {
+      "page": 11,
+      "index": 5,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Free database 'shows' how drivers of ageing team up",
+      "blurb": "Researchers in Chennai and Mumbai built AgingHallmarksDB mapping 2,111 genes linked to eight core biological ageing processes."
+    },
+    {
+      "page": 11,
+      "index": 6,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Drone-racing AI beats human world champions in UAE",
+      "blurb": "AI system MonoRace piloted a racing drone to beat three human world champions at the 2025 Abu Dhabi Autonomous Drone Racing Competition using a lightweight neural network and single camera."
+    },
+    {
+      "page": 11,
+      "index": 7,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "Eye to eye",
+      "blurb": "Question Corner explains the cooperative eye hypothesis: visible white sclera may help humans signal gaze direction, though most primates have darker sclera."
+    },
+    {
+      "page": 12,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Why have Central banks around the world began hiking rates?",
+      "blurb": "Gowri Lakshmi explains that West Asia tensions, high oil prices, rising U.S. Treasury yields and persistent inflation are pushing central banks to reconsider easing; for India, a weaker rupee raises import costs and complicates RBI inflation control."
+    },
+    {
+      "page": 12,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "How does the U.S.-Russia diesel deal impact India?",
+      "blurb": "T.C.A. Sharad Raghavan outlines President Donald Trump's October 10 deal for Russia to supply diesel to the U.S. and global markets alongside an energy ceasefire claim, and how sanctions politics and India's U.S. trade talks interact."
+    },
+    {
+      "page": 12,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Why was actor Imran Khan asked to leave India?",
+      "blurb": "Binoy Lin M. explains OCI rules after FRRO ordered U.S. citizen and OCI holder Imran Khan to leave India by October 28 following a Mumbai protest, and options to represent or challenge the notice under the Immigration and Foreigners Act, 2025."
+    },
+    {
+      "page": 13,
+      "index": 1,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Putting people in economics",
+      "blurb": "T.C.A. Sharad Raghavan profiles 2026 Economics Nobel laureates Robert E. Hall and Michael Woodford, whose work on household expectations and firm pricing reshaped macroeconomic policy analysis."
+    },
+    {
+      "page": 13,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "The permanence of agitation",
+      "blurb": "Ashmita Bakshi profiles AISA leader Neha Bora, 28, a JNU PhD scholar central to Delhi youth protests demanding Chief Election Commissioner Gyanesh Kumar's impeachment and a halt to special intensive revision of electoral rolls."
+    },
+    {
+      "page": 13,
+      "index": 3,
+      "kind": "news",
+      "scope": "international",
+      "headline": "The flashy diplomat",
+      "blurb": "Joan Sony Cherian profiles former U.S. ambassador to Greece Kimberly Guilfoyle, dismissed after allegations she favoured businesses for personal gifts, tracing her rise from Fox News to Trump loyalist."
+    },
+    {
+      "page": 14,
+      "index": 1,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Saudi strikes on Yemen kill three children overnight, say Houthis",
+      "blurb": "Houthi officials said Saudi air strikes in Yemen killed three children overnight. Agence France-Presse reports from Sanaa."
+    },
+    {
+      "page": 14,
+      "index": 2,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Military air strike kills 11 civilians in Myanmar village: rebel fighter",
+      "blurb": "A rebel fighter said a Myanmar military air strike killed 11 civilians in a village. Agence France-Presse reports from Yangon."
+    },
+    {
+      "page": 14,
+      "index": 3,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Pakistani leader warns against concentration of power in military",
+      "blurb": "A Pakistani political leader warned against concentrating power in the military. Agence France-Presse reports from Lahore."
+    },
+    {
+      "page": 14,
+      "index": 4,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Anthropic circulates draft Bill regulating AI with U.S. lawmakers",
+      "blurb": "AI firm Anthropic circulated a draft bill on regulating artificial intelligence with U.S. lawmakers. Agence France-Presse reports from San Francisco."
+    },
+    {
+      "page": 14,
+      "index": 5,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Trump waives sanction over Russian oil; India gets relief",
+      "blurb": "The U.S. waiver gives Indian refiners more flexibility to buy Russian oil ahead of Secretary of State Marco Rubio's October 20–22 India visit. Saptaparno Ghosh and Suhasini Haidar report from New Delhi."
+    },
+    {
+      "page": 14,
+      "index": 6,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Militarisation persists in Sri Lanka's Tamil areas, says rights commission",
+      "blurb": "Sri Lanka's Human Rights Commission reported continued heavy military presence in former conflict zones in Tamil areas 17 years after the civil war ended. Meera Srinivasan reports from Colombo."
+    },
+    {
+      "page": 14,
+      "index": 7,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Oil tankers on fire after hitting mines in Hormuz: Iran Guards",
+      "blurb": "Iran's Revolutionary Guards said two oil tankers carrying over two million barrels of crude caught fire after hitting mines in the Strait of Hormuz. Agence France-Presse reports from Tehran."
+    },
+    {
+      "page": 14,
+      "index": 8,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Trump could lift more sanctions, says Zelenskyy",
+      "blurb": "Ukrainian President Volodymyr Zelenskyy said he hoped Donald Trump would lift more sanctions to help end the war with Russia. Agence France-Presse reports from Kyiv."
+    },
+    {
+      "page": 14,
+      "index": 9,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Haaland's double steers City past Ipswich",
+      "blurb": "Erling Haaland scored twice as Manchester City beat Ipswich 3-2; the round also saw Liverpool beat Brentford and Chelsea lose to Everton. Agence France-Presse reports from Manchester."
+    },
+    {
+      "page": 14,
+      "index": 10,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Williams and Perovic earn the bragging rights for BFC",
+      "blurb": "Ryan Williams and Nikola Perovic scored as Bengaluru FC beat Chennaiyin FC 2-0 in the Indian Super League at Sree Kanteerava Stadium. Sports Bureau reports."
+    },
+    {
+      "page": 15,
+      "index": 1,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "'The cup is still with us because we won the home leg last time'",
+      "blurb": "West Indies coach Darren Sammy said the shared T20I trophy reflected India's home win in the previous series after the current tour ended 2-2."
+    },
+    {
+      "page": 15,
+      "index": 2,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Dhir bowling under pressure a positive for us, says Tilak",
+      "blurb": "Tilak Varma praised Naman Dhir's bowling under pressure during the rain-hit final T20I against West Indies."
+    },
+    {
+      "page": 15,
+      "index": 3,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Delhi Capitals names Vaas as fast-bowling coach for IPL 2027",
+      "blurb": "Delhi Capitals appointed former Sri Lanka pacer Chaminda Vaas as fast-bowling coach for IPL 2027 alongside a staff including Sourav Ganguly, Yuvraj Singh and Amit Mishra."
+    },
+    {
+      "page": 15,
+      "index": 4,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "The focus is on making a strong comeback from injury: Neeraj",
+      "blurb": "Javelin thrower Neeraj Chopra said he is recovering from an ankle injury and targeting a strong comeback in 2027."
+    },
+    {
+      "page": 15,
+      "index": 5,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Honours even as rain has the final say in a thrilling series",
+      "blurb": "Rain ended the deciding T20I at M. Chinnaswamy Stadium with India at 88 for five in 7.4 overs after being set a nine-over target, leaving the series tied 2-2; Ishan Kishan made 30. N. Sudarshan reports from Bengaluru."
+    },
+    {
+      "page": 15,
+      "index": 6,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Chacarra takes a two-shot lead into the final day",
+      "blurb": "Eugenio Chacarra led the DP World India Championship by two strokes at 14 under through 11 holes of the third round; Rory McIlroy was among those tied second at 12 under. Ashwin Achal reports from New Delhi."
+    },
+    {
+      "page": 15,
+      "index": 7,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Jaffer, Powar and Ankola among five interviewed",
+      "blurb": "BCCI interviewed Wasim Jaffer, Ramesh Powar, Salil Ankola, Jacob Martin and Connor Williams for national selector roles. Amol Karhadkar reports from Mumbai."
+    },
+    {
+      "page": 15,
+      "index": 8,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Niki's confidence is remarkable: Deepti",
+      "blurb": "Deepti Sharma praised teammate Niki Prasad's confidence after India's women's team beat Zimbabwe. Press Trust of India reports from Raipur."
+    },
+    {
+      "page": 15,
+      "index": 9,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Yodhas eliminate Archers; Knights-Marathas in Q1",
+      "blurb": "Pithampur Yodhas beat Cheru Archers 6-0 and Kolkata Knights defeated Rajatara Marathas 5-1 in Archery Premier League play. Sports Bureau reports."
+    },
+    {
+      "page": 15,
+      "index": 10,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "APL brings drama and excitement",
+      "blurb": "World Archery executive director Juan Carlos Holgado said the Archery Premier League format has brought drama and global attention to the sport. Anirudh Velamuri reports from Hyderabad."
+    },
+    {
+      "page": 16,
+      "index": 1,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Karnataka faces a strong Saurashtra",
+      "blurb": "Karnataka meet Saurashtra in Ranji Trophy round two at Alur with stand-in captain Shreyas Gopal leading a side missing regulars such as Mayank Agarwal; Karnataka has not beaten Saurashtra in the competition since 2009. N. Sudarshan reports from Bengaluru."
+    },
+    {
+      "page": 16,
+      "index": 2,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Manasi-Thulasimathi lock in Asiad para badminton medal",
+      "blurb": "Manasi Joshi and Thulasimathi Murugesan assured India a medal at the Asian Para Games in Nagoya by reaching the women's doubles SL3-SU5 semifinals."
+    },
+    {
+      "page": 16,
+      "index": 3,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Indian shuttlers' run ends in Denmark Open",
+      "blurb": "Treesa Jolly and Gayatri Gopi Chand exited the Denmark Open in the quarterfinals."
+    },
+    {
+      "page": 16,
+      "index": 4,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Khushi clinches u-16 and u-14 titles, completes a treble",
+      "blurb": "Khushi Kadian won under-16 and under-14 titles at the 31st Fenesta Open National Tennis Championship to complete a treble."
+    },
+    {
+      "page": 16,
+      "index": 5,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Leaner and fitter Karun eager to carry Karnataka forward",
+      "blurb": "Karun Nair, fitter after a physical transformation, returned to form with 155 against Andhra in Ranji Trophy play after being dropped from the Duleep Trophy. N. Sudarshan reports from Bengaluru."
+    },
+    {
+      "page": 16,
+      "index": 6,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Mumbai Indians parts ways with coach Jayawardene",
+      "blurb": "Mahela Jayawardene stepped down as Mumbai Indians head coach after three IPL seasons. Amol Karhadkar reports from Mumbai."
+    },
+    {
+      "page": 16,
+      "index": 7,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "These are dark times for WI cricket, but I stay loyal: Roach",
+      "blurb": "Kemar Roach said West Indies cricket faces financial crisis including a 25% pay cut but he remains committed to playing for the team. S. Srivathsan reports."
+    },
+    {
+      "page": 16,
+      "index": 8,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Kuldeep has been treated unfairly, feels Ashwin",
+      "blurb": "Ravichandran Ashwin said Kuldeep Yadav's inconsistent selection is unfair given his talent. Tarsan Shastry reports."
+    },
+    {
+      "page": 16,
+      "index": 9,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Amruta bags u-23 World wrestling silver",
+      "blurb": "Amruta Pujari won silver in the 72 kg category at the under-23 World wrestling championships in Las Vegas."
+    },
+    {
+      "page": 16,
+      "index": 10,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Espionage wins feature",
+      "blurb": "Espionage won the Bold Trophy in Hyderabad horse racing; Venus Plate and Onward Plate were among other races reported."
+    },
+    {
+      "page": 17,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "A circle for all",
+      "blurb": "At Lakshmi Vilas Palace in Vadodara, Radhikaraje Gaekwad's inclusive Garba during Navratri draws over 80,000 people and offers LGBTQIA+ participants a space to celebrate within a UNESCO-listed folk tradition. Vinaya Deshpande Pandit reports."
+    }
+  ]
+}
