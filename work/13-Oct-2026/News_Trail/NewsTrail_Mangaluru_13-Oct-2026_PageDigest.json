@@ -1,0 +1,738 @@
+{
+  "paper": "News Trail",
+  "edition": "Mangaluru",
+  "date": "Tuesday, 13 October 2026",
+  "total_pages": 12,
+  "total_articles": 91,
+  "pages_with_no_articles": [],
+  "articles": [
+    {
+      "page": 1,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "PANIC GRIPS MODI-SHAH?",
+      "blurb": "INDIA bloc leaders and supporters marched toward the Supreme Court in New Delhi against Chief Election Commissioner Gyanesh Kumar, carrying a \"MARCH FOR DEMOCRACY\" banner amid the opposition's push over voter-roll issues."
+    },
+    {
+      "page": 1,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "INDIA leaders unite, seek SC's intervention in voter deletions",
+      "blurb": "Opposition INDIA bloc leaders united to seek the Supreme Court's intervention over alleged irregular deletions in the Special Intensive Revision of electoral rolls."
+    },
+    {
+      "page": 1,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Jantar Mantar no longer legal protest site",
+      "blurb": "Delhi Police removed Jantar Mantar as a designated protest venue, one of the sub-leads on the front page amid the wider agitation over election-roll revisions."
+    },
+    {
+      "page": 1,
+      "index": 4,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Rahul urges CEC to resign and become approver",
+      "blurb": "Congress leader Rahul Gandhi urged the Chief Election Commissioner to resign and become an approver, a front-page brief tied to the opposition's election-commission protests."
+    },
+    {
+      "page": 1,
+      "index": 5,
+      "kind": "news",
+      "scope": "india",
+      "headline": "2-yr high: Inflation bites hard as Modi govt faces heat",
+      "blurb": "Retail inflation hit 5.54% in September while food inflation surged to 9.24%, squeezing household budgets ahead of the festive season."
+    },
+    {
+      "page": 1,
+      "index": 6,
+      "kind": "news",
+      "scope": "india",
+      "headline": "How world media spotlights Modi govt's protest crackdown",
+      "blurb": "International outlets including The New York Times, The Guardian, Financial Times, Associated Press and The Wall Street Journal reported on the government's response to protests over the election commission and voter rolls."
+    },
+    {
+      "page": 1,
+      "index": 7,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Skies over Saudi capital empty after deadly Houthi strikes",
+      "blurb": "Flight operations at Riyadh's international airport were suspended after drone and missile strikes attributed to Houthi rebels."
+    },
+    {
+      "page": 1,
+      "index": 8,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Economics Nobel to Robert Hall, Woodford",
+      "blurb": "American economists Robert Hall and Michael Woodford were awarded the economics Nobel for work on stabilization models, the front page reported."
+    },
+    {
+      "page": 1,
+      "index": 9,
+      "kind": "news",
+      "scope": "india",
+      "headline": "CJP: Dictator has a problem with people protesting",
+      "blurb": "Cockroach Janta Party founder Abhijeet Dipke said a dictator had a problem with people protesting after Delhi Police dropped Jantar Mantar as a designated protest site."
+    },
+    {
+      "page": 2,
+      "index": 1,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "HC cancels hike in SC, ST reservation from 18% to 24%",
+      "blurb": "The Karnataka High Court quashed the state's move to raise Scheduled Caste and Scheduled Tribe reservation from 18% to 24%, holding it breached the overall 50% reservation ceiling."
+    },
+    {
+      "page": 2,
+      "index": 2,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Leopard mauls 62-year-old farmer to death, sparks protest",
+      "blurb": "A 62-year-old farmer was killed by a leopard while working in his field in Ramanagara district, prompting local protests over human-wildlife conflict."
+    },
+    {
+      "page": 2,
+      "index": 3,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Two Andhra women arrested for stealing gold jewellery",
+      "blurb": "Police in Chitradurga arrested two women from Andhra Pradesh for allegedly stealing gold ornaments from a co-passenger on a KSRTC bus."
+    },
+    {
+      "page": 3,
+      "index": 1,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "'CAN'T STIFLE OUR VOICES'",
+      "blurb": "Police detained Congress supporters protesting Chief Election Commissioner Gyanesh Kumar over alleged electoral-roll irregularities at Freedom Park in Bengaluru on Monday."
+    },
+    {
+      "page": 3,
+      "index": 2,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "M'luru in the running for 50-acre cricket hub",
+      "blurb": "Mangaluru Urban Development Authority and Karnataka State Cricket Association are evaluating government land parcels of about 25–50 acres, including sites near Kenjar, Gurupura bridge and New Mangaluru Port Authority, for a proposed cricket stadium."
+    },
+    {
+      "page": 3,
+      "index": 3,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Dasara vs exams: Protesting St Agnes students demand festival break",
+      "blurb": "St Agnes College students protested management's decision to hold examinations during Dasara, with ABVP backing their demand for a festival break."
+    },
+    {
+      "page": 3,
+      "index": 4,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Drunk-driving Mini Cooper crash kills 3, including M'luru youth",
+      "blurb": "Three people died in Nedumbassery, Kochi, when a Mini Cooper allegedly driven under the influence by Suhail Sajeer hit a two-wheeler; a Mangaluru youth was among the victims."
+    },
+    {
+      "page": 3,
+      "index": 5,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Man kills wife over suspected infidelity, arrested in Mangaluru",
+      "blurb": "Kavoor police arrested a 40-year-old man for allegedly stabbing his wife to death in their rented house at Uruladi Gudde over suspected infidelity."
+    },
+    {
+      "page": 3,
+      "index": 6,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Rare two-year-old male black leopard trapped in cage",
+      "blurb": "Forest officials trapped a rare black leopard in Shirlalu village, Belthangady, and planned to release it into protected forest after a health check."
+    },
+    {
+      "page": 3,
+      "index": 7,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "'Digital arrest' scam strips farmer of ₹1.31 cr",
+      "blurb": "A 52-year-old farmer from Puttur lost ₹1.31 crore to fraudsters posing as Mumbai Police and ATS officers who claimed he was linked to terrorist money laundering."
+    },
+    {
+      "page": 3,
+      "index": 8,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Mangaluru Junction steps up cleanliness drive with four-stream waste segregation awareness",
+      "blurb": "South Western Railway organised a Swachhata Pakhwada drive at Mangaluru Junction, promoting four-stream waste segregation among passengers and staff."
+    },
+    {
+      "page": 4,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Dipke decries 'mental torture' by police",
+      "blurb": "CJP founder Abhijeet Dipke said he and his family faced mental torture during Delhi Police detention after he was held at Delhi airport on October 10."
+    },
+    {
+      "page": 4,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Rahul putting 'ultra-Leftist' mindset in India, says Fadnavis",
+      "blurb": "Maharashtra Deputy Chief Minister Devendra Fadnavis accused Rahul Gandhi of pushing an ultra-Leftist mindset in the country."
+    },
+    {
+      "page": 4,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "MPSC chief going on leave big victory for students: Rahul",
+      "blurb": "Rahul Gandhi called the Maharashtra Public Service Commission chairman going on leave a victory for students protesting alleged irregularities in recruitment."
+    },
+    {
+      "page": 4,
+      "index": 4,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Notice against jeweller for fraud",
+      "blurb": "A special CBI court issued a proclamation against billionaire jeweller Jatin Mehta, his wife and son in a bank fraud case involving ₹146.35 crore."
+    },
+    {
+      "page": 4,
+      "index": 5,
+      "kind": "news",
+      "scope": "india",
+      "headline": "DEVOTION IN UNISON",
+      "blurb": "Devotees recited the Sri Suktam collectively during Navaratri celebrations at Mahalaxmi Temple in Pune on Monday."
+    },
+    {
+      "page": 4,
+      "index": 6,
+      "kind": "news",
+      "scope": "india",
+      "headline": "CM Naidu launches Rs 3,222 cr projects",
+      "blurb": "Andhra Pradesh Chief Minister N Chandrababu Naidu launched development projects worth ₹3,222 crore in Tirupati, including pilgrim accommodation and city infrastructure."
+    },
+    {
+      "page": 4,
+      "index": 7,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Ex-security guard 'killed' minor girl in gated community",
+      "blurb": "Hyderabad police arrested a former security guard for kidnapping and murdering a five-year-old girl; her body was found in a water sump in the gated community's clubhouse."
+    },
+    {
+      "page": 4,
+      "index": 8,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Two students drown while picking lotus flowers",
+      "blurb": "Two students drowned in a pond at Uppugundur in Andhra Pradesh while collecting lotus flowers for a festival."
+    },
+    {
+      "page": 4,
+      "index": 9,
+      "kind": "news",
+      "scope": "india",
+      "headline": "T'gana BJP prez slams Cong over farmer distress",
+      "blurb": "Telangana BJP president Bandi Sanjay Kumar accused the Congress government of neglecting farmers' issues and the state's agricultural crisis."
+    },
+    {
+      "page": 4,
+      "index": 10,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Tyeb Mehta's 'Rickshaw Puller' sells for Rs 69.1 crore",
+      "blurb": "Tyeb Mehta's 2002 painting \"Rickshaw Puller\" sold for ₹69.1 crore at auction, surpassing his previous record of ₹61.80 crore set by \"Trussed Bull\"."
+    },
+    {
+      "page": 5,
+      "index": 1,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "25 Cong MLAs, including ministers, will join BJP if polls held now: Vijayendra",
+      "blurb": "Karnataka BJP leader B Y Vijayendra claimed 25 Congress MLAs, including cabinet ministers, would defect to the BJP if elections were held now, challenging the Congress government on finances and administration."
+    },
+    {
+      "page": 5,
+      "index": 2,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "DKS backs Rahul Gandhi's march to top court",
+      "blurb": "Deputy Chief Minister D K Shivakumar backed Rahul Gandhi's Delhi march to protect democratic institutions and the sanctity of every vote."
+    },
+    {
+      "page": 5,
+      "index": 3,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "'Does becoming DC give her horns?' HDK slams Hassan DC",
+      "blurb": "Union Minister H D Kumaraswamy sharply criticised Hassan Deputy Commissioner over an administrative order involving the Superintendent of Police, questioning her conduct."
+    },
+    {
+      "page": 5,
+      "index": 4,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Youth Cong, NSUI activists show black flags to Somanna",
+      "blurb": "Youth Congress and NSUI activists waved black flags at Union Minister V Somanna in Shivamogga protesting alleged irregularities in electoral rolls."
+    },
+    {
+      "page": 5,
+      "index": 5,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Khandre directs action over delay in wage payments under VB-G RAM-G scheme",
+      "blurb": "Rural Development Minister Eshwar Khandre ordered show-cause notices over delayed wage payments under rural employment schemes, regretting that workers were migrating in search of work."
+    },
+    {
+      "page": 5,
+      "index": 6,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "SEEKING A BETTER DEAL",
+      "blurb": "ASHA workers protested at Freedom Park in Bengaluru demanding a monthly incentive of ₹15,000 and release of outstanding payments."
+    },
+    {
+      "page": 5,
+      "index": 7,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "BJP Mahila Morcha members detained over harassment protest",
+      "blurb": "BJP Mahila Morcha members were detained in Bidar while protesting against a Congress MP over allegations of sexual harassment and professional misconduct."
+    },
+    {
+      "page": 5,
+      "index": 8,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Medical miracle at Sakrebayalu: Drona, the elephant recovers from leg fracture",
+      "blurb": "Veterinarians at the Sakrebayalu elephant camp in Shivamogga treated 30-year-old elephant Drona with a fiberglass cast for a leg fracture sustained in its kraal, described as a first for a large adult elephant in India."
+    },
+    {
+      "page": 6,
+      "index": 1,
+      "kind": "opinion",
+      "scope": "india",
+      "headline": "Nobody wants to wait until 2047 for BJP's imaginary Viksit Bharat (Opinion)",
+      "blurb": "Commentator Sanjay K Jha argues that after a decade in power the Modi-Shah team lacks intellectually sound counter-arguments to public and opposition demands amid Delhi security barricades during CJP protests."
+    },
+    {
+      "page": 6,
+      "index": 2,
+      "kind": "opinion",
+      "scope": "india",
+      "headline": "Draconian clampdown against democratic dissent (Opinion)",
+      "blurb": "The page argues a Delhi lockdown against Cockroach Janta Party protesters challenging the Narendra Modi government and CEC Gyanesh Kumar reflects a design to protect the commissioner through a capital-wide clampdown."
+    },
+    {
+      "page": 6,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Misleading AI fake videos of Delhi protests",
+      "blurb": "Truth Trail reports AI-generated visuals are being falsely circulated as genuine footage of protests against the Election Commission."
+    },
+    {
+      "page": 6,
+      "index": 4,
+      "kind": "opinion",
+      "scope": "india",
+      "headline": "Modi needs a new slogan, not Viksit Bharat (Opinion)",
+      "blurb": "Political editor D K Singh writes that Narendra Modi's promise of a $5 trillion economy by 2022 morphed into the Viksit Bharat project and that his speechwriters appear out of fresh ideas."
+    },
+    {
+      "page": 6,
+      "index": 5,
+      "kind": "opinion",
+      "scope": "karnataka",
+      "headline": "Karnataka celebrates its pride (Opinion)",
+      "blurb": "Letter writer Dr Zahiruddin Ahmed of Bengaluru reflects on the state's cultural heritage and recent celebrations."
+    },
+    {
+      "page": 6,
+      "index": 6,
+      "kind": "opinion",
+      "scope": "karnataka",
+      "headline": "Rise in dengue cases (Opinion)",
+      "blurb": "Letter writer George Joseph of Bengaluru highlights a surge in dengue cases in Bengaluru and calls for stronger civic action."
+    },
+    {
+      "page": 7,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Jantar Mantar: Legacy of dissent, testament to democracy",
+      "blurb": "A Press Trust of India retrospective traces Jantar Mantar's history as a central site for public protest and democratic expression in New Delhi."
+    },
+    {
+      "page": 7,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "PM-HM is poisonous pair of India: Cong on Jantar Mantar move",
+      "blurb": "Congress general secretary Jairam Ramesh called the Prime Minister and Home Minister a \"poisonous pair\" over denotifying Jantar Mantar, saying what matters to them is \"demokursi\" and signalling extreme panic."
+    },
+    {
+      "page": 7,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Trade bodies oppose Ramlila Maidan as protest site",
+      "blurb": "Trade and transport bodies including CTI and AIMTC opposed shifting protests to Ramlila Maidan and Burari Ground, citing commercial disruption in Old Delhi."
+    },
+    {
+      "page": 7,
+      "index": 4,
+      "kind": "news",
+      "scope": "india",
+      "headline": "'Unacceptable': CJP on Jantar Mantar being denotified",
+      "blurb": "Citizens for Justice and Peace co-convenor Saurav Das called denotifying Jantar Mantar without stakeholder consultation unacceptable."
+    },
+    {
+      "page": 7,
+      "index": 5,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Cong losing due to its leadership not EC: BJP",
+      "blurb": "Union Minister Shivraj Singh Chouhan said Congress electoral losses stem from visionless leadership rather than Election Commission actions."
+    },
+    {
+      "page": 7,
+      "index": 6,
+      "kind": "news",
+      "scope": "india",
+      "headline": "CRPF personnel pounced on me, says Brittas",
+      "blurb": "CPI(M) MP John Brittas alleged CRPF personnel manhandled him during a protest outside the Election Commission office."
+    },
+    {
+      "page": 7,
+      "index": 7,
+      "kind": "news",
+      "scope": "india",
+      "headline": "NE monsoon to hit south soon",
+      "blurb": "The IMD said conditions were favourable for the Northeast monsoon to onset over southern India, including Tamil Nadu, Puducherry and Kerala, within three days."
+    },
+    {
+      "page": 7,
+      "index": 8,
+      "kind": "news",
+      "scope": "india",
+      "headline": "AIADMK vote share dips; deepens crisis in party",
+      "blurb": "By-election results in Madurai-West and Dharapuram showed a sharp drop in AIADMK vote share, deepening internal crisis in the Tamil Nadu party."
+    },
+    {
+      "page": 7,
+      "index": 9,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Aradhana Mona takes over as UP Cong chief",
+      "blurb": "Aradhana Misra 'Mona' formally took charge as Uttar Pradesh Congress Committee president at a Lucknow event amid internal tensions."
+    },
+    {
+      "page": 8,
+      "index": 1,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "SLEEP & CHILDHOOD TYPE 2 DIABETES What's the connection?",
+      "blurb": "A Wellness Trail piece explains how inadequate sleep in children affects hormones, hunger, cortisol and insulin sensitivity, linking poor rest to higher Type 2 diabetes and obesity risk."
+    },
+    {
+      "page": 8,
+      "index": 2,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "Navratri fasting Balancing faith with good health",
+      "blurb": "The feature advises devotees to stay hydrated and avoid overeating junk or sweets while fasting during Navaratri."
+    },
+    {
+      "page": 8,
+      "index": 3,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "Unlocking the power of hair rinses for scalp & strand health",
+      "blurb": "The article describes natural hair rinses, including coconut milk and apple cider vinegar recipes, as clarifying treatments for scalp and strand health."
+    },
+    {
+      "page": 8,
+      "index": 4,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "Foods that contain more proteins than egg",
+      "blurb": "The brief notes dried spirulina provides about eight grams of protein in two tablespoons and recommends yogurt for protein and probiotics."
+    },
+    {
+      "page": 9,
+      "index": 1,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Managing economic shocks: Bank of Sweden Prize in Economics bagged by Hall and Woodford",
+      "blurb": "Robert E Hall and Michael Woodford won the Nobel Memorial Prize in Economic Sciences for research on models that help governments and central banks manage economic shocks."
+    },
+    {
+      "page": 9,
+      "index": 2,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Skies over Riyadh empty after Houthi airport strikes",
+      "blurb": "Operations at Riyadh international airport were suspended after Houthi drone and missile strikes."
+    },
+    {
+      "page": 9,
+      "index": 3,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Countries warn against travel to Saudi Arabia",
+      "blurb": "The United States, Australia, Canada, Japan, South Korea and New Zealand issued travel advisories after attacks on Saudi Arabia."
+    },
+    {
+      "page": 9,
+      "index": 4,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Energy ceasefire is being violated: Zelenskyy",
+      "blurb": "Ukrainian President Volodymyr Zelenskyy said Russia continued striking Ukraine's energy infrastructure despite reports of a potential ceasefire deal."
+    },
+    {
+      "page": 9,
+      "index": 5,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Lebanon's PM vows probe on explosives",
+      "blurb": "Lebanese authorities investigated a truck laden with explosives intercepted at the Dahr-el-Baidar checkpoint, allegedly linked to Hezbollah."
+    },
+    {
+      "page": 9,
+      "index": 6,
+      "kind": "news",
+      "scope": "india",
+      "headline": "2 merchant ships with 22 Indians attacked",
+      "blurb": "Two commercial vessels in the Strait of Hormuz were attacked; MT Petro Dolphin was reportedly hit by a drone and 11 Indian seafarers were missing."
+    },
+    {
+      "page": 9,
+      "index": 7,
+      "kind": "news",
+      "scope": "international",
+      "headline": "US Senators question legality of Trump's Russian oil imports",
+      "blurb": "A bipartisan group of US senators challenged President Trump's decision allowing Russian diesel imports, saying it conflicts with laws punishing Russia for the Ukraine war."
+    },
+    {
+      "page": 9,
+      "index": 8,
+      "kind": "news",
+      "scope": "international",
+      "headline": "France's far-left prez candidate cheers Gen Z",
+      "blurb": "Jean-Luc Melenchon rallied in support of a high-school protest movement against selective university admissions."
+    },
+    {
+      "page": 9,
+      "index": 9,
+      "kind": "news",
+      "scope": "international",
+      "headline": "North Korea fires multiple ballistic missiles in tests",
+      "blurb": "Pyongyang launched ballistic missiles toward the eastern sea, the Globe in Snaps brief reported."
+    },
+    {
+      "page": 9,
+      "index": 10,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Pope will undergo lung nodule surgery: Vatican",
+      "blurb": "The Vatican said Pope Francis was scheduled for surgery to remove a lung nodule."
+    },
+    {
+      "page": 9,
+      "index": 11,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Mittal conferred France's highest civilian award",
+      "blurb": "Bharti Enterprises chairman Sunil Bharti Mittal received France's Legion d'Honneur."
+    },
+    {
+      "page": 10,
+      "index": 1,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "THE SECRET SOCIAL LIVES OF PLANTS",
+      "blurb": "Learning Trail explains plant communication through mycorrhizal networks, chemical distress signals and tactile responses, citing the \"wood wide web\" metaphor."
+    },
+    {
+      "page": 10,
+      "index": 2,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "THE SELF-HELP BOOM",
+      "blurb": "The feature traces rising Gen Z interest in self-help books and coaches, the genre's history and the lack of regulation compared with mental-health professionals."
+    },
+    {
+      "page": 10,
+      "index": 3,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "Cheap is not always the best choice",
+      "blurb": "A consumer column warns against the bargain trap, urging readers to weigh durability and long-term value beyond the MRP."
+    },
+    {
+      "page": 10,
+      "index": 4,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "Matcha: Taste or aesthetic?",
+      "blurb": "The piece examines matcha lattes as a social-media lifestyle trend driven by wellness aesthetics rather than taste alone."
+    },
+    {
+      "page": 11,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Trade body flags online-offline price gap in e-com sales",
+      "blurb": "Trade body CWBTA flagged concerns over predatory online pricing during festive e-commerce sales compared with offline retailers."
+    },
+    {
+      "page": 11,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "India-EU FTA to make deeper alliance: Czech Min",
+      "blurb": "A Czech minister said the proposed India-European Union free trade agreement would deepen bilateral ties."
+    },
+    {
+      "page": 11,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Equity MFs surge 31% to Rs 38,306 cr in Sep",
+      "blurb": "Equity mutual fund inflows rose 31% to ₹38,306 crore in September while SIP contributions reached a record ₹24,490 crore."
+    },
+    {
+      "page": 11,
+      "index": 4,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "India's biggest office leasing mkt B'luru sees 26% fall",
+      "blurb": "Knight Frank data showed Bengaluru office leasing fell 26% in the July-September quarter."
+    },
+    {
+      "page": 11,
+      "index": 5,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Puravankara to build project in B'luru",
+      "blurb": "Puravankara Ltd signed a joint development agreement for a North Bengaluru residential project with about ₹2,500 crore revenue potential."
+    },
+    {
+      "page": 11,
+      "index": 6,
+      "kind": "news",
+      "scope": "india",
+      "headline": "India shields city gas users as Hormuz crisis threatens South Asia's LNG demand",
+      "blurb": "The report said India was managing gas supplies to protect city-gas consumers as Strait of Hormuz tensions threatened LNG shipments to South Asia."
+    },
+    {
+      "page": 11,
+      "index": 7,
+      "kind": "news",
+      "scope": "india",
+      "headline": "TCS to hire 80% workforce with digital, AI skills",
+      "blurb": "Tata Consultancy Services said it aims for 80% of new hires to have digital and artificial-intelligence skills."
+    },
+    {
+      "page": 11,
+      "index": 8,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "LTTS opens NVIDIA backed AI lab in B'luru",
+      "blurb": "L&T Technology Services opened an NVIDIA-backed AI Experience Zone in Bengaluru focused on digital twins and generative AI for manufacturing."
+    },
+    {
+      "page": 11,
+      "index": 9,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Tata Power Renewable adds 419-MW capacity",
+      "blurb": "Tata Power Renewable Energy Ltd added 419 MW of utility-scale capacity in the first half of the fiscal year."
+    },
+    {
+      "page": 11,
+      "index": 10,
+      "kind": "news",
+      "scope": "india",
+      "headline": "India top priority for Renault: Group CEO",
+      "blurb": "Renault Group CEO Luca de Meo said India is a top priority for hybrid and electric vehicle strategy."
+    },
+    {
+      "page": 11,
+      "index": 11,
+      "kind": "news",
+      "scope": "india",
+      "headline": "India fastest-growing market: Worldsteel",
+      "blurb": "The World Steel Association identified India as the fastest-growing major market driving global steel demand."
+    },
+    {
+      "page": 12,
+      "index": 1,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Man City silence Anfield jeers with 3-0 PL win",
+      "blurb": "Manchester City beat Liverpool 3-0 at Anfield with goals from Erling Haaland, Jeremy Doku and Rayan Cherki despite fan jeers over financial-breach findings; Liverpool's Ryan Gravenberch was sent off."
+    },
+    {
+      "page": 12,
+      "index": 2,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Kart Republic: Atiqa Mir joins outfit that grooms F1 stars",
+      "blurb": "Eleven-year-old Indian racer Atiqa Mir joined Kart Republic, a team led by Dino Chiesa that has developed Formula One drivers including Lewis Hamilton and Lando Norris."
+    },
+    {
+      "page": 12,
+      "index": 3,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Lazio flying high in Serie A, Freiburg leads Bundesliga",
+      "blurb": "Lazio topped Italy's Serie A after beating Monza while Freiburg led the German Bundesliga; AC Milan drew in other European results."
+    },
+    {
+      "page": 12,
+      "index": 4,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "American pacer Tara Norris traded to Mumbai Indians",
+      "blurb": "USA left-arm pacer Tara Norris was traded from UP Warriorz to Mumbai Indians for the upcoming Women's Premier League season."
+    },
+    {
+      "page": 12,
+      "index": 5,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Powell, Rutherford reprimanded for breaching ICC Code",
+      "blurb": "West Indies batters Rovman Powell and Sherfane Rutherford received Level 1 ICC Code of Conduct reprimands during a T20 International against India in Ranchi."
+    },
+    {
+      "page": 12,
+      "index": 6,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Sindhu faces An Se-young acid test in Denmark Open",
+      "blurb": "Two-time Olympic medallist P V Sindhu was set to face top seed An Se-young in the opening round of the Denmark Open in Odense."
+    },
+    {
+      "page": 12,
+      "index": 7,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "They had a plan, but I had to play better than that: Abhishek",
+      "blurb": "Abhishek Sharma said opponents had a plan against him but he needed to bat better after a T20 against West Indies in Indore."
+    },
+    {
+      "page": 12,
+      "index": 8,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Suspended from Portugal team, Ronaldo claims he is the best in history",
+      "blurb": "Cristiano Ronaldo said he is football's greatest player despite suspension from Portugal's national team after a dispute with manager Jorge Jesus; the page compared career goals, Ballon d'Ors and World Cup records with Lionel Messi."
+    }
+  ]
+}
