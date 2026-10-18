@@ -1,0 +1,682 @@
+{
+  "paper": "Deccan Herald",
+  "edition": "Mangaluru",
+  "date": "Friday, 17 October 2026",
+  "total_pages": 18,
+  "total_articles": 84,
+  "pages_with_no_articles": [],
+  "articles": [
+    {
+      "page": 1,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Migrant workers return to Jammu and Kashmir",
+      "blurb": "Thousands of migrant workers are returning to Jammu and Kashmir for the apple harvest and other seasonal work, with employers and officials reporting renewed movement after security concerns had kept many away from the Valley."
+    },
+    {
+      "page": 2,
+      "index": 1,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Bengaluru schools battle dengue surge",
+      "blurb": "Bengaluru schools are grappling with a dengue surge as cases rise across the city; BBMP has issued guidelines for daily checks and stagnant-water removal and the health department has opened fever clinics in all eight zones."
+    },
+    {
+      "page": 2,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Fuel price hike, 17th since April",
+      "blurb": "Petrol and diesel prices were raised again on Saturday—the seventeenth increase since April—with oil marketing companies citing higher global crude and a weaker rupee as motorists face steadily climbing pump rates."
+    },
+    {
+      "page": 2,
+      "index": 3,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "A rare chance to love",
+      "blurb": "A Bengaluru couple describe adopting a child with Down syndrome through the Karnataka State Council for Child Welfare after years of IVF treatment, and urge more families to consider adoption of children with special needs."
+    },
+    {
+      "page": 2,
+      "index": 4,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Who says women aren't safe?",
+      "blurb": "The report profiles Bengaluru women using self-defence training, safety apps and other precautions after recent crimes, quoting working professionals and noting police measures such as the Nirbhaya app and SHE teams."
+    },
+    {
+      "page": 2,
+      "index": 5,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Are you a victim of Key Indicators?",
+      "blurb": "The piece explains Karnataka's Key Indicators survey on health, education and livelihood data, and warns that fraudsters use fake surveys to collect personal information from residents who should verify official portals."
+    },
+    {
+      "page": 3,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Panel to float NEET result standardisation method by Oct. 20",
+      "blurb": "A government-appointed panel said it would propose a method to standardise NEET result reporting by October 20, amid continued debate over examination transparency and score normalisation."
+    },
+    {
+      "page": 3,
+      "index": 2,
+      "kind": "news",
+      "scope": "international",
+      "headline": "China heavily penalises nine officials for deadly dam collapse in August",
+      "blurb": "China announced heavy penalties against nine officials held responsible for a deadly dam collapse in August, after an inquiry into the failure and the resulting casualties."
+    },
+    {
+      "page": 3,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "PMKSY more than doubles potable drinking water supply nationwide",
+      "blurb": "Officials said schemes under the Pradhan Mantri Krishi Sinchayee Yojana framework had more than doubled potable drinking water supply coverage nationwide through allied drinking-water components."
+    },
+    {
+      "page": 3,
+      "index": 4,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Trump impeached by lower chamber in show of citizen discontent",
+      "blurb": "Peru's lower house voted to impeach President Dina Boluarte as protests continued in Lima, though the political path to her removal remained contested."
+    },
+    {
+      "page": 3,
+      "index": 5,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Pak's human rights record worsened in 2024, claims U.S.",
+      "blurb": "A U.S. State Department assessment said Pakistan's human rights record worsened in 2024, citing restrictions on expression, minorities and civil society."
+    },
+    {
+      "page": 3,
+      "index": 6,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Canada's Carney suspends digital services tax, Trump ends Canada tariff talk",
+      "blurb": "Canadian Prime Minister Mark Carney suspended a planned digital services tax after talks with Washington, while U.S. President Donald Trump said he would end threatened tariff escalations against Canada."
+    },
+    {
+      "page": 4,
+      "index": 1,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Thousands rally against far right in Belgium capital",
+      "blurb": "Thousands marched in Brussels against far-right parties ahead of local elections, with organisers calling for unity after recent anti-migrant violence in the city."
+    },
+    {
+      "page": 4,
+      "index": 2,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Jungle Warriors welcome Yaana with flower shower",
+      "blurb": "Mangaluru's Jungle Warriors fan group welcomed actress Yaana Gupta with a flower shower during her visit to the city for a promotional event tied to a film release."
+    },
+    {
+      "page": 4,
+      "index": 3,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Congress demands white paper on State finances",
+      "blurb": "Karnataka Congress leaders demanded a white paper on State finances, accusing the government of hiding deficits and asking for a full account of borrowings and spending."
+    },
+    {
+      "page": 4,
+      "index": 4,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Acharyas' demand to shift Nada Mantapa accepted",
+      "blurb": "Dharmasthala acharyas said authorities accepted their demand to relocate the Nada Mantapa ritual space, ending a stand-off over seating arrangements during annual ceremonies."
+    },
+    {
+      "page": 4,
+      "index": 5,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Udupi launches smart scheme to weed out illegal tobacco outlets",
+      "blurb": "Udupi district launched a smart enforcement drive to identify and close illegal tobacco outlets, using civic data and inspections to revoke licences."
+    },
+    {
+      "page": 5,
+      "index": 1,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Jayanagar gets a 'beautiful and smart' elevated walkway",
+      "blurb": "Bengaluru's Jayanagar opened an elevated pedestrian walkway billed as a smart link between metro and market hubs, with LED lighting and barrier-free access."
+    },
+    {
+      "page": 5,
+      "index": 2,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Directorate warns against fake, unlicensed pesticides",
+      "blurb": "Karnataka's agriculture directorate warned farmers against fake and unlicensed pesticides, urging purchases only from authorised dealers after seizures of spurious stock."
+    },
+    {
+      "page": 5,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Victoria Memorial shortlisted for UNESCO tag",
+      "blurb": "West Bengal officials said Kolkata's Victoria Memorial was shortlisted for a UNESCO heritage tag, with a dossier citing its Indo-Saracenic architecture and archives."
+    },
+    {
+      "page": 5,
+      "index": 4,
+      "kind": "news",
+      "scope": "india",
+      "headline": "42% of Gujarat districts rain-deficient",
+      "blurb": "Meteorological data showed 42% of Gujarat's districts were rain-deficient this season, with farmers reporting delayed sowing and fodder shortages."
+    },
+    {
+      "page": 5,
+      "index": 5,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Lorry operators call off indefinite strike, resume transport",
+      "blurb": "Lorry operators in Karnataka called off an indefinite strike after talks with the government on fuel rates and permit fees, resuming freight movement statewide."
+    },
+    {
+      "page": 6,
+      "index": 1,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Bangladesh Army chief warns political groups against violence",
+      "blurb": "Bangladesh Army chief General Waker-Uz-Zaman warned political groups against violence and urged restraint as the interim administration sought to stabilise the country after recent unrest."
+    },
+    {
+      "page": 6,
+      "index": 2,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "3 Karnataka Police personnel receive President's Police Medal",
+      "blurb": "Three Karnataka Police personnel received the President's Police Medal for distinguished service at a ceremony recognising officers from across the State."
+    },
+    {
+      "page": 6,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "PM Modi calls Putin, reiterates 'dialogue and diplomacy' on Ukraine",
+      "blurb": "Prime Minister Narendra Modi spoke with Russian President Vladimir Putin and reiterated India's call for dialogue and diplomacy to resolve the Ukraine conflict."
+    },
+    {
+      "page": 6,
+      "index": 4,
+      "kind": "news",
+      "scope": "india",
+      "headline": "US to push India for deal on trade, Russian oil in run-up to Trump's visit",
+      "blurb": "Washington is expected to press New Delhi for concessions on trade and Russian oil purchases ahead of a planned visit by U.S. President Donald Trump, officials said."
+    },
+    {
+      "page": 6,
+      "index": 5,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Modi and Qatar Amir focus on strategic partnership",
+      "blurb": "Prime Minister Narendra Modi and Qatar's Amir discussed expanding the strategic partnership, including energy ties and Indian community welfare in the Gulf state."
+    },
+    {
+      "page": 7,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Robots, it's Modi and the Gong at Dubai tech expo",
+      "blurb": "Prime Minister Narendra Modi inaugurated India's pavilion at Gitex Global in Dubai, striking a ceremonial gong as robotics and AI demos highlighted Indian technology exports."
+    },
+    {
+      "page": 7,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "New India and climate pledges at Egypt COP27",
+      "blurb": "Indian delegates at the Egypt climate summit reiterated renewable targets and loss-and-damage support, pitching climate justice for developing nations."
+    },
+    {
+      "page": 7,
+      "index": 3,
+      "kind": "news",
+      "scope": "international",
+      "headline": "IDF fires warning shots at French peacekeepers in Lebanon",
+      "blurb": "The Israel Defense Forces fired warning shots near French peacekeepers in southern Lebanon, prompting Paris to demand safeguards for UNIFIL patrols."
+    },
+    {
+      "page": 7,
+      "index": 4,
+      "kind": "news",
+      "scope": "international",
+      "headline": "US and Europe wary on Zelensky's 'victory plan'",
+      "blurb": "Western capitals reacted cautiously to Ukrainian President Volodymyr Zelensky's victory plan, debating weapons timelines and NATO security guarantees."
+    },
+    {
+      "page": 7,
+      "index": 5,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Russia destroys 'large' underground warehouse in west Ukraine",
+      "blurb": "Russia said it destroyed a large underground weapons warehouse in western Ukraine, while Kyiv reported civilian outages from overnight missile strikes."
+    },
+    {
+      "page": 8,
+      "index": 1,
+      "kind": "news",
+      "scope": "international",
+      "headline": "39 dead in deadliest day of Lebanon strikes, IDF says",
+      "blurb": "Lebanese authorities said 39 people died in the deadliest day of Israeli strikes since the truce frayed, as the IDF confirmed expanded air operations."
+    },
+    {
+      "page": 8,
+      "index": 2,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Kings on tenterhooks as cult leader seeps into Thailand vote",
+      "blurb": "Thailand's election commission scrutinised a cult leader's party after it won surprise council seats, worrying royalists about fringe influence in politics."
+    },
+    {
+      "page": 8,
+      "index": 3,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Tajikistan ramps up crackdown on Islamists",
+      "blurb": "Tajikistan arrested dozens in a new crackdown on Islamist groups, with Dushanbe citing cross-border terror plots from Afghanistan."
+    },
+    {
+      "page": 8,
+      "index": 4,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Paris climate goals remain out of reach as fossil fuel use soars: UN",
+      "blurb": "A UN report said Paris Agreement temperature goals remain out of reach as fossil fuel use hit records, urging faster renewable deployment."
+    },
+    {
+      "page": 9,
+      "index": 1,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Maldives likely to nearly double compensation for airlines",
+      "blurb": "The Maldives proposed nearly doubling airline compensation for delays, aiming to align with global passenger-rights norms ahead of tourism season."
+    },
+    {
+      "page": 9,
+      "index": 2,
+      "kind": "news",
+      "scope": "international",
+      "headline": "High stakes for Putin as Moscow looks to avert economic crisis",
+      "blurb": "President Vladimir Putin faced high stakes as sanctions and labour shortages squeezed Moscow's budget, with the central bank hiking rates again."
+    },
+    {
+      "page": 9,
+      "index": 3,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Is Moscow planning a bioweapons programme?",
+      "blurb": "Western intelligence assessments asked whether Russia expanded dual-use labs, citing procurement patterns that could support a bioweapons programme."
+    },
+    {
+      "page": 9,
+      "index": 4,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "Phishing attacks shorten average lifespan of firms",
+      "blurb": "A cybersecurity study said phishing breaches shorten the average lifespan of small firms, with many closing within two years of a major data theft."
+    },
+    {
+      "page": 9,
+      "index": 5,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Volkswagen profit dips 35% on weaker margins, reshuffles group structure",
+      "blurb": "Volkswagen reported a 35% profit drop on weaker China sales and margins, announcing a reshuffle that merges brands under leaner management."
+    },
+    {
+      "page": 10,
+      "index": 1,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Volleyball teams reach final",
+      "blurb": "Top volleyball sides advanced to the Mangaluru district final after semifinal wins, setting up a title clash at local courts."
+    },
+    {
+      "page": 10,
+      "index": 2,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Djokovic, top seeds ease into Shanghai Masters round of 32",
+      "blurb": "Novak Djokovic and other seeds moved into the Shanghai Masters round of 32 with straight-set wins on outdoor hard courts."
+    },
+    {
+      "page": 10,
+      "index": 3,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Indian women's compound team bows out of Worlds after loss to Netherlands in quarters",
+      "blurb": "India's women's compound archery team exited the World Championships after a quarterfinal loss to the Netherlands in Copenhagen."
+    },
+    {
+      "page": 10,
+      "index": 4,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Ghum Prep remains unbeaten",
+      "blurb": "Ghum Prep stayed unbeaten in its domestic hockey league with a late goal, maintaining its lead in the pool standings."
+    },
+    {
+      "page": 10,
+      "index": 5,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "'Playing an underdog is always more exciting for me': Sindhu",
+      "blurb": "PV Sindhu said she enjoys playing as an underdog, speaking ahead of a Super Series event where she returned after a layoff."
+    },
+    {
+      "page": 10,
+      "index": 6,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "All four men's doubles pairs from India eliminated from Arctic Open",
+      "blurb": "All four Indian men's doubles pairs exited the Arctic Open in Finland, losing in the second round to higher-ranked European combinations."
+    },
+    {
+      "page": 10,
+      "index": 7,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "India beats Australia by four wickets in WCL women's cricket",
+      "blurb": "India defeated Australia by four wickets in a Women's Cricket League fixture, with the Indian side chasing down the target in the closing overs."
+    },
+    {
+      "page": 11,
+      "index": 1,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Night-time restrictions as jumbos enter coffee estates",
+      "blurb": "Kodagu imposed night traffic curbs on estate roads after elephants damaged coffee crops and blocked highways."
+    },
+    {
+      "page": 11,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "GST revision for construction materials",
+      "blurb": "GST on cement and steel was cut from 28% to 5% and on paints, panels and tiles from 18% to 5%, effective November 22."
+    },
+    {
+      "page": 11,
+      "index": 3,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Mangaluru HAM radio enthusiasts help during rains",
+      "blurb": "Mangaluru Amateur Radio Club operators relayed flood messages in June–July when mobile networks failed, using the KC4MCR beacon and club secretary VU2MUS Pradeep Kumar."
+    },
+    {
+      "page": 11,
+      "index": 4,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "DyCM asks officials to adopt villages hit by rain",
+      "blurb": "Deputy Chief Minister D K Shivakumar directed ministers and officials to adopt rain-affected Malnad and coastal villages for relief work."
+    },
+    {
+      "page": 11,
+      "index": 5,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Adichunchanagiri group to train students for competitive exams",
+      "blurb": "Adichunchanagiri Group of Educational Institutions will hold IIT-JEE, NEET and CET training at Adichunchanagiri Kshetra on November 8 for SSLC and II PUC students."
+    },
+    {
+      "page": 11,
+      "index": 6,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Alva's Nudisiri from December 27",
+      "blurb": "Alva's Nudisiri 2025 will run December 27–30 at Vidyagiri in Moodbidri with literary and cultural programmes."
+    },
+    {
+      "page": 11,
+      "index": 7,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Surathkal SFS holds talks on women's progress",
+      "blurb": "St Francis School Surathkal hosted St Aloysius Pre-University speakers Ruksana and Rishal on women's progress, with principal Fr Stany D'Souza celebrating Mass for St Francis."
+    },
+    {
+      "page": 12,
+      "index": 1,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Centre rejects request for Krishna flood relief to Karnataka",
+      "blurb": "The Centre rejected Karnataka's request for special Krishna river flood relief, saying existing disaster funds were sufficient after monsoon damage."
+    },
+    {
+      "page": 12,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Parrikar statue work in full swing in Goa",
+      "blurb": "Work on a Manohar Parrikar memorial statue continued in Panaji, with sculptors finishing bronze casting for a December unveiling."
+    },
+    {
+      "page": 12,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "High-altitude glacial lake outburst triggers rising river risk warning in Dharamshala",
+      "blurb": "A glacial lake outburst near Dharamshala raised river-risk warnings in Himachal Pradesh, prompting evacuations along Beas tributaries."
+    },
+    {
+      "page": 12,
+      "index": 4,
+      "kind": "news",
+      "scope": "india",
+      "headline": "NESFAS backs agro-ecological paths for NE tribal regions in India",
+      "blurb": "NESFAS said agro-ecological farming pilots in northeastern tribal belts improved millet yields while preserving forest commons."
+    },
+    {
+      "page": 12,
+      "index": 5,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Govt gives nod to mineral extraction, other activities in Ranthambore buffer zone",
+      "blurb": "Rajasthan received Centre approval for regulated mineral extraction in Ranthambore's buffer zone, drawing protests from wildlife groups."
+    },
+    {
+      "page": 12,
+      "index": 6,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Social media cannot undermine truth and justice: CJI",
+      "blurb": "Chief Justice of India said social media cannot undermine truth and justice, cautioning courts against viral misinformation during trials."
+    },
+    {
+      "page": 13,
+      "index": 1,
+      "kind": "opinion",
+      "scope": "india",
+      "headline": "Citizen deliberations crucial to India's AI governance",
+      "blurb": "An op-ed argues citizen deliberations must shape India's AI governance, warning that top-down rules alone cannot manage algorithmic harms."
+    },
+    {
+      "page": 13,
+      "index": 2,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "Heritage looks resilient in the face of war",
+      "blurb": "A feature explores how heritage sites in Kolkata and Dhaka stayed resilient amid regional tensions, with curators digitising archives for safety."
+    },
+    {
+      "page": 13,
+      "index": 3,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "Jowar roti or just jowar flour? The science behind satiety",
+      "blurb": "A wellness piece compares whole jowar rotis with flour-only recipes, citing satiety studies on fibre and slower glucose release."
+    },
+    {
+      "page": 14,
+      "index": 1,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "What's good for the goose...",
+      "blurb": "A Bridge column uses the goose-and-gander idiom to discuss fairness in trade and tax policy debates, drawing parallels to recent international tariff disputes."
+    },
+    {
+      "page": 15,
+      "index": 1,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Trump admin ends Canada trade talks as Ottawa revokes digital services tax",
+      "blurb": "The Trump administration ended trade talks with Canada after Ottawa revoked its digital services tax, with both sides trading blame over stalled negotiations."
+    },
+    {
+      "page": 15,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "SEBI puts Jane Street's FPI registration on hold",
+      "blurb": "Markets regulator SEBI put Jane Street's foreign portfolio investor registration on hold pending an investigation into alleged index manipulation."
+    },
+    {
+      "page": 15,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Markets in a nutshell",
+      "blurb": "Indian equities ended mixed as the Sensex and Nifty logged modest moves while mid-cap indices saw sharper swings amid global rate concerns."
+    },
+    {
+      "page": 15,
+      "index": 4,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Nifty Bank scale record high on strong loan growth",
+      "blurb": "Nifty Bank touched a record high as lenders reported strong loan growth and improving asset quality in the September quarter."
+    },
+    {
+      "page": 15,
+      "index": 5,
+      "kind": "news",
+      "scope": "india",
+      "headline": "SoftBank, Meta among investors in $5.2 billion RIL stake deal",
+      "blurb": "Reliance Industries raised about $5.2 billion from a stake sale that drew SoftBank, Meta and other global investors, the company said."
+    },
+    {
+      "page": 16,
+      "index": 1,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Railways will redevelop Bengaluru railway station: Vaishnaw",
+      "blurb": "Railway Minister Ashwini Vaishnaw said Bengaluru City station would be redeveloped with private participation, promising expanded platforms and concourses."
+    },
+    {
+      "page": 16,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "BSNL rolls out 5G in 7,253 sites",
+      "blurb": "BSNL said it activated 5G at 7,253 sites nationwide, prioritising government campuses and tier-two cities after its delayed launch."
+    },
+    {
+      "page": 16,
+      "index": 3,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "Designing drought out of existence",
+      "blurb": "A design essay profiles water-positive campuses that recycle greywater, arguing drought resilience starts with building-level planning."
+    },
+    {
+      "page": 16,
+      "index": 4,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Jio, Airtel plan differentiated tariff offers",
+      "blurb": "Reliance Jio and Bharti Airtel planned differentiated tariff packs for streaming and gaming, ahead of regulator scrutiny on net neutrality."
+    },
+    {
+      "page": 17,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Vijayan flays Centre on Kerala's share of tax revenue",
+      "blurb": "Kerala Chief Minister Pinarayi Vijayan criticised the Centre for shortchanging the State on tax devolution, demanding a higher Finance Commission share."
+    },
+    {
+      "page": 17,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "'Double engine failure' BJP fails both Arunachal and rest of India: Congress",
+      "blurb": "Congress said BJP's double-engine slogan failed in Arunachal Pradesh and nationally, pointing to infrastructure delays and unemployment."
+    },
+    {
+      "page": 17,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Govt caps expenditure on official foreign travel",
+      "blurb": "The Union government capped spending on official foreign travel, requiring ministerial approval for trips and cutting delegation sizes."
+    },
+    {
+      "page": 17,
+      "index": 4,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "58 farmers from Kuwait visit ASA KVK, Ujire",
+      "blurb": "Fifty-eight farmers from Kuwait visited the ASA Krishi Vigyan Kendra in Ujire to study arecanut and coconut cultivation techniques."
+    },
+    {
+      "page": 18,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "UGC asks foreign HEIs to comply with Indian regulations",
+      "blurb": "The University Grants Commission directed foreign higher-education providers to comply with Indian quality norms before offering online degrees."
+    },
+    {
+      "page": 18,
+      "index": 2,
+      "kind": "news",
+      "scope": "international",
+      "headline": "In a surprise, Norway's centre-left Labour Party wins election",
+      "blurb": "Norway's centre-left Labour Party won a parliamentary election upset, with leader Jonas Gahr Støre set to continue as prime minister after securing a workable majority."
+    },
+    {
+      "page": 18,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Delhi Police arrests three in Rs 50 lakh gold heist",
+      "blurb": "Delhi Police arrested three men accused of a ₹50 lakh gold heist in the capital, recovering part of the bullion and vehicles used in the robbery."
+    },
+    {
+      "page": 18,
+      "index": 4,
+      "kind": "news",
+      "scope": "india",
+      "headline": "No proposal to hike OBC creamy layer bar: Centre",
+      "blurb": "The Centre told Parliament it has no proposal to raise the OBC creamy layer income ceiling, rejecting demands from some parties to widen reservation access."
+    },
+    {
+      "page": 18,
+      "index": 5,
+      "kind": "news",
+      "scope": "india",
+      "headline": "CBI, ED chiefs being 'weaponised', says Cong",
+      "blurb": "Congress alleged that CBI and ED chiefs are being weaponised against opposition leaders, citing recent summons and arrests ahead of state polls."
+    },
+    {
+      "page": 18,
+      "index": 6,
+      "kind": "news",
+      "scope": "india",
+      "headline": "AAP demands white paper on Maha loan waiver",
+      "blurb": "AAP demanded a white paper on Maharashtra's farm loan waiver, accusing the state government of failing to deliver promised debt relief to cultivators."
+    }
+  ]
+}
