@@ -1,0 +1,106 @@
+{
+  "date": "Wednesday, 14 October 2026",
+  "date_slug": "14-Oct-2026",
+  "channel": "coastal_katte",
+  "source_local_top5": "work/14-Oct-2026/Daily_top/LocalTop5_14-Oct-2026.json",
+  "candidate_count": 15,
+  "selected_count": 5,
+  "items": [
+    {
+      "rank": 1,
+      "headline": "Report sought on delay in UGD project in Kundapur",
+      "blurb": "Balakrishna ordered a report on the 11-year delay in Kundapur’s ₹56.54 crore underground drainage project.",
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "source_bucket": "coastal_karnataka",
+      "local_top_rank": 3,
+      "sources": [
+        {
+          "paper": "Deccan Herald",
+          "edition": "Mangaluru",
+          "page": 6,
+          "index": 3
+        },
+        {
+          "paper": "The Hindu",
+          "edition": "Mangaluru",
+          "page": 5,
+          "index": 2
+        }
+      ],
+      "why_channel": "₹56.54 cr UGD delay in Kundapur — hard coastal infra with rupee hook and long civic wait."
+    },
+    {
+      "rank": 2,
+      "headline": "Minor girl sexually harassed in Mangaluru; 17 accused from two colleges",
+      "blurb": "Police booked 17 people from two Mangaluru colleges, some minors, after a minor girl's October 8 sexual harassment complaint.",
+      "kind": "news",
+      "scope": "mangaluru",
+      "source_bucket": "mangaluru",
+      "local_top_rank": 2,
+      "sources": [
+        {
+          "paper": "News Trail",
+          "edition": "Mangaluru",
+          "page": 6,
+          "index": 5
+        }
+      ],
+      "why_channel": "Women’s safety — minor’s complaint with 17 accused from city colleges; high saves potential."
+    },
+    {
+      "rank": 3,
+      "headline": "Mangaluru: MLA Jayanarayan, a leader from a political lineage, attacked",
+      "blurb": "Mangaluru MLA and corporator Jayanarayan was attacked in Bunder wards, hospitalised with injuries after the Monday incident.",
+      "kind": "news",
+      "scope": "mangaluru",
+      "source_bucket": "mangaluru",
+      "local_top_rank": 1,
+      "sources": [
+        {
+          "paper": "News Trail",
+          "edition": "Mangaluru",
+          "page": 3,
+          "index": 2
+        }
+      ],
+      "why_channel": "Local MLA attacked in Bunder — political violence with direct Mangaluru stakes."
+    },
+    {
+      "rank": 4,
+      "headline": "Udupi: MGS Hospital workers protest CM's pre-closure announcement",
+      "blurb": "Udupi MGS Hospital staff protested CM Siddaramaiah's October 7 pre-closure order, citing two years without pay and a 21-day hunger strike by about 50 workers demanding compensation before shutdown.",
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "source_bucket": "coastal_karnataka",
+      "local_top_rank": 2,
+      "sources": [
+        {
+          "paper": "News Trail",
+          "edition": "Mangaluru",
+          "page": 3,
+          "index": 1
+        }
+      ],
+      "why_channel": "Udupi hospital shutdown protest after two years without pay — livelihood and accountability on the coast."
+    },
+    {
+      "rank": 5,
+      "headline": "DC warns hospitals against denying initial treatment to snakebite victims",
+      "blurb": "Dakshina Kannada Deputy Commissioner Darshan H V warned hospitals of legal action for denying immediate snakebite care; the district recorded 365 cases in 2023 and 527 through September 2025.",
+      "kind": "news",
+      "scope": "mangaluru",
+      "source_bucket": "mangaluru",
+      "local_top_rank": 3,
+      "sources": [
+        {
+          "paper": "Deccan Herald",
+          "edition": "Mangaluru",
+          "page": 6,
+          "index": 5
+        }
+      ],
+      "why_channel": "DC orders on snakebite care with rising district case counts — public health and legal warning."
+    }
+  ]
+}
