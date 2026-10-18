@@ -1,0 +1,106 @@
+{
+  "date": "Thursday, 15 October 2026",
+  "date_slug": "15-Oct-2026",
+  "channel": "coastal_katte",
+  "source_local_top5": "work/15-Oct-2026/Daily_top/LocalTop5_15-Oct-2026.json",
+  "candidate_count": 15,
+  "selected_count": 5,
+  "items": [
+    {
+      "rank": 1,
+      "headline": "₹50 crore fraud: SC orders CBI probe",
+      "blurb": "The Supreme Court ordered a CBI probe into the alleged ₹50 crore Shankerpura fraud case after victims petitioned for a central investigation.",
+      "kind": "news",
+      "scope": "mangaluru",
+      "source_bucket": "mangaluru",
+      "local_top_rank": 1,
+      "sources": [
+        {
+          "paper": "News Trail",
+          "edition": "Mangaluru",
+          "page": 6,
+          "index": 3
+        },
+        {
+          "paper": "News Trail",
+          "edition": "Mangaluru",
+          "page": 2,
+          "index": 3
+        }
+      ],
+      "why_channel": "₹50 crore fraud plus CBI accountability — strong victim-stakes hook and cross-paper pickup for follower conversion."
+    },
+    {
+      "rank": 2,
+      "headline": "Global enterprises commit $20 billion at Mangaluru summit",
+      "blurb": "Invest Karnataka Global Investors Meet sessions in Mangaluru saw enterprises pledge about $20 billion in investments across manufacturing, IT and logistics, officials said.",
+      "kind": "news",
+      "scope": "mangaluru",
+      "source_bucket": "mangaluru",
+      "local_top_rank": 2,
+      "sources": [
+        {
+          "paper": "News Trail",
+          "edition": "Mangaluru",
+          "page": 7,
+          "index": 1
+        }
+      ],
+      "why_channel": "Mangaluru-tied mega-investment pledge — jobs and economy angle that historically drives saves and follows."
+    },
+    {
+      "rank": 3,
+      "headline": "COUPLE'S DEATH RAISES SUSPICION OF ACID ATTACK",
+      "blurb": "Dr Arun Mascarenhas and his wife Dr Lavanya were found dead at their Bajpe home after a dispute with labourers; police arrested Santhosh and are investigating whether acid was used.",
+      "kind": "news",
+      "scope": "mangaluru",
+      "source_bucket": "mangaluru",
+      "local_top_rank": 4,
+      "sources": [
+        {
+          "paper": "News Trail",
+          "edition": "Mangaluru",
+          "page": 2,
+          "index": 2
+        }
+      ],
+      "why_channel": "Bajpe double-death with safety stakes — high local shock value and shareability on crime/safety reels."
+    },
+    {
+      "rank": 4,
+      "headline": "Contractors to pay for poor quality of Smart City work: Mayor",
+      "blurb": "Mangaluru Mayor Sudheer Shetty Kannur said contractors will bear the cost of redoing substandard Smart City project works after inspections found poor quality in several wards.",
+      "kind": "news",
+      "scope": "mangaluru",
+      "source_bucket": "mangaluru",
+      "local_top_rank": 5,
+      "sources": [
+        {
+          "paper": "Deccan Herald",
+          "edition": "Mangaluru",
+          "page": 10,
+          "index": 1
+        }
+      ],
+      "why_channel": "Smart City infra plus contractor accountability — civic daily-life impact across wards."
+    },
+    {
+      "rank": 5,
+      "headline": "Moral policing: Seven-member fact-finding panel to tour Udupi",
+      "blurb": "A seven-member fact-finding committee formed after moral policing incidents in Udupi will visit the district from October 16; members include former judges, academics and activists named by the state government.",
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "source_bucket": "coastal_karnataka",
+      "local_top_rank": 1,
+      "sources": [
+        {
+          "paper": "Deccan Herald",
+          "edition": "Mangaluru",
+          "page": 3,
+          "index": 1
+        }
+      ],
+      "why_channel": "Coastal women's-safety and moral-policing follow-up with a fixed Oct 16 tour date — strong WhatsApp-forward hook."
+    }
+  ]
+}
