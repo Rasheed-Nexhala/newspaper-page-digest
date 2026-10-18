@@ -1,0 +1,536 @@
+{
+  "date": "Wednesday, 14 October 2026",
+  "date_slug": "14-Oct-2026",
+  "papers_scanned": [
+    {
+      "paper": "Deccan Herald",
+      "edition": "Mangaluru",
+      "path": "work/14-Oct-2026/Deccan_Herald/DeccanHerald_Mangaluru_14-Oct-2026_PageDigest.json",
+      "total_articles": 122
+    },
+    {
+      "paper": "News Trail",
+      "edition": "Mangaluru",
+      "path": "work/14-Oct-2026/News_Trail/NewsTrail_Mangaluru_14-Oct-2026_PageDigest.json",
+      "total_articles": 65
+    },
+    {
+      "paper": "The Hindu",
+      "edition": "Mangaluru",
+      "path": "work/14-Oct-2026/The_Hindu/TheHindu_Mangaluru_14-Oct-2026_PageDigest.json",
+      "total_articles": 106
+    }
+  ],
+  "buckets": {
+    "mangaluru": {
+      "label": "Top 5 — Mangaluru",
+      "candidate_count": 15,
+      "selected_count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "headline": "DC warns hospitals against denying initial treatment to snakebite victims",
+          "blurb": "Dakshina Kannada Deputy Commissioner Darshan H V warned hospitals of legal action for denying immediate snakebite care; the district recorded 365 cases in 2023 and 527 through September 2025.",
+          "kind": "news",
+          "scope": "mangaluru",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 6,
+              "index": 5
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "BJP MLA condemns police handling of student protest over Dasara exams",
+          "blurb": "Mangaluru City South MLA Vedavyas Kamath condemned police handling of ABVP-backed students protesting degree exams scheduled around Dasara, alleging rough treatment including of a student who chanted Bharat Mata Ki Jai, and said he secured the students' release after intervening at the station.",
+          "kind": "news",
+          "scope": "mangaluru",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 3,
+              "index": 3
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "MCC to take up drive from today to issue pending birth and death certificates",
+          "blurb": "Mangaluru City Corporation will run a drive from October 14 to October 17 to issue pending birth and death certificates, with applicants told to book slots through the corporation’s online portal.",
+          "kind": "news",
+          "scope": "mangaluru",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 4,
+              "index": 1
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "Pourakarmikas demand allotment of housing sites",
+          "blurb": "Sanitation workers in Mangaluru demanded Mangaluru City Corporation allot housing sites previously identified for pourakarmikas.",
+          "kind": "news",
+          "scope": "mangaluru",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 5,
+              "index": 5
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "Tourist taxi drivers reiterate demand for 8-minute free pick and drop facility at airport",
+          "blurb": "Taxi associations at Mangaluru International Airport renewed demands for an eight-minute free pick-up and drop window and protested a ₹50 entry fee for commercial vehicles.",
+          "kind": "news",
+          "scope": "mangaluru",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 5,
+              "index": 4
+            }
+          ]
+        }
+      ]
+    },
+    "coastal_karnataka": {
+      "label": "Top 5 — Coastal Karnataka",
+      "candidate_count": 17,
+      "selected_count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "headline": "Report sought on delay in UGD project in Kundapur",
+          "blurb": "Balakrishna ordered a report on the 11-year delay in Kundapur’s ₹56.54 crore underground drainage project.",
+          "kind": "news",
+          "scope": "coastal_karnataka",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 6,
+              "index": 3
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "2 die of electrocution while fishing in DK",
+          "blurb": "Bharath (28) of Kalmadka and Ramesh alias Ganesh (36) of Guruvayanakere died of electrocution while fishing with a minor at Holakere in Kalmadka, Sullia taluk, on October 12; Bellare police registered a case against plantation owner Madhusoodan Bhat for an alleged unauthorised electric connection.",
+          "kind": "news",
+          "scope": "coastal_karnataka",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 3,
+              "index": 4
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "Udupi gets state's first 'fully literate district' tag",
+          "blurb": "The state government declared Udupi Karnataka’s first fully literate district with literacy above 95%.",
+          "kind": "news",
+          "scope": "coastal_karnataka",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 6,
+              "index": 1
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "FIGHTING WATER CRISIS THE WAY NITK DOES IT",
+          "blurb": "NITK Surathkal has operationalised NITKere, a 30-million-litre rainwater harvesting reservoir created in 2025 and linked by an 850-metre pipeline to a one-million-litre-per-day purification plant commissioned in February 2026, presented as a model for institutional water security during summer shortages.",
+          "kind": "news",
+          "scope": "coastal_karnataka",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 3,
+              "index": 1
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "Bhatkal faces rainfall deficit, inflow into dam declines",
+          "blurb": "Bhatkal in Uttara Kannada is seeing a sharply deficient monsoon versus its normal annual rainfall of 4,152.3 mm, with falling inflow into the Kadavinakatte dam raising concerns for drinking water, about 2,000–2,500 hectares of paddy, and livestock fodder.",
+          "kind": "news",
+          "scope": "coastal_karnataka",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 3,
+              "index": 2
+            }
+          ]
+        }
+      ]
+    },
+    "karnataka": {
+      "label": "Top 5 — Karnataka",
+      "candidate_count": 69,
+      "selected_count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "headline": "Shivakumar seeks report on police action at SIR protest",
+          "blurb": "Karnataka Chief Minister D.K. Shivakumar sought a report on police action against Bengaluru protesters opposing the special intensive revision of electoral rolls, saying peaceful protest must be allowed; Home Minister Priyank Kharge said police were told to keep order without creating fear.",
+          "kind": "news",
+          "scope": "karnataka",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 5,
+              "index": 2
+            },
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 5,
+              "index": 2
+            },
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 7,
+              "index": 2
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "Ambulance crew to go on strike again seeking annual increment",
+          "blurb": "Suvarna Karnataka Arogya Kavacha (108) employees will suspend ambulance services from Wednesday midnight demanding annual increments, a shift system, ₹50 lakh insurance and timely salaries affecting about 3,200 drivers and EMTs.",
+          "kind": "news",
+          "scope": "karnataka",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 7,
+              "index": 1
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "K'taka Cabinet to discuss HC verdict on SC/ST quota: Parameshwara",
+          "blurb": "Deputy CM G Parameshwara said the Cabinet would discuss the High Court verdict striking down a 2022 law that raised SC reservation from 15% to 17% and ST from 3% to 7%, and would consider options including approaching the Supreme Court.",
+          "kind": "news",
+          "scope": "karnataka",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 5,
+              "index": 6
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "Court issues gag order on airing videos on Siddaramaiah",
+          "blurb": "A Bengaluru civil court issued an interim injunction restraining YouTube channels from broadcasting defamatory videos about former Karnataka Chief Minister Siddaramaiah, including items titled “Karnataka Honey Trap Nexus Part 1” and “Live: Biggest CD Blast in Karnataka Politics”.",
+          "kind": "news",
+          "scope": "karnataka",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 3,
+              "index": 2
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "KPSC probe: SC nod to replace SIT chief",
+          "blurb": "The Supreme Court allowed the Karnataka government to replace DGP Alok Kumar and DIG Divya Gopinath as heads of the High Court-constituted SIT probing the KPSC recruitment scam, directing the state to submit alternative officers to the High Court; Kapil Sibal appeared for the state.",
+          "kind": "news",
+          "scope": "karnataka",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 2,
+              "index": 2
+            }
+          ]
+        }
+      ]
+    },
+    "india": {
+      "label": "Top 5 — India",
+      "candidate_count": 112,
+      "selected_count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "headline": "13 children killed in Bihar boat capsize",
+          "blurb": "At least 13 children died when a boat capsized in the Ganga in Vaishali district, Bihar, according to reports from Patna.",
+          "kind": "news",
+          "scope": "india",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 3,
+              "index": 3
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "Resistance will go on, says Rahul after meeting allies",
+          "blurb": "Congress leader and Leader of the Opposition in the Lok Sabha Rahul Gandhi met INDIA bloc members, student leaders and activists in New Delhi to plan continued agitation against the Chief Election Commissioner and the Special Intensive Revision of electoral rolls, telling reporters that resistance would go on.",
+          "kind": "news",
+          "scope": "india",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 3,
+              "index": 1
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "UPI fee rollout put off beyond Deepavali on traders’ appeal",
+          "blurb": "NPCI postponed merchant discount rate charges on UPI beyond Deepavali after traders’ appeals, T.C.A. Sharad Raghavan reports.",
+          "kind": "news",
+          "scope": "india",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 12,
+              "index": 4
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "China says ‘never recognised’ U.T. of Ladakh; India hits back",
+          "blurb": "China opposed the Survey of India standardising names in Ladakh and said it never recognised the Union Territory; India said no denial could change established facts, Suhasini Haidar and Ananth Krishnan report.",
+          "kind": "news",
+          "scope": "india",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 12,
+              "index": 1
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "Hyundai Motor Group to invest $15.5 bn in India by 2032",
+          "blurb": "Hyundai Motor Group chair Euisun Chung discussed with PM Narendra Modi a $15.5 billion India investment plan through 2032 covering EVs, R&D and supply chains.",
+          "kind": "news",
+          "scope": "india",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 14,
+              "index": 9
+            },
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 13,
+              "index": 1
+            }
+          ]
+        }
+      ]
+    },
+    "international": {
+      "label": "Top 5 — International",
+      "candidate_count": 47,
+      "selected_count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "headline": "FlyDubai ‘plot’: 2 Maldivian pilots detained",
+          "blurb": "UAE police detained two Maldivian FlyDubai pilots over an alleged plot to hijack and crash a Dubai–Tel Aviv flight.",
+          "kind": "news",
+          "scope": "international",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 3,
+              "index": 4
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "Saudi Arabia strikes oil facility in Yemen’s capital, say Houthis",
+          "blurb": "Houthi forces said Saudi Arabia struck an oil facility in Sanaa and threatened Riyadh airport and Aramco sites.",
+          "kind": "news",
+          "scope": "international",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 14,
+              "index": 5
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "11 sailors go missing after drone sinks ship off Bulgaria’s coast",
+          "blurb": "Eleven sailors were missing after a drone attack sank a ship off Bulgaria’s coast.",
+          "kind": "news",
+          "scope": "international",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 14,
+              "index": 7
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "Palestinians displaced from refugee camp will not return: Netanyahu",
+          "blurb": "Israeli Prime Minister Benjamin Netanyahu said Palestinians displaced from a refugee camp would not return.",
+          "kind": "news",
+          "scope": "international",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 14,
+              "index": 2
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "Modi holds ‘warm and productive’ talks with Canadian PM",
+          "blurb": "Prime Minister Narendra Modi spoke by phone with Canadian PM Mark Carney about strengthening bilateral ties, trade and technology; Carney is expected to visit India in December.",
+          "kind": "news",
+          "scope": "international",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 2,
+              "index": 7
+            }
+          ]
+        }
+      ]
+    },
+    "sports": {
+      "label": "Top 5 — Sports",
+      "candidate_count": 19,
+      "selected_count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "headline": "Gill wins a record fifth ICC PotM award; Shafali, too, tops",
+          "blurb": "Shubman Gill won a record fifth ICC Men’s Player of the Month award and Shafali Verma took the women’s award after Asia Cup performances.",
+          "kind": "news",
+          "scope": "sports",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 16,
+              "index": 3
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "India and WI willow-wielders glove up for another blast",
+          "blurb": "India and West Indies meet in Hyderabad one win from sealing the T20I series after Shreyas Iyer’s century and Arshdeep Singh’s three wickets in Indore.",
+          "kind": "news",
+          "scope": "sports",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 16,
+              "index": 5
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "Hazlewood bowls Australia to victory",
+          "blurb": "Josh Hazlewood’s bowling helped Australia beat South Africa in a limited-overs match.",
+          "kind": "news",
+          "scope": "sports",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 14,
+              "index": 11
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "Yuvraj appointed Delhi Capitals assistant and batting coach",
+          "blurb": "Yuvraj Singh joined Delhi Capitals as assistant and batting coach for the 2027 IPL under head coach Sourav Ganguly.",
+          "kind": "news",
+          "scope": "sports",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 16,
+              "index": 4
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "Goalkeeper Pathak returns, Asiad core retained for ACT",
+          "blurb": "Hockey selectors retained the Asian Games core and recalled goalkeeper Pathak for the Asian Champions Trophy squad.",
+          "kind": "news",
+          "scope": "sports",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 14,
+              "index": 13
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
