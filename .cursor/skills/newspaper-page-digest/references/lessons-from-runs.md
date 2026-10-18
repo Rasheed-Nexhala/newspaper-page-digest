@@ -9,6 +9,16 @@ Captured so the skill does not regress. Full rules live in `../SKILL.md` (“Har
 | Headlines in JSON not on the printed page | Editors/parent trusted transcripts without image check | **Gate A** after assembly; **Gate B** on every Top 5 `paper`+`page` before publish (`daily-local-coastal-top5/references/page-image-verification-gate.md`) |
 | News Trail especially wrong | Image-only PDF; text invented from memory | Vision Read on page image only; check every page when cheap |
 
+## Fabricated News Trail 15 & 17 Oct 2026 (published — Shaz incident)
+
+| Failure | Cause | Fix now in repo |
+|:--------|:------|:----------------|
+| Entire NT digests + Top 5 stories not on PDF (D'Souza MCC, Vande Bharat, Bantwal Smart Town, KSPCB lakes; 15 Oct CBI/$20B/acid attack) | Scanned NT PDFs: empty text layer → workers **invented** plausible Mangaluru news + page numbers | `AGENTS.md`, `.cursor/rules/newspaper-digest-no-invent.mdc`, permanent rules in daily-local-coastal-top5 skill + gate doc |
+| Real 17 Oct NT missed (e.g. p1 SILENCED, p2 Blot on friendship, p10 Entertainment) | Same — no vision pass on page images | Mandatory OCR/vision per page; **"page unreadable"** if image fails; never fill in |
+| Wrong weekday (Friday vs Saturday) | Guessed weekday instead of computing from date | Rule 4: compute weekday from `DD-Mon-YYYY` |
+
+Encode evidence in **PR description** when landing daily packs (Gate A/B pages checked, headlines seen).
+
 ## What broke on News Trail Mangaluru 30 Aug 2026 (12 pages)
 
 | Failure | Cause | Fix now in skill |

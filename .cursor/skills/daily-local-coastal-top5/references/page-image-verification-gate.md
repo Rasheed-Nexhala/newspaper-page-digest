@@ -4,6 +4,15 @@ Mandatory quality guard so invented or drifted digest text cannot reach Local To
 
 **Ground rule:** Treat PageDigest JSON/Markdown as *untrusted* until headlines (and, for Top 5 picks, the cited story) are confirmed on the **printed page image** via vision (Read tool on page PDF/PNG, or rendered page from the source edition PDF). Never confirm from model memory, prior runs, or blurbs alone.
 
+## Permanent rules (repo-wide)
+
+1. **Never invent, infer, or fill in** a story, number, name, quote, date, or weekday. Every digest item must come from text you actually read: PDF text layer, or OCR/vision on the rendered page image.
+2. If a PDF page has **no or too little text**, render to image and read with OCR/vision. If still unreadable, write **"page unreadable"** for that page. **Never fill it in.**
+3. Each **Top 5 citation** (`paper` + `page`) must be checked against that **page image** before publish (**Gate A** and **Gate B** below). Mandatory and blocking for **every paper** (Deccan Herald, The Hindu, News Trail), **every day**.
+4. **Compute weekdays from the date.** Never guess them.
+5. If **any gate fails**, do **not** merge or deploy. Report the failure instead.
+6. **Log each day's verification evidence** (page image checked, headline seen) in the **PR description**.
+
 ## High-risk editions
 
 | Risk | Why | Required handling |

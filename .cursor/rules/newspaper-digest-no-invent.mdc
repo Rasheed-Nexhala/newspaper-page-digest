@@ -1,0 +1,28 @@
+---
+description: Block invented newspaper digests and Top 5; mandate vision/OCR and Gate A/B
+alwaysApply: true
+---
+
+# Newspaper digest — no invention
+
+Applies to `newspaper-page-digest`, `daily-local-coastal-top5`, `daily-local-top`, and `coastal-katte-top5`.
+
+## Incident context
+
+Oct 2026: News Trail (image-only PDFs) produced **fabricated** PageDigests and Top 5 for 15 & 17 Oct when text extraction was empty. See `AGENTS.md` and `docs/incidents/2026-10-18-nt-fabricated-digests.md`.
+
+## Permanent rules
+
+1. **Never invent, infer, or fill in** a story, number, name, quote, date, or weekday. Every digest item must come from text you actually read: PDF text layer, or OCR/vision on the rendered page image.
+2. If a PDF page has **no or too little text**, render to image and read with OCR/vision. If still unreadable, write **"page unreadable"** for that page. **Never fill it in.**
+3. Each **Top 5 citation** (`paper` + `page`) must be checked against that **page image** before publish (**Gate A** and **Gate B**). Mandatory and blocking for **every paper** (DH, Hindu, NT), **every day**.
+4. **Compute weekdays from the date.** Never guess them.
+5. If **any gate fails**, do **not** merge or deploy. Report the failure instead.
+6. **Log each day's verification evidence** (page image checked, headline seen) in the **PR description**.
+
+## Gates (mandatory)
+
+- **Gate A:** After each paper's PageDigest — `.cursor/skills/daily-local-coastal-top5/references/page-image-verification-gate.md`
+- **Gate B:** Before commit/merge/deploy on every Local + Coastal Top 5 citation — same reference.
+
+News Trail / scan PDFs: vision on page images only; check every page when practical.
