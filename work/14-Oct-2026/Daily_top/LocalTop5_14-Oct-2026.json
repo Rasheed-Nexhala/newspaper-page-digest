@@ -1,0 +1,554 @@
+{
+  "date": "Wednesday, 14 October 2026",
+  "date_slug": "14-Oct-2026",
+  "papers_scanned": [
+    {
+      "paper": "Deccan Herald",
+      "edition": "Mangaluru",
+      "path": "work/14-Oct-2026/Deccan_Herald/DeccanHerald_Mangaluru_14-Oct-2026_PageDigest.json",
+      "total_articles": 122
+    },
+    {
+      "paper": "News Trail",
+      "edition": "Mangaluru",
+      "path": "work/14-Oct-2026/News_Trail/NewsTrail_Mangaluru_14-Oct-2026_PageDigest.json",
+      "total_articles": 117
+    },
+    {
+      "paper": "The Hindu",
+      "edition": "Mangaluru",
+      "path": "work/14-Oct-2026/The_Hindu/TheHindu_Mangaluru_14-Oct-2026_PageDigest.json",
+      "total_articles": 106
+    }
+  ],
+  "buckets": {
+    "mangaluru": {
+      "label": "Top 5 — Mangaluru",
+      "candidate_count": 24,
+      "selected_count": 5,
+      "items": [
+        {
+          "headline": "Mangaluru: MLA Jayanarayan, a leader from a political lineage, attacked",
+          "blurb": "Mangaluru MLA and corporator Jayanarayan was attacked in Bunder wards, hospitalised with injuries after the Monday incident.",
+          "kind": "news",
+          "scope": "mangaluru",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 3,
+              "index": 2
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "Minor girl sexually harassed in Mangaluru; 17 accused from two colleges",
+          "blurb": "Police booked 17 people from two Mangaluru colleges, some minors, after a minor girl's October 8 sexual harassment complaint.",
+          "kind": "news",
+          "scope": "mangaluru",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 6,
+              "index": 5
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "DC warns hospitals against denying initial treatment to snakebite victims",
+          "blurb": "Dakshina Kannada Deputy Commissioner Darshan H V warned hospitals of legal action for denying immediate snakebite care; the district recorded 365 cases in 2023 and 527 through September 2025.",
+          "kind": "news",
+          "scope": "mangaluru",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 6,
+              "index": 5
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "Govt. suppressing voice of students through police: Mangaluru City MLAs",
+          "blurb": "Mangaluru City MLAs Vedavyasa Kamath and Bharat Shetty alleged police manhandled students peacefully seeking postponement of exams during Dasara, including at St. Agnes College where a memorandum was not accepted.",
+          "kind": "news",
+          "scope": "mangaluru",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 5,
+              "index": 1
+            },
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 6,
+              "index": 9
+            }
+          ],
+          "rank": 4
+        },
+        {
+          "headline": "Hoax call triggers Mangaluru airport scare",
+          "blurb": "A hoax call caused a security scare at Mangaluru airport.",
+          "kind": "news",
+          "scope": "mangaluru",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 7,
+              "index": 1
+            }
+          ],
+          "rank": 5
+        }
+      ]
+    },
+    "coastal_karnataka": {
+      "label": "Top 5 — Coastal Karnataka",
+      "candidate_count": 30,
+      "selected_count": 5,
+      "items": [
+        {
+          "headline": "Uttara Kannada: 3 minors killed in hill collapse at stone quarry",
+          "blurb": "Three minors were killed in an Uttara Kannada stone-quarry hill collapse.",
+          "kind": "news",
+          "scope": "coastal_karnataka",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 3,
+              "index": 6
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "Udupi: MGS Hospital workers protest CM's pre-closure announcement",
+          "blurb": "Udupi MGS Hospital staff protested CM Siddaramaiah's October 7 pre-closure order, citing two years without pay and a 21-day hunger strike by about 50 workers demanding compensation before shutdown.",
+          "kind": "news",
+          "scope": "coastal_karnataka",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 3,
+              "index": 1
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "Report sought on delay in UGD project in Kundapur",
+          "blurb": "Balakrishna ordered a report on the 11-year delay in Kundapur’s ₹56.54 crore underground drainage project.",
+          "kind": "news",
+          "scope": "coastal_karnataka",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 6,
+              "index": 3
+            },
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 5,
+              "index": 2
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "Two electrocuted, minor injured in Sullia",
+          "blurb": "Two persons, Bharath (28) and Ramesh (35), died and a minor boy suffered burns after contact with a live wire fence at farmland in Sullia taluk.",
+          "kind": "news",
+          "scope": "coastal_karnataka",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 4,
+              "index": 3
+            }
+          ],
+          "rank": 4
+        },
+        {
+          "headline": "Udupi gets state's first 'fully literate district' tag",
+          "blurb": "The state government declared Udupi Karnataka’s first fully literate district with literacy above 95%.",
+          "kind": "news",
+          "scope": "coastal_karnataka",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 6,
+              "index": 1
+            }
+          ],
+          "rank": 5
+        }
+      ]
+    },
+    "karnataka": {
+      "label": "Top 5 — Karnataka",
+      "candidate_count": 92,
+      "selected_count": 5,
+      "items": [
+        {
+          "headline": "4 kids killed as truck hits them in Bengaluru",
+          "blurb": "Four children were killed after a truck struck them in Bengaluru.",
+          "kind": "news",
+          "scope": "karnataka",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 8,
+              "index": 4
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "Farmers' stir holds up traffic on busy Pune-B'luru highway",
+          "blurb": "KRRS and Hasiru Sene farmers blocked the Pune–Bengaluru highway at Hattargi toll plaza in Belagavi demanding ₹6,000 per tonne for sugarcane.",
+          "kind": "news",
+          "scope": "karnataka",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 9,
+              "index": 5
+            },
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 3,
+              "index": 4
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "108 ambulance workers threaten strike from tonight",
+          "blurb": "Health Minister U.T. Khader said only about 350 of 750 required 108 ambulances were operational and urged the public not to depend solely on the service for two months as the 108 Ambulance Workers’ Union threatened a strike over wages, staffing and safety.",
+          "kind": "news",
+          "scope": "karnataka",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 7,
+              "index": 1
+            },
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 7,
+              "index": 1
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "IAS officer booked for assault on police",
+          "blurb": "Police booked Andhra Pradesh cadre IAS officer Vikas Marmat, special officer of the Koppal Area Development Authority, and three others for allegedly assaulting a police inspector and personnel at a bar on Residency Road, Bengaluru.",
+          "kind": "news",
+          "scope": "karnataka",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 4,
+              "index": 2
+            }
+          ],
+          "rank": 4
+        },
+        {
+          "headline": "Karnataka to explore legal options to challenge verdict",
+          "blurb": "The Karnataka government said it would explore legal options after the High Court struck down enhancement of reservation quotas for Scheduled Castes and Scheduled Tribes, with Deputy CM D.K. Shivakumar and Home Minister G. Parameshwara involved in discussions.",
+          "kind": "news",
+          "scope": "karnataka",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 6,
+              "index": 3
+            }
+          ],
+          "rank": 5
+        }
+      ]
+    },
+    "india": {
+      "label": "Top 5 — India",
+      "candidate_count": 115,
+      "selected_count": 5,
+      "items": [
+        {
+          "headline": "Top court registers Rahul’s plea on SIR, CEC",
+          "blurb": "The Supreme Court registered Rahul Gandhi’s petition seeking a court-monitored probe into the SIR and Chief Election Commissioner appointment process.",
+          "kind": "news",
+          "scope": "india",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 10,
+              "index": 4
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "Shah warns Rahul of ‘crushing defeat’ in 2029",
+          "blurb": "Union Home Minister Amit Shah dismissed the Opposition’s protests over the SIR and the Election Commission, warning Rahul Gandhi and the I.N.D.I.A. bloc of a crushing defeat in the 2029 polls and saying voters have rejected their narrative.",
+          "kind": "news",
+          "scope": "india",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 2,
+              "index": 1
+            },
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 10,
+              "index": 2
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "13 children killed in Bihar boat capsize",
+          "blurb": "At least 13 children died when a boat capsized in the Ganga in Vaishali district, Bihar, according to reports from Patna.",
+          "kind": "news",
+          "scope": "india",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 3,
+              "index": 3
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "China says ‘never recognised’ U.T. of Ladakh; India hits back",
+          "blurb": "China opposed the Survey of India standardising names in Ladakh and said it never recognised the Union Territory; India said no denial could change established facts.",
+          "kind": "news",
+          "scope": "india",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 12,
+              "index": 1
+            }
+          ],
+          "rank": 4
+        },
+        {
+          "headline": "UPI fee rollout put off beyond Deepavali on traders’ appeal",
+          "blurb": "NPCI postponed merchant discount rate charges on UPI beyond Deepavali after traders’ appeals, T.C.A. Sharad Raghavan reports.",
+          "kind": "news",
+          "scope": "india",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 12,
+              "index": 4
+            }
+          ],
+          "rank": 5
+        }
+      ]
+    },
+    "international": {
+      "label": "Top 5 — International",
+      "candidate_count": 45,
+      "selected_count": 5,
+      "items": [
+        {
+          "headline": "Modi holds ‘warm and productive’ talks with Canadian PM",
+          "blurb": "Prime Minister Narendra Modi spoke by phone with Canadian PM Mark Carney about strengthening bilateral ties, trade and technology; Carney is expected to visit India in December.",
+          "kind": "news",
+          "scope": "international",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 2,
+              "index": 7
+            },
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 10,
+              "index": 6
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "Saudi-led coalition strikes oil facilities in Yemen",
+          "blurb": "The Saudi-led coalition bombed Houthi-controlled oil sites near Sanaa as Houthis renewed warnings against flights in Saudi airspace.",
+          "kind": "news",
+          "scope": "international",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 13,
+              "index": 2
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "Pak successfully test-fires hypersonic missile",
+          "blurb": "Pakistan test-fired the Fatah-2ER guided rocket system with 400 km range for precision long-range targets.",
+          "kind": "news",
+          "scope": "international",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 13,
+              "index": 3
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "FlyDubai ‘plot’: 2 Maldivian pilots detained",
+          "blurb": "UAE police detained two Maldivian FlyDubai pilots over an alleged plot to hijack and crash a Dubai–Tel Aviv flight.",
+          "kind": "news",
+          "scope": "international",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 3,
+              "index": 4
+            }
+          ],
+          "rank": 4
+        },
+        {
+          "headline": "Quad officials discuss regional resilience, cyber security",
+          "blurb": "India, Australia, the US and Japan officials met in Singapore on a free and open Indo-Pacific, resilience and cyber security.",
+          "kind": "news",
+          "scope": "international",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 13,
+              "index": 8
+            }
+          ],
+          "rank": 5
+        }
+      ]
+    },
+    "sports": {
+      "label": "Top 5 — Sports",
+      "candidate_count": 28,
+      "selected_count": 5,
+      "items": [
+        {
+          "headline": "India and WI willow-wielders glove up for another blast",
+          "blurb": "India and West Indies meet in Hyderabad one win from sealing the T20I series after Shreyas Iyer’s century and Arshdeep Singh’s three wickets in Indore.",
+          "kind": "news",
+          "scope": "sports",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 16,
+              "index": 5
+            }
+          ],
+          "rank": 1
+        },
+        {
+          "headline": "Gill wins a record fifth ICC PotM award; Shafali, too, tops",
+          "blurb": "Shubman Gill won a record fifth ICC Men’s Player of the Month award and Shafali Verma took the women’s award after Asia Cup performances.",
+          "kind": "news",
+          "scope": "sports",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 16,
+              "index": 3
+            }
+          ],
+          "rank": 2
+        },
+        {
+          "headline": "Hazlewood bowls Australia to victory",
+          "blurb": "Josh Hazlewood’s bowling helped Australia beat South Africa in a limited-overs match.",
+          "kind": "news",
+          "scope": "sports",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 14,
+              "index": 11
+            }
+          ],
+          "rank": 3
+        },
+        {
+          "headline": "Goalkeeper Pathak returns, Asiad core retained for ACT",
+          "blurb": "Hockey selectors retained the Asian Games core and recalled goalkeeper Pathak for the Asian Champions Trophy squad.",
+          "kind": "news",
+          "scope": "sports",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 14,
+              "index": 13
+            }
+          ],
+          "rank": 4
+        },
+        {
+          "headline": "Yuvraj appointed Delhi Capitals assistant and batting coach",
+          "blurb": "Yuvraj Singh joined Delhi Capitals as assistant and batting coach for the 2027 IPL under head coach Sourav Ganguly.",
+          "kind": "news",
+          "scope": "sports",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 16,
+              "index": 4
+            }
+          ],
+          "rank": 5
+        }
+      ]
+    }
+  }
+}

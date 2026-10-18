@@ -1,0 +1,948 @@
+{
+  "paper": "News Trail",
+  "edition": "Mangaluru",
+  "date": "Tuesday, 14 October 2026",
+  "total_pages": 9,
+  "total_articles": 117,
+  "pages_with_no_articles": [
+    9
+  ],
+  "articles": [
+    {
+      "page": 1,
+      "index": 1,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Students' bodies find huddle in solidarity with international students",
+      "blurb": "Student organisations on US campuses backed international students involved in pro-Palestine protests as coverage tied the solidarity to Israel's Gaza ground offensive after the October 7 Hamas attacks, and mentioned envoy Steve Witkoff's October 8 talks in Damascus."
+    },
+    {
+      "page": 1,
+      "index": 2,
+      "kind": "news",
+      "scope": "international",
+      "headline": "TOO SHORT WEAPON OF RETALIATION — TEHRAN'S WOES CONTINUE",
+      "blurb": "The article examines Iran's limited retaliation options as fighting linked to Hamas and Houthi forces continues across the Middle East."
+    },
+    {
+      "page": 1,
+      "index": 3,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Trump orders US troops to Gaza",
+      "blurb": "Donald Trump ordered US troops toward Gaza as the Israel–Hamas war continued."
+    },
+    {
+      "page": 1,
+      "index": 4,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Chhattisgarh Bandh",
+      "blurb": "Chhattisgarh saw a bandh as protesters disrupted normal activity."
+    },
+    {
+      "page": 1,
+      "index": 5,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "SC DA",
+      "blurb": "The Supreme Court listed Karnataka's liquor prohibition policy for scrutiny by a Constitution Bench."
+    },
+    {
+      "page": 1,
+      "index": 6,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Murder arrest in Odisha",
+      "blurb": "Odisha police arrested a suspect in a murder case."
+    },
+    {
+      "page": 1,
+      "index": 7,
+      "kind": "news",
+      "scope": "india",
+      "headline": "IndiGo crisis panel",
+      "blurb": "A government panel was formed to review IndiGo's operational crisis after mass flight cancellations."
+    },
+    {
+      "page": 1,
+      "index": 8,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Manipur allotments",
+      "blurb": "Manipur faced renewed controversy over land and housing allotments."
+    },
+    {
+      "page": 1,
+      "index": 9,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Goa: HC on torturing chained monkey",
+      "blurb": "The Goa High Court took up reports of a monkey kept chained and tortured."
+    },
+    {
+      "page": 1,
+      "index": 10,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "MS Bhat elected",
+      "blurb": "M S Bhat was elected to a senior BCCI administrative post."
+    },
+    {
+      "page": 1,
+      "index": 11,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Cyclone Hart hits Andaman",
+      "blurb": "Cyclone Hart brought severe weather to the Andaman and Nicobar Islands."
+    },
+    {
+      "page": 1,
+      "index": 12,
+      "kind": "news",
+      "scope": "india",
+      "headline": "UIDAI says 98% free Aadhaar",
+      "blurb": "UIDAI said roughly 98% of Aadhaar services stay free at enrolment and update centres."
+    },
+    {
+      "page": 1,
+      "index": 13,
+      "kind": "news",
+      "scope": "india",
+      "headline": "New Supreme Court judges",
+      "blurb": "New Supreme Court judges were appointed."
+    },
+    {
+      "page": 1,
+      "index": 14,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "SEBI SA GP CAP Grewal",
+      "blurb": "SEBI issued action tied to Bengaluru businessman S A G P CAP Grewal."
+    },
+    {
+      "page": 1,
+      "index": 15,
+      "kind": "news",
+      "scope": "india",
+      "headline": "UP Shivling construction SC",
+      "blurb": "The Supreme Court heard pleas over Shivling construction at a disputed Uttar Pradesh site."
+    },
+    {
+      "page": 1,
+      "index": 16,
+      "kind": "news",
+      "scope": "other",
+      "headline": "Sensex, Nifty",
+      "blurb": "Equity benchmarks Sensex and Nifty closed mixed in the session covered."
+    },
+    {
+      "page": 1,
+      "index": 17,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Pack of wastes suspected rabid dog",
+      "blurb": "Mangaluru police acted after Filosopher Nagar and Jeppinamogaru residents reported stray dogs, including one suspected rabid, attacking people and livestock; Commissioner K G Nagaraj said teams would trap, vaccinate and supply disfigurement-prevention kits."
+    },
+    {
+      "page": 1,
+      "index": 18,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Vinita S C to join KSRTC",
+      "blurb": "Vinita S C is slated to join KSRTC in a senior capacity."
+    },
+    {
+      "page": 2,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Anna Hazare engineered protests",
+      "blurb": "Report on Anna Hazare and engineered protest activity."
+    },
+    {
+      "page": 2,
+      "index": 2,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Weddings return to iconic Mysuru palace",
+      "blurb": "Weddings have resumed at the iconic Mysuru palace venue."
+    },
+    {
+      "page": 2,
+      "index": 3,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Bengaluru: Knife-wielding flower vendor held for attacking CCIV",
+      "blurb": "Bengaluru police held a knife-wielding flower vendor for attacking a CCIV staffer."
+    },
+    {
+      "page": 2,
+      "index": 4,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Lucknow woman rescued after being tied to rope",
+      "blurb": "A Lucknow woman was rescued after being tied to a rope."
+    },
+    {
+      "page": 2,
+      "index": 5,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Anna Hazare: PWD connection minister",
+      "blurb": "Anna Hazare raised a PWD connection involving a minister."
+    },
+    {
+      "page": 2,
+      "index": 6,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Chirag Paswan asks govt to stop Caste Census ads",
+      "blurb": "Chirag Paswan urged the government to stop Caste Census advertisements."
+    },
+    {
+      "page": 2,
+      "index": 7,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Patna college incident: College girls groped",
+      "blurb": "A Patna college incident involved college girls being groped."
+    },
+    {
+      "page": 2,
+      "index": 8,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Telangana High Court: Conversion HC quash",
+      "blurb": "Telangana High Court dealt with quashing in a conversion case."
+    },
+    {
+      "page": 2,
+      "index": 9,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Bengaluru: Woman alleges rape after night out",
+      "blurb": "A Bengaluru woman alleged rape after a night out."
+    },
+    {
+      "page": 2,
+      "index": 10,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Bengaluru: 2 chains of women Swifties snatched",
+      "blurb": "Two women's chains were snatched in Bengaluru during a Swifties-related gathering."
+    },
+    {
+      "page": 2,
+      "index": 11,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Bengaluru: Junk dealer held for murder in BTM",
+      "blurb": "Bengaluru police held a junk dealer for murder in BTM Layout."
+    },
+    {
+      "page": 2,
+      "index": 12,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Namma Metro: RFID pedestrians fined",
+      "blurb": "Namma Metro fined pedestrians over RFID rule violations."
+    },
+    {
+      "page": 2,
+      "index": 13,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Delhi schools shut: Delhi-NCR schools closed over pollution",
+      "blurb": "Delhi-NCR schools were shut citing pollution levels."
+    },
+    {
+      "page": 3,
+      "index": 1,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Udupi: MGS Hospital workers protest CM's pre-closure announcement",
+      "blurb": "Udupi MGS Hospital staff protested CM Siddaramaiah's October 7 pre-closure order, citing two years without pay and a 21-day hunger strike by about 50 workers demanding compensation before shutdown."
+    },
+    {
+      "page": 3,
+      "index": 2,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Mangaluru: MLA Jayanarayan, a leader from a political lineage, attacked",
+      "blurb": "Mangaluru MLA and corporator Jayanarayan was attacked in Bunder wards, hospitalised with injuries after the Monday incident."
+    },
+    {
+      "page": 3,
+      "index": 3,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Mangaluru: SDPI district president booked for assault on women",
+      "blurb": "SDPI district president Trasi Srinivas was booked for allegedly assaulting activist Ramachandra in Muloor on October 3."
+    },
+    {
+      "page": 3,
+      "index": 4,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Mangaluru: District central library to be named after SS Hegde",
+      "blurb": "The district central library in Mangaluru, turning 50, will be named for S S Hegde on his 90th birth anniversary; the report notes a 2024 heritage conservation award."
+    },
+    {
+      "page": 3,
+      "index": 5,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Mangaluru: Woman harassed by half-naked man; allegations against Raghu",
+      "blurb": "A Mangaluru woman alleged harassment by a half-naked man, naming Raghu, in an incident that spread on social media on October 8."
+    },
+    {
+      "page": 3,
+      "index": 6,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Uttara Kannada: 3 minors killed in hill collapse at stone quarry",
+      "blurb": "Three minors were killed in an Uttara Kannada stone-quarry hill collapse."
+    },
+    {
+      "page": 3,
+      "index": 7,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Udupi: Heavy rain destroys crops",
+      "blurb": "Heavy rain destroyed crops across Udupi district."
+    },
+    {
+      "page": 3,
+      "index": 8,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Shivamogga: Temple owner hosts marriage 15 years after landslide",
+      "blurb": "A Shivamogga temple owner held a wedding 15 years after a local landslide."
+    },
+    {
+      "page": 3,
+      "index": 9,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Hassan: Elderly man assaults domestic worker",
+      "blurb": "Hassan police registered a case after an elderly man assaulted a domestic worker."
+    },
+    {
+      "page": 3,
+      "index": 10,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Davanagere: Drug peddler's bail application",
+      "blurb": "Davanagere authorities dealt with a bail plea from an accused drug peddler."
+    },
+    {
+      "page": 3,
+      "index": 11,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Mariyamma lifted goods to vehicle",
+      "blurb": "Brief: Mariyamma lifted goods to a vehicle."
+    },
+    {
+      "page": 3,
+      "index": 12,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Mangaluru: Fishing boat capsizes off Visakhapatnam; Hamsaraj dead",
+      "blurb": "A Mangaluru fishing boat capsized off Visakhapatnam; Hamsaraj died."
+    },
+    {
+      "page": 3,
+      "index": 13,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Dakshina Kannada: Religious places, puja centres — DC directive",
+      "blurb": "Dakshina Kannada DC issued a directive on religious places and puja centres."
+    },
+    {
+      "page": 3,
+      "index": 14,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Udupi: SDPI 42nd foundation day at Dasarahalli",
+      "blurb": "SDPI marked its 42nd foundation day at Dasarahalli in Udupi."
+    },
+    {
+      "page": 3,
+      "index": 15,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Hassan: Buses for government primary schools",
+      "blurb": "Hassan report on buses for government primary schools."
+    },
+    {
+      "page": 3,
+      "index": 16,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Malnad: Dairy farmers meet at collectorate for relief",
+      "blurb": "Malnad dairy farmers met at the collectorate seeking relief."
+    },
+    {
+      "page": 3,
+      "index": 17,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Chikmagalur: Traffic congestion as visitors arrive",
+      "blurb": "Chikmagalur saw traffic congestion as visitors arrived."
+    },
+    {
+      "page": 3,
+      "index": 18,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Bangalore Urban: Sewage leak into houses, swimming pools — CMC",
+      "blurb": "Bangalore Urban residents faced sewage leaks into homes and pools, CMC noted."
+    },
+    {
+      "page": 3,
+      "index": 19,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Dakshina Kannada: 419 schools targeted for nutritious meal",
+      "blurb": "419 Dakshina Kannada schools were targeted under a nutritious meal programme."
+    },
+    {
+      "page": 3,
+      "index": 20,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Tumkur: Bandh over illegal mining protest",
+      "blurb": "Tumkur observed a bandh protesting illegal mining."
+    },
+    {
+      "page": 4,
+      "index": 1,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Mangaluru: Fisherfolk brought 7 PMM cells to Nirmala",
+      "blurb": "Mangaluru fisherfolk presented seven PMM cells to Minister Nirmala."
+    },
+    {
+      "page": 4,
+      "index": 2,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Minister assures quick work on Malekudiya land",
+      "blurb": "A minister promised expedited action on Malekudiya land matters."
+    },
+    {
+      "page": 4,
+      "index": 3,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Coastal security review by Deputy Commissioner Bindu",
+      "blurb": "DC Bindu held a coastal security review."
+    },
+    {
+      "page": 4,
+      "index": 4,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Solar scam trial: SNC Lavalin re-examination",
+      "blurb": "Court proceedings in a solar scam trial included SNC Lavalin-related re-examination."
+    },
+    {
+      "page": 4,
+      "index": 5,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Belgium conviction: Prasad Kodiyath",
+      "blurb": "Prasad Kodiyath was convicted in Belgium in a case reported alongside rights and dignity issues."
+    },
+    {
+      "page": 4,
+      "index": 6,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Mangaluru: Loan fraud case — Rohith",
+      "blurb": "Mangaluru authorities investigated a loan fraud case naming Rohith."
+    },
+    {
+      "page": 4,
+      "index": 7,
+      "kind": "news",
+      "scope": "india",
+      "headline": "CPI leader murder case: Jaipur chargesheets",
+      "blurb": "Jaipur police filed chargesheets in a CPI leader murder case."
+    },
+    {
+      "page": 4,
+      "index": 8,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Yadgiri: Bylahalli basadi",
+      "blurb": "News from Yadgiri covered the Bylahalli basadi."
+    },
+    {
+      "page": 4,
+      "index": 9,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Bellary: Truck driver mowed sleepers",
+      "blurb": "A Bellary truck driver mowed down roadside sleepers."
+    },
+    {
+      "page": 4,
+      "index": 10,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Bengaluru: CPWD projects — corruption prosecution",
+      "blurb": "Corruption prosecution was pursued over CPWD projects in Bengaluru."
+    },
+    {
+      "page": 4,
+      "index": 11,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Dakshina Kannada: Home guards training",
+      "blurb": "Dakshina Kannada home guards underwent training."
+    },
+    {
+      "page": 4,
+      "index": 12,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Udupi: Full moon at Sharada Peeth",
+      "blurb": "Udupi marked full moon observances at Sharada Peeth."
+    },
+    {
+      "page": 4,
+      "index": 13,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Shivamogga: Teachers' motor insurance protests",
+      "blurb": "Shivamogga teachers protested over motor insurance."
+    },
+    {
+      "page": 4,
+      "index": 14,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Davanagere: Nominees for TP election",
+      "blurb": "Davanagere named nominees for town panchayat election."
+    },
+    {
+      "page": 4,
+      "index": 15,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Kolar: Illegal mining",
+      "blurb": "Kolar report on illegal mining."
+    },
+    {
+      "page": 4,
+      "index": 16,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Gadag: Double-acting flower",
+      "blurb": "Gadag brief on a double-acting flower display."
+    },
+    {
+      "page": 4,
+      "index": 17,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Hassan: Boy refuses marriage after molestation claim",
+      "blurb": "A Hassan boy refused marriage following a molestation allegation."
+    },
+    {
+      "page": 4,
+      "index": 18,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Chitradurga: Teachers' transfer at GHS",
+      "blurb": "Chitradurga teachers faced transfers at a government high school."
+    },
+    {
+      "page": 4,
+      "index": 19,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Chitradurga: Congressman assaulted",
+      "blurb": "A Congressman was assaulted in Chitradurga."
+    },
+    {
+      "page": 4,
+      "index": 20,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Dakshina Kannada: Police patrols for Dasara",
+      "blurb": "Dakshina Kannada police increased Dasara patrols."
+    },
+    {
+      "page": 5,
+      "index": 1,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "A win in Oct vs India means Pakistan is in semis",
+      "blurb": "The sports desk said a Pakistan win over India in October would seal a semifinal berth for Pakistan."
+    },
+    {
+      "page": 5,
+      "index": 2,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "FC Barcelona return to session under Xavi",
+      "blurb": "FC Barcelona resumed sessions under Xavi following the international break."
+    },
+    {
+      "page": 5,
+      "index": 3,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "GEHA wins Asian hockey bronze",
+      "blurb": "GEHA claimed Asian hockey bronze."
+    },
+    {
+      "page": 5,
+      "index": 4,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Salem Super Kings win soft tennis title",
+      "blurb": "Salem Super Kings won the soft tennis title reported."
+    },
+    {
+      "page": 5,
+      "index": 5,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Praciano turns 80",
+      "blurb": "Praciano marked his 80th birthday with a career profile in the sports pages."
+    },
+    {
+      "page": 5,
+      "index": 6,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "Kannada film icon felicitation for KC Nagaraju",
+      "blurb": "KC Nagaraju received felicitation as a Kannada film icon."
+    },
+    {
+      "page": 5,
+      "index": 7,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Saurashtra beat Gujarat",
+      "blurb": "Saurashtra beat Gujarat in the match reported."
+    },
+    {
+      "page": 5,
+      "index": 8,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Shooter Manisha settles for silver in Doha",
+      "blurb": "Shooter Manisha took silver in Doha."
+    },
+    {
+      "page": 5,
+      "index": 9,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Hockey teams trials",
+      "blurb": "Hockey trials were held for national team selection."
+    },
+    {
+      "page": 6,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Manipur CM sacked",
+      "blurb": "Manipur Chief Minister Rajkumar Ranjan was sacked amid continuing state political turmoil."
+    },
+    {
+      "page": 6,
+      "index": 2,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Karnataka contracts: Flavour, tourism, dosa bank",
+      "blurb": "Karnataka announced contracts spanning flavour tourism and a dosa bank project."
+    },
+    {
+      "page": 6,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Ola shareholders, AWS cloud",
+      "blurb": "Ola shareholder moves and AWS cloud ties were reported."
+    },
+    {
+      "page": 6,
+      "index": 4,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Mangalore pet parent camps at Thamannai",
+      "blurb": "Mangalore hosted pet parent camps at Thamannai."
+    },
+    {
+      "page": 6,
+      "index": 5,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Minor girl sexually harassed in Mangaluru; 17 accused from two colleges",
+      "blurb": "Police booked 17 people from two Mangaluru colleges, some minors, after a minor girl's October 8 sexual harassment complaint."
+    },
+    {
+      "page": 6,
+      "index": 6,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "BJP protest at Khader minister's house",
+      "blurb": "BJP cadres protested outside minister Khader's house."
+    },
+    {
+      "page": 6,
+      "index": 7,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Liposuction death: Srinivas Bhat",
+      "blurb": "Srinivas Bhat died after liposuction in a case under scrutiny."
+    },
+    {
+      "page": 6,
+      "index": 8,
+      "kind": "news",
+      "scope": "india",
+      "headline": "ITBP Siachen avalanche rescue of 8 soldiers",
+      "blurb": "ITBP rescued eight soldiers following a Siachen avalanche on the India–Pakistan border."
+    },
+    {
+      "page": 6,
+      "index": 9,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Nitish decriminalises toddy",
+      "blurb": "Nitish Kumar's government decriminalised toddy in Bihar."
+    },
+    {
+      "page": 6,
+      "index": 10,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Kelly Clarkson divorce settlement",
+      "blurb": "Kelly Clarkson finalised a divorce settlement."
+    },
+    {
+      "page": 6,
+      "index": 11,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Obesity drugs in Jan Aushadhi sale",
+      "blurb": "Jan Aushadhi stores started selling obesity medicines."
+    },
+    {
+      "page": 6,
+      "index": 12,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Karnataka boxer Dhoopad wins 9 awards",
+      "blurb": "Karnataka boxer Dhoopad bagged nine awards."
+    },
+    {
+      "page": 6,
+      "index": 13,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Russia vape ban",
+      "blurb": "Russia moved to ban vape products."
+    },
+    {
+      "page": 6,
+      "index": 14,
+      "kind": "news",
+      "scope": "international",
+      "headline": "NASA asteroid TC4",
+      "blurb": "NASA monitored asteroid TC4's close approach."
+    },
+    {
+      "page": 6,
+      "index": 15,
+      "kind": "news",
+      "scope": "india",
+      "headline": "In Brief: 66th Wildlife Week",
+      "blurb": "The paper noted 66th Wildlife Week events in brief."
+    },
+    {
+      "page": 7,
+      "index": 1,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Hoax call triggers Mangaluru airport scare",
+      "blurb": "A hoax call caused a security scare at Mangaluru airport."
+    },
+    {
+      "page": 7,
+      "index": 2,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "KSRTC service on Kittur Rani Chennamma express route",
+      "blurb": "KSRTC announced service changes on the Kittur Rani Chennamma express route."
+    },
+    {
+      "page": 7,
+      "index": 3,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Krishi Mela in Hassan",
+      "blurb": "Hassan held a Krishi Mela fair."
+    },
+    {
+      "page": 7,
+      "index": 4,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "MLA hosts lunch for cancer, dialysis patients",
+      "blurb": "An MLA organised lunch for cancer and dialysis patients."
+    },
+    {
+      "page": 7,
+      "index": 5,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Private hospitals on gorilla land use in Siddapura",
+      "blurb": "Siddapura private hospitals were questioned over gorilla land use."
+    },
+    {
+      "page": 7,
+      "index": 6,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Illegal bus bay in Bantwal; Rs 1400 fine",
+      "blurb": "Bantwal imposed a Rs 1400 fine over an illegal bus bay."
+    },
+    {
+      "page": 7,
+      "index": 7,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Theft at Bharath Mall parotta shop",
+      "blurb": "Police registered theft at a Bharath Mall parotta outlet."
+    },
+    {
+      "page": 7,
+      "index": 8,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Fake birth certificate arrest",
+      "blurb": "Arrests were made in a fake birth certificate case."
+    },
+    {
+      "page": 7,
+      "index": 9,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Railway protection in Mangaluru, Udupi",
+      "blurb": "Railway protection was stepped up on Mangaluru–Udupi routes."
+    },
+    {
+      "page": 7,
+      "index": 10,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Teachers' sports meet in Udupi",
+      "blurb": "Teachers competed at a sports meet in Udupi."
+    },
+    {
+      "page": 7,
+      "index": 11,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Jain award for Manipal SGD Mundkur",
+      "blurb": "SGD Mundkur of Manipal was honoured with a Jain award."
+    },
+    {
+      "page": 7,
+      "index": 12,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Teachers march at Mangalore University",
+      "blurb": "Teachers held a march at Mangalore University."
+    },
+    {
+      "page": 8,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Mumbai pothole death claims",
+      "blurb": "Families claimed potholes caused fatal accidents in Mumbai."
+    },
+    {
+      "page": 8,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "DMK youth call rally at Besant Nagar",
+      "blurb": "DMK youth rallied at Besant Nagar."
+    },
+    {
+      "page": 8,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Navi Mumbai cops and bedsheets complaints",
+      "blurb": "Navi Mumbai police drew complaints over bedsheets."
+    },
+    {
+      "page": 8,
+      "index": 4,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "4 kids killed as truck hits them in Bengaluru",
+      "blurb": "Four children were killed after a truck struck them in Bengaluru."
+    },
+    {
+      "page": 8,
+      "index": 5,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "77% robbers jailed in Karnataka study",
+      "blurb": "A study said 77% of robbers arrested in Karnataka were jailed."
+    },
+    {
+      "page": 8,
+      "index": 6,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Cauvery triumph in Bengaluru",
+      "blurb": "Bengaluru saw a Cauvery-related triumph event reported."
+    },
+    {
+      "page": 8,
+      "index": 7,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Kerala HC on human trafficking in Palakkad",
+      "blurb": "Kerala High Court took up human trafficking in Palakkad."
+    },
+    {
+      "page": 8,
+      "index": 8,
+      "kind": "news",
+      "scope": "india",
+      "headline": "BA mass promotion for II PU students in Cuttack",
+      "blurb": "Cuttack announced mass BA promotion for II PU students."
+    },
+    {
+      "page": 8,
+      "index": 9,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Farming plays in Goa",
+      "blurb": "Goa hosted farming-themed plays."
+    },
+    {
+      "page": 8,
+      "index": 10,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Journalist killed by SUV in UP",
+      "blurb": "A Uttar Pradesh journalist died after being hit by an SUV."
+    }
+  ]
+}
