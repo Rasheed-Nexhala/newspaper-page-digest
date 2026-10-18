@@ -57,10 +57,10 @@ Root cause: News Trail scans with no text layer led to **invented** stories when
 
 1. **Never invent, infer, or fill in** a story, number, name, quote, date, or weekday. Every digest item must come from text you actually read: PDF text layer, or OCR/vision on the rendered page image.
 2. If a PDF page has **no or too little text**, render to image and read with OCR/vision. If still unreadable, write **"page unreadable"** for that page. **Never fill it in.**
-3. Each **Top 5 citation** (`paper` + `page`) must be checked against that **page image** before publish (**Gate A** and **Gate B**). Mandatory and blocking for **every paper** (Deccan Herald, The Hindu, News Trail), **every day**.
+3. Each **Top 5 citation** (`paper` + `page`) must be checked against that **page image** before publish (**Gate A** and **Gate B**). Mandatory and blocking for **every paper** (Deccan Herald, The Hindu, News Trail), **every day**. Gate B requires **`scripts/gate_b_check.py`** exit 0 + stdout in the PR — not verbal QA.
 4. **Compute weekdays from the date.** Never guess them.
 5. If **any gate fails**, do **not** merge or deploy. Report the failure instead.
-6. **Log each day's verification evidence** (page image checked, headline seen) in the **PR description**.
+6. **Log each day's verification evidence** (Gate B script output; page image checked, headline seen) in the **PR description**.
 
 ## Page-image verification (summary)
 
@@ -69,7 +69,7 @@ Full rules: **`references/page-image-verification-gate.md`**.
 | Gate | When | Action |
 |:-----|:-----|:-------|
 | **A** | After each paper’s PageDigest assembled, **before** “paper done” | Sample pages (or every page if ≤6 pages or News Trail): Read page PDF/PNG; confirm each checked article’s digest **headline** appears on the image. Fix digest or fail the paper. |
-| **B** | After Local + Coastal Top 5 JSON exist, **before** commit/push/merge | For **every** ranked item in Local Top 5 (all buckets) and Coastal Katte Top 5: verify each `sources[]` `paper`+`page`+headline on the page image; drop/replace failures; **abort publish** if any citation still fails. |
+| **B** | After Local + Coastal Top 5 JSON exist, **before** commit/push/merge | Run **`scripts/gate_b_check.py`** on every Local + Coastal Top 5 citation (OCR/text-layer); paste stdout in PR; drop/replace failures; **abort publish** if script exits non-zero. |
 
 In this pipeline, **defer** `newspaper-page-digest` Step 5 cleanup (`pages/` deletion) until **Gate B** passes, so Top 5 checks can open `$WORKDIR/pages/page-NN.pdf`. Then cleanup all paper folders before commit.
 
@@ -107,14 +107,29 @@ Outputs:
 
 Do **not** create `scripts/` or `youtube/` under `Coastal_Katte/` in this pipeline.
 
-## Step 3b — Gate B: Top 5 page-image citations
+## Step 3b — Gate B: Top 5 page-image citations (mechanical + blocking)
 
 Before UI verify or git commit:
 
-1. Follow **`references/page-image-verification-gate.md`** Gate B for `LocalTop5_*.json` and `CoastalKatte_Top5_*.json`.
-2. On any failure: fix PageDigest or re-rank Top 5, then re-run Gate B.
-3. If any shipped Top 5 item still fails: **stop** — do not commit, merge, or deploy. Report failing `paper` / `page` / rank.
-4. After Gate B passes: run per-paper digest cleanup (delete `pages/`, `transcripts/`, `edited/`, temps) so each paper folder keeps only `*_PageDigest.*`.
+1. **Run the mechanical checker** (mandatory — fail closed). Do **not** treat chat “I checked” as a pass:
+
+```bash
+python3 .cursor/skills/daily-local-coastal-top5/scripts/gate_b_check.py \
+  --date <DD-Mon-YYYY> \
+  --top5 work/<date>/Daily_top/LocalTop5_<date>.json \
+  --top5 work/<date>/Coastal_Katte/CoastalKatte_Top5_<date>.json \
+  --work-dir work/<date> \
+  --pdf-dir /path/to/edition-pdfs \
+  --force-ocr
+```
+
+   Docs: `scripts/README-gate-b.md`. Exit non-zero ⇒ **stop**. Paste full stdout into the PR description.
+2. Also follow **`references/page-image-verification-gate.md`** Gate B (vision follow-up on any FAIL / doubt).
+3. On any failure: fix PageDigest or re-rank Top 5, then **re-run the script**.
+4. If any shipped Top 5 item still fails: **stop** — do not commit, merge, or deploy. Report failing `paper` / `page` / rank.
+5. After Gate B passes (script exit 0 + evidence in PR): run per-paper digest cleanup (delete `pages/`, `transcripts/`, `edited/`, temps) so each paper folder keeps only `*_PageDigest.*`.
+
+Edition PDFs are usually **not** in the repo. CI may skip when PDFs are absent (`.github/workflows/gate-b-check.yml`); that skip is **not** a pass — agents must run locally with PDF paths.
 
 ## Step 4 — Verify UI
 
@@ -157,7 +172,7 @@ Land on **`main`** (direct push, or PR **merged into `main`**). That push trigge
 
 Ensure Top 5 JSON paths are included so the Action’s path filters fire. Do not force-push, skip hooks, or commit secrets.
 
-If landing via **PR**, the PR description must include **Gate A / Gate B verification evidence** for that date (papers, page numbers checked, headline confirmed on image). Do not merge until gates pass.
+If landing via **PR**, the PR description must include **Gate A notes** and **full Gate B `gate_b_check.py` stdout** for that date. Do not merge until gates pass (script exit 0). No script output ⇒ do not merge.
 
 ## Step 6 — Notify when Firebase deploy completes
 
