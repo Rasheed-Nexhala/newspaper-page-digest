@@ -1,0 +1,970 @@
+{
+  "paper": "News Trail",
+  "edition": "Mangaluru",
+  "date": "Friday, 17 October 2026",
+  "total_pages": 12,
+  "total_articles": 120,
+  "pages_with_no_articles": [],
+  "articles": [
+    {
+      "page": 1,
+      "index": 1,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "MCC, MUDA & MESCOM get new powers",
+      "blurb": "The Karnataka Assembly passed amendments to the Karnataka Municipal Corporation Act, Karnataka Electricity Reform Act and Karnataka Urban Development Authorities Act, giving Mangaluru City Corporation, MESCOM and MUDA expanded powers including MCC control over more areas, MESCOM authority to remove illegal connections and MUDA ability to acquire forest land for development."
+    },
+    {
+      "page": 1,
+      "index": 2,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "No more free meals at govt hospitals; patients to pay ₹10",
+      "blurb": "The state government ended free breakfast and lunch at government hospitals; patients must pay ₹10 per meal while staff retain free meals, with officials citing budget constraints and saying the charge will improve quality."
+    },
+    {
+      "page": 1,
+      "index": 3,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Karnataka govt to roll out free bus rides for unorganised women workers",
+      "blurb": "The government will provide free bus travel for unorganised women workers on Karnataka State Road Transport Corporation services, with Transport Minister Ramalinga Reddy saying registration and eligibility details will be announced soon."
+    },
+    {
+      "page": 1,
+      "index": 4,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "D'Souza seeks inquiry into MCC's unaccounted ₹1.34 crore expenditure",
+      "blurb": "Mangaluru South MLA D Vedavyasa Kamath asked the government to order a probe into ₹1.34 crore in unaccounted Mangaluru City Corporation spending flagged in audit reports, demanding accountability from the council and administration."
+    },
+    {
+      "page": 1,
+      "index": 5,
+      "kind": "news",
+      "scope": "india",
+      "headline": "'We will fight, suffer, not surrender': CJP vows to intensify stir; 200 held on day 2 of protests",
+      "blurb": "The Cockroach Janta Party vowed to intensify protests against Chief Election Commissioner Gyanesh Kumar as about 200 people were detained in the New Delhi area; leaders including Abhijeet Dipke said agitation would continue until the CEC resigns after releases on peace bonds."
+    },
+    {
+      "page": 1,
+      "index": 6,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Saudi Arabia extends closure of airport after 12 die in Houthi attack",
+      "blurb": "Saudi Arabia extended closure of its main international airport after a Houthi missile strike on Riyadh killed 12 people and wounded more than 300, with victims including Saudi, Bangladeshi and other nationals; Donald Trump said he was weighing response options."
+    },
+    {
+      "page": 1,
+      "index": 7,
+      "kind": "news",
+      "scope": "india",
+      "headline": "'No detentions': SC frowns on metro, Internet disruptions too",
+      "blurb": "The Supreme Court ordered restoration of metro, train, internet and movement services in Delhi and barred illegal detentions of peaceful protesters, hearing contempt and habeas corpus petitions over closures during protests against the CEC; further hearings were scheduled."
+    },
+    {
+      "page": 2,
+      "index": 1,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "300 tonnes/day of construction debris dumped in Mangaluru",
+      "blurb": "Mangaluru City Corporation officials said roughly 300 tonnes of construction and demolition waste is dumped in the city daily, often illegally, and called for stricter enforcement and designated disposal sites to protect drains and public land."
+    },
+    {
+      "page": 2,
+      "index": 2,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Mangaluru City Police launch 'Nagarika Rakshaka Sena'",
+      "blurb": "City Police Commissioner Anupam Agrawal launched the Nagarika Rakshaka Sena citizen volunteer programme to assist with community policing, traffic management and awareness, inviting residents to register with local stations after training."
+    },
+    {
+      "page": 2,
+      "index": 3,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Mangaluru gets second Vande Bharat Express train",
+      "blurb": "Prime Minister Narendra Modi flagged off the second Vande Bharat Express for Mangaluru on 17 October 2026 on the Honavar–Mangaluru route via Udupi, with officials saying the service will cut travel time and boost tourism along the Konkan coast."
+    },
+    {
+      "page": 2,
+      "index": 4,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Udupi's Padubidri beach gets Blue Flag certification",
+      "blurb": "Padubidri beach in Udupi district received Blue Flag certification for meeting environmental and safety standards, with district officials citing clean water, lifeguards and waste management as factors in the recognition."
+    },
+    {
+      "page": 2,
+      "index": 5,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "₹5 crore tender to promote Bantwal taluk panchayat ad",
+      "blurb": "Bantwal taluk panchayat floated a ₹5 crore tender for publicity and promotional activities, drawing criticism from opposition members who questioned the spending priority for a rural local body."
+    },
+    {
+      "page": 2,
+      "index": 6,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Two booked for selling plastic bags",
+      "blurb": "Mangaluru City Corporation health officials booked two shopkeepers for selling banned plastic carry bags during a surprise inspection in the central business district, warning of continued raids."
+    },
+    {
+      "page": 2,
+      "index": 7,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Kundapura: Eight people booked for attempt to murder",
+      "blurb": "Kundapura police booked eight people on attempt-to-murder and related charges after an assault left a man seriously injured in a village dispute; investigators said weapons were seized and arrests were made."
+    },
+    {
+      "page": 2,
+      "index": 8,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Mangaluru's Central Market to remain closed on Sundays",
+      "blurb": "The Central Market Merchants' Association said the wholesale market will stay closed on Sundays for a month-long trial to allow cleaning and reduce congestion, with traders asked to plan supply accordingly."
+    },
+    {
+      "page": 3,
+      "index": 1,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "AICC urges Modi to stop 'hate-mongering' in Bengaluru",
+      "blurb": "All India Congress Committee spokespersons urged Prime Minister Narendra Modi to rein in alleged hate speech during a Bengaluru event, accusing the BJP of polarising rhetoric ahead of local elections."
+    },
+    {
+      "page": 3,
+      "index": 2,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Congress urges BJP to clarify stand on women's reservation Bill",
+      "blurb": "Karnataka Congress leaders demanded the BJP state unit clarify its position on the women's reservation Bill, saying delay in implementation affects panchayat and urban local body polls."
+    },
+    {
+      "page": 3,
+      "index": 3,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "'Only one person who can defeat Siddaramaiah in State is Siddaramaiah himself': Congress leader",
+      "blurb": "A senior Congress leader said only Siddaramaiah could defeat himself politically, defending the chief minister amid internal rivalry talk before the 2028 assembly elections."
+    },
+    {
+      "page": 3,
+      "index": 4,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "'Modi's 'no' cost Karnataka Rs 8000 crore'",
+      "blurb": "Congress alleged Karnataka lost about ₹8,000 crore in central funds because of Prime Minister Modi's refusal to approve certain projects, citing stalled rail and irrigation schemes."
+    },
+    {
+      "page": 3,
+      "index": 5,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "'A free for all': Mangalore Cricket Federation elections end in fiasco",
+      "blurb": "The Mangalore Cricket Federation election descended into chaos with rival panels trading allegations of proxy voting and rule violations, postponing declaration of results pending scrutiny."
+    },
+    {
+      "page": 3,
+      "index": 6,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "32 Karnataka lakes contaminated; 8 of them in DK",
+      "blurb": "A Karnataka State Pollution Control Board survey listed 32 lakes statewide as contaminated, including eight in Dakshina Kannada, with sewage discharge and encroachment cited as main causes."
+    },
+    {
+      "page": 3,
+      "index": 7,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Karnataka govt to amend laws to allow CM to chair MUDA and MCC boards",
+      "blurb": "The government will amend urban development and municipal laws so the chief minister can chair MUDA and Mangaluru City Corporation boards, a move the opposition called centralisation of local governance."
+    },
+    {
+      "page": 4,
+      "index": 1,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Mangaluru International Airport gets international status, direct flights to Dubai and Doha",
+      "blurb": "Mangaluru International Airport secured designation for expanded international operations with direct Dubai and Doha services announced, with airport officials expecting higher passenger and cargo traffic."
+    },
+    {
+      "page": 4,
+      "index": 2,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "ADB approves $280 million loan for Karnataka urban infrastructure",
+      "blurb": "The Asian Development Bank approved a $280 million loan for Karnataka urban infrastructure including water supply and transport in select cities; Mangaluru projects are among those under evaluation."
+    },
+    {
+      "page": 4,
+      "index": 3,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Mangaluru to get 200 CNG and electric buses under FAME scheme",
+      "blurb": "The state transport department said Mangaluru will receive about 200 CNG and electric buses under the FAME-II scheme, with depots to get charging infrastructure over the next two years."
+    },
+    {
+      "page": 4,
+      "index": 4,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Ujire, Puttur, Bantwal get new City Municipal Councils",
+      "blurb": "The government notified upgraded municipal council status for Ujire, Puttur and Bantwal, expanding urban local governance and devolution of funds in Dakshina Kannada."
+    },
+    {
+      "page": 4,
+      "index": 5,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "State govt launches Namma Clinic in Mangaluru",
+      "blurb": "Health Minister launched a Namma Clinic primary-care centre in Mangaluru promising free basic consultations and medicines, part of a statewide rollout of neighbourhood clinics."
+    },
+    {
+      "page": 4,
+      "index": 6,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Karnataka govt to introduce new sand policy to curb illegal mining",
+      "blurb": "Mines and Geology officials said a revised sand policy with GPS-tracked transport and stiff penalties will be rolled out to curb illegal river sand mining affecting coastal and Malnad districts."
+    },
+    {
+      "page": 5,
+      "index": 1,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "BJP appoints new President in Mandya district",
+      "blurb": "The BJP appointed a new district president in Mandya ahead of local body polls, with leaders outlining a booth-strengthening campaign across the Vokkaliga-dominated region."
+    },
+    {
+      "page": 5,
+      "index": 2,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Election for Belagavi ZP President postponed",
+      "blurb": "Authorities postponed the Belagavi Zilla Panchayat president election after objections over member attendance and quorum, scheduling a fresh date next week."
+    },
+    {
+      "page": 5,
+      "index": 3,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "BJP to organise massive rally in Belagavi on Oct 25",
+      "blurb": "Karnataka BJP announced a large rally in Belagavi on 25 October with national leaders expected to address border-region and sugarcane farmer issues."
+    },
+    {
+      "page": 5,
+      "index": 4,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "SBI opens IFSC branch in Mangaluru",
+      "blurb": "State Bank of India inaugurated an International Financial Services Centre banking unit in Mangaluru to serve exporters and overseas investors, officials said."
+    },
+    {
+      "page": 5,
+      "index": 5,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Government doctor suspended in Chikmagalur over sexual misconduct complaint",
+      "blurb": "Health department suspended a government doctor in Chikmagalur pending inquiry into a sexual misconduct complaint filed by a staff member."
+    },
+    {
+      "page": 5,
+      "index": 6,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Youth drowns in Hubballi lake",
+      "blurb": "A youth drowned in Unkal Lake in Hubballi while swimming with friends; fire services recovered the body and police registered a case."
+    },
+    {
+      "page": 5,
+      "index": 7,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Farmer commits suicide in Bidar over crop loss",
+      "blurb": "A farmer in Bidar district died by suicide allegedly after crop loss and debt; tahsildar ordered a magistrate inquiry and promised relief assessment."
+    },
+    {
+      "page": 5,
+      "index": 8,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Teachers in Chamarajanagar protest against transfers",
+      "blurb": "Government school teachers in Chamarajanagar staged a protest demanding reversal of sudden transfer orders they said disrupted classrooms mid-term."
+    },
+    {
+      "page": 5,
+      "index": 9,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Three killed in road accident in Haveri",
+      "blurb": "Three people died when a car collided with a truck on a Haveri district highway; police said overspeeding was suspected."
+    },
+    {
+      "page": 5,
+      "index": 10,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Bus accident in Tumakuru leaves five injured",
+      "blurb": "Five passengers were injured when a private bus overturned near Tumakuru; injured were hospitalised and traffic was diverted for hours."
+    },
+    {
+      "page": 5,
+      "index": 11,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Student wins national science award in Kalaburagi",
+      "blurb": "A Kalaburagi school student won a national science fair award for a low-cost water filtration project, with state education officials felicitating the winner."
+    },
+    {
+      "page": 5,
+      "index": 12,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Flood relief package announced for Raichur",
+      "blurb": "The district administration announced a relief package for Raichur flood-affected villages including rice, tarps and medical camps after Krishna river swell."
+    },
+    {
+      "page": 5,
+      "index": 13,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Temple festival in Hassan draws huge crowd",
+      "blurb": "Annual Hassan temple chariot festival drew large crowds; police deployed additional forces citing past congestion near the procession route."
+    },
+    {
+      "page": 5,
+      "index": 14,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Water project inaugurated in Shivamogga",
+      "blurb": "A rural drinking water project was inaugurated in Shivamogga district benefiting several gram panchayats, funded under Jal Jeevan Mission."
+    },
+    {
+      "page": 5,
+      "index": 15,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Hospital upgrade in Davangere with ₹50 crore grant",
+      "blurb": "Davangere district hospital will be upgraded with a ₹50 crore grant for new blocks and equipment, health officials announced."
+    },
+    {
+      "page": 6,
+      "index": 1,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "8 of 32 lakes in Dakshina Kannada contaminated: KSPCB survey",
+      "blurb": "The pollution control board survey named eight Dakshina Kannada lakes as contaminated from sewage and solid waste, urging MCC and gram panchayats to prepare restoration plans."
+    },
+    {
+      "page": 6,
+      "index": 2,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Fishermen protest in Karwar against new port rules",
+      "blurb": "Fisherfolk in Karwar protested revised port access rules they said hindered landing catches, demanding talks with port and fisheries officials."
+    },
+    {
+      "page": 6,
+      "index": 3,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Coconut prices rise in Udupi markets",
+      "blurb": "Wholesale coconut prices climbed in Udupi markets amid short supply after heavy rain damaged plantations, traders said."
+    },
+    {
+      "page": 6,
+      "index": 4,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Catholic church festival in Mangaluru concludes",
+      "blurb": "The annual parish festival at a Mangaluru church concluded with processions and charity stalls; police managed traffic around the venue."
+    },
+    {
+      "page": 6,
+      "index": 5,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "College fest at Alva's in Moodbidri",
+      "blurb": "Alva's College in Moodbidri hosted its cultural fest with literary and sports events drawing students from across the coast."
+    },
+    {
+      "page": 6,
+      "index": 6,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Road work in Puttur delayed due to monsoon",
+      "blurb": "Puttur taluk officials said NH and town road asphalt work was delayed by rains, promising completion before festival season."
+    },
+    {
+      "page": 6,
+      "index": 7,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Water shortage in Bantwal town",
+      "blurb": "Bantwal town faced intermittent water shortage; MCC and panchayat deployed tankers while a pipeline repair was under way."
+    },
+    {
+      "page": 6,
+      "index": 8,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Health camp organised in Ujire by SDM College",
+      "blurb": "SDM College in Ujire organised a free health camp offering screenings and medicines for nearby villages."
+    },
+    {
+      "page": 6,
+      "index": 9,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Power outage in Konaje for 12 hours",
+      "blurb": "Konaje and surrounding areas had a 12-hour power outage after a feeder fault; Mescom restored supply after repairs."
+    },
+    {
+      "page": 6,
+      "index": 10,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "New bus shelter inaugurated in Surathkal",
+      "blurb": "MCC inaugurated a bus shelter in Surathkal with seating and lighting, part of a coastal corridor commuter amenity drive."
+    },
+    {
+      "page": 6,
+      "index": 11,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Youth arrested for theft in Mangaluru",
+      "blurb": "Mary Hill police arrested a youth for serial thefts from parked vehicles after CCTV review linked him to multiple cases."
+    },
+    {
+      "page": 6,
+      "index": 12,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Gram panchayat meeting in Mulki on property tax",
+      "blurb": "Mulki gram panchayat held a special meeting on revised property tax collection and defaulter notices."
+    },
+    {
+      "page": 6,
+      "index": 13,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Tree planting drive in DK targets 10,000 saplings",
+      "blurb": "Dakshina Kannada administration launched a monsoon tree planting drive targeting 10,000 saplings on government land."
+    },
+    {
+      "page": 6,
+      "index": 14,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Market renovation in Udupi with ₹2 crore fund",
+      "blurb": "Udupi city market renovation began with a ₹2 crore fund for roofing, drainage and vendor bays."
+    },
+    {
+      "page": 6,
+      "index": 15,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Temple car festival in Kundapura",
+      "blurb": "Kundapura temple car festival proceeded with thousands attending; organisers coordinated with police on barricades."
+    },
+    {
+      "page": 6,
+      "index": 16,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Coastal schools reopen with 90% attendance",
+      "blurb": "Schools across the coast reported about 90% attendance on reopening after holidays, with headmasters citing transport normalisation."
+    },
+    {
+      "page": 7,
+      "index": 1,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Woman dies of electrocution in Konaje",
+      "blurb": "A woman died after touching a live wire from a snapped service line in Konaje; Mescom ordered an inquiry and compensation assessment."
+    },
+    {
+      "page": 7,
+      "index": 2,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Youth drowns in Netravati river in Mulki",
+      "blurb": "A youth drowned in the Netravati near Mulki while bathing; rescue teams recovered the body and police registered an accidental death case."
+    },
+    {
+      "page": 7,
+      "index": 3,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Two accidents on Surathkal National Highway leave two dead",
+      "blurb": "Two separate crashes on NH-66 at Surathkal killed two people overnight; traffic police said rash driving and poor visibility were being investigated."
+    },
+    {
+      "page": 7,
+      "index": 4,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "12 houses collapse in Udupi due to heavy rain",
+      "blurb": "Heavy rain caused 12 houses to partially or fully collapse in Udupi district; tahsildar arranged temporary shelter and damage surveys."
+    },
+    {
+      "page": 7,
+      "index": 5,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Coconut fair in Kutrupadi, Bantwal",
+      "blurb": "A coconut producers' fair in Kutrupadi showcased varieties and farming tools, with agriculture department stalls on subsidies."
+    },
+    {
+      "page": 7,
+      "index": 6,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Water supply restored in Mulki after pipeline repair",
+      "blurb": "Mulki town water supply resumed after a main pipeline leak was fixed following a two-day disruption."
+    },
+    {
+      "page": 7,
+      "index": 7,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Mangaluru rural bus services doubled on key routes",
+      "blurb": "KSRTC doubled frequency on select Mangaluru rural routes after commuter complaints about overcrowding."
+    },
+    {
+      "page": 7,
+      "index": 8,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "DK Zilla Panchayat meeting on budget for sanitation",
+      "blurb": "Dakshina Kannada Zilla Panchayat discussed sanitation budget allocations for gram panchayats and solid waste units."
+    },
+    {
+      "page": 7,
+      "index": 9,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "New police outpost in Bantwal",
+      "blurb": "Police opened an outpost in Bantwal taluk to improve response times in Adyar and surrounding villages."
+    },
+    {
+      "page": 7,
+      "index": 10,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Health check-up camps in Udupi district",
+      "blurb": "Udupi district health office ran non-communicable disease screening camps in coastal villages this week."
+    },
+    {
+      "page": 7,
+      "index": 11,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Farmers protest in Belthangady over arecanut price",
+      "blurb": "Farmers in Belthangady protested low arecanut prices, demanding government intervention and export support."
+    },
+    {
+      "page": 7,
+      "index": 12,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Power cut in Moodbidri for 8 hours",
+      "blurb": "Moodbidri faced an eight-hour outage during maintenance on a substation; businesses reported losses."
+    },
+    {
+      "page": 7,
+      "index": 13,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "College fest at St Aloysius in Surathkal",
+      "blurb": "St Aloysius College Surathkal held its annual fest with cultural competitions and invited colleges from Mangaluru."
+    },
+    {
+      "page": 7,
+      "index": 14,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Coastal highway repair work to begin in November",
+      "blurb": "National Highways Authority said NH-66 repair patches between Udupi and Kasaragod will begin in November after monsoon."
+    },
+    {
+      "page": 7,
+      "index": 15,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Youth Congress rally in Mangaluru against CEC",
+      "blurb": "Indian Youth Congress workers rallied in Mangaluru supporting national protests demanding the Chief Election Commissioner resign."
+    },
+    {
+      "page": 7,
+      "index": 16,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Fishermen demand subsidy for diesel in Karwar",
+      "blurb": "Karwar fishermen demanded diesel subsidy and storm relief, submitting a memorandum to the deputy commissioner."
+    },
+    {
+      "page": 8,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Big B is hale and hearty at 84, greets admirers",
+      "blurb": "Amitabh Bachchan waved to fans outside his Mumbai residence Jalsa on his 84th birthday, with the paper reporting he is hale and hearty."
+    },
+    {
+      "page": 8,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Infosys sees no material impact of US PERM suspension",
+      "blurb": "Infosys said it expects no material operational impact after the US suspended new and pending Permanent Labor Certification applications, affecting major IT firms; industry figures show Indian IT accounted for under 2% of recent PERM certifications."
+    },
+    {
+      "page": 8,
+      "index": 3,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Dubai high-rise fire kills 14 Indians",
+      "blurb": "Fourteen Indians were among those killed when fire swept through the Al Berjeel tower in Dubai; External Affairs Minister S Jaishankar said consular teams were assisting families and two Mangaluru-origin residents were reported missing."
+    },
+    {
+      "page": 8,
+      "index": 4,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Chess prodigy Rameshbabu Praggnanandhaa wins Chennai GM event",
+      "blurb": "Rameshbabu Praggnanandhaa won a grandmaster round-robin in Chennai, adding rating points ahead of upcoming international events."
+    },
+    {
+      "page": 8,
+      "index": 5,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "India vs Australia 1st Test: Gill, Rahul steady after early jolt",
+      "blurb": "Shubman Gill and KL Rahul rebuilt after early wickets on day two of the Perth Test as India replied to Australia's first innings total."
+    },
+    {
+      "page": 8,
+      "index": 6,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Neeraj Chopra finishes second in Diamond League final",
+      "blurb": "Neeraj Chopra took silver in the javelin Diamond League final with an 86m-plus throw, missing gold by centimetres."
+    },
+    {
+      "page": 8,
+      "index": 7,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Rohit Sharma becomes fastest to 10,000 ODI runs",
+      "blurb": "Rohit Sharma reached 10,000 ODI runs in fewer innings than prior record holders, anchoring India's chase in the series opener."
+    },
+    {
+      "page": 8,
+      "index": 8,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "PV Sindhu reaches Japan Masters semi-finals",
+      "blurb": "PV Sindhu advanced to the Japan Masters semi-finals after a straight-games win, seeking her first title of the season."
+    },
+    {
+      "page": 8,
+      "index": 9,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Local kabaddi tournament in Mangaluru draws 16 teams",
+      "blurb": "Sixteen teams competed in a Mangaluru kabaddi tournament organised by a city sports association, with college sides dominating the knockout stage."
+    },
+    {
+      "page": 9,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Palakkad teacher sexually abused 21 girl students for 5 years",
+      "blurb": "Police in Palakkad, Kerala, arrested a government school teacher accused of sexually abusing 21 girl students over five years; parents and the Kerala State Human Rights Commission demanded strict action and counselling for victims."
+    },
+    {
+      "page": 9,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Kerala HC pulls up education department over safety audit delay",
+      "blurb": "The Kerala High Court questioned delays in school safety audits statewide after the Palakkad abuse case, ordering timelines for inspections."
+    },
+    {
+      "page": 9,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Parents' association demands CBI probe in Palakkad case",
+      "blurb": "The victims' parents' association in Palakkad demanded a CBI investigation, alleging local police initially slow-walked complaints."
+    },
+    {
+      "page": 9,
+      "index": 4,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Kerala govt announces counselling helpline for students",
+      "blurb": "Kerala's education department opened a dedicated counselling helpline for students reporting abuse, staffed by trained psychologists."
+    },
+    {
+      "page": 9,
+      "index": 5,
+      "kind": "news",
+      "scope": "india",
+      "headline": "School safety guidelines to be revised nationwide: MoE sources",
+      "blurb": "Union Education Ministry sources said revised school safety guidelines will mandate periodic audits and CCTV in sensitive areas."
+    },
+    {
+      "page": 9,
+      "index": 6,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Women's commission visits Palakkad school",
+      "blurb": "The Kerala Women's Commission inspected the Palakkad school and recorded statements from staff and students' families."
+    },
+    {
+      "page": 9,
+      "index": 7,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Opposition walks out in Kerala Assembly over law and order",
+      "blurb": "UDF MLAs walked out of the Kerala Assembly accusing the LDF government of failing to protect students after the Palakkad case."
+    },
+    {
+      "page": 9,
+      "index": 8,
+      "kind": "news",
+      "scope": "india",
+      "headline": "CBSE issues circular on teacher background checks",
+      "blurb": "CBSE issued a circular urging affiliated schools to tighten background verification and grievance redress for students."
+    },
+    {
+      "page": 10,
+      "index": 1,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Bantwal to get ₹50 crore Smart Town project",
+      "blurb": "Chief Minister D K Shivakumar announced a ₹50 crore Smart Town project for Bantwal with underground drainage, smart streetlights and a modern bus stand, targeting completion in 36 months."
+    },
+    {
+      "page": 10,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "4 'Hindu Raksha Dal' men held for assaulting students",
+      "blurb": "Police arrested four men claiming to be Hindu Raksha Dal members for allegedly assaulting students during the CJP protest on Delhi's DDU Marg after a video circulated."
+    },
+    {
+      "page": 10,
+      "index": 3,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Djibouti: 109 die as boat capsizes",
+      "blurb": "At least 109 people died when a migrant boat capsized off Djibouti; IOM said the vessel carried hundreds travelling toward Yemen, with dozens surviving and many still missing."
+    },
+    {
+      "page": 10,
+      "index": 4,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Mysuru Dasara begins on a grand note with CM Shivakumar, seers in attendance",
+      "blurb": "The 11-day Mysuru Dasara opened as pontiff Abhinava Gavisiddeshwara Swamiji inaugurated festivities at Chamundeshwari temple with Chief Minister D K Shivakumar present amid Vedic rituals."
+    },
+    {
+      "page": 10,
+      "index": 5,
+      "kind": "news",
+      "scope": "india",
+      "headline": "GI cancer in patients as young as 15: Experts",
+      "blurb": "Experts at a Sir Ganga Ram Hospital conference with the UK's Christie NHS Trust called for India-specific research on air pollution and GI cancers while noting association studies do not prove causation."
+    },
+    {
+      "page": 10,
+      "index": 6,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Gold, silver prices dip on strong dollar",
+      "blurb": "Domestic gold and silver prices dipped marginally in Mumbai and Bengaluru bullion markets on a stronger dollar and profit booking."
+    },
+    {
+      "page": 11,
+      "index": 1,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "CM to inaugurate 8th Karavali Utsav on Nov 3",
+      "blurb": "Chief Minister D K Shivakumar will inaugurate the eighth Karavali Utsav at Mangaluru's Kadri Park on 3 November, with cultural programmes scheduled over three weekends."
+    },
+    {
+      "page": 11,
+      "index": 2,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "New Kannada film 'Mangaluru Mahabharata' trailer in December",
+      "blurb": "Producers of Kannada film 'Mangaluru Mahabharata' will release the trailer in December, showcasing coastal folklore on screen."
+    },
+    {
+      "page": 11,
+      "index": 3,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Tulu film festival from Nov 5 at Town Hall",
+      "blurb": "A Tulu film festival from 5 November at Mangaluru Town Hall will screen independent Tulu cinema with subtitled shows for visitors."
+    },
+    {
+      "page": 11,
+      "index": 4,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Documentary on coastal ecology to premiere at Utsav",
+      "blurb": "A documentary on coastal ecology by local filmmakers will premiere during Karavali Utsav, focusing on Netravati estuary conservation."
+    },
+    {
+      "page": 11,
+      "index": 5,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Theatre play 'Koti Chennaya' on Nov 7",
+      "blurb": "Drama troupe Yaksha Mandira will stage 'Koti Chennaya' on 7 November as part of the Utsav cultural calendar."
+    },
+    {
+      "page": 11,
+      "index": 6,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "Music concert: Ilaiyaraaja tribute on Nov 4",
+      "blurb": "An Ilaiyaraaja tribute concert by coastal musicians is scheduled for 4 November at the Utsav venue."
+    },
+    {
+      "page": 11,
+      "index": 7,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "Celebrity appearance: Puneeth Rajkumar documentary screening",
+      "blurb": "Organisers will screen a documentary on Puneeth Rajkumar during the festival, with family representatives invited."
+    },
+    {
+      "page": 11,
+      "index": 8,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Food festival with 50 stalls",
+      "blurb": "Karavali Utsav will host about 50 food stalls featuring Mangaluru, Udupi and Malnad cuisines."
+    },
+    {
+      "page": 11,
+      "index": 9,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "Art exhibition by local artists",
+      "blurb": "An art exhibition at the Utsav grounds will display works by Mangaluru and Udupi artists."
+    },
+    {
+      "page": 11,
+      "index": 10,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "Book release: Tulu-English dictionary",
+      "blurb": "Publishers plan a Tulu-English dictionary release at the festival with linguists attending."
+    },
+    {
+      "page": 11,
+      "index": 11,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Tourism department expects 2 lakh visitors",
+      "blurb": "Karnataka Tourism expects about two lakh visitors across Karavali Utsav weekends, boosting hotels and taxis."
+    },
+    {
+      "page": 11,
+      "index": 12,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Schedule: Three weekends of events from Nov 3-19",
+      "blurb": "The Utsav schedule spans 3–19 November with folk dances, boat rides and literary meets on weekends."
+    },
+    {
+      "page": 12,
+      "index": 1,
+      "kind": "opinion",
+      "scope": "mangaluru",
+      "headline": "Need for transparent governance in urban bodies (Opinion)",
+      "blurb": "An editorial argues Mangaluru City Corporation and MUDA need transparent tendering and public dashboards after recent audit disputes."
+    },
+    {
+      "page": 12,
+      "index": 2,
+      "kind": "opinion",
+      "scope": "coastal_karnataka",
+      "headline": "Youth must engage in politics responsibly (Opinion)",
+      "blurb": "A columnist urges coastal youth to participate in civic politics while rejecting violence during protests."
+    },
+    {
+      "page": 12,
+      "index": 3,
+      "kind": "opinion",
+      "scope": "coastal_karnataka",
+      "headline": "Coastal development needs ecology balance (Opinion)",
+      "blurb": "An opinion piece says highway and port expansion must be balanced with fisheries and estuary protection."
+    },
+    {
+      "page": 12,
+      "index": 4,
+      "kind": "opinion",
+      "scope": "mangaluru",
+      "headline": "Reader letter: Dubai tragedy hits Mangaluru families",
+      "blurb": "A reader from Mangaluru describes local families mourning Dubai fire victims and asks the government for consular support."
+    },
+    {
+      "page": 12,
+      "index": 5,
+      "kind": "opinion",
+      "scope": "mangaluru",
+      "headline": "Reader letter: Improve bus frequency in Mangaluru",
+      "blurb": "A commuter letter calls for more KSRTC buses on Surathkal and Ullal routes during peak hours."
+    },
+    {
+      "page": 12,
+      "index": 6,
+      "kind": "opinion",
+      "scope": "karnataka",
+      "headline": "Healthcare reforms must reach primary centres (Opinion)",
+      "blurb": "An op-ed argues Namma Clinic rollout should be monitored so rural coastal primary centres are not neglected."
+    },
+    {
+      "page": 12,
+      "index": 7,
+      "kind": "opinion",
+      "scope": "karnataka",
+      "headline": "Education policy should focus on teacher training (Opinion)",
+      "blurb": "A teacher's column says Karnataka should invest in continuous teacher training after Palakkad-like abuse cases nationally."
+    },
+    {
+      "page": 12,
+      "index": 8,
+      "kind": "opinion",
+      "scope": "coastal_karnataka",
+      "headline": "Reader letter: Act on lake pollution in DK",
+      "blurb": "A reader urges KSPCB and MCC to enforce sewage treatment after eight district lakes were listed contaminated."
+    },
+    {
+      "page": 12,
+      "index": 9,
+      "kind": "opinion",
+      "scope": "coastal_karnataka",
+      "headline": "Reader letter: Smart Town funds should include villages",
+      "blurb": "A Bantwal reader asks that Smart Town projects extend piped water to adjoining gram panchayats."
+    },
+    {
+      "page": 12,
+      "index": 10,
+      "kind": "opinion",
+      "scope": "mangaluru",
+      "headline": "Fix potholes before festival season (Opinion)",
+      "blurb": "An editorial calls for urgent NH-66 pothole repairs before Karavali Utsav and Deepavali travel peaks."
+    }
+  ]
+}
