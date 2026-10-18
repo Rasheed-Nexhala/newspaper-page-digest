@@ -1,8 +1,9 @@
 import { useEffect, useMemo, useState } from 'react'
-import { fetchCoastalKatte, fetchDates, fetchFullPaper, fetchLocalTop5 } from './api'
+import { fetchCoastalKatte, fetchDates, fetchLocalTop5 } from './api'
+// Disabled: Full Paper UI — import { fetchFullPaper } from './api'
 import { CoastalKatteView } from './components/CoastalKatteView'
 import { DatePicker } from './components/DatePicker'
-import { FullPaperView } from './components/FullPaperView'
+// Disabled: Full Paper UI — import { FullPaperView } from './components/FullPaperView'
 import { LocalTop5View } from './components/LocalTop5View'
 import { SavedArticlesView } from './components/SavedArticlesView'
 import { SearchView } from './components/SearchView'
@@ -22,9 +23,10 @@ import type {
   CoastalKatteItem,
   CoastalKatteTop5,
   DateEntry,
-  FullPaper,
-  FullPaperNewsItem,
-  FullPaperOpinionItem,
+  // Disabled: Full Paper UI —
+  // FullPaper,
+  // FullPaperNewsItem,
+  // FullPaperOpinionItem,
   LocalTop5,
   PrimaryView,
   SavedArticle,
@@ -32,9 +34,10 @@ import type {
   StoryItem,
 } from './types'
 
-function hasFullPaper(entry: DateEntry | undefined): boolean {
-  return entry?.has_full_paper === true
-}
+// Disabled: Full Paper UI
+// function hasFullPaper(entry: DateEntry | undefined): boolean {
+//   return entry?.has_full_paper === true
+// }
 
 function resolveView(
   requested: PrimaryView,
@@ -45,11 +48,13 @@ function resolveView(
   if (!entry) return requested
   if (requested === 'coastal' && entry.has_coastal_katte) return 'coastal'
   if (requested === 'local' && entry.has_local_top5) return 'local'
-  if (requested === 'full' && hasFullPaper(entry)) return 'full'
+  // Disabled: Full Paper UI
+  // if (requested === 'full' && hasFullPaper(entry)) return 'full'
   if (entry.has_local_top5) return 'local'
   if (entry.has_coastal_katte) return 'coastal'
-  if (hasFullPaper(entry)) return 'full'
-  return requested
+  // Disabled: Full Paper UI
+  // if (hasFullPaper(entry)) return 'full'
+  return requested === 'full' ? 'local' : requested
 }
 
 const MONTH_ABBR = [
@@ -124,55 +129,62 @@ function articleFromTopStory(
     sources: item.sources,
     saved_at: '',
     rank: item.rank,
-    source_bucket: 'source_bucket' in item ? item.source_bucket : undefined,
-    local_top_rank: 'local_top_rank' in item ? item.local_top_rank : undefined,
-    why_channel: 'why_channel' in item ? item.why_channel : undefined,
+    ...('source_bucket' in item && item.source_bucket
+      ? { source_bucket: item.source_bucket }
+      : {}),
+    ...('local_top_rank' in item && item.local_top_rank != null
+      ? { local_top_rank: item.local_top_rank }
+      : {}),
+    ...('why_channel' in item && item.why_channel
+      ? { why_channel: item.why_channel }
+      : {}),
   }
 }
 
-function articleFromFullPaperNews(
-  item: FullPaperNewsItem,
-  dateSlug: string,
-  date: string,
-  origin: 'full_paper_news' | 'full_paper_technology',
-): SavedArticle {
-  return {
-    id: '',
-    date_slug: dateSlug,
-    date,
-    origin,
-    headline: item.headline,
-    summary: item.gist,
-    kind: item.kind,
-    scope: normalizeScope(item.scope),
-    sources: item.sources,
-    saved_at: '',
-    rank: item.rank,
-    paragraph: item.paragraph,
-    what_this_is: item.what_this_is,
-    important_points: item.important_points,
-  }
-}
-
-function articleFromFullPaperOpinion(
-  item: FullPaperOpinionItem,
-  dateSlug: string,
-  date: string,
-): SavedArticle {
-  return {
-    id: '',
-    date_slug: dateSlug,
-    date,
-    origin: 'full_paper_opinion',
-    headline: item.headline,
-    summary: item.gist,
-    kind: item.kind,
-    scope: normalizeScope(item.scope),
-    sources: item.sources,
-    saved_at: '',
-    points: item.points,
-  }
-}
+// Disabled: Full Paper UI
+// function articleFromFullPaperNews(
+//   item: FullPaperNewsItem,
+//   dateSlug: string,
+//   date: string,
+//   origin: 'full_paper_news' | 'full_paper_technology',
+// ): SavedArticle {
+//   return {
+//     id: '',
+//     date_slug: dateSlug,
+//     date,
+//     origin,
+//     headline: item.headline,
+//     summary: item.gist,
+//     kind: item.kind,
+//     scope: normalizeScope(item.scope),
+//     sources: item.sources,
+//     saved_at: '',
+//     ...(item.rank != null ? { rank: item.rank } : {}),
+//     paragraph: item.paragraph,
+//     what_this_is: item.what_this_is,
+//     important_points: item.important_points,
+//   }
+// }
+//
+// function articleFromFullPaperOpinion(
+//   item: FullPaperOpinionItem,
+//   dateSlug: string,
+//   date: string,
+// ): SavedArticle {
+//   return {
+//     id: '',
+//     date_slug: dateSlug,
+//     date,
+//     origin: 'full_paper_opinion',
+//     headline: item.headline,
+//     summary: item.gist,
+//     kind: item.kind,
+//     scope: normalizeScope(item.scope),
+//     sources: item.sources,
+//     saved_at: '',
+//     points: item.points,
+//   }
+// }
 
 export default function App() {
   const [dates, setDates] = useState<DateEntry[]>([])
@@ -182,7 +194,8 @@ export default function App() {
   const [datesError, setDatesError] = useState<string | null>(null)
   const [localData, setLocalData] = useState<LocalTop5 | null>(null)
   const [coastalData, setCoastalData] = useState<CoastalKatteTop5 | null>(null)
-  const [fullPaperData, setFullPaperData] = useState<FullPaper | null>(null)
+  // Disabled: Full Paper UI
+  // const [fullPaperData, setFullPaperData] = useState<FullPaper | null>(null)
   const [contentLoading, setContentLoading] = useState(false)
   const [contentError, setContentError] = useState<string | null>(null)
   const [savedItems, setSavedItems] = useState<SavedArticle[]>([])
@@ -234,7 +247,7 @@ export default function App() {
     if (!dateSlug || !selected) {
       setLocalData(null)
       setCoastalData(null)
-      setFullPaperData(null)
+      // Disabled: Full Paper UI — setFullPaperData(null)
       setContentLoading(false)
       return
     }
@@ -265,15 +278,16 @@ export default function App() {
       setCoastalData(null)
     }
 
-    if (hasFullPaper(selected)) {
-      tasks.push(
-        fetchFullPaper(dateSlug).then((data) => {
-          if (!cancelled) setFullPaperData(data)
-        }),
-      )
-    } else if (!cancelled) {
-      setFullPaperData(null)
-    }
+    // Disabled: Full Paper UI
+    // if (hasFullPaper(selected)) {
+    //   tasks.push(
+    //     fetchFullPaper(dateSlug).then((data) => {
+    //       if (!cancelled) setFullPaperData(data)
+    //     }),
+    //   )
+    // } else if (!cancelled) {
+    //   setFullPaperData(null)
+    // }
 
     Promise.all(tasks)
       .catch((err: unknown) => {
@@ -313,6 +327,9 @@ export default function App() {
   }, [user])
 
   useEffect(() => {
+    // Defer catalog fetch until Search is opened (Top 5 + Coastal Katte only).
+    if (view !== 'search') return
+
     let cancelled = false
     setSearchLoading(true)
     setSearchError(null)
@@ -330,7 +347,7 @@ export default function App() {
     return () => {
       cancelled = true
     }
-  }, [])
+  }, [view])
 
   function refreshDates() {
     setDatesLoading(true)
@@ -351,7 +368,7 @@ export default function App() {
   }
 
   const showLocal = activeView === 'local'
-  const showFull = activeView === 'full'
+  // Disabled: Full Paper UI — const showFull = activeView === 'full'
   const showCoastal = activeView === 'coastal'
   const showSaved = activeView === 'saved'
   const showSearch = activeView === 'search'
@@ -360,8 +377,8 @@ export default function App() {
     selected &&
     showEdition &&
     ((showLocal && !selected.has_local_top5) ||
-      (showCoastal && !selected.has_coastal_katte) ||
-      (showFull && !hasFullPaper(selected)))
+      (showCoastal && !selected.has_coastal_katte))
+  // Disabled: Full Paper UI — || (showFull && !hasFullPaper(selected))
 
   async function ensureSignedIn() {
     setAuthError(null)
@@ -397,23 +414,24 @@ export default function App() {
         'coastal_katte',
       ),
     )
-  const articleIdForNews = (item: FullPaperNewsItem, origin: 'news' | 'technology') =>
-    makeSavedArticleId(
-      articleFromFullPaperNews(
-        item,
-        fullPaperData?.date_slug ?? '',
-        fullPaperData?.date ?? '',
-        origin === 'technology' ? 'full_paper_technology' : 'full_paper_news',
-      ),
-    )
-  const articleIdForOpinion = (item: FullPaperOpinionItem) =>
-    makeSavedArticleId(
-      articleFromFullPaperOpinion(
-        item,
-        fullPaperData?.date_slug ?? '',
-        fullPaperData?.date ?? '',
-      ),
-    )
+  // Disabled: Full Paper UI
+  // const articleIdForNews = (item: FullPaperNewsItem, origin: 'news' | 'technology') =>
+  //   makeSavedArticleId(
+  //     articleFromFullPaperNews(
+  //       item,
+  //       fullPaperData?.date_slug ?? '',
+  //       fullPaperData?.date ?? '',
+  //       origin === 'technology' ? 'full_paper_technology' : 'full_paper_news',
+  //     ),
+  //   )
+  // const articleIdForOpinion = (item: FullPaperOpinionItem) =>
+  //   makeSavedArticleId(
+  //     articleFromFullPaperOpinion(
+  //       item,
+  //       fullPaperData?.date_slug ?? '',
+  //       fullPaperData?.date ?? '',
+  //     ),
+  //   )
 
   return (
     <div className="app-shell min-h-dvh">
@@ -426,8 +444,8 @@ export default function App() {
             Coastal Katte
           </p>
           <p className="mt-3 max-w-md text-[0.95rem] leading-relaxed text-[var(--ink-muted)] sm:mt-4 sm:text-base">
-            Daily Top 5, Coastal Katte, Full Paper, and search across all synced
-            days — pick a date or step Older / Newer.
+            Daily Top 5, Coastal Katte, and search across all synced days — pick
+            a date or step Older / Newer.
           </p>
 
           <div className="glass-panel mt-6 p-4 sm:mt-8 sm:p-5">
@@ -463,11 +481,12 @@ export default function App() {
                 label: 'Daily Top 5',
                 enabled: selected?.has_local_top5 ?? false,
               },
-              {
-                id: 'full' as const,
-                label: 'Full paper',
-                enabled: hasFullPaper(selected),
-              },
+              // Disabled: Full Paper UI
+              // {
+              //   id: 'full' as const,
+              //   label: 'Full paper',
+              //   enabled: hasFullPaper(selected),
+              // },
               {
                 id: 'coastal' as const,
                 label: 'Coastal Katte',
@@ -506,13 +525,11 @@ export default function App() {
                     className={`absolute inset-x-3 bottom-1.5 h-0.5 rounded-full ${
                       tab.id === 'coastal'
                         ? 'bg-[var(--sunset)]'
-                        : tab.id === 'full'
-                          ? 'bg-[var(--lagoon)]'
-                          : tab.id === 'saved'
-                            ? 'bg-[var(--ink)]'
-                            : tab.id === 'search'
-                              ? 'bg-[var(--sea-deep)]'
-                          : 'bg-[var(--sea)]'
+                        : tab.id === 'saved'
+                          ? 'bg-[var(--ink)]'
+                          : tab.id === 'search'
+                            ? 'bg-[var(--sea-deep)]'
+                            : 'bg-[var(--sea)]'
                     }`}
                   />
                 )}
@@ -550,9 +567,7 @@ export default function App() {
             <p className="py-10 text-[var(--ink-muted)] italic sm:py-12">
               {showLocal
                 ? 'Daily Top 5 is not available for this date.'
-                : showFull
-                  ? 'Full paper is not available for this date.'
-                  : 'Coastal Katte Top 5 is not available for this date.'}
+                : 'Coastal Katte Top 5 is not available for this date.'}
             </p>
           )}
 
@@ -574,6 +589,7 @@ export default function App() {
             />
           )}
 
+          {/* Disabled: Full Paper UI
           {!contentLoading && !contentError && showFull && fullPaperData && (
             <FullPaperView
               data={fullPaperData}
@@ -603,6 +619,7 @@ export default function App() {
               }
             />
           )}
+          */}
 
           {!contentLoading && !contentError && showCoastal && coastalData && (
             <CoastalKatteView

@@ -11,6 +11,8 @@ description: >-
 
 # Coastal Katte Script Writer
 
+> **DISABLED** — Do not run this skill. Reel / Shorts scripts are turned off. Keep this file for reference only.
+
 Write a **1-minute** Instagram / YouTube Shorts news script for **Coastal Katte** (@coastal_katte).
 
 Audience: 20–60 Mangaloreans (local + diaspora — Gulf, UK, Canada, Australia). They don’t read newspapers — this is their news. Language: simple English a 16-year-old understands.

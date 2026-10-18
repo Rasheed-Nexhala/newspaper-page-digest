@@ -1,24 +1,35 @@
 import { useEffect, useMemo, useState } from 'react'
 import {
   catalogArticleMatches,
-  catalogToNewsItem,
-  catalogToOpinionItem,
+  // Disabled: Full Paper search results —
+  // catalogToNewsItem,
+  // catalogToOpinionItem,
   catalogToSavedArticle,
   catalogToStoryItem,
   isTopStoryOrigin,
 } from '../lib/articles'
 import { makeSavedArticleId } from '../lib/articleId'
 import type { CatalogArticle } from '../types'
-import { FullPaperNewsCard, FullPaperOpinionCard } from './FullPaperCard'
+// Disabled: Full Paper search results —
+// import { FullPaperNewsCard, FullPaperOpinionCard } from './FullPaperCard'
 import { StoryItemRow } from './StoryItem'
 
 const ORIGIN_LABEL: Record<CatalogArticle['origin'], string> = {
   local_top5: 'Daily Top 5',
   coastal_katte: 'Coastal Katte',
+  // Disabled: Full Paper search results
   full_paper_news: 'Full Paper · News',
   full_paper_technology: 'Full Paper · Technology',
   full_paper_opinion: 'Full Paper · Opinion',
 }
+
+function isActiveSearchOrigin(origin: CatalogArticle['origin']): boolean {
+  // Disabled: Full Paper — exclude from search
+  return origin === 'local_top5' || origin === 'coastal_katte'
+}
+
+/** Cap DOM size — a broad query like "Mangaluru" can match thousands of rows. */
+const SEARCH_RESULT_LIMIT = 40
 
 type SearchViewProps = {
   articles: CatalogArticle[]
@@ -47,9 +58,14 @@ export function SearchView({
     return () => window.clearTimeout(handle)
   }, [rawQuery])
 
-  const results = useMemo(() => {
+  const searchableArticles = useMemo(
+    () => articles.filter((article) => isActiveSearchOrigin(article.origin)),
+    [articles],
+  )
+
+  const matched = useMemo(() => {
     if (debounced.trim().length < 2) return []
-    return articles
+    return searchableArticles
       .filter((article) => catalogArticleMatches(article, debounced))
       .sort((a, b) => {
         if (a.date_slug === b.date_slug) {
@@ -61,8 +77,10 @@ export function SearchView({
         }
         return a.date_slug < b.date_slug ? 1 : -1
       })
-  }, [articles, debounced])
+  }, [searchableArticles, debounced])
 
+  const results = matched.slice(0, SEARCH_RESULT_LIMIT)
+  const hiddenCount = matched.length - results.length
   const tooShort = debounced.trim().length < 2
 
   return (
@@ -75,8 +93,7 @@ export function SearchView({
           Daily archive
         </h2>
         <p className="mt-3 text-sm leading-relaxed text-[var(--ink-muted)]">
-          Search Daily Top 5, Coastal Katte, and Full Paper stories across every
-          synced day.
+          Search Daily Top 5 and Coastal Katte stories across every synced day.
         </p>
         <label className="mt-5 block">
           <span className="text-[0.65rem] font-medium tracking-[0.18em] text-[var(--ink-soft)] uppercase">
@@ -106,17 +123,22 @@ export function SearchView({
 
       {!loading && !error && tooShort && (
         <p className="py-8 text-[var(--ink-muted)]">
-          Enter two or more characters to search {articles.length} articles.
+          Enter two or more characters to search {searchableArticles.length}{' '}
+          articles.
         </p>
       )}
 
-      {!loading && !error && !tooShort && results.length === 0 && (
+      {!loading && !error && !tooShort && matched.length === 0 && (
         <p className="py-8 text-[var(--ink-muted)] italic">No matching stories.</p>
       )}
 
-      {!loading && !error && results.length > 0 && (
+      {!loading && !error && matched.length > 0 && (
         <p className="mb-4 text-xs tracking-wide text-[var(--ink-soft)] uppercase">
-          {results.length} {results.length === 1 ? 'result' : 'results'}
+          {matched.length === 1
+            ? '1 result'
+            : hiddenCount > 0
+              ? `Showing ${results.length} of ${matched.length} results — refine your search for more`
+              : `${matched.length} results`}
         </p>
       )}
 
@@ -135,6 +157,8 @@ export function SearchView({
                 isSaved={saved}
                 onToggleSave={() => onToggleSave(article)}
               />
+            ) : null}
+            {/* Disabled: Full Paper search results
             ) : article.origin === 'full_paper_opinion' ? (
               <FullPaperOpinionCard
                 item={catalogToOpinionItem(article)}
@@ -150,6 +174,7 @@ export function SearchView({
                 onToggleSave={() => onToggleSave(article)}
               />
             )}
+            */}
           </div>
         )
       })}

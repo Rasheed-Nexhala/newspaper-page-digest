@@ -49,16 +49,22 @@ export function subscribeSavedArticles(
   )
 }
 
+function omitUndefined<T extends Record<string, unknown>>(value: T): Partial<T> {
+  return Object.fromEntries(
+    Object.entries(value).filter(([, v]) => v !== undefined),
+  ) as Partial<T>
+}
+
 export async function saveArticle(uid: string, article: SavedArticle): Promise<void> {
   const id = makeSavedArticleId(article)
   const ref = doc(db, 'users', uid, 'saved_articles', id)
   await setDoc(
     ref,
-    {
+    omitUndefined({
       ...article,
       id,
       saved_at: serverTimestamp(),
-    },
+    }),
     { merge: true },
   )
 }

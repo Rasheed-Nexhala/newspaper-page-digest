@@ -349,19 +349,20 @@ async function syncDay(token, slug) {
   const upsertWrites = []
   const parts = []
 
-  const fpPath = fullPaperPath(slug)
-  if (fs.existsSync(fpPath)) {
-    const fp = JSON.parse(fs.readFileSync(fpPath, 'utf8'))
-    const flat = flattenFullPaper(fp)
-    records.push(...flat)
-    upsertWrites.push({
-      update: {
-        name: docName('editions', fp.date_slug),
-        fields: toFields(editionFromFullPaper(fp)),
-      },
-    })
-    parts.push(`full=${flat.length}`)
-  }
+  // Disabled: Full Paper sync — keep existing Firestore Full Paper docs untouched
+  // const fpPath = fullPaperPath(slug)
+  // if (fs.existsSync(fpPath)) {
+  //   const fp = JSON.parse(fs.readFileSync(fpPath, 'utf8'))
+  //   const flat = flattenFullPaper(fp)
+  //   records.push(...flat)
+  //   upsertWrites.push({
+  //     update: {
+  //       name: docName('editions', fp.date_slug),
+  //       fields: toFields(editionFromFullPaper(fp)),
+  //     },
+  //   })
+  //   parts.push(`full=${flat.length}`)
+  // }
 
   const ltPath = localTop5Path(slug)
   if (fs.existsSync(ltPath)) {
@@ -385,7 +386,11 @@ async function syncDay(token, slug) {
 
   const existingIds = await listArticleIdsForDate(token, slug)
   const nextIds = new Set(records.map((r) => r.id))
-  const stale = existingIds.filter((id) => !nextIds.has(id))
+  // Only prune Daily Top 5 / Coastal Katte ids — Full Paper sync is disabled
+  const stale = existingIds.filter(
+    (id) =>
+      !nextIds.has(id) && (id.startsWith('lt5_') || id.startsWith('ck_')),
+  )
 
   await commitInChunks(
     token,
@@ -425,13 +430,13 @@ async function main() {
     .filter((name) => (onlySlug ? name === onlySlug : true))
     .filter(
       (name) =>
-        fs.existsSync(fullPaperPath(name)) ||
+        // Disabled: Full Paper sync — fs.existsSync(fullPaperPath(name)) ||
         fs.existsSync(localTop5Path(name)) ||
         fs.existsSync(coastalKattePath(name)),
     )
 
   if (slugs.length === 0) {
-    console.log('No Local Top 5 / Coastal Katte / Full Paper JSON found to sync.')
+    console.log('No Local Top 5 / Coastal Katte JSON found to sync.')
     return
   }
 

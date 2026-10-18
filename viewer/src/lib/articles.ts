@@ -156,15 +156,24 @@ export async function fetchCatalogArticlesForDate(
   return snap.docs.map(asCatalogArticle)
 }
 
+/** Origins still shown in Search after Full Paper was disabled. */
+const SEARCHABLE_ORIGINS: CatalogArticle['origin'][] = [
+  'local_top5',
+  'coastal_katte',
+]
+
 let allArticlesCache: Promise<CatalogArticle[]> | null = null
 
+/** Fetches only Daily Top 5 + Coastal Katte articles (not Full Paper). */
 export function fetchAllCatalogArticles(
   force = false,
 ): Promise<CatalogArticle[]> {
   if (!force && allArticlesCache) return allArticlesCache
-  allArticlesCache = getDocs(collection(db, 'articles')).then((snap) =>
-    snap.docs.map(asCatalogArticle),
+  const q = query(
+    collection(db, 'articles'),
+    where('origin', 'in', SEARCHABLE_ORIGINS),
   )
+  allArticlesCache = getDocs(q).then((snap) => snap.docs.map(asCatalogArticle))
   return allArticlesCache
 }
 
@@ -191,14 +200,16 @@ export function catalogToSavedArticle(article: CatalogArticle): SavedArticle {
     scope: article.scope,
     sources: article.sources,
     saved_at: '',
-    rank: article.rank,
-    paragraph: article.paragraph,
-    what_this_is: article.what_this_is,
-    important_points: article.important_points,
-    points: article.points,
-    why_channel: article.why_channel,
-    source_bucket: article.source_bucket,
-    local_top_rank: article.local_top_rank,
+    ...(article.rank != null ? { rank: article.rank } : {}),
+    ...(article.paragraph ? { paragraph: article.paragraph } : {}),
+    ...(article.what_this_is ? { what_this_is: article.what_this_is } : {}),
+    ...(article.important_points ? { important_points: article.important_points } : {}),
+    ...(article.points ? { points: article.points } : {}),
+    ...(article.why_channel ? { why_channel: article.why_channel } : {}),
+    ...(article.source_bucket ? { source_bucket: article.source_bucket } : {}),
+    ...(article.local_top_rank != null
+      ? { local_top_rank: article.local_top_rank }
+      : {}),
   }
 }
 

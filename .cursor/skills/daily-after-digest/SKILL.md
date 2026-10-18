@@ -2,15 +2,14 @@
 name: daily-after-digest
 description: >-
   After all newspapers for a day are digested, run the rest of the daily pack in
-  one go: Local Top 5, Coastal Katte Top 5, Full Paper, and the YouTube Top 5
-  briefing. Does not write the 1-minute reel script. Use when the user asks to
-  "finish the day", "daily pack", "after digest", "do the rest", or names this
-  skill / /daily-after-digest.
+  one go: Local Top 5 and Coastal Katte Top 5. Full Paper, YouTube briefing, and
+  reel scripts are disabled. Use when the user asks to "finish the day", "daily
+  pack", "after digest", "do the rest", or names this skill / /daily-after-digest.
 ---
 
 # Daily after digest
 
-One command after **every paper for the day** has a `*_PageDigest.json`. Digesting stays per newspaper (`/digest-newspaper`). This skill does **not** digest PDFs and **does not** write Coastal Katte reel scripts (`/coastal-katte-script`).
+One command after **every paper for the day** has a `*_PageDigest.json`. Digesting stays per newspaper (`/digest-newspaper`). This skill does **not** digest PDFs. For digests + pack + deploy in one go, use **`/daily-full-pipeline`**.
 
 Follow each child skill **exactly** (do not invent a parallel output layout).
 
@@ -18,19 +17,21 @@ Follow each child skill **exactly** (do not invent a parallel output layout).
 
 1. **`daily-local-top`** — `work/<date>/Daily_top/LocalTop5_*`
 2. **`coastal-katte-top5`** — needs Local Top 5 — `work/<date>/Coastal_Katte/CoastalKatte_Top5_*`
-3. **`daily-full-paper`** — needs PageDigests only — `work/<date>/Full_paper/FullPaper_*`
-4. **`coastal-katte-youtube`** — needs Coastal Katte Top 5 — `work/<date>/Coastal_Katte/youtube/CoastalKatte_YT_Top5_*.md`
 
-Steps 2 and 3 are independent of each other; 3 may run right after 1. Step 4 waits for step 2.
+<!-- Disabled products (do not run):
+3. **`daily-full-paper`** — `work/<date>/Full_paper/FullPaper_*`
+4. **`coastal-katte-youtube`** — `work/<date>/Coastal_Katte/youtube/CoastalKatte_YT_Top5_*.md`
+5. **`/coastal-katte-script`** — 1-minute reel script
+-->
 
 ## Hard lessons
 
 1. **Resolve one date** (`DD-Mon-YYYY`) and use it for every child skill. Infer from the newest `work/` folder with PageDigests if the user did not name a date.
 2. **Need at least one** `work/<date>/<Paper>/*_PageDigest.json`. If none, stop and tell the user to `/digest-newspaper` first.
 3. **Do not rewrite** existing PageDigest files. Do not change older dates’ `Daily_top/` or `Coastal_Katte/` unless this run’s date is that folder.
-4. **Do not backfill** Full Paper (or anything else) into past days unless the user named that past date.
-5. **Skip `/coastal-katte-script`.** Only run it if the user separately asks for a reel script.
-6. Chat reply: short summary + all output paths. Do not paste full briefs or the YouTube script.
+4. **Do not backfill** into past days unless the user named that past date.
+5. **Do not run** Full Paper, YouTube briefing, or reel script skills — they are disabled.
+6. Chat reply: short summary + all output paths. Do not paste full briefs.
 
 ## Step 1 — Date and inputs
 
@@ -43,20 +44,24 @@ Load and follow, in order:
 
 - `.cursor/skills/daily-local-top/SKILL.md`
 - `.cursor/skills/coastal-katte-top5/SKILL.md`
+
+<!-- Disabled:
 - `.cursor/skills/daily-full-paper/SKILL.md`
 - `.cursor/skills/coastal-katte-youtube/SKILL.md`
+- `.cursor/skills/coastal-katte-script/SKILL.md`
+-->
 
-If Local Top 5 or Coastal Katte Top 5 already exists for **this** date and the user did not ask to rebuild, you may keep them and still build any missing Full Paper / YouTube outputs. If the user said “rebuild the day”, redo all four.
+If Local Top 5 or Coastal Katte Top 5 already exists for **this** date and the user did not ask to rebuild, you may keep them. If the user said “rebuild the day”, redo both.
 
-## Step 3 — Sync Full Paper to Firestore
+## Step 3 — Sync to Firestore
 
-After `FullPaper_<date>.json` (and Local Top 5 / Coastal Katte) exist, publish searchable articles to Firestore:
+After Local Top 5 / Coastal Katte exist, publish searchable articles to Firestore:
 
 ```bash
 cd viewer && npm run sync-firestore
 ```
 
-This syncs **Full Paper**, **Daily Top 5**, and **Coastal Katte** into the `articles` collection (Search). Requires Firebase Admin credentials (`FIREBASE_SERVICE_ACCOUNT` JSON or Application Default Credentials / firebase login). If credentials are missing, still finish the JSON/Markdown outputs and tell the user to run `npm run sync-firestore` (or wait for the deploy workflow, which runs the same command).
+This syncs **Daily Top 5** and **Coastal Katte** into the `articles` collection (Search). Full Paper sync is disabled. Requires Firebase Admin credentials (`FIREBASE_SERVICE_ACCOUNT` JSON or Application Default Credentials / firebase login). If credentials are missing, still finish the JSON/Markdown outputs and tell the user to run `npm run sync-firestore` (or wait for the deploy workflow, which runs the same command).
 
 Do not skip writing `work/` JSON. Firestore is a publish step, not a replacement for the digest files.
 
@@ -67,7 +72,4 @@ One short block:
 - Date and papers scanned
 - Local Top 5 path
 - Coastal Katte Top 5 path
-- Full Paper path
-- YouTube briefing path
 - Firestore sync result (or reminder to run `cd viewer && npm run sync-firestore`)
-- Reminder: reel script is **`/coastal-katte-script`** when they pick a story

@@ -5,6 +5,8 @@ description: Write a 1-minute Coastal Katte Shorts script (3 hook variations + v
 
 # Coastal Katte script
 
+> **DISABLED** — Do not run. Reel / Shorts scripts are turned off.
+
 Follow the `coastal-katte-script` skill exactly (`.cursor/skills/coastal-katte-script/SKILL.md` or `~/.cursor/skills/coastal-katte-script/SKILL.md`), plus `references/script-spec.md` and `references/writing-rules.md`.
 
 1. **Resolve story** (any of these):

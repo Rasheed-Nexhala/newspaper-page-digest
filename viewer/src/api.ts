@@ -1,5 +1,7 @@
-import { fetchFullPaper as fetchFullPaperFromFirestore } from './lib/articles'
-import type { CoastalKatteTop5, DateEntry, FullPaper, LocalTop5 } from './types'
+// Disabled: Full Paper UI —
+// import { fetchFullPaper as fetchFullPaperFromFirestore } from './lib/articles'
+import type { CoastalKatteTop5, DateEntry, LocalTop5 } from './types'
+// Disabled: Full Paper UI — import type { FullPaper } from './types'
 
 declare const __DATA_CACHE_BUST__: string
 
@@ -59,6 +61,7 @@ export function fetchCoastalKatte(dateSlug: string): Promise<CoastalKatteTop5> {
   )
 }
 
-export function fetchFullPaper(dateSlug: string): Promise<FullPaper> {
-  return fetchFullPaperFromFirestore(dateSlug)
-}
+// Disabled: Full Paper UI
+// export function fetchFullPaper(dateSlug: string): Promise<FullPaper> {
+//   return fetchFullPaperFromFirestore(dateSlug)
+// }

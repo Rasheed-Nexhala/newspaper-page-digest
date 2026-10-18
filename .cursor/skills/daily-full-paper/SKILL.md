@@ -11,6 +11,8 @@ description: >-
 
 # Daily Full Paper
 
+> **DISABLED** — Do not run this skill. Full Paper generation and UI are turned off. Keep this file for reference only.
+
 After one or more newspapers for a day have been digested (`*_PageDigest.json`), build a **complete-day reader** that is **not** Local Top 5. The user should be able to go through every story without missing items that did not make a Top 5.
 
 Read `references/output-spec.md` before writing. **JSON shape is frozen.**

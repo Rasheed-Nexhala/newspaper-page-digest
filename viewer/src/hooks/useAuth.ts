@@ -23,16 +23,28 @@ export function useAuth() {
 
   async function signInWithGoogle() {
     setError(null)
-    const provider = new GoogleAuthProvider()
-    const cred = await signInWithPopup(auth, provider)
-    setUser(cred.user)
-    return cred.user
+    try {
+      const provider = new GoogleAuthProvider()
+      const cred = await signInWithPopup(auth, provider)
+      setUser(cred.user)
+      return cred.user
+    } catch (err) {
+      const message = err instanceof Error ? err.message : String(err)
+      setError(message)
+      throw err
+    }
   }
 
   async function signOutUser() {
     setError(null)
-    await signOut(auth)
-    setUser(null)
+    try {
+      await signOut(auth)
+      setUser(null)
+    } catch (err) {
+      const message = err instanceof Error ? err.message : String(err)
+      setError(message)
+      throw err
+    }
   }
 
   function setAuthError(message: string | null) {

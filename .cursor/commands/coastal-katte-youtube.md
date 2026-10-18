@@ -5,6 +5,8 @@ description: Write a 4–6 minute YouTube Top 5 briefing script from Coastal Kat
 
 # Coastal Katte YouTube Top 5
 
+> **DISABLED** — Do not run. YouTube briefing scripts are turned off.
+
 Follow the `coastal-katte-youtube` skill exactly (`.cursor/skills/coastal-katte-youtube/SKILL.md` or `~/.cursor/skills/coastal-katte-youtube/SKILL.md`) and `references/yt-spec.md`.
 
 If you just finished digesting **all** papers for the day, prefer **`/daily-after-digest`** (includes this briefing).

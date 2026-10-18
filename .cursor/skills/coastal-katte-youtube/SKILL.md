@@ -11,6 +11,8 @@ description: >-
 
 # Coastal Katte YouTube Top 5
 
+> **DISABLED** — Do not run this skill. YouTube briefing scripts are turned off. Keep this file for reference only.
+
 Turn the day's **Coastal Katte Top 5** into **one** YouTube video script that walks **all five stories in rank order**.
 
 This is **not** `/coastal-katte-script` (Instagram/Shorts, one story, ~60s). This is a **4–6 minute** briefing: “let’s talk about today’s Top 5” → explain each one clearly → close.

@@ -5,6 +5,8 @@ description: Build a complete Full Paper reader (clustered news, Technology Top 
 
 # Daily Full Paper
 
+> **DISABLED** — Do not run. Full Paper is turned off.
+
 Follow the `daily-full-paper` skill exactly (workspace `.cursor/skills/daily-full-paper/SKILL.md` or `~/.cursor/skills/daily-full-paper/SKILL.md`) and `references/output-spec.md`.
 
 If you just finished digesting **all** papers for the day, prefer **`/daily-after-digest`** (this Full Paper plus Local Top 5, Coastal Katte Top 5, and YouTube). Do not backfill older dates unless the user names that date.
