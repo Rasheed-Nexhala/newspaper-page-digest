@@ -1,0 +1,740 @@
+{
+  "paper": "Deccan Herald",
+  "edition": "Mangaluru",
+  "date": "Monday, 12 October 2026",
+  "total_pages": 14,
+  "total_articles": 91,
+  "pages_with_no_articles": [
+    9
+  ],
+  "articles": [
+    {
+      "page": 1,
+      "index": 1,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Mangaluru bank employee sweeps top honours at kho kho nationals",
+      "blurb": "Canara Bank employee Sushma K from Mangaluru won Best Attacker and Best Player at the 39th Senior National Kho Kho Championship in Indore as Karnataka finished runners-up to Maharashtra; she had also been Best Attacker at the 38th nationals in Tiruchirappalli in 2024."
+    },
+    {
+      "page": 2,
+      "index": 1,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Bengaluru schools battle dengue surge",
+      "blurb": "Bengaluru schools face a dengue surge with about 1,500 city cases in the past month; BBMP issued guidelines for daily checks and stagnant-water removal, and the health department set up fever clinics in all eight zones."
+    },
+    {
+      "page": 2,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Fuel price hike, 17th since April",
+      "blurb": "Petrol rose 35 paise and diesel 32 paise per litre in Delhi on Saturday, the 17th hike since April, taking petrol to ₹106.39 and diesel to ₹94.67 amid higher global crude and a weaker rupee."
+    },
+    {
+      "page": 2,
+      "index": 3,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "A rare chance to love",
+      "blurb": "Bengaluru couple Ravi and Priya adopted a child with Down syndrome through the Karnataka State Council for Child Welfare after years of IVF treatment, and urge more families to consider adoption of children with special needs."
+    },
+    {
+      "page": 2,
+      "index": 4,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Who says women aren't safe?",
+      "blurb": "The report cites Bengaluru women using self-defence training, pepper spray and safety apps after recent crimes, quoting IT professional Ananya Sharma and noting police measures including the Nirbhaya app and SHE teams."
+    },
+    {
+      "page": 2,
+      "index": 5,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Are you a victim of Key Indicators?",
+      "blurb": "The piece explains Karnataka's Key Indicators survey on health, education and livelihood, and warns that fraudsters use fake surveys to collect personal data from residents who should verify official portals."
+    },
+    {
+      "page": 2,
+      "index": 6,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "15 houses knocked down in RR Nagar",
+      "blurb": "BBMP demolished 15 unauthorised houses in Rajarajeshwari Nagar on Friday on storm-water drain land after residents failed to produce valid documents despite prior notice."
+    },
+    {
+      "page": 2,
+      "index": 7,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Minister sets 15-day deadline for pothole-free roads",
+      "blurb": "Bengaluru Development Minister K J George gave BBMP 15 days to make major roads pothole-free, threatening action against engineers who miss targets and directing use of cold-mix technology."
+    },
+    {
+      "page": 2,
+      "index": 8,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Is playing with damaged balls putting players at risk?",
+      "blurb": "Karnataka coaches and players say worn balls in local cricket tournaments raise injury risk, citing a recent district match where a batsman was hit, and seek BCCI and KSCA ball-quality guidelines."
+    },
+    {
+      "page": 2,
+      "index": 9,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Egypt, Gaza agree to new US ceasefire plan",
+      "blurb": "Egypt and Hamas agreed to a US-backed Gaza ceasefire plan involving phased hostage releases and more aid, US officials said, while Israel said it was studying the proposal."
+    },
+    {
+      "page": 3,
+      "index": 1,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Probe ordered into BBMP Grade-1 employee recruitment",
+      "blurb": "The state ordered a probe into BBMP's recruitment of 120 Grade-1 employees after complaints of manipulated merit lists and bribes, with the Urban Development Department referring the matter to the Lokayukta."
+    },
+    {
+      "page": 3,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Crypto investment scam: ED recovers ₹34 cr",
+      "blurb": "The ED recovered ₹34 crore in a crypto scam that duped investors via fake trading platforms, with searches in Bengaluru, Mumbai and Delhi and several arrests."
+    },
+    {
+      "page": 3,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Muzaffarpur shelter home case: CBI chargesheets 21",
+      "blurb": "The CBI chargesheeted 21 people including politicians and officials in the Muzaffarpur shelter home abuse case, alleging abuse of minor girls and cover-up between 2015 and 2018."
+    },
+    {
+      "page": 3,
+      "index": 4,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Indian man who saved passengers in Boston train stabbing honoured",
+      "blurb": "Pune-born engineer Ashwin Narayan, who helped stop a Boston train attacker in September, received a bravery award from the Massachusetts governor."
+    },
+    {
+      "page": 3,
+      "index": 5,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "Don't trust anyone: Doctors on breast cancer",
+      "blurb": "Bengaluru oncologists urged women not to ignore lumps or pain and to screen regularly, saying late detection drives mortality and mammograms after 40 aid early treatment."
+    },
+    {
+      "page": 3,
+      "index": 6,
+      "kind": "news",
+      "scope": "india",
+      "headline": "PM inaugurates AI Impact Summit",
+      "blurb": "Prime Minister Narendra Modi opened the AI Impact Summit in New Delhi, calling for responsible AI and affordable Indian solutions at the three-day event with global tech leaders."
+    },
+    {
+      "page": 3,
+      "index": 7,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Self-driving taxi trial in Bengaluru",
+      "blurb": "A firm began a limited self-driving taxi trial on a private Bengaluru campus while officials said public-road tests need state safety clearance."
+    },
+    {
+      "page": 3,
+      "index": 8,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Tech firms' US visit narrative",
+      "blurb": "IT Minister Priyank Kharge said a Karnataka tech delegation to the US drew investment interest, disputing opposition claims the trip lacked outcomes."
+    },
+    {
+      "page": 3,
+      "index": 9,
+      "kind": "news",
+      "scope": "india",
+      "headline": "LV Prasad Eye Institute unveils AI tool for eye screening",
+      "blurb": "LV Prasad Eye Institute launched an AI tool for diabetic retinopathy and glaucoma screening aimed at rural camps under the digital health mission."
+    },
+    {
+      "page": 3,
+      "index": 10,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "Prepare your kids for AI-driven future",
+      "blurb": "Experts at a Bengaluru conclave told parents and schools to teach critical thinking with AI tools and not let chatbots replace understanding."
+    },
+    {
+      "page": 4,
+      "index": 1,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Mangaluru corporator among three detained over alleged ISIS plot",
+      "blurb": "Police detained three people including a corporator in an alleged ISIS-linked plot, searched premises and seized devices after intelligence inputs."
+    },
+    {
+      "page": 4,
+      "index": 2,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "BJP promises early police chief post to Mangaluru",
+      "blurb": "The BJP promised a Mangaluru police commissioner soon if it wins local polls, accusing Congress of delaying the post and weakening law and order."
+    },
+    {
+      "page": 4,
+      "index": 3,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Road blockade over fast-track mangrove removal process",
+      "blurb": "Activists and fishermen blocked a Mangaluru road protesting fast-track mangrove removal for port expansion, demanding impact studies and consultation."
+    },
+    {
+      "page": 4,
+      "index": 4,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Govt to act on cases involving Congress members with 'campaign money'",
+      "blurb": "The government said it would examine Dakshina Kannada cases involving Congress members accused of misusing campaign funds after BJP complaints."
+    },
+    {
+      "page": 4,
+      "index": 5,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Mobility centres to be restored soon",
+      "blurb": "MCC officials said mobility centres for seniors and persons with disabilities would reopen within weeks after councillors flagged closed ward facilities."
+    },
+    {
+      "page": 4,
+      "index": 6,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Hundreds rally against Namo Brigade march",
+      "blurb": "Hundreds protested in Mangaluru against a proposed Namo Brigade march; police imposed restrictions and said permits would follow law-and-order review."
+    },
+    {
+      "page": 4,
+      "index": 7,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Karnataka tops in organ donations",
+      "blurb": "Health department data said Karnataka led states in organ donations in 2025 so far, with Bengaluru hospitals prominent in live and cadaver donations."
+    },
+    {
+      "page": 5,
+      "index": 1,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Mangaluru civic body gears up for two-day mega health check-up camp",
+      "blurb": "MCC will hold a two-day Town Hall health camp with free diabetes, hypertension and cancer-marker screening targeting 5,000 residents with hospital and NCC support."
+    },
+    {
+      "page": 5,
+      "index": 2,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Soon, traffic wardens to man junctions",
+      "blurb": "MCC and police plan traffic wardens at Kadri, Pumpwell and Lady Hill junctions until permanent signal upgrades."
+    },
+    {
+      "page": 5,
+      "index": 3,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Leave encashment for govt employees up from 300 to 480 days",
+      "blurb": "The cabinet raised maximum leave encashment at retirement from 300 to 480 days for state employees, with an estimated ₹800 crore extra liability over five years."
+    },
+    {
+      "page": 5,
+      "index": 4,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Kalika Chetana Vedike leaders meet Shah over Nagara Sundara works",
+      "blurb": "Kalika Chetana Vedike leaders met Amit Shah in Delhi on delays in Mangaluru Nagara Sundara scheme works tied to smart-city projects."
+    },
+    {
+      "page": 5,
+      "index": 5,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Govt employees give bandh call on Dec 4 over minimum wages",
+      "blurb": "Government employee unions called a December 4 statewide bandh for minimum-wage and pension demands, threatening strikes if finance talks fail."
+    },
+    {
+      "page": 5,
+      "index": 6,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Equities end lower; rupee depreciates",
+      "blurb": "The Sensex fell 412 points on Friday and the rupee weakened 8 paise to 84.52 per dollar on outflows and weak global cues."
+    },
+    {
+      "page": 5,
+      "index": 7,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Tourists pay respects at St Philomena temple",
+      "blurb": "Weekend crowds visited St Philomena's Church in Mysuru during pilgrimage season with added security and facilities arranged by church authorities."
+    },
+    {
+      "page": 5,
+      "index": 8,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Probe launched into fake doctors, kidney racket in Udupi",
+      "blurb": "Udupi police probed fake doctors and kidney-racket allegations after a patient complaint, raiding two clinics and detaining three people."
+    },
+    {
+      "page": 6,
+      "index": 1,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Bogus websites scamming people in name of IOB",
+      "blurb": "Mangaluru Cyber Economic and Narcotics police warned of fake IOB sites such as ioBMangalore.com and ioBMangalore.net used to phish customers, with cases registered after losses."
+    },
+    {
+      "page": 6,
+      "index": 2,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Sand extraction from Netravathi riverbed",
+      "blurb": "The DK Fishermen's Forum opposed sand removal from the Netravathi near Adyar-Kannur, saying 28 truckloads were taken and rainwater-harvesting pits were damaged."
+    },
+    {
+      "page": 6,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Meghalaya temple collapse toll rises to 31",
+      "blurb": "The Meghalaya temple collapse death toll reached 31 after worshippers with oil lamps were among those killed when a wall gave way during a festival."
+    },
+    {
+      "page": 6,
+      "index": 4,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Saudi court confirms death sentence for Karnataka man",
+      "blurb": "A Saudi court confirmed a Karnataka man's death sentence in a drug case; the external affairs ministry said consular help and appeals were being pursued."
+    },
+    {
+      "page": 6,
+      "index": 5,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "BBMP to lift building ban in some zones",
+      "blurb": "BBMP will lift a building-plan moratorium in 52 wards where sewer and water upgrades are done while high-stress zones remain banned pending STP work."
+    },
+    {
+      "page": 6,
+      "index": 6,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Karnataka chalks out mega education fest",
+      "blurb": "The school education department planned a statewide Vidyotsava fest in December with district science and cultural winners competing in Bengaluru."
+    },
+    {
+      "page": 7,
+      "index": 1,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Post mortem conducted on deceased accused Venugopal",
+      "blurb": "Forensic experts led by Dr Rajesh conducted post mortem on Venugopal, 45, who died in judicial custody at Valpadi after arrest by RG Halli police; his brother Basavaraj demanded an inquiry into the death."
+    },
+    {
+      "page": 7,
+      "index": 2,
+      "kind": "news",
+      "scope": "sports",
+      "headline": "Women's cricket World Cup: India shine",
+      "blurb": "India beat Pakistan by 57 runs in the Women's World Cup as Harmanpreet Kaur hit 73 off 38 balls and Shafali Verma 87 in India's 291 for 3, with Renuka Thakur taking four wickets."
+    },
+    {
+      "page": 7,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Bill to boost domestic coal output introduced",
+      "blurb": "The BJP and a government ally introduced the Coal Bearing Areas (Acquisition and Development) Amendment Bill, 2025 to ease mining-lease rules and allow leases up to 80 years from 50 in coal-bearing areas."
+    },
+    {
+      "page": 7,
+      "index": 4,
+      "kind": "news",
+      "scope": "india",
+      "headline": "CCI probes exclusivity in cab hailing",
+      "blurb": "The CCI opened a probe into Uber, Ola, Rapido, Zepto and Blinkit over alleged exclusive arrangements with partners ahead of the Digital Competition Bill."
+    },
+    {
+      "page": 7,
+      "index": 5,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Udupi former ZP member gets five-year RI",
+      "blurb": "A court sentenced former Udupi Zilla Panchayat member Prabhakar Mendon to five years rigorous imprisonment over disproportionate assets of ₹6.91 crore."
+    },
+    {
+      "page": 7,
+      "index": 6,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Psychosocial factors in workplace safety",
+      "blurb": "India's tripartite review of the 2004 Occupational Safety and Health Convention noted psychosocial risks from workload, harassment and climate disruptions, urging ILO Convention 187 ratification."
+    },
+    {
+      "page": 8,
+      "index": 1,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Satya Sai idol procession draws devotees",
+      "blurb": "Thousands joined a Satya Sai Baba idol procession in Mangaluru with police managing traffic from Car Street to Kudroli."
+    },
+    {
+      "page": 8,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "No tax returns for super senior citizens",
+      "blurb": "The Income Tax Department said super senior citizens above 80 with only pension and interest income need not file returns if tax is deducted at source."
+    },
+    {
+      "page": 8,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "MEA rebuffs Rahul's claim on China border",
+      "blurb": "The MEA rejected Rahul Gandhi's China border territory claims as incorrect and harmful to security discourse."
+    },
+    {
+      "page": 8,
+      "index": 4,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Kaiga nuclear plant 220 MW unit shut for maintenance",
+      "blurb": "Kaiga Atomic Power Station Unit 1 shut for about three weeks of maintenance; NPCIL said other sources would cover supply."
+    },
+    {
+      "page": 8,
+      "index": 5,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "BBMP salaries pending for contract workers",
+      "blurb": "BBMP contract sanitation workers protested over two months of unpaid wages; the commissioner promised payment within a week."
+    },
+    {
+      "page": 8,
+      "index": 6,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Namma Metro takes up Mansarovar track work",
+      "blurb": "BMRCL began Purple Line track work near Mansarovar, causing weekend delays and feeder-bus advisories."
+    },
+    {
+      "page": 8,
+      "index": 7,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Geological Survey searches for coal in new blocks",
+      "blurb": "GSI sped up exploration in newly allotted central and eastern India coal blocks to meet production targets."
+    },
+    {
+      "page": 8,
+      "index": 8,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Baby girl kidnapped from Kerala hospital",
+      "blurb": "Kerala police hunted suspects after a newborn was taken from a Kozhikode hospital, with CCTV showing a woman leaving with the infant."
+    },
+    {
+      "page": 10,
+      "index": 1,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Explore project on pumping water from Netravathi",
+      "blurb": "The DyCM told Surathkal MLA M T Vasudev a ₹452 crore Yettinahole-linked project would explore pumping 12 MLD to Sullia and 40 MLD to Belthangady, using treated UGD water for farmers along 173.48 km of pipes amid river-course concerns."
+    },
+    {
+      "page": 10,
+      "index": 2,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Cong MLA says will oppose project, KRRS to protest Feb 19",
+      "blurb": "UT Khader said Congress would oppose the project in the legislature; Belthangady MLA Harish Poonja and KRRS planned a February 19 Dharmasthala protest and indefinite agitation if it proceeds."
+    },
+    {
+      "page": 10,
+      "index": 3,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Frustration as Nethravathi phase 2 road work again at standstill",
+      "blurb": "Puttur Municipal Council chair B Ramakrishna said ₹32 lakh phase-2 road work awarded in November 2024 stopped after drainage and speed-breaker disputes, with a fresh tender only in November 2026."
+    },
+    {
+      "page": 10,
+      "index": 4,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "NDA stirs hornet's nest with Lingayat separate religion remarks",
+      "blurb": "Former CM Basavaraj Bommai's claim that Lingayat seers did not want separate religion status drew backlash from Congress and seer groups ahead of local polls."
+    },
+    {
+      "page": 10,
+      "index": 5,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "BJP yatra pass sparks row",
+      "blurb": "Opposition questioned VIP passes for a BJP yatra while Mangaluru North MLA Bharath Shetty cited passport-office work at Thokur; BJP said passes were for workers."
+    },
+    {
+      "page": 10,
+      "index": 6,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "CITU women's wing meeting on labour rights",
+      "blurb": "CITU women will meet at Neermarga on November 6, led by M Esther, on equal wages and maternity benefits for port and fish-processing workers."
+    },
+    {
+      "page": 10,
+      "index": 7,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Forest dept seizes vehicles for illegal sand mining",
+      "blurb": "Forest staff seized six trucks and fined offenders ₹2 lakh for illegal sand mining at Panja sand ghetto in Bantwal."
+    },
+    {
+      "page": 10,
+      "index": 8,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Nurse Honey gets US patent for wound-care device",
+      "blurb": "Mangaluru nurse Honey D'Souza won a US patent for a jaundice light device developed from 2019 Yenepoya research; KMC congratulated her."
+    },
+    {
+      "page": 11,
+      "index": 1,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Night-time restrictions as jumbos enter coffee estates",
+      "blurb": "Kodagu imposed night traffic curbs on estate roads after elephants damaged coffee crops and blocked highways."
+    },
+    {
+      "page": 11,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "GST revision for construction materials",
+      "blurb": "GST on cement and steel was cut from 28% to 5% and on paints, panels and tiles from 18% to 5%, effective November 22."
+    },
+    {
+      "page": 11,
+      "index": 3,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "HAM radio enthusiasts help during rains",
+      "blurb": "Mangaluru Amateur Radio Club operators relayed flood messages in June–July when mobile networks failed, using the KC4MCR beacon and club secretary VU2MUS Pradeep Kumar."
+    },
+    {
+      "page": 11,
+      "index": 4,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "DyCM asks officials to adopt villages hit by rain",
+      "blurb": "Deputy Chief Minister D K Shivakumar directed ministers and officials to adopt rain-affected Malnad and coastal villages for relief work."
+    },
+    {
+      "page": 11,
+      "index": 5,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Adichunchanagiri group to train students for competitive exams",
+      "blurb": "Adichunchanagiri Group of Educational Institutions will hold IIT-JEE, NEET and CET training at Adichunchanagiri Kshetra on November 8 for SSLC and II PUC students."
+    },
+    {
+      "page": 11,
+      "index": 6,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Alva's Nudisiri from December 27",
+      "blurb": "Alva's Nudisiri 2025 will run December 27–30 at Vidyagiri in Moodbidri with literary and cultural programmes."
+    },
+    {
+      "page": 11,
+      "index": 7,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Surathkal SFS holds talks on women's progress",
+      "blurb": "St Francis School Surathkal hosted St Aloysius Pre-University speakers Ruksana and Rishal on women's progress, with principal Fr Stany D'Souza celebrating Mass for St Francis."
+    },
+    {
+      "page": 12,
+      "index": 1,
+      "kind": "news",
+      "scope": "india",
+      "headline": "BSF rescues 21 Bangladeshi citizens from border area",
+      "blurb": "BSF rescued 21 Bangladeshi citizens near the West Bengal border and handed them to Bangladesh after medical checks."
+    },
+    {
+      "page": 12,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Bird flu strikes poultry farms in Kerala",
+      "blurb": "Kerala culled birds in Kottayam and Alappuzha after outbreaks and restricted poultry transport from affected zones."
+    },
+    {
+      "page": 12,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Cyrus Mistry death anniversary observed",
+      "blurb": "Business leaders and family marked the anniversary of Cyrus Mistry's road-death with tributes in Mumbai."
+    },
+    {
+      "page": 12,
+      "index": 4,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Kerala man detained for suspected ISIS links",
+      "blurb": "NIA detained a Malappuram man on suspected ISIS links after digital-evidence searches and court production."
+    },
+    {
+      "page": 12,
+      "index": 5,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Delhi air quality in 'very poor' category",
+      "blurb": "Delhi's AQI turned 'very poor' with stubble burning and weather trapping pollutants; CAQM urged GRAP stage-II steps."
+    },
+    {
+      "page": 12,
+      "index": 6,
+      "kind": "news",
+      "scope": "international",
+      "headline": "Endangered snow leopard in focus at G20 culture meet",
+      "blurb": "A G20 culture side event photo essay highlighted snow leopard conservation in India's Himalayan habitats."
+    },
+    {
+      "page": 13,
+      "index": 1,
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "headline": "Helpline for Shiradi Ghat road issues",
+      "blurb": "MP Capt Brijesh Chowta and officials opened a Konkan Railway helpline for Shiradi Ghat issues as NHAI surveys a 73 km Periyashanti–Guddethota upgrade at ₹555 crore with a ₹175 crore tunnel target of June 2027."
+    },
+    {
+      "page": 13,
+      "index": 2,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Mangaluru standing panel queries on inferior items",
+      "blurb": "MCC standing committee member Veena Lobo questioned assistant engineer Vijaynath over inferior drain materials in wards 15 and 22 and sought contractor blacklisting."
+    },
+    {
+      "page": 13,
+      "index": 3,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Metro project fate with Karnataka govt change",
+      "blurb": "BMRCL said Mangaluru's delayed 5.43 km NETRAAVA Phase I to 2028 at ₹1,713.65 crore revised estimate depends on state funding after the October 14, 2024 cabinet approval, with tunnels 55% done."
+    },
+    {
+      "page": 13,
+      "index": 4,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Vanishing wells in Mangaluru worry residents",
+      "blurb": "Historian Rohan D'Souza told a Villanova College lecture that Surathkal Shetra Mutt's well and city open wells fell from 64 to 22 and 685 to 185 over 44 years as construction filled them."
+    },
+    {
+      "page": 13,
+      "index": 5,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "Cong conducts workshop on civic polls code",
+      "blurb": "Congress held a Mangaluru workshop for councillors on the model code before January 2026 civic polls, with B M Farooq and lawyer P H Sharath briefing candidates."
+    },
+    {
+      "page": 14,
+      "index": 1,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "CM announces panel for IPS promotion grievances",
+      "blurb": "CM Siddaramaiah on November 19 formed a three-member panel with Maheshappa DM and R N Shetty to hear IPS promotion grievances after senior officers met him."
+    },
+    {
+      "page": 14,
+      "index": 2,
+      "kind": "news",
+      "scope": "india",
+      "headline": "PJ Narayanan Oration highlights ISRO milestones",
+      "blurb": "IIIT Hyderabad's December 27 PJ Narayanan Oration will feature ISRO chairman Dr V Narayanan on zero-debris goals after the February 3 PSLV milestone."
+    },
+    {
+      "page": 14,
+      "index": 3,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Row over encryption order for messaging platforms",
+      "blurb": "Critics including Rahul Gandhi attacked a proposed IT Act 69(2) order with a January 19 deadline for WhatsApp, Telegram and Signal to share data and 24-hour logs with Cert-In as authoritarian."
+    },
+    {
+      "page": 14,
+      "index": 4,
+      "kind": "news",
+      "scope": "mangaluru",
+      "headline": "KREIS schools distribute bicycles in Mangaluru",
+      "blurb": "KREIS distributed bicycles to girl students in Mangaluru residential schools among 17,583 cycles for 1,651 pre-matric hostels statewide."
+    },
+    {
+      "page": 14,
+      "index": 5,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "B.Ed counselling dates announced",
+      "blurb": "KEA announced B.Ed counselling from October 20 with online option entry for thousands of rank holders."
+    },
+    {
+      "page": 14,
+      "index": 6,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Ex-CM Yediyurappa discharged from hospital",
+      "blurb": "B S Yediyurappa left a Bengaluru hospital after respiratory infection treatment with two weeks' rest advised."
+    },
+    {
+      "page": 14,
+      "index": 7,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Woman throws acid on ex in Mysuru",
+      "blurb": "Mysuru police arrested a woman who allegedly threw acid on her former partner; the victim was hospitalised with burns."
+    },
+    {
+      "page": 14,
+      "index": 8,
+      "kind": "news",
+      "scope": "india",
+      "headline": "Court acquits accused in Lakshmi Vilas Bank fraud case",
+      "blurb": "A special court acquitted three in a Lakshmi Vilas Bank fraud case for insufficient evidence; CBI will study an appeal."
+    },
+    {
+      "page": 14,
+      "index": 9,
+      "kind": "news",
+      "scope": "karnataka",
+      "headline": "Drug peddler arrested in Bengaluru",
+      "blurb": "CCB arrested a peddler with MDMA and cannabis worth ₹12 lakh near MG Road."
+    },
+    {
+      "page": 14,
+      "index": 10,
+      "kind": "news",
+      "scope": "lifestyle",
+      "headline": "Multi-lingual dictionary launched for coastal schools",
+      "blurb": "A Tulu-Kannada-English school dictionary launched in Mangaluru backs multilingual education in coastal Karnataka."
+    }
+  ]
+}

@@ -1,0 +1,560 @@
+{
+  "date": "Monday, 12 October 2026",
+  "date_slug": "12-Oct-2026",
+  "papers_scanned": [
+    {
+      "paper": "Deccan Herald",
+      "edition": "Mangaluru",
+      "path": "work/12-Oct-2026/Deccan_Herald/DeccanHerald_Mangaluru_12-Oct-2026_PageDigest.json",
+      "total_articles": 91
+    },
+    {
+      "paper": "News Trail",
+      "edition": "Mangaluru",
+      "path": "work/12-Oct-2026/News_Trail/NewsTrail_Mangaluru_12-Oct-2026_PageDigest.json",
+      "total_articles": 94
+    },
+    {
+      "paper": "The Hindu",
+      "edition": "Mangaluru",
+      "path": "work/12-Oct-2026/The_Hindu/TheHindu_Mangaluru_12-Oct-2026_PageDigest.json",
+      "total_articles": 109
+    }
+  ],
+  "buckets": {
+    "mangaluru": {
+      "label": "Top 5 — Mangaluru",
+      "candidate_count": 28,
+      "selected_count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "headline": "Mangaluru corporator among three detained over alleged ISIS plot",
+          "blurb": "Police detained three people including a corporator in an alleged ISIS-linked plot, searched premises and seized devices after intelligence inputs.",
+          "kind": "news",
+          "scope": "mangaluru",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 4,
+              "index": 1
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "₹2,459-cr. Ponzi scheme: ED files prosecution complaint",
+          "blurb": "The Enforcement Directorate filed a prosecution complaint before the III Additional District and Sessions Judge, Mangaluru, on Friday seeking conviction of Shivananda, associates and M/s Shivan Associates in a ₹2,459-crore money laundering case linked to a Ponzi scheme probed after a Malappuram police FIR.",
+          "kind": "news",
+          "scope": "mangaluru",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 5,
+              "index": 1
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "Road blockade over fast-track mangrove removal process",
+          "blurb": "Activists and fishermen blocked a Mangaluru road protesting fast-track mangrove removal for port expansion, demanding impact studies and consultation.",
+          "kind": "news",
+          "scope": "mangaluru",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 4,
+              "index": 3
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "Khader asks officials to prepare presentation ahead of High Court panel's visit",
+          "blurb": "Dakshina Kannada in-charge Minister U.T. Khader asked Deputy Commissioner H.V. Darshan to ready a checklist of infrastructure needed for a permanent High Court bench as a three-member judicial panel visits Mangaluru; he said Chief Minister D.K. Shivakumar supports the bench.",
+          "kind": "news",
+          "scope": "mangaluru",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 4,
+              "index": 1
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "Hundreds rally against Namo Brigade march",
+          "blurb": "Hundreds protested in Mangaluru against a proposed Namo Brigade march; police imposed restrictions and said permits would follow law-and-order review.",
+          "kind": "news",
+          "scope": "mangaluru",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 4,
+              "index": 6
+            }
+          ]
+        }
+      ]
+    },
+    "coastal_karnataka": {
+      "label": "Top 5 — Coastal Karnataka",
+      "candidate_count": 16,
+      "selected_count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "headline": "Probe launched into fake doctors, kidney racket in Udupi",
+          "blurb": "Udupi police probed fake doctors and kidney-racket allegations after a patient complaint, raiding two clinics and detaining three people.",
+          "kind": "news",
+          "scope": "coastal_karnataka",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 5,
+              "index": 8
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "Explore project on pumping water from Netravathi",
+          "blurb": "The DyCM told Surathkal MLA M T Vasudev a ₹452 crore Yettinahole-linked project would explore pumping 12 MLD to Sullia and 40 MLD to Belthangady, using treated UGD water for farmers along 173.48 km of pipes amid river-course concerns.",
+          "kind": "news",
+          "scope": "coastal_karnataka",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 10,
+              "index": 1
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "Forest dept seizes vehicles for illegal sand mining",
+          "blurb": "Forest staff seized six trucks and fined offenders ₹2 lakh for illegal sand mining at Panja sand ghetto in Bantwal.",
+          "kind": "news",
+          "scope": "coastal_karnataka",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 10,
+              "index": 7
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "Dasara celebrations begin; CM postpones visit to Mangaluru and Udupi",
+          "blurb": "Navaratri began along the coast with Kudroli Gokarnanatha Temple events and traditional Huli Vesha performances; Chief Minister D.K. Shivakumar postponed a scheduled visit to Mangaluru and Udupi.",
+          "kind": "news",
+          "scope": "coastal_karnataka",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 4,
+              "index": 4
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "Udupi former ZP member gets five-year RI",
+          "blurb": "A court sentenced former Udupi Zilla Panchayat member Prabhakar Mendon to five years rigorous imprisonment over disproportionate assets of ₹6.91 crore.",
+          "kind": "news",
+          "scope": "coastal_karnataka",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 7,
+              "index": 5
+            }
+          ]
+        }
+      ]
+    },
+    "karnataka": {
+      "label": "Top 5 — Karnataka",
+      "candidate_count": 69,
+      "selected_count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "headline": "Renukaswamy murder case: Departmental inquiry ordered into alleged investigation lapses",
+          "blurb": "Bengaluru police ordered an internal inquiry after activist Snehamayi Krishna alleged lapses in the Renukaswamy murder probe involving actor Darshan, including claims against PSI Vinay and ACP Chandan Kumar; approver Pradosh S completed court statements and witnesses Chikkanna and Yashas Surya were summoned.",
+          "kind": "news",
+          "scope": "karnataka",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 2,
+              "index": 1
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "29,000 forms seeking SIR deletions in Karnataka not available on portals of ECI",
+          "blurb": "While Karnataka’s CEO said 1,10,654 Form 7 applications were received by October 8, only 81,822 appear on Election Commission portals, leaving about 29,000 deletion requests without public scrutiny details, report Rishita Khanna and Pon Vasanth B.A.",
+          "kind": "news",
+          "scope": "karnataka",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 7,
+              "index": 1
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "SIR: Death certificates used to seek deletion of similar names of living voters",
+          "blurb": "In Belagavi, investigators found death certificates being used in Form 7 objections to remove living voters with similar names from rolls; the report ties large batches of objections to a BJP leader, Basanagouda R. Patil Yatnal.",
+          "kind": "news",
+          "scope": "karnataka",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 3,
+              "index": 5
+            },
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 7,
+              "index": 2
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "Mysuru Dasara begins on a grand note with CM Shivakumar, seers in attendance",
+          "blurb": "The 11-day Mysuru Dasara opened as pontiff Abhinava Gavisiddeshwara Swamiji inaugurated festivities at Chamundeshwari temple atop Chamundi Hills with Chief Minister D K Shivakumar and ministers present amid Vedic rituals.",
+          "kind": "news",
+          "scope": "karnataka",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 1,
+              "index": 8
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "Bengaluru schools battle dengue surge",
+          "blurb": "Bengaluru schools face a dengue surge with about 1,500 city cases in the past month; BBMP issued guidelines for daily checks and stagnant-water removal, and the health department set up fever clinics in all eight zones.",
+          "kind": "news",
+          "scope": "karnataka",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 2,
+              "index": 1
+            }
+          ]
+        }
+      ]
+    },
+    "india": {
+      "label": "Top 5 — India",
+      "candidate_count": 100,
+      "selected_count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "headline": "Stop illegal detentions, says SC amid crackdown in Delhi",
+          "blurb": "The Supreme Court ordered restoration of metro, train, internet and movement services in Delhi and barred illegal detentions of peaceful protesters, hearing contempt and habeas corpus petitions over closures during protests against the CEC; further hearings were scheduled.",
+          "kind": "news",
+          "scope": "india",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 3,
+              "index": 1
+            },
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 1,
+              "index": 4
+            },
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 3,
+              "index": 1
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "Meghalaya temple collapse toll rises to 31",
+          "blurb": "The Meghalaya temple collapse death toll reached 31 after worshippers with oil lamps were among those killed when a wall gave way during a festival.",
+          "kind": "news",
+          "scope": "india",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 6,
+              "index": 3
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "Manipur CM calls for peace as clashes leave nine dead",
+          "blurb": "Chief Minister Yumnam Khemchand Singh directed authorities to control violence after nine deaths in two days of Kuki-Naga clashes; over 50 have died in such fighting since February, bureau reports from Guwahati.",
+          "kind": "news",
+          "scope": "india",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 12,
+              "index": 1
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "PM inaugurates AI Impact Summit",
+          "blurb": "Prime Minister Narendra Modi opened the AI Impact Summit in New Delhi, calling for responsible AI and affordable Indian solutions at the three-day event with global tech leaders.",
+          "kind": "news",
+          "scope": "india",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 3,
+              "index": 6
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "Muzaffarpur shelter home case: CBI chargesheets 21",
+          "blurb": "The CBI chargesheeted 21 people including politicians and officials in the Muzaffarpur shelter home abuse case, alleging abuse of minor girls and cover-up between 2015 and 2018.",
+          "kind": "news",
+          "scope": "india",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 3,
+              "index": 3
+            }
+          ]
+        }
+      ]
+    },
+    "international": {
+      "label": "Top 5 — International",
+      "candidate_count": 30,
+      "selected_count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "headline": "139 migrants dead, 84 missing as boat capsizes off Djibouti: UN",
+          "blurb": "The UN said 139 migrants died and 84 were missing after a boat capsized off Djibouti.",
+          "kind": "news",
+          "scope": "international",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 14,
+              "index": 4
+            },
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 1,
+              "index": 6
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "Riyadh airport struck again a day after 12 killed in Houthi escalation",
+          "blurb": "Saudi Arabia extended closure of its main international airport after a Houthi missile strike on Riyadh killed 12 people and wounded more than 300, with victims including Saudi, Bangladeshi and other nationals; Donald Trump said he was weighing response options.",
+          "kind": "news",
+          "scope": "international",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 1,
+              "index": 5
+            },
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 14,
+              "index": 5
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "Nepal flash floods sweep away houses, five people missing",
+          "blurb": "Flash floods in Nepal destroyed houses and left five people missing, Kathmandu reports said.",
+          "kind": "news",
+          "scope": "international",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 14,
+              "index": 2
+            },
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 9,
+              "index": 2
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "Egypt, Gaza agree to new US ceasefire plan",
+          "blurb": "Egypt and Hamas agreed to a US-backed Gaza ceasefire plan involving phased hostage releases and more aid, US officials said, while Israel said it was studying the proposal.",
+          "kind": "news",
+          "scope": "international",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 2,
+              "index": 9
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "India acknowledged Katchatheevu is ours, says Sri Lankan PM",
+          "blurb": "Sri Lankan Prime Minister said India has acknowledged Katchatheevu belongs to Sri Lanka, Meera Srinivasan reports from Colombo.",
+          "kind": "news",
+          "scope": "international",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 14,
+              "index": 7
+            }
+          ]
+        }
+      ]
+    },
+    "sports": {
+      "label": "Top 5 — Sports",
+      "candidate_count": 31,
+      "selected_count": 5,
+      "items": [
+        {
+          "rank": 1,
+          "headline": "Women's cricket World Cup: India shine",
+          "blurb": "India beat Pakistan by 57 runs in the Women's World Cup as Harmanpreet Kaur hit 73 off 38 balls and Shafali Verma 87 in India's 291 for 3, with Renuka Thakur taking four wickets.",
+          "kind": "news",
+          "scope": "sports",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 7,
+              "index": 2
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "Abhishek, Arshdeep shine as India wins a run-fest",
+          "blurb": "India beat West Indies by 14 runs in the third T20I at Indore—223 for six to 209 for seven—with Abhishek Sharma scoring 69 off 30 and Arshdeep Singh taking three wickets to lead the series 2-1.",
+          "kind": "news",
+          "scope": "sports",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 15,
+              "index": 1
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "Udhayveer claims 10m air pistol gold at Cairo ISSF WC",
+          "blurb": "Udhayveer Sidhu won 10m air pistol gold at the ISSF World Cup in Cairo.",
+          "kind": "news",
+          "scope": "sports",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 16,
+              "index": 4
+            },
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 12,
+              "index": 3
+            }
+          ]
+        },
+        {
+          "rank": 4,
+          "headline": "Verstappen finally wins the Singapore GP",
+          "blurb": "Max Verstappen won the Singapore Grand Prix from pole, his first victory at Marina Bay, AFP reports.",
+          "kind": "news",
+          "scope": "sports",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 15,
+              "index": 8
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "City routs Liverpool",
+          "blurb": "Manchester City beat Liverpool 3-0 at Anfield in the Premier League, AFP reports from Liverpool.",
+          "kind": "news",
+          "scope": "sports",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 15,
+              "index": 9
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
