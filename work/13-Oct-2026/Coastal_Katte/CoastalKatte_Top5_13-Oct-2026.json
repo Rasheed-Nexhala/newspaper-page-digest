@@ -8,42 +8,6 @@
   "items": [
     {
       "rank": 1,
-      "headline": "115 passengers taken ill after eating contaminated food on Chennai-Mangaluru train",
-      "blurb": "One hundred fifteen passengers fell ill after eating contaminated meals on a Chennai–Mangaluru train, with hospitals treating food-poisoning cases in both cities.",
-      "kind": "news",
-      "scope": "mangaluru",
-      "source_bucket": "mangaluru",
-      "local_top_rank": 1,
-      "sources": [
-        {
-          "paper": "The Hindu",
-          "edition": "Mangaluru",
-          "page": 23,
-          "index": 2
-        }
-      ],
-      "why_channel": "Mass public-health scare on a Chennai–Mangaluru train — high saves and stranger-share potential."
-    },
-    {
-      "rank": 2,
-      "headline": "M'luru in the running for 50-acre cricket hub",
-      "blurb": "Mangaluru Urban Development Authority and Karnataka State Cricket Association are evaluating government land parcels of about 25–50 acres, including sites near Kenjar, Gurupura bridge and New Mangaluru Port Authority, for a proposed cricket stadium.",
-      "kind": "news",
-      "scope": "mangaluru",
-      "source_bucket": "mangaluru",
-      "local_top_rank": 2,
-      "sources": [
-        {
-          "paper": "News Trail",
-          "edition": "Mangaluru",
-          "page": 3,
-          "index": 2
-        }
-      ],
-      "why_channel": "Large-scale sports infra with 25–50 acre sites near Kenjar and port — local jobs and land-use hook."
-    },
-    {
-      "rank": 3,
       "headline": "'Digital arrest' scam strips farmer of ₹1.31 cr",
       "blurb": "A 52-year-old farmer from Puttur lost ₹1.31 crore to fraudsters posing as Mumbai Police and ATS officers who claimed he was linked to terrorist money laundering.",
       "kind": "news",
@@ -58,7 +22,43 @@
           "index": 7
         }
       ],
-      "why_channel": "₹1.31 cr digital-arrest scam in Puttur — accountability and personal fraud-stakes."
+      "why_channel": "₹1.31 crore digital-arrest scam — personal-stakes crime that Coastal Katte audiences save and forward."
+    },
+    {
+      "rank": 2,
+      "headline": "Drunk-driving Mini Cooper crash kills 3, including M'luru youth",
+      "blurb": "Three people died in Nedumbassery, Kochi, when a Mini Cooper allegedly driven under the influence by Suhail Sajeer hit a two-wheeler; a Mangaluru youth was among the victims.",
+      "kind": "news",
+      "scope": "mangaluru",
+      "source_bucket": "mangaluru",
+      "local_top_rank": 2,
+      "sources": [
+        {
+          "paper": "News Trail",
+          "edition": "Mangaluru",
+          "page": 3,
+          "index": 4
+        }
+      ],
+      "why_channel": "Drunk-driving crash killing three including a Mangaluru youth — hard local safety story."
+    },
+    {
+      "rank": 3,
+      "headline": "M'luru in the running for 50-acre cricket hub",
+      "blurb": "Mangaluru Urban Development Authority and Karnataka State Cricket Association are evaluating government land parcels of about 25–50 acres, including sites near Kenjar, Gurupura bridge and New Mangaluru Port Authority, for a proposed cricket stadium.",
+      "kind": "news",
+      "scope": "mangaluru",
+      "source_bucket": "mangaluru",
+      "local_top_rank": 1,
+      "sources": [
+        {
+          "paper": "News Trail",
+          "edition": "Mangaluru",
+          "page": 3,
+          "index": 2
+        }
+      ],
+      "why_channel": "50-acre cricket hub bid for Mangaluru — local infra/identity hook with shareable pride angle."
     },
     {
       "rank": 4,
@@ -76,7 +76,7 @@
           "index": 9
         }
       ],
-      "why_channel": "DK child-protection probe into priest abuse — women's safety and civic trust."
+      "why_channel": "DK child-protection probe of abuse charge against a church priest — accountability and child-safety stakes."
     },
     {
       "rank": 5,
@@ -94,7 +94,7 @@
           "index": 11
         }
       ],
-      "why_channel": "Actionable Oct 15 airport tariff hearing — money and travel impact for Mangaluru flyers."
+      "why_channel": "AERA tariff consultation for Mangaluru airport — pocketbook/airport daily-life impact."
     }
   ]
 }

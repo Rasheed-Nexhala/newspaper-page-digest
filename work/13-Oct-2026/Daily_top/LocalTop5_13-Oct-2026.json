@@ -18,37 +18,17 @@
       "paper": "The Hindu",
       "edition": "Mangaluru",
       "path": "work/13-Oct-2026/The_Hindu/TheHindu_Mangaluru_13-Oct-2026_PageDigest.json",
-      "total_articles": 132
+      "total_articles": 118
     }
   ],
   "buckets": {
     "mangaluru": {
       "label": "Top 5 — Mangaluru",
-      "candidate_count": 19,
+      "candidate_count": 21,
       "selected_count": 5,
       "items": [
         {
           "rank": 1,
-          "headline": "115 passengers taken ill after eating contaminated food on Chennai-Mangaluru train",
-          "blurb": "One hundred fifteen passengers fell ill after eating contaminated meals on a Chennai–Mangaluru train, with hospitals treating food-poisoning cases in both cities.",
-          "kind": "news",
-          "scope": "mangaluru",
-          "sources": [
-            {
-              "paper": "The Hindu",
-              "edition": "Mangaluru",
-              "page": 23,
-              "index": 2,
-              "kind": "news",
-              "scope": "mangaluru",
-              "headline": "115 passengers taken ill after eating contaminated food on Chennai-Mangaluru train",
-              "blurb": "One hundred fifteen passengers fell ill after eating contaminated meals on a Chennai–Mangaluru train, with hospitals treating food-poisoning cases in both cities.",
-              "source_path": "/workspace/work/13-Oct-2026/The_Hindu/TheHindu_Mangaluru_13-Oct-2026_PageDigest.json"
-            }
-          ]
-        },
-        {
-          "rank": 2,
           "headline": "M'luru in the running for 50-acre cricket hub",
           "blurb": "Mangaluru Urban Development Authority and Karnataka State Cricket Association are evaluating government land parcels of about 25–50 acres, including sites near Kenjar, Gurupura bridge and New Mangaluru Port Authority, for a proposed cricket stadium.",
           "kind": "news",
@@ -58,12 +38,22 @@
               "paper": "News Trail",
               "edition": "Mangaluru",
               "page": 3,
-              "index": 2,
-              "kind": "news",
-              "scope": "mangaluru",
-              "headline": "M'luru in the running for 50-acre cricket hub",
-              "blurb": "Mangaluru Urban Development Authority and Karnataka State Cricket Association are evaluating government land parcels of about 25–50 acres, including sites near Kenjar, Gurupura bridge and New Mangaluru Port Authority, for a proposed cricket stadium.",
-              "source_path": "/workspace/work/13-Oct-2026/News_Trail/NewsTrail_Mangaluru_13-Oct-2026_PageDigest.json"
+              "index": 2
+            }
+          ]
+        },
+        {
+          "rank": 2,
+          "headline": "Drunk-driving Mini Cooper crash kills 3, including M'luru youth",
+          "blurb": "Three people died in Nedumbassery, Kochi, when a Mini Cooper allegedly driven under the influence by Suhail Sajeer hit a two-wheeler; a Mangaluru youth was among the victims.",
+          "kind": "news",
+          "scope": "mangaluru",
+          "sources": [
+            {
+              "paper": "News Trail",
+              "edition": "Mangaluru",
+              "page": 3,
+              "index": 4
             }
           ]
         },
@@ -78,12 +68,7 @@
               "paper": "Deccan Herald",
               "edition": "Mangaluru",
               "page": 4,
-              "index": 7,
-              "kind": "news",
-              "scope": "mangaluru",
-              "headline": "Koragas stage semi-nude protest seeking title deeds",
-              "blurb": "Koraga community members marched semi-nude to the Deputy Commissioner's office in Padil, Mangaluru, demanding title deeds and house sites promised earlier.",
-              "source_path": "/workspace/work/13-Oct-2026/Deccan_Herald/DeccanHerald_Mangaluru_13-Oct-2026_PageDigest.json"
+              "index": 7
             }
           ]
         },
@@ -98,12 +83,7 @@
               "paper": "Deccan Herald",
               "edition": "Mangaluru",
               "page": 4,
-              "index": 11,
-              "kind": "news",
-              "scope": "mangaluru",
-              "headline": "AERA to hold tariff consultation for Mangaluru airport",
-              "blurb": "The Airports Economic Regulatory Authority scheduled a stakeholders' meeting on October 15, 2026, on aeronautical tariffs for Mangaluru International Airport for the second control period 2024–2031.",
-              "source_path": "/workspace/work/13-Oct-2026/Deccan_Herald/DeccanHerald_Mangaluru_13-Oct-2026_PageDigest.json"
+              "index": 11
             }
           ]
         },
@@ -118,45 +98,13 @@
               "paper": "Deccan Herald",
               "edition": "Mangaluru",
               "page": 4,
-              "index": 2,
-              "kind": "news",
-              "scope": "mangaluru",
-              "headline": "Students protest against college opposing UG semester exams during Dasara",
-              "blurb": "Students of St Agnes College (Autonomous), backed by ABVP, protested undergraduate semester exams scheduled during Dasara; the college postponed papers set for October 19 and 22.",
-              "source_path": "/workspace/work/13-Oct-2026/Deccan_Herald/DeccanHerald_Mangaluru_13-Oct-2026_PageDigest.json"
+              "index": 2
             },
             {
-              "paper": "News Trail",
-              "edition": "Mangaluru",
-              "page": 3,
-              "index": 3,
-              "kind": "news",
-              "scope": "mangaluru",
-              "headline": "Dasara vs exams: Protesting St Agnes students demand festival break",
-              "blurb": "St Agnes College students protested management's decision to hold examinations during Dasara, with ABVP backing their demand for a festival break.",
-              "source_path": "/workspace/work/13-Oct-2026/News_Trail/NewsTrail_Mangaluru_13-Oct-2026_PageDigest.json"
-            },
-            {
-              "paper": "Deccan Herald",
+              "paper": "The Hindu",
               "edition": "Mangaluru",
               "page": 4,
-              "index": 3,
-              "kind": "news",
-              "scope": "mangaluru",
-              "headline": "NSUI urges colleges to reschedule exams",
-              "blurb": "NSUI called on colleges to reschedule examinations that clash with Dasara holidays so students can observe the festival.",
-              "source_path": "/workspace/work/13-Oct-2026/Deccan_Herald/DeccanHerald_Mangaluru_13-Oct-2026_PageDigest.json"
-            },
-            {
-              "paper": "Deccan Herald",
-              "edition": "Mangaluru",
-              "page": 4,
-              "index": 4,
-              "kind": "news",
-              "scope": "mangaluru",
-              "headline": "Respect students' sentiments: MLA",
-              "blurb": "Former minister U T Khader said colleges should respect students' sentiments and avoid scheduling exams during Navaratri and Dasara.",
-              "source_path": "/workspace/work/13-Oct-2026/Deccan_Herald/DeccanHerald_Mangaluru_13-Oct-2026_PageDigest.json"
+              "index": 2
             }
           ]
         }
@@ -164,7 +112,7 @@
     },
     "coastal_karnataka": {
       "label": "Top 5 — Coastal Karnataka",
-      "candidate_count": 14,
+      "candidate_count": 7,
       "selected_count": 5,
       "items": [
         {
@@ -178,12 +126,7 @@
               "paper": "News Trail",
               "edition": "Mangaluru",
               "page": 3,
-              "index": 7,
-              "kind": "news",
-              "scope": "coastal_karnataka",
-              "headline": "'Digital arrest' scam strips farmer of ₹1.31 cr",
-              "blurb": "A 52-year-old farmer from Puttur lost ₹1.31 crore to fraudsters posing as Mumbai Police and ATS officers who claimed he was linked to terrorist money laundering.",
-              "source_path": "/workspace/work/13-Oct-2026/News_Trail/NewsTrail_Mangaluru_13-Oct-2026_PageDigest.json"
+              "index": 7
             }
           ]
         },
@@ -198,57 +141,27 @@
               "paper": "Deccan Herald",
               "edition": "Mangaluru",
               "page": 6,
-              "index": 9,
-              "kind": "news",
-              "scope": "coastal_karnataka",
-              "headline": "DK child protection unit to probe sexual abuse charge against church priest",
-              "blurb": "The Dakshina Kannada District Child Protection Unit is investigating allegations that a church priest sexually abused a minor girl.",
-              "source_path": "/workspace/work/13-Oct-2026/Deccan_Herald/DeccanHerald_Mangaluru_13-Oct-2026_PageDigest.json"
+              "index": 9
             }
           ]
         },
         {
           "rank": 3,
-          "headline": "MESCOM has made LED lights mandatory for all construction sites in DK",
-          "blurb": "Mangaluru Electricity Supply Company has made LED lighting mandatory at all construction sites in Dakshina Kannada, citing safety and energy norms for worksites under its jurisdiction.",
+          "headline": "Mescom chairman asks KPTCL to supply quality power",
+          "blurb": "Mescom chairman K. Harish Kumar, inspecting the new 400 kV sub-station at Kadandale in Moodbidri taluk, Dakshina Kannada, on Friday, instructed KPTCL to ensure uninterrupted, quality power to the coastal region. KPTCL Superintending Engineer Chaitanya said the project aims to supply major industrial hubs and permanently address monsoon voltage fluctuations and low-voltage issues.",
           "kind": "news",
           "scope": "coastal_karnataka",
           "sources": [
             {
               "paper": "The Hindu",
               "edition": "Mangaluru",
-              "page": 1,
-              "index": 2,
-              "kind": "news",
-              "scope": "coastal_karnataka",
-              "headline": "MESCOM has made LED lights mandatory for all construction sites in DK",
-              "blurb": "Mangaluru Electricity Supply Company has made LED lighting mandatory at all construction sites in Dakshina Kannada, citing safety and energy norms for worksites under its jurisdiction.",
-              "source_path": "/workspace/work/13-Oct-2026/The_Hindu/TheHindu_Mangaluru_13-Oct-2026_PageDigest.json"
+              "page": 7,
+              "index": 1
             }
           ]
         },
         {
           "rank": 4,
-          "headline": "Udupi launches smart scheme to weed out illegal tobacco outlets",
-          "blurb": "Udupi district launched a ‘smart’ enforcement drive to identify and close illegal tobacco outlets, using civic data and inspections to revoke licences.",
-          "kind": "news",
-          "scope": "coastal_karnataka",
-          "sources": [
-            {
-              "paper": "The Hindu",
-              "edition": "Mangaluru",
-              "page": 4,
-              "index": 4,
-              "kind": "news",
-              "scope": "coastal_karnataka",
-              "headline": "Udupi launches smart scheme to weed out illegal tobacco outlets",
-              "blurb": "Udupi district launched a ‘smart’ enforcement drive to identify and close illegal tobacco outlets, using civic data and inspections to revoke licences.",
-              "source_path": "/workspace/work/13-Oct-2026/The_Hindu/TheHindu_Mangaluru_13-Oct-2026_PageDigest.json"
-            }
-          ]
-        },
-        {
-          "rank": 5,
           "headline": "Rare two-year-old male black leopard trapped in cage",
           "blurb": "Forest officials trapped a rare black leopard in Shirlalu village, Belthangady, and planned to release it into protected forest after a health check.",
           "kind": "news",
@@ -258,12 +171,22 @@
               "paper": "News Trail",
               "edition": "Mangaluru",
               "page": 3,
-              "index": 6,
-              "kind": "news",
-              "scope": "coastal_karnataka",
-              "headline": "Rare two-year-old male black leopard trapped in cage",
-              "blurb": "Forest officials trapped a rare black leopard in Shirlalu village, Belthangady, and planned to release it into protected forest after a health check.",
-              "source_path": "/workspace/work/13-Oct-2026/News_Trail/NewsTrail_Mangaluru_13-Oct-2026_PageDigest.json"
+              "index": 6
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "Don't take part in Mysuru Dasara Kambala: KRRS",
+          "blurb": "Karnataka Rajya Raita Sangha State president Badagalapura Nagendra, addressing press persons in Mangaluru on Monday, urged coastal buffalo owners registered for Mysuru Dasara Kambala on October 18 and 19 to cancel and withdraw. He cited severe drought and dry lakes, destruction of a former park site’s ecosystem including more than 50 trees, and citizens’ grievance that other Dasara events are not organised systematically.",
+          "kind": "news",
+          "scope": "coastal_karnataka",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 6,
+              "index": 1
             }
           ]
         }
@@ -271,7 +194,7 @@
     },
     "karnataka": {
       "label": "Top 5 — Karnataka",
-      "candidate_count": 70,
+      "candidate_count": 79,
       "selected_count": 5,
       "items": [
         {
@@ -285,23 +208,13 @@
               "paper": "Deccan Herald",
               "edition": "Mangaluru",
               "page": 1,
-              "index": 3,
-              "kind": "news",
-              "scope": "karnataka",
-              "headline": "K'taka High Court strikes down 56% quota for SC/ST",
-              "blurb": "The Karnataka High Court struck down the 2022 amendment raising Scheduled Caste and Scheduled Tribe reservations to 56%, holding it unconstitutional for breaching the Supreme Court's 50% ceiling on quotas.",
-              "source_path": "/workspace/work/13-Oct-2026/Deccan_Herald/DeccanHerald_Mangaluru_13-Oct-2026_PageDigest.json"
+              "index": 3
             },
             {
-              "paper": "News Trail",
+              "paper": "The Hindu",
               "edition": "Mangaluru",
-              "page": 2,
-              "index": 1,
-              "kind": "news",
-              "scope": "karnataka",
-              "headline": "HC cancels hike in SC, ST reservation from 18% to 24%",
-              "blurb": "The Karnataka High Court quashed the state's move to raise Scheduled Caste and Scheduled Tribe reservation from 18% to 24%, holding it breached the overall 50% reservation ceiling.",
-              "source_path": "/workspace/work/13-Oct-2026/News_Trail/NewsTrail_Mangaluru_13-Oct-2026_PageDigest.json"
+              "page": 3,
+              "index": 2
             }
           ]
         },
@@ -316,12 +229,7 @@
               "paper": "Deccan Herald",
               "edition": "Mangaluru",
               "page": 1,
-              "index": 5,
-              "kind": "news",
-              "scope": "karnataka",
-              "headline": "Sudha Yadav new Governor of K'taka",
-              "blurb": "Senior BJP leader Sudha Yadav was appointed Governor of Karnataka, succeeding Thawar Chand Gehlot.",
-              "source_path": "/workspace/work/13-Oct-2026/Deccan_Herald/DeccanHerald_Mangaluru_13-Oct-2026_PageDigest.json"
+              "index": 5
             }
           ]
         },
@@ -336,43 +244,28 @@
               "paper": "Deccan Herald",
               "edition": "Mangaluru",
               "page": 1,
-              "index": 8,
-              "kind": "news",
-              "scope": "karnataka",
-              "headline": "Rs 9k cr sanctioned for Konkan Railway: Somanna",
-              "blurb": "Union Minister V Somanna said ₹9,000 crore has been sanctioned for Konkan Railway works on the route serving coastal Karnataka.",
-              "source_path": "/workspace/work/13-Oct-2026/Deccan_Herald/DeccanHerald_Mangaluru_13-Oct-2026_PageDigest.json"
+              "index": 8
             }
           ]
         },
         {
           "rank": 4,
-          "headline": "Cauvery: Difficult to meet TN's demand on shortfall, K'taka tells SC",
-          "blurb": "Karnataka told a Supreme Court bench including Justices Vikram Nath and Ahsanuddin Amanullah it cannot supply Tamil Nadu's share in a deficient monsoon year and questioned how arrears could be cleared.",
+          "headline": "Difficult to meet TN's Cauvery demand: K'taka",
+          "blurb": "Karnataka told the Supreme Court it cannot meet Tamil Nadu's Cauvery water demand in a rain-deficit year and asked how backlog could be cleared.",
           "kind": "news",
           "scope": "karnataka",
           "sources": [
             {
               "paper": "Deccan Herald",
               "edition": "Mangaluru",
-              "page": 8,
-              "index": 1,
-              "kind": "news",
-              "scope": "karnataka",
-              "headline": "Cauvery: Difficult to meet TN's demand on shortfall, K'taka tells SC",
-              "blurb": "Karnataka told a Supreme Court bench including Justices Vikram Nath and Ahsanuddin Amanullah it cannot supply Tamil Nadu's share in a deficient monsoon year and questioned how arrears could be cleared.",
-              "source_path": "/workspace/work/13-Oct-2026/Deccan_Herald/DeccanHerald_Mangaluru_13-Oct-2026_PageDigest.json"
+              "page": 1,
+              "index": 16
             },
             {
               "paper": "Deccan Herald",
               "edition": "Mangaluru",
-              "page": 1,
-              "index": 16,
-              "kind": "news",
-              "scope": "karnataka",
-              "headline": "Difficult to meet TN's Cauvery demand: K'taka",
-              "blurb": "Karnataka told the Supreme Court it cannot meet Tamil Nadu's Cauvery water demand in a rain-deficit year and asked how backlog could be cleared.",
-              "source_path": "/workspace/work/13-Oct-2026/Deccan_Herald/DeccanHerald_Mangaluru_13-Oct-2026_PageDigest.json"
+              "page": 8,
+              "index": 1
             }
           ]
         },
@@ -387,12 +280,7 @@
               "paper": "Deccan Herald",
               "edition": "Mangaluru",
               "page": 6,
-              "index": 2,
-              "kind": "news",
-              "scope": "karnataka",
-              "headline": "Post 42.29 lakh hearings, 33,547 voters found 'ineligible'",
-              "blurb": "After 42.29 lakh hearings in Karnataka's voter-roll revision, 33,547 names were deleted as ineligible; the final list is to be published on October 27.",
-              "source_path": "/workspace/work/13-Oct-2026/Deccan_Herald/DeccanHerald_Mangaluru_13-Oct-2026_PageDigest.json"
+              "index": 2
             }
           ]
         }
@@ -400,7 +288,7 @@
     },
     "india": {
       "label": "Top 5 — India",
-      "candidate_count": 134,
+      "candidate_count": 123,
       "selected_count": 5,
       "items": [
         {
@@ -414,12 +302,7 @@
               "paper": "Deccan Herald",
               "edition": "Mangaluru",
               "page": 1,
-              "index": 1,
-              "kind": "news",
-              "scope": "india",
-              "headline": "Oppn files plea against CEC; thousands join march to SC",
-              "blurb": "I.N.D.I.A leaders and supporters marched in New Delhi to the Supreme Court to file a plea against Chief Election Commissioner Gyanesh Kumar over alleged voter-list irregularities; police did not interfere as on previous days, and the court is to hear the plea soon.",
-              "source_path": "/workspace/work/13-Oct-2026/Deccan_Herald/DeccanHerald_Mangaluru_13-Oct-2026_PageDigest.json"
+              "index": 1
             }
           ]
         },
@@ -434,23 +317,7 @@
               "paper": "Deccan Herald",
               "edition": "Mangaluru",
               "page": 1,
-              "index": 2,
-              "kind": "news",
-              "scope": "india",
-              "headline": "No more protests at Jantar Mantar; 3 new sites named",
-              "blurb": "Delhi Police have barred protests at Jantar Mantar and designated three alternative sites—Rohini/Bawana, CBD Ground East District and Burari Ground North District—for demonstrations.",
-              "source_path": "/workspace/work/13-Oct-2026/Deccan_Herald/DeccanHerald_Mangaluru_13-Oct-2026_PageDigest.json"
-            },
-            {
-              "paper": "News Trail",
-              "edition": "Mangaluru",
-              "page": 1,
-              "index": 3,
-              "kind": "news",
-              "scope": "india",
-              "headline": "Jantar Mantar no longer legal protest site",
-              "blurb": "Delhi Police removed Jantar Mantar as a designated protest venue, one of the sub-leads on the front page amid the wider agitation over election-roll revisions.",
-              "source_path": "/workspace/work/13-Oct-2026/News_Trail/NewsTrail_Mangaluru_13-Oct-2026_PageDigest.json"
+              "index": 2
             }
           ]
         },
@@ -465,23 +332,7 @@
               "paper": "Deccan Herald",
               "edition": "Mangaluru",
               "page": 1,
-              "index": 6,
-              "kind": "news",
-              "scope": "india",
-              "headline": "Food, fuel push retail inflation to 23-month high of 5.54%",
-              "blurb": "Retail inflation hit a 23-month high of 5.54% as food prices—including vegetables such as tomatoes and lemons—and fuel-linked transport costs rose sharply.",
-              "source_path": "/workspace/work/13-Oct-2026/Deccan_Herald/DeccanHerald_Mangaluru_13-Oct-2026_PageDigest.json"
-            },
-            {
-              "paper": "News Trail",
-              "edition": "Mangaluru",
-              "page": 1,
-              "index": 5,
-              "kind": "news",
-              "scope": "india",
-              "headline": "2-yr high: Inflation bites hard as Modi govt faces heat",
-              "blurb": "Retail inflation hit 5.54% in September while food inflation surged to 9.24%, squeezing household budgets ahead of the festive season.",
-              "source_path": "/workspace/work/13-Oct-2026/News_Trail/NewsTrail_Mangaluru_13-Oct-2026_PageDigest.json"
+              "index": 6
             }
           ]
         },
@@ -496,43 +347,22 @@
               "paper": "Deccan Herald",
               "edition": "Mangaluru",
               "page": 12,
-              "index": 3,
-              "kind": "news",
-              "scope": "india",
-              "headline": "Top LeT man among four killed in Poonch minefield",
-              "blurb": "Four Lashkar-e-Taiba terrorists, including commander Muhammad Faizaz, died in a mine blast while trying to cross the LoC in Poonch.",
-              "source_path": "/workspace/work/13-Oct-2026/Deccan_Herald/DeccanHerald_Mangaluru_13-Oct-2026_PageDigest.json"
-            },
-            {
-              "paper": "Deccan Herald",
-              "edition": "Mangaluru",
-              "page": 1,
-              "index": 14,
-              "kind": "news",
-              "scope": "india",
-              "headline": "Four Pak terrorists killed in mine blast",
-              "blurb": "Four Pakistani terrorists were killed in a landmine explosion near the Line of Control in Poonch district of Jammu and Kashmir while attempting an infiltration.",
-              "source_path": "/workspace/work/13-Oct-2026/Deccan_Herald/DeccanHerald_Mangaluru_13-Oct-2026_PageDigest.json"
+              "index": 3
             }
           ]
         },
         {
           "rank": 5,
-          "headline": "23 killed, four missing as bus plunges into drain in Madhya Pradesh",
-          "blurb": "At least 23 people died and four were missing after a bus plunged into a drain in Madhya Pradesh, with rescue teams searching the site and authorities investigating the crash.",
+          "headline": "Alterations to Form 6 made after ruling on Bihar SIR: SC",
+          "blurb": "The Supreme Court clarified its stance on alterations to Form 6 (voter registration) following a July 27 ruling on the Bihar Special Intensive Revision (SIR) process.",
           "kind": "news",
           "scope": "india",
           "sources": [
             {
               "paper": "The Hindu",
               "edition": "Mangaluru",
-              "page": 2,
-              "index": 1,
-              "kind": "news",
-              "scope": "india",
-              "headline": "23 killed, four missing as bus plunges into drain in Madhya Pradesh",
-              "blurb": "At least 23 people died and four were missing after a bus plunged into a drain in Madhya Pradesh, with rescue teams searching the site and authorities investigating the crash.",
-              "source_path": "/workspace/work/13-Oct-2026/The_Hindu/TheHindu_Mangaluru_13-Oct-2026_PageDigest.json"
+              "page": 3,
+              "index": 3
             }
           ]
         }
@@ -540,7 +370,7 @@
     },
     "international": {
       "label": "Top 5 — International",
-      "candidate_count": 55,
+      "candidate_count": 43,
       "selected_count": 5,
       "items": [
         {
@@ -554,85 +384,37 @@
               "paper": "News Trail",
               "edition": "Mangaluru",
               "page": 1,
-              "index": 7,
-              "kind": "news",
-              "scope": "international",
-              "headline": "Skies over Saudi capital empty after deadly Houthi strikes",
-              "blurb": "Flight operations at Riyadh's international airport were suspended after drone and missile strikes attributed to Houthi rebels.",
-              "source_path": "/workspace/work/13-Oct-2026/News_Trail/NewsTrail_Mangaluru_13-Oct-2026_PageDigest.json"
-            },
-            {
-              "paper": "Deccan Herald",
-              "edition": "Mangaluru",
-              "page": 13,
-              "index": 2,
-              "kind": "news",
-              "scope": "international",
-              "headline": "Saudi Arabia faces new attacks after major strikes on airports",
-              "blurb": "Houthi strikes disrupted Saudi airports and regional flights; the UAE called for renewed Gulf security cooperation.",
-              "source_path": "/workspace/work/13-Oct-2026/Deccan_Herald/DeccanHerald_Mangaluru_13-Oct-2026_PageDigest.json"
-            },
-            {
-              "paper": "News Trail",
-              "edition": "Mangaluru",
-              "page": 9,
-              "index": 2,
-              "kind": "news",
-              "scope": "international",
-              "headline": "Skies over Riyadh empty after Houthi airport strikes",
-              "blurb": "Operations at Riyadh international airport were suspended after Houthi drone and missile strikes.",
-              "source_path": "/workspace/work/13-Oct-2026/News_Trail/NewsTrail_Mangaluru_13-Oct-2026_PageDigest.json"
+              "index": 7
             }
           ]
         },
         {
           "rank": 2,
-          "headline": "US economists Hall, Woodford win Nobel for work on inflation, output gaps",
-          "blurb": "Americans Robert E Hall of Stanford and Michael Woodford of Columbia won the 2026 Nobel in Economic Sciences for research on how households and firms form expectations and how that shapes monetary policy and stabilisation after shocks.",
+          "headline": "Economics Nobel to Robert Hall, Woodford",
+          "blurb": "American economists Robert Hall and Michael Woodford were awarded the economics Nobel for work on stabilization models, the front page reported.",
           "kind": "news",
           "scope": "international",
           "sources": [
             {
-              "paper": "Deccan Herald",
-              "edition": "Mangaluru",
-              "page": 1,
-              "index": 9,
-              "kind": "news",
-              "scope": "international",
-              "headline": "US economists Hall, Woodford win Nobel for work on inflation, output gaps",
-              "blurb": "Americans Robert E Hall of Stanford and Michael Woodford of Columbia won the 2026 Nobel in Economic Sciences for research on how households and firms form expectations and how that shapes monetary policy and stabilisation after shocks.",
-              "source_path": "/workspace/work/13-Oct-2026/Deccan_Herald/DeccanHerald_Mangaluru_13-Oct-2026_PageDigest.json"
-            },
-            {
               "paper": "News Trail",
               "edition": "Mangaluru",
               "page": 1,
-              "index": 8,
-              "kind": "news",
-              "scope": "international",
-              "headline": "Economics Nobel to Robert Hall, Woodford",
-              "blurb": "American economists Robert Hall and Michael Woodford were awarded the economics Nobel for work on stabilization models, the front page reported.",
-              "source_path": "/workspace/work/13-Oct-2026/News_Trail/NewsTrail_Mangaluru_13-Oct-2026_PageDigest.json"
+              "index": 8
             }
           ]
         },
         {
           "rank": 3,
-          "headline": "Airbase plot 'almost certainly directed' by Iran Guards: UK",
-          "blurb": "The UK said a foiled plot against a British airbase was almost certainly ordered by Iran's Revolutionary Guards.",
+          "headline": "Airbase plot 'directed' by Iran Guards: UK PM",
+          "blurb": "UK Prime Minister Rishi Sunak said a foiled plot against a British airbase was almost certainly directed by Iran's Revolutionary Guards.",
           "kind": "news",
           "scope": "international",
           "sources": [
             {
               "paper": "Deccan Herald",
               "edition": "Mangaluru",
-              "page": 13,
-              "index": 3,
-              "kind": "news",
-              "scope": "international",
-              "headline": "Airbase plot 'almost certainly directed' by Iran Guards: UK",
-              "blurb": "The UK said a foiled plot against a British airbase was almost certainly ordered by Iran's Revolutionary Guards.",
-              "source_path": "/workspace/work/13-Oct-2026/Deccan_Herald/DeccanHerald_Mangaluru_13-Oct-2026_PageDigest.json"
+              "page": 1,
+              "index": 13
             }
           ]
         },
@@ -647,12 +429,7 @@
               "paper": "Deccan Herald",
               "edition": "Mangaluru",
               "page": 13,
-              "index": 4,
-              "kind": "news",
-              "scope": "international",
-              "headline": "Bangladesh, China ink loan deal to modernise port near Indian border",
-              "blurb": "Bangladesh signed a $535.78 million Chinese Exim Bank loan to upgrade Mongla Port, raising Indian concerns over Beijing's footprint near the border.",
-              "source_path": "/workspace/work/13-Oct-2026/Deccan_Herald/DeccanHerald_Mangaluru_13-Oct-2026_PageDigest.json"
+              "index": 4
             }
           ]
         },
@@ -667,12 +444,7 @@
               "paper": "Deccan Herald",
               "edition": "Mangaluru",
               "page": 13,
-              "index": 7,
-              "kind": "news",
-              "scope": "international",
-              "headline": "Over 100 foreign trekkers stranded in Nepal floods",
-              "blurb": "Flooding after a glacier collapse in central Nepal killed many people and left more than 100 foreign trekkers stranded.",
-              "source_path": "/workspace/work/13-Oct-2026/Deccan_Herald/DeccanHerald_Mangaluru_13-Oct-2026_PageDigest.json"
+              "index": 7
             }
           ]
         }
@@ -680,51 +452,26 @@
     },
     "sports": {
       "label": "Top 5 — Sports",
-      "candidate_count": 30,
+      "candidate_count": 40,
       "selected_count": 5,
       "items": [
         {
           "rank": 1,
-          "headline": "India beats Australia by four wickets in WCL women’s cricket",
-          "blurb": "India defeated Australia by four wickets in a Women’s Cricket League fixture, with the Indian side chasing down the target in the closing overs.",
+          "headline": "Rahul and Revanth send Karnataka on a leather hunt",
+          "blurb": "Debutant S.V. Rahul (unbeaten 108 off 187 balls, 10 fours) and Revanth Reddy (97 off 143) shared a 202-run sixth-wicket stand as Andhra closed day two on 331 for six, a 57-run lead over Karnataka’s 274, in the Ranji Trophy opener at Mulapadu. Andhra had been 116 for five after Shaik Rasheed’s 54; Shikhar Shetty took three wickets and Madhav Bajaj two for an inexperienced Karnataka attack that bowled only seven maidens in 90 overs.",
           "kind": "news",
           "scope": "sports",
           "sources": [
             {
               "paper": "The Hindu",
               "edition": "Mangaluru",
-              "page": 2,
-              "index": 4,
-              "kind": "news",
-              "scope": "sports",
-              "headline": "India beats Australia by four wickets in WCL women’s cricket",
-              "blurb": "India defeated Australia by four wickets in a Women’s Cricket League fixture, with the Indian side chasing down the target in the closing overs.",
-              "source_path": "/workspace/work/13-Oct-2026/The_Hindu/TheHindu_Mangaluru_13-Oct-2026_PageDigest.json"
+              "page": 20,
+              "index": 1
             }
           ]
         },
         {
           "rank": 2,
-          "headline": "Man City silence Anfield jeers with 3-0 PL win",
-          "blurb": "Manchester City beat Liverpool 3-0 at Anfield with goals from Erling Haaland, Jeremy Doku and Rayan Cherki despite fan jeers over financial-breach findings; Liverpool's Ryan Gravenberch was sent off.",
-          "kind": "news",
-          "scope": "sports",
-          "sources": [
-            {
-              "paper": "News Trail",
-              "edition": "Mangaluru",
-              "page": 12,
-              "index": 1,
-              "kind": "news",
-              "scope": "sports",
-              "headline": "Man City silence Anfield jeers with 3-0 PL win",
-              "blurb": "Manchester City beat Liverpool 3-0 at Anfield with goals from Erling Haaland, Jeremy Doku and Rayan Cherki despite fan jeers over financial-breach findings; Liverpool's Ryan Gravenberch was sent off.",
-              "source_path": "/workspace/work/13-Oct-2026/News_Trail/NewsTrail_Mangaluru_13-Oct-2026_PageDigest.json"
-            }
-          ]
-        },
-        {
-          "rank": 3,
           "headline": "Kushagra replaces Pant in India A squad",
           "blurb": "Wicketkeeper Kumar Kushagra replaces rested Rishabh Pant in the India A squad.",
           "kind": "news",
@@ -734,37 +481,27 @@
               "paper": "Deccan Herald",
               "edition": "Mangaluru",
               "page": 15,
-              "index": 13,
-              "kind": "news",
-              "scope": "sports",
-              "headline": "Kushagra replaces Pant in India A squad",
-              "blurb": "Wicketkeeper Kumar Kushagra replaces rested Rishabh Pant in the India A squad.",
-              "source_path": "/workspace/work/13-Oct-2026/Deccan_Herald/DeccanHerald_Mangaluru_13-Oct-2026_PageDigest.json"
+              "index": 13
+            }
+          ]
+        },
+        {
+          "rank": 3,
+          "headline": "Tough opener for Sindhu",
+          "blurb": "P V Sindhu faces world No 1 An Se-young in the Denmark Open opener; Lakshya Sen also returns in men's singles.",
+          "kind": "news",
+          "scope": "sports",
+          "sources": [
+            {
+              "paper": "Deccan Herald",
+              "edition": "Mangaluru",
+              "page": 15,
+              "index": 6
             }
           ]
         },
         {
           "rank": 4,
-          "headline": "Sindhu faces An Se-young acid test in Denmark Open",
-          "blurb": "Two-time Olympic medallist P V Sindhu was set to face top seed An Se-young in the opening round of the Denmark Open in Odense.",
-          "kind": "news",
-          "scope": "sports",
-          "sources": [
-            {
-              "paper": "News Trail",
-              "edition": "Mangaluru",
-              "page": 12,
-              "index": 6,
-              "kind": "news",
-              "scope": "sports",
-              "headline": "Sindhu faces An Se-young acid test in Denmark Open",
-              "blurb": "Two-time Olympic medallist P V Sindhu was set to face top seed An Se-young in the opening round of the Denmark Open in Odense.",
-              "source_path": "/workspace/work/13-Oct-2026/News_Trail/NewsTrail_Mangaluru_13-Oct-2026_PageDigest.json"
-            }
-          ]
-        },
-        {
-          "rank": 5,
           "headline": "Plan to shackle Hope executed to perfection: Arshdeep",
           "blurb": "Arshdeep Singh took three wickets in Indore as India beat West Indies in the third T20I to lead the series 2–1, saying the plan against Shai Hope worked.",
           "kind": "news",
@@ -774,12 +511,22 @@
               "paper": "Deccan Herald",
               "edition": "Mangaluru",
               "page": 15,
-              "index": 4,
-              "kind": "news",
-              "scope": "sports",
-              "headline": "Plan to shackle Hope executed to perfection: Arshdeep",
-              "blurb": "Arshdeep Singh took three wickets in Indore as India beat West Indies in the third T20I to lead the series 2–1, saying the plan against Shai Hope worked.",
-              "source_path": "/workspace/work/13-Oct-2026/Deccan_Herald/DeccanHerald_Mangaluru_13-Oct-2026_PageDigest.json"
+              "index": 4
+            }
+          ]
+        },
+        {
+          "rank": 5,
+          "headline": "RANJI TROPHY SCORES — ROUND ONE, DAY TWO",
+          "blurb": "Round-one day-two scores included Uttar Pradesh 540 (Madhav Kaushik 150, Rinku Singh 112) vs Bihar 44/2 at Rajgir; Vidarbha 428 (Akshay Wadkar 199, Yash Rathod 134) vs Pondicherry 107/1 at Nagpur; Hyderabad 294 (Sandip Sarkar 8/96) vs Tripura 134 and 106/7; Karnataka 274 vs Andhra 331/6 at Vijayawada; Saurashtra 392 (Prerak Mankad 129, Ravindra Jadeja 102) vs Chhattisgarh 122/3; Jharkhand 587 vs Kerala at Jamshedpur; Bengal 304/3 (Sudip Kumar Gharami 122*, Abishek Porel 114*) vs Delhi 240; and Mumbai 429 vs Chandigarh 78 and 0/1, with Tushar Deshpande taking 5/17 including a hat-trick.",
+          "kind": "news",
+          "scope": "sports",
+          "sources": [
+            {
+              "paper": "The Hindu",
+              "edition": "Mangaluru",
+              "page": 20,
+              "index": 6
             }
           ]
         }
