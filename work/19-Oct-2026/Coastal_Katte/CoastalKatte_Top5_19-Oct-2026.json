@@ -1,0 +1,106 @@
+{
+  "date": "Monday, 19 October 2026",
+  "date_slug": "19-Oct-2026",
+  "channel": "coastal_katte",
+  "source_local_top5": "work/19-Oct-2026/Daily_top/LocalTop5_19-Oct-2026.json",
+  "candidate_count": 15,
+  "selected_count": 5,
+  "items": [
+    {
+      "rank": 1,
+      "headline": "Forest Department creating hurdles in implementing KUSUM-C scheme for farmers, MP complains to Shivakumar",
+      "blurb": "Udupi-Chikkamagaluru MP Kota Srinivas Poojary told CM D.K. Shivakumar that delay clearing acacia on 13, 7.5 and 10 acres in Byndoor, Brahmavara and Kapu taluks is holding up a ₹22 crore KUSUM-C solar project and risking withdrawal of 30% Central grant.",
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "source_bucket": "coastal_karnataka",
+      "local_top_rank": 1,
+      "sources": [
+        {
+          "paper": "The Hindu",
+          "edition": "Mangaluru",
+          "page": 5,
+          "index": 5
+        }
+      ],
+      "why_channel": "₹22 crore KUSUM-C solar for Udupi farmers blocked by Forest delay — clear local infra/jobs hook."
+    },
+    {
+      "rank": 2,
+      "headline": "Priest, accused of sexually harassing minor boys, held",
+      "blurb": "Mangaluru police arrested St. Vincent Ferrer Church priest Siprian Pinto for alleged aggravated sexual assault on five 14-year-olds; a victim’s complaint of October 15 cites incidents from August 14, and four friends said they faced similar conduct after the group approached the Mangaluru Bishop. The case is registered under POCSO Sections 8 and 9 and BNS Section 75(2).",
+      "kind": "news",
+      "scope": "mangaluru",
+      "source_bucket": "mangaluru",
+      "local_top_rank": 1,
+      "sources": [
+        {
+          "paper": "The Hindu",
+          "edition": "Mangaluru",
+          "page": 4,
+          "index": 1
+        },
+        {
+          "paper": "News Trail",
+          "edition": "Mangaluru",
+          "page": 3,
+          "index": 6
+        }
+      ],
+      "why_channel": "Hard accountability story: priest arrest in POCSO case — safety and trust for local families."
+    },
+    {
+      "rank": 3,
+      "headline": "Now, demand for a High Court bench at Udupi gains ground",
+      "blurb": "A Brahmavara meeting backed establishing a coastal High Court bench in Udupi, citing travel of nearly 1,000 km to Bengaluru and a population above 50 lakh across DK, Udupi and Uttara Kannada; advocate Prem Prasad Shetty welcomed the Karnataka HC chief justice's three-member feasibility committee.",
+      "kind": "news",
+      "scope": "coastal_karnataka",
+      "source_bucket": "coastal_karnataka",
+      "local_top_rank": 2,
+      "sources": [
+        {
+          "paper": "Deccan Herald",
+          "edition": "Mangaluru",
+          "page": 2,
+          "index": 9
+        }
+      ],
+      "why_channel": "High Court bench at Udupi — access-to-justice demand across the coastal belt."
+    },
+    {
+      "rank": 4,
+      "headline": "Emergency evacuation during temple fairs crucial",
+      "blurb": "Mangaluru cardiologist Dr Padmanabh Kamath urged mandatory emergency evacuation routes at crowded festivals after a man suffered cardiac arrest during Navaratri at Kudroli Gokarnanath Temple around 8.30 pm and relatives carried him on a motorcycle through the crowd; he underwent angioplasty and is stable.",
+      "kind": "news",
+      "scope": "mangaluru",
+      "source_bucket": "mangaluru",
+      "local_top_rank": 2,
+      "sources": [
+        {
+          "paper": "Deccan Herald",
+          "edition": "Mangaluru",
+          "page": 2,
+          "index": 7
+        }
+      ],
+      "why_channel": "Temple-crowd emergency access after Kudroli heart-attack delay — shareable public-safety tip."
+    },
+    {
+      "rank": 5,
+      "headline": "Food safety officials raid bakery in Mangaluru",
+      "blurb": "Acting on Health Minister U T Khader's instructions, district food safety officer Dr Praveen Kumar CH raided a bakery at Falnir Junction on Saturday and seized products lacking manufacture date, expiry, batch number and FSSAI licence details.",
+      "kind": "news",
+      "scope": "mangaluru",
+      "source_bucket": "mangaluru",
+      "local_top_rank": 4,
+      "sources": [
+        {
+          "paper": "Deccan Herald",
+          "edition": "Mangaluru",
+          "page": 2,
+          "index": 4
+        }
+      ],
+      "why_channel": "Food-safety raid with seized mislabelled sweets — practical festive-season consumer alert."
+    }
+  ]
+}
