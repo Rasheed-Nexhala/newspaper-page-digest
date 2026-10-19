@@ -6,15 +6,15 @@
 ### 1. Forest Department creating hurdles in implementing KUSUM-C scheme for farmers, MP complains to Shivakumar
 Udupi-Chikkamagaluru MP Kota Srinivas Poojary told CM D.K. Shivakumar that delay clearing acacia on 13, 7.5 and 10 acres in Byndoor, Brahmavara and Kapu taluks is holding up a ₹22 crore KUSUM-C solar project and risking withdrawal of 30% Central grant.
 
-_Scope: coastal_karnataka_ · _Sources: The Hindu Mangaluru p.5_  
+_Scope: coastal_karnataka_ · _Sources: The Hindu Mangaluru PDF p.5 (printed p.3)_  
 _Why Coastal Katte: ₹22 crore KUSUM-C solar for Udupi farmers blocked by Forest delay — clear local infra/jobs hook._
 
 ---
 
 ### 2. Priest, accused of sexually harassing minor boys, held
-Mangaluru police arrested St. Vincent Ferrer Church priest Siprian Pinto for alleged aggravated sexual assault on five 14-year-olds; a victim’s complaint of October 15 cites incidents from August 14, and four friends said they faced similar conduct after the group approached the Mangaluru Bishop. The case is registered under POCSO Sections 8 and 9 and BNS Section 75(2).
+Mangaluru police arrested St. Vincent Ferrer Church priest Siprian Pinto for alleged aggravated sexual assault on five 14-year-olds; after four friends described similar conduct, the victim and his parents approached the Mangaluru Bishop and, on his instructions, lodged a complaint on October 15 citing incidents from August 14. The case is registered under POCSO Sections 8 and 9 and BNS Section 75(2).
 
-_Scope: mangaluru_ · _Sources: The Hindu Mangaluru p.4; News Trail Mangaluru p.3_  
+_Scope: mangaluru_ · _Sources: The Hindu Mangaluru PDF p.4 (printed p.2) — Priest, accused of sexually harassing minor boys, held; News Trail Mangaluru p.3 — Priest held after boys allege sexual harassment_  
 _Why Coastal Katte: Hard accountability story: priest arrest in POCSO case — safety and trust for local families._
 
 ---

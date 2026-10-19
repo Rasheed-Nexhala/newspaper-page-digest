@@ -6,8 +6,8 @@
 ## Top 5 — Mangaluru
 
 ### 1. Priest, accused of sexually harassing minor boys, held
-Mangaluru police arrested St. Vincent Ferrer Church priest Siprian Pinto for alleged aggravated sexual assault on five 14-year-olds; a victim’s complaint of October 15 cites incidents from August 14, and four friends said they faced similar conduct after the group approached the Mangaluru Bishop. The case is registered under POCSO Sections 8 and 9 and BNS Section 75(2).
-_Sources: The Hindu Mangaluru p.4; News Trail Mangaluru p.3_
+Mangaluru police arrested St. Vincent Ferrer Church priest Siprian Pinto for alleged aggravated sexual assault on five 14-year-olds; after four friends described similar conduct, the victim and his parents approached the Mangaluru Bishop and, on his instructions, lodged a complaint on October 15 citing incidents from August 14. The case is registered under POCSO Sections 8 and 9 and BNS Section 75(2).
+_Sources: The Hindu Mangaluru PDF p.4 (printed p.2) — Priest, accused of sexually harassing minor boys, held; News Trail Mangaluru p.3 — Priest held after boys allege sexual harassment_
 
 ### 2. Emergency evacuation during temple fairs crucial
 Mangaluru cardiologist Dr Padmanabh Kamath urged mandatory emergency evacuation routes at crowded festivals after a man suffered cardiac arrest during Navaratri at Kudroli Gokarnanath Temple around 8.30 pm and relatives carried him on a motorcycle through the crowd; he underwent angioplasty and is stable.
@@ -15,7 +15,7 @@ _Sources: Deccan Herald Mangaluru p.2_
 
 ### 3. 690 pending applications related to birth, death certificates disposed of
 MCC disposed of 690 birth and death certificate applications in a October 14–17 drive after officials returned from Special Intensive Revision duty; Commissioner Rahul Rathnam Pandey said 217 people collected certificates by appointment and others may collect from the MCC cell at the head office.
-_Sources: The Hindu Mangaluru p.5_
+_Sources: The Hindu Mangaluru PDF p.5 (printed p.3)_
 
 ### 4. Food safety officials raid bakery in Mangaluru
 Acting on Health Minister U T Khader's instructions, district food safety officer Dr Praveen Kumar CH raided a bakery at Falnir Junction on Saturday and seized products lacking manufacture date, expiry, batch number and FSSAI licence details.
@@ -31,7 +31,7 @@ _Sources: Deccan Herald Mangaluru p.2_
 
 ### 1. Forest Department creating hurdles in implementing KUSUM-C scheme for farmers, MP complains to Shivakumar
 Udupi-Chikkamagaluru MP Kota Srinivas Poojary told CM D.K. Shivakumar that delay clearing acacia on 13, 7.5 and 10 acres in Byndoor, Brahmavara and Kapu taluks is holding up a ₹22 crore KUSUM-C solar project and risking withdrawal of 30% Central grant.
-_Sources: The Hindu Mangaluru p.5_
+_Sources: The Hindu Mangaluru PDF p.5 (printed p.3)_
 
 ### 2. Now, demand for a High Court bench at Udupi gains ground
 A Brahmavara meeting backed establishing a coastal High Court bench in Udupi, citing travel of nearly 1,000 km to Bengaluru and a population above 50 lakh across DK, Udupi and Uttara Kannada; advocate Prem Prasad Shetty welcomed the Karnataka HC chief justice's three-member feasibility committee.
